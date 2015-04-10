@@ -1,0 +1,3011 @@
+year,region_id,policy_id,policy_label,total
+2006,1,11,Justicia,391882914.00
+2006,1,13,Seguridad Ciudadana e Instituciones Penitenciarias,89111253.00
+2006,1,14,Política Exterior,70783188.00
+2006,1,21,Pensiones,74931331.00
+2006,1,23,Servicios Sociales y Promoción Social,1296838810.00
+2006,1,24,Fomento del Empleo,1009076736.00
+2006,1,26,Acceso a la Vivienda y Fomento de la Edificación,381955583.00
+2006,1,31,Sanidad,8101728443.00
+2006,1,32,Educación,5763302627.00
+2006,1,33,Cultura,414743924.00
+2006,1,41,"Agricultura, Pesca y Alimentación",2377784113.00
+2006,1,42,Industria y Energía,93421707.00
+2006,1,43,"Comercio, Turismo y Pymes",617044012.00
+2006,1,45,Infraestructuras,1924945676.00
+2006,1,46,"Investigación, Desarrollo e Innovación",384967669.00
+2006,1,49,Otras Actuaciones de Carácter Económico,261262688.00
+2006,1,91,Alta Dirección,100998698.00
+2006,1,92,Servicios de Carácter General,722605100.00
+2006,1,93,Administración Financiera y Tributaria,100049093.00
+2006,1,94,Transferencias a otras Administraciones Públicas,2024017764.00
+2006,1,95,Deuda Pública,1176950041.00
+2007,1,11,Justicia,412496217.00
+2007,1,13,Seguridad Ciudadana e Instituciones Penitenciarias,115330449.00
+2007,1,14,Política Exterior,84558589.00
+2007,1,21,Pensiones,54097260.00
+2007,1,23,Servicios Sociales y Promoción Social,1526223756.00
+2007,1,24,Fomento del Empleo,1060968460.00
+2007,1,26,Acceso a la Vivienda y Fomento de la Edificación,392426112.00
+2007,1,31,Sanidad,8648520931.00
+2007,1,32,Educación,6153509653.00
+2007,1,33,Cultura,436229816.00
+2007,1,41,"Agricultura, Pesca y Alimentación",2423348819.00
+2007,1,42,Industria y Energía,98991945.00
+2007,1,43,"Comercio, Turismo y Pymes",657863642.00
+2007,1,45,Infraestructuras,2060600296.00
+2007,1,46,"Investigación, Desarrollo e Innovación",442712981.00
+2007,1,49,Otras Actuaciones de Carácter Económico,284000499.00
+2007,1,91,Alta Dirección,106537429.00
+2007,1,92,Servicios de Carácter General,782296469.00
+2007,1,93,Administración Financiera y Tributaria,100885277.00
+2007,1,94,Transferencias a otras Administraciones Públicas,2159129406.00
+2007,1,95,Deuda Pública,1186992109.00
+2008,1,11,Justicia,446463018.00
+2008,1,13,Seguridad Ciudadana e Instituciones Penitenciarias,127771285.00
+2008,1,14,Política Exterior,111852161.00
+2008,1,21,Pensiones,51246230.00
+2008,1,23,Servicios Sociales y Promoción Social,1840650587.00
+2008,1,24,Fomento del Empleo,1131690232.00
+2008,1,26,Acceso a la Vivienda y Fomento de la Edificación,472983460.00
+2008,1,31,Sanidad,9475144543.00
+2008,1,32,Educación,6752456020.00
+2008,1,33,Cultura,474642128.00
+2008,1,41,"Agricultura, Pesca y Alimentación",2501296757.00
+2008,1,42,Industria y Energía,106812309.00
+2008,1,43,"Comercio, Turismo y Pymes",722434577.00
+2008,1,45,Infraestructuras,2332867147.00
+2008,1,46,"Investigación, Desarrollo e Innovación",520060324.00
+2008,1,49,Otras Actuaciones de Carácter Económico,348494873.00
+2008,1,91,Alta Dirección,116231408.00
+2008,1,92,Servicios de Carácter General,835470198.00
+2008,1,93,Administración Financiera y Tributaria,106770404.00
+2008,1,94,Transferencias a otras Administraciones Públicas,2303293524.00
+2008,1,95,Deuda Pública,1183164947.00
+2009,1,11,Justicia,460666995.00
+2009,1,13,Seguridad Ciudadana e Instituciones Penitenciarias,98250537.00
+2009,1,14,Política Exterior,117259994.00
+2009,1,21,Pensiones,50262105.00
+2009,1,23,Servicios Sociales y Promoción Social,1889553519.00
+2009,1,24,Fomento del Empleo,1119876943.00
+2009,1,26,Acceso a la Vivienda y Fomento de la Edificación,516113691.00
+2009,1,31,Sanidad,9736685219.00
+2009,1,32,Educación,7271836753.00
+2009,1,33,Cultura,527147158.00
+2009,1,41,"Agricultura, Pesca y Alimentación",2622746091.00
+2009,1,42,Industria y Energía,117104659.00
+2009,1,43,"Comercio, Turismo y Pymes",1061103830.00
+2009,1,45,Infraestructuras,2493034842.00
+2009,1,46,"Investigación, Desarrollo e Innovación",561141451.00
+2009,1,49,Otras Actuaciones de Carácter Económico,354316153.00
+2009,1,91,Alta Dirección,108374277.00
+2009,1,92,Servicios de Carácter General,896771293.00
+2009,1,93,Administración Financiera y Tributaria,141373339.00
+2009,1,94,Transferencias a otras Administraciones Públicas,2383648884.00
+2009,1,95,Deuda Pública,1236732310.00
+2010,1,11,Justicia,462144948.00
+2010,1,13,Seguridad Ciudadana e Instituciones Penitenciarias,97826152.00
+2010,1,14,Política Exterior,117042612.00
+2010,1,21,Pensiones,46105532.00
+2010,1,23,Servicios Sociales y Promoción Social,2150707116.00
+2010,1,24,Fomento del Empleo,1391464576.00
+2010,1,26,Acceso a la Vivienda y Fomento de la Edificación,421288904.00
+2010,1,31,Sanidad,9739268911.00
+2010,1,32,Educación,7337182276.00
+2010,1,33,Cultura,420548584.00
+2010,1,41,"Agricultura, Pesca y Alimentación",2464069555.00
+2010,1,42,Industria y Energía,132519546.00
+2010,1,43,"Comercio, Turismo y Pymes",930420096.00
+2010,1,45,Infraestructuras,2072319656.00
+2010,1,46,"Investigación, Desarrollo e Innovación",599678163.00
+2010,1,49,Otras Actuaciones de Carácter Económico,305504293.00
+2010,1,91,Alta Dirección,102559143.00
+2010,1,92,Servicios de Carácter General,790505620.00
+2010,1,93,Administración Financiera y Tributaria,122810398.00
+2010,1,94,Transferencias a otras Administraciones Públicas,2376520216.00
+2010,1,95,Deuda Pública,1657211714.00
+2011,1,11,Justicia,495715435.00
+2011,1,13,Seguridad Ciudadana e Instituciones Penitenciarias,115233970.00
+2011,1,14,Política Exterior,140000849.00
+2011,1,21,Pensiones,42071160.00
+2011,1,23,Servicios Sociales y Promoción Social,2145904378.00
+2011,1,24,Fomento del Empleo,1139014808.00
+2011,1,26,Acceso a la Vivienda y Fomento de la Edificación,132982170.00
+2011,1,31,Sanidad,9332507871.00
+2011,1,32,Educación,7039965605.00
+2011,1,33,Cultura,301752869.00
+2011,1,41,"Agricultura, Pesca y Alimentación",2364419117.00
+2011,1,42,Industria y Energía,133594932.00
+2011,1,43,"Comercio, Turismo y Pymes",483615068.00
+2011,1,45,Infraestructuras,1543339594.00
+2011,1,46,"Investigación, Desarrollo e Innovación",645089891.00
+2011,1,49,Otras Actuaciones de Carácter Económico,227605875.00
+2011,1,91,Alta Dirección,94780470.00
+2011,1,92,Servicios de Carácter General,461738332.00
+2011,1,93,Administración Financiera y Tributaria,100701614.00
+2011,1,94,Transferencias a otras Administraciones Públicas,2858116663.00
+2011,1,95,Deuda Pública,1884041393.00
+2012,1,11,Justicia,499620520.00
+2012,1,13,Seguridad Ciudadana e Instituciones Penitenciarias,116795755.00
+2012,1,14,Política Exterior,121620581.00
+2012,1,21,Pensiones,39660740.00
+2012,1,23,Servicios Sociales y Promoción Social,2253383283.00
+2012,1,24,Fomento del Empleo,1137870556.00
+2012,1,26,Acceso a la Vivienda y Fomento de la Edificación,136023803.00
+2012,1,31,Sanidad,9330045801.00
+2012,1,32,Educación,7191879041.00
+2012,1,33,Cultura,269885669.00
+2012,1,41,"Agricultura, Pesca y Alimentación",2339083749.00
+2012,1,42,Industria y Energía,106043815.00
+2012,1,43,"Comercio, Turismo y Pymes",443590048.00
+2012,1,45,Infraestructuras,1250264256.00
+2012,1,46,"Investigación, Desarrollo e Innovación",683636589.00
+2012,1,49,Otras Actuaciones de Carácter Económico,231984444.00
+2012,1,91,Alta Dirección,92863530.00
+2012,1,92,Servicios de Carácter General,463795407.00
+2012,1,93,Administración Financiera y Tributaria,104754002.00
+2012,1,94,Transferencias a otras Administraciones Públicas,2979067074.00
+2012,1,95,Deuda Pública,2228207053.00
+2013,1,11,Justicia,498307517.00
+2013,1,13,Seguridad Ciudadana e Instituciones Penitenciarias,55437258.00
+2013,1,14,Política Exterior,96013279.00
+2013,1,21,Pensiones,29229748.00
+2013,1,23,Servicios Sociales y Promoción Social,2010413716.00
+2013,1,24,Fomento del Empleo,629687364.00
+2013,1,26,Acceso a la Vivienda y Fomento de la Edificación,125705849.00
+2013,1,31,Sanidad,8384655968.00
+2013,1,32,Educación,6573354253.00
+2013,1,33,Cultura,219664000.00
+2013,1,41,"Agricultura, Pesca y Alimentación",2696319491.00
+2013,1,42,Industria y Energía,223397625.00
+2013,1,43,"Comercio, Turismo y Pymes",250206566.00
+2013,1,45,Infraestructuras,838992373.00
+2013,1,46,"Investigación, Desarrollo e Innovación",644562209.00
+2013,1,49,Otras Actuaciones de Carácter Económico,230312580.00
+2013,1,91,Alta Dirección,124376793.00
+2013,1,92,Servicios de Carácter General,405688349.00
+2013,1,93,Administración Financiera y Tributaria,100436819.00
+2013,1,94,Transferencias a otras Administraciones Públicas,2989063343.00
+2013,1,95,Deuda Pública,3580877726.00
+2006,2,11,Justicia,2067002.55
+2006,2,13,Seguridad Ciudadana e Instituciones Penitenciarias,11960196.72
+2006,2,14,Política Exterior,9370297.87
+2006,2,21,Pensiones,9788150.00
+2006,2,23,Servicios Sociales y Promoción Social,191228685.41
+2006,2,24,Fomento del Empleo,130724997.43
+2006,2,26,Acceso a la Vivienda y Fomento de la Edificación,69038093.29
+2006,2,31,Sanidad,1523964612.93
+2006,2,32,Educación,879006963.75
+2006,2,33,Cultura,80343366.03
+2006,2,41,"Agricultura, Pesca y Alimentación",744453401.97
+2006,2,42,Industria y Energía,43876733.41
+2006,2,43,"Comercio, Turismo y Pymes",53553613.39
+2006,2,45,Infraestructuras,369805907.11
+2006,2,46,"Investigación, Desarrollo e Innovación",43759216.41
+2006,2,49,Otras Actuaciones de Carácter Económico,11888143.12
+2006,2,91,Alta Dirección,29255449.05
+2006,2,92,Servicios de Carácter General,354694341.45
+2006,2,93,Administración Financiera y Tributaria,42931413.18
+2006,2,94,Transferencias a otras Administraciones Públicas,61687852.00
+2006,2,95,Deuda Pública,139113338.35
+2007,2,11,Justicia,2184166.07
+2007,2,13,Seguridad Ciudadana e Instituciones Penitenciarias,14665633.80
+2007,2,14,Política Exterior,9581320.32
+2007,2,21,Pensiones,10009000.00
+2007,2,23,Servicios Sociales y Promoción Social,225832509.96
+2007,2,24,Fomento del Empleo,135858553.48
+2007,2,26,Acceso a la Vivienda y Fomento de la Edificación,75312493.93
+2007,2,31,Sanidad,1634959121.82
+2007,2,32,Educación,957951235.04
+2007,2,33,Cultura,126797254.99
+2007,2,41,"Agricultura, Pesca y Alimentación",757100182.38
+2007,2,42,Industria y Energía,46435885.48
+2007,2,43,"Comercio, Turismo y Pymes",62291818.87
+2007,2,45,Infraestructuras,352312913.07
+2007,2,46,"Investigación, Desarrollo e Innovación",50667658.97
+2007,2,49,Otras Actuaciones de Carácter Económico,13281105.81
+2007,2,91,Alta Dirección,33753183.23
+2007,2,92,Servicios de Carácter General,340238758.78
+2007,2,93,Administración Financiera y Tributaria,105104781.20
+2007,2,94,Transferencias a otras Administraciones Públicas,61764832.50
+2007,2,95,Deuda Pública,146610597.17
+2008,2,11,Justicia,53722868.91
+2008,2,13,Seguridad Ciudadana e Instituciones Penitenciarias,14666100.88
+2008,2,14,Política Exterior,9993463.63
+2008,2,21,Pensiones,19420000.00
+2008,2,23,Servicios Sociales y Promoción Social,253688954.21
+2008,2,24,Fomento del Empleo,139293380.33
+2008,2,26,Acceso a la Vivienda y Fomento de la Edificación,78696244.85
+2008,2,31,Sanidad,1745462706.13
+2008,2,32,Educación,1027264990.80
+2008,2,33,Cultura,122066836.82
+2008,2,41,"Agricultura, Pesca y Alimentación",770315709.14
+2008,2,42,Industria y Energía,49083642.37
+2008,2,43,"Comercio, Turismo y Pymes",60183692.90
+2008,2,45,Infraestructuras,364747529.93
+2008,2,46,"Investigación, Desarrollo e Innovación",55462173.31
+2008,2,49,Otras Actuaciones de Carácter Económico,25483308.68
+2008,2,91,Alta Dirección,31079395.89
+2008,2,92,Servicios de Carácter General,427345384.19
+2008,2,93,Administración Financiera y Tributaria,115027713.53
+2008,2,94,Transferencias a otras Administraciones Públicas,61592105.00
+2008,2,95,Deuda Pública,143227792.05
+2009,2,11,Justicia,61782670.17
+2009,2,13,Seguridad Ciudadana e Instituciones Penitenciarias,14747417.47
+2009,2,14,Política Exterior,10740315.65
+2009,2,21,Pensiones,5900000.00
+2009,2,23,Servicios Sociales y Promoción Social,379438335.87
+2009,2,24,Fomento del Empleo,139919406.02
+2009,2,26,Acceso a la Vivienda y Fomento de la Edificación,77380796.98
+2009,2,31,Sanidad,1877919179.16
+2009,2,32,Educación,1059647423.54
+2009,2,33,Cultura,82946493.91
+2009,2,41,"Agricultura, Pesca y Alimentación",773097336.56
+2009,2,42,Industria y Energía,51051415.09
+2009,2,43,"Comercio, Turismo y Pymes",58387306.36
+2009,2,45,Infraestructuras,408843954.78
+2009,2,46,"Investigación, Desarrollo e Innovación",56935595.48
+2009,2,49,Otras Actuaciones de Carácter Económico,27278215.72
+2009,2,91,Alta Dirección,32594412.27
+2009,2,92,Servicios de Carácter General,391034599.79
+2009,2,93,Administración Financiera y Tributaria,122330893.48
+2009,2,94,Transferencias a otras Administraciones Públicas,62605986.00
+2009,2,95,Deuda Pública,143143473.72
+2010,2,11,Justicia,65553956.65
+2010,2,13,Seguridad Ciudadana e Instituciones Penitenciarias,11802936.32
+2010,2,14,Política Exterior,15489462.93
+2010,2,21,Pensiones,5500000.00
+2010,2,23,Servicios Sociales y Promoción Social,351679171.19
+2010,2,24,Fomento del Empleo,139036098.11
+2010,2,26,Acceso a la Vivienda y Fomento de la Edificación,80073575.60
+2010,2,31,Sanidad,1891612563.76
+2010,2,32,Educación,1055575428.04
+2010,2,33,Cultura,69242237.64
+2010,2,41,"Agricultura, Pesca y Alimentación",707762698.31
+2010,2,42,Industria y Energía,46898732.76
+2010,2,43,"Comercio, Turismo y Pymes",38168193.87
+2010,2,45,Infraestructuras,363428464.67
+2010,2,46,"Investigación, Desarrollo e Innovación",73355129.44
+2010,2,49,Otras Actuaciones de Carácter Económico,25086601.28
+2010,2,91,Alta Dirección,30723637.05
+2010,2,92,Servicios de Carácter General,283402936.39
+2010,2,93,Administración Financiera y Tributaria,98056122.84
+2010,2,94,Transferencias a otras Administraciones Públicas,55789901.72
+2010,2,95,Deuda Pública,312172123.94
+2011,2,11,Justicia,68772783.08
+2011,2,13,Seguridad Ciudadana e Instituciones Penitenciarias,10399674.87
+2011,2,14,Política Exterior,11824035.87
+2011,2,21,Pensiones,7417700.00
+2011,2,23,Servicios Sociales y Promoción Social,331055985.82
+2011,2,24,Fomento del Empleo,143115701.14
+2011,2,26,Acceso a la Vivienda y Fomento de la Edificación,58455395.67
+2011,2,31,Sanidad,1835146797.11
+2011,2,32,Educación,1005704252.03
+2011,2,33,Cultura,45763535.40
+2011,2,41,"Agricultura, Pesca y Alimentación",711391917.92
+2011,2,42,Industria y Energía,46449651.46
+2011,2,43,"Comercio, Turismo y Pymes",29404198.27
+2011,2,45,Infraestructuras,290878415.54
+2011,2,46,"Investigación, Desarrollo e Innovación",59891437.40
+2011,2,49,Otras Actuaciones de Carácter Económico,21391967.29
+2011,2,91,Alta Dirección,30844940.62
+2011,2,92,Servicios de Carácter General,173890620.64
+2011,2,93,Administración Financiera y Tributaria,94270828.12
+2011,2,94,Transferencias a otras Administraciones Públicas,47167700.00
+2011,2,95,Deuda Pública,270441818.98
+2012,2,11,Justicia,70300539.61
+2012,2,13,Seguridad Ciudadana e Instituciones Penitenciarias,8455878.67
+2012,2,14,Política Exterior,8810377.06
+2012,2,21,Pensiones,5706110.00
+2012,2,23,Servicios Sociales y Promoción Social,352283392.58
+2012,2,24,Fomento del Empleo,138503287.50
+2012,2,26,Acceso a la Vivienda y Fomento de la Edificación,54242597.80
+2012,2,31,Sanidad,1843931019.96
+2012,2,32,Educación,987561404.46
+2012,2,33,Cultura,32866456.23
+2012,2,41,"Agricultura, Pesca y Alimentación",724181508.60
+2012,2,42,Industria y Energía,35522363.13
+2012,2,43,"Comercio, Turismo y Pymes",18749764.23
+2012,2,45,Infraestructuras,242011785.49
+2012,2,46,"Investigación, Desarrollo e Innovación",54184440.01
+2012,2,49,Otras Actuaciones de Carácter Económico,20224154.93
+2012,2,91,Alta Dirección,26062049.79
+2012,2,92,Servicios de Carácter General,156589931.88
+2012,2,93,Administración Financiera y Tributaria,88802306.30
+2012,2,94,Transferencias a otras Administraciones Públicas,42501000.00
+2012,2,95,Deuda Pública,417150818.85
+2013,2,11,Justicia,78793947.46
+2013,2,13,Seguridad Ciudadana e Instituciones Penitenciarias,6413521.66
+2013,2,14,Política Exterior,5376132.74
+2013,2,21,Pensiones,5169500.00
+2013,2,23,Servicios Sociales y Promoción Social,301027016.10
+2013,2,24,Fomento del Empleo,91671191.21
+2013,2,26,Acceso a la Vivienda y Fomento de la Edificación,37594673.23
+2013,2,31,Sanidad,1605287407.92
+2013,2,32,Educación,886388021.20
+2013,2,33,Cultura,25236549.66
+2013,2,41,"Agricultura, Pesca y Alimentación",634574591.28
+2013,2,42,Industria y Energía,27711019.23
+2013,2,43,"Comercio, Turismo y Pymes",24343601.20
+2013,2,45,Infraestructuras,242085107.95
+2013,2,46,"Investigación, Desarrollo e Innovación",47604427.27
+2013,2,49,Otras Actuaciones de Carácter Económico,17515727.16
+2013,2,91,Alta Dirección,25131312.37
+2013,2,92,Servicios de Carácter General,142689713.41
+2013,2,93,Administración Financiera y Tributaria,90908811.30
+2013,2,94,Transferencias a otras Administraciones Públicas,55419838.90
+2013,2,95,Deuda Pública,756229117.33
+2006,3,11,Justicia,8576870.00
+2006,3,13,Seguridad Ciudadana e Instituciones Penitenciarias,26412042.00
+2006,3,14,Política Exterior,12385209.00
+2006,3,23,Servicios Sociales y Promoción Social,199705434.00
+2006,3,24,Fomento del Empleo,150886835.00
+2006,3,26,Acceso a la Vivienda y Fomento de la Edificación,73364960.00
+2006,3,29,Gestión y Administración de la Seguridad Social,2344523.00
+2006,3,31,Sanidad,1252547993.00
+2006,3,32,Educación,710140184.00
+2006,3,33,Cultura,117204078.00
+2006,3,41,"Agricultura, Pesca y Alimentación",180614852.00
+2006,3,42,Industria y Energía,74997472.00
+2006,3,43,"Comercio, Turismo y Pymes",32277935.00
+2006,3,45,Infraestructuras,375768052.00
+2006,3,46,"Investigación, Desarrollo e Innovación",28974801.00
+2006,3,49,Otras Actuaciones de Carácter Económico,44907541.00
+2006,3,91,Alta Dirección,21579709.00
+2006,3,92,Servicios de Carácter General,148821478.00
+2006,3,93,Administración Financiera y Tributaria,71798065.00
+2006,3,95,Deuda Pública,136600854.00
+2007,3,11,Justicia,24106951.00
+2007,3,13,Seguridad Ciudadana e Instituciones Penitenciarias,29517848.00
+2007,3,14,Política Exterior,14125719.00
+2007,3,23,Servicios Sociales y Promoción Social,242247186.00
+2007,3,24,Fomento del Empleo,162453980.00
+2007,3,26,Acceso a la Vivienda y Fomento de la Edificación,88388031.00
+2007,3,29,Gestión y Administración de la Seguridad Social,3175609.00
+2007,3,31,Sanidad,1325725954.00
+2007,3,32,Educación,780302104.00
+2007,3,33,Cultura,118862225.00
+2007,3,41,"Agricultura, Pesca y Alimentación",190292446.00
+2007,3,42,Industria y Energía,81779665.00
+2007,3,43,"Comercio, Turismo y Pymes",31727976.00
+2007,3,45,Infraestructuras,399445532.00
+2007,3,46,"Investigación, Desarrollo e Innovación",35851590.00
+2007,3,49,Otras Actuaciones de Carácter Económico,41858807.00
+2007,3,91,Alta Dirección,25873478.00
+2007,3,92,Servicios de Carácter General,169098885.00
+2007,3,93,Administración Financiera y Tributaria,73148228.00
+2007,3,95,Deuda Pública,138300000.00
+2008,3,11,Justicia,24766526.00
+2008,3,13,Seguridad Ciudadana e Instituciones Penitenciarias,28944327.00
+2008,3,14,Política Exterior,14466164.00
+2008,3,23,Servicios Sociales y Promoción Social,251123278.00
+2008,3,24,Fomento del Empleo,157494756.00
+2008,3,26,Acceso a la Vivienda y Fomento de la Edificación,62254950.00
+2008,3,29,Gestión y Administración de la Seguridad Social,2550029.00
+2008,3,31,Sanidad,1356892267.00
+2008,3,32,Educación,812364836.00
+2008,3,33,Cultura,93025439.00
+2008,3,41,"Agricultura, Pesca y Alimentación",184468051.00
+2008,3,42,Industria y Energía,85690341.00
+2008,3,43,"Comercio, Turismo y Pymes",31175264.00
+2008,3,45,Infraestructuras,363394525.00
+2008,3,46,"Investigación, Desarrollo e Innovación",45327642.00
+2008,3,49,Otras Actuaciones de Carácter Económico,37016590.00
+2008,3,91,Alta Dirección,31483205.00
+2008,3,92,Servicios de Carácter General,153914566.00
+2008,3,93,Administración Financiera y Tributaria,34696711.00
+2008,3,95,Deuda Pública,129300000.00
+2009,3,11,Justicia,34217148.00
+2009,3,13,Seguridad Ciudadana e Instituciones Penitenciarias,28882163.00
+2009,3,14,Política Exterior,15422118.00
+2009,3,23,Servicios Sociales y Promoción Social,326114369.00
+2009,3,24,Fomento del Empleo,176452697.00
+2009,3,26,Acceso a la Vivienda y Fomento de la Edificación,87026882.00
+2009,3,29,Gestión y Administración de la Seguridad Social,3247527.00
+2009,3,31,Sanidad,1548491576.00
+2009,3,32,Educación,844048209.00
+2009,3,33,Cultura,119458997.00
+2009,3,41,"Agricultura, Pesca y Alimentación",203036230.00
+2009,3,42,Industria y Energía,88972832.00
+2009,3,43,"Comercio, Turismo y Pymes",34213227.00
+2009,3,45,Infraestructuras,472419927.00
+2009,3,46,"Investigación, Desarrollo e Innovación",53736130.00
+2009,3,49,Otras Actuaciones de Carácter Económico,45502302.00
+2009,3,91,Alta Dirección,31746867.00
+2009,3,92,Servicios de Carácter General,201200553.00
+2009,3,93,Administración Financiera y Tributaria,48089031.00
+2009,3,95,Deuda Pública,130000000.00
+2010,3,11,Justicia,73051745.00
+2010,3,13,Seguridad Ciudadana e Instituciones Penitenciarias,25055663.00
+2010,3,14,Política Exterior,14851980.00
+2010,3,23,Servicios Sociales y Promoción Social,357511991.00
+2010,3,24,Fomento del Empleo,146501132.00
+2010,3,26,Acceso a la Vivienda y Fomento de la Edificación,70671096.00
+2010,3,29,Gestión y Administración de la Seguridad Social,3246506.00
+2010,3,31,Sanidad,1629215954.00
+2010,3,32,Educación,831275399.00
+2010,3,33,Cultura,95732562.00
+2010,3,41,"Agricultura, Pesca y Alimentación",201727014.00
+2010,3,42,Industria y Energía,75581178.00
+2010,3,43,"Comercio, Turismo y Pymes",28440933.00
+2010,3,45,Infraestructuras,468523115.00
+2010,3,46,"Investigación, Desarrollo e Innovación",52387360.00
+2010,3,49,Otras Actuaciones de Carácter Económico,41822060.00
+2010,3,91,Alta Dirección,30439390.00
+2010,3,92,Servicios de Carácter General,160512884.90
+2010,3,93,Administración Financiera y Tributaria,128550281.10
+2010,3,95,Deuda Pública,165000000.00
+2011,3,11,Justicia,61666805.00
+2011,3,13,Seguridad Ciudadana e Instituciones Penitenciarias,21705490.00
+2011,3,14,Política Exterior,14456972.00
+2011,3,23,Servicios Sociales y Promoción Social,351979187.00
+2011,3,24,Fomento del Empleo,145941293.00
+2011,3,26,Acceso a la Vivienda y Fomento de la Edificación,73712582.00
+2011,3,29,Gestión y Administración de la Seguridad Social,3350186.00
+2011,3,31,Sanidad,1541902001.00
+2011,3,32,Educación,783488102.00
+2011,3,33,Cultura,83321068.00
+2011,3,41,"Agricultura, Pesca y Alimentación",191058555.00
+2011,3,42,Industria y Energía,54746816.00
+2011,3,43,"Comercio, Turismo y Pymes",21324904.00
+2011,3,45,Infraestructuras,477146065.00
+2011,3,46,"Investigación, Desarrollo e Innovación",51396006.00
+2011,3,49,Otras Actuaciones de Carácter Económico,31945034.00
+2011,3,91,Alta Dirección,24754320.00
+2011,3,92,Servicios de Carácter General,140086447.00
+2011,3,93,Administración Financiera y Tributaria,73781598.00
+2011,3,95,Deuda Pública,212700000.00
+2012,3,11,Justicia,61666805.00
+2012,3,13,Seguridad Ciudadana e Instituciones Penitenciarias,21705490.00
+2012,3,14,Política Exterior,14456972.00
+2012,3,23,Servicios Sociales y Promoción Social,351949187.00
+2012,3,24,Fomento del Empleo,145941293.00
+2012,3,26,Acceso a la Vivienda y Fomento de la Edificación,73712582.00
+2012,3,29,Gestión y Administración de la Seguridad Social,3350186.00
+2012,3,31,Sanidad,1541902001.00
+2012,3,32,Educación,783488102.00
+2012,3,33,Cultura,83321068.00
+2012,3,41,"Agricultura, Pesca y Alimentación",191058555.00
+2012,3,42,Industria y Energía,54746816.00
+2012,3,43,"Comercio, Turismo y Pymes",21324904.00
+2012,3,45,Infraestructuras,477146065.00
+2012,3,46,"Investigación, Desarrollo e Innovación",51396006.00
+2012,3,49,Otras Actuaciones de Carácter Económico,31945034.00
+2012,3,91,Alta Dirección,24754320.00
+2012,3,92,Servicios de Carácter General,140086447.00
+2012,3,93,Administración Financiera y Tributaria,73781598.00
+2012,3,95,Deuda Pública,212700000.00
+2013,3,11,Justicia,51441512.00
+2013,3,13,Seguridad Ciudadana e Instituciones Penitenciarias,25866258.00
+2013,3,14,Política Exterior,5781240.00
+2013,3,23,Servicios Sociales y Promoción Social,338712232.00
+2013,3,24,Fomento del Empleo,85595896.00
+2013,3,26,Acceso a la Vivienda y Fomento de la Edificación,26818209.00
+2013,3,29,Gestión y Administración de la Seguridad Social,2843094.00
+2013,3,31,Sanidad,1476136408.00
+2013,3,32,Educación,715817736.00
+2013,3,33,Cultura,42798402.00
+2013,3,41,"Agricultura, Pesca y Alimentación",141674823.00
+2013,3,42,Industria y Energía,29665539.00
+2013,3,43,"Comercio, Turismo y Pymes",10199803.00
+2013,3,45,Infraestructuras,235735161.00
+2013,3,46,"Investigación, Desarrollo e Innovación",29467860.00
+2013,3,49,Otras Actuaciones de Carácter Económico,28472817.00
+2013,3,91,Alta Dirección,22042326.00
+2013,3,92,Servicios de Carácter General,121567764.00
+2013,3,93,Administración Financiera y Tributaria,30656103.00
+2013,3,95,Deuda Pública,382301300.00
+2006,4,11,Justicia,100000.00
+2006,4,13,Seguridad Ciudadana e Instituciones Penitenciarias,21826475.18
+2006,4,14,Política Exterior,17043694.00
+2006,4,21,Pensiones,9354002.01
+2006,4,23,Servicios Sociales y Promoción Social,52625718.81
+2006,4,24,Fomento del Empleo,90112699.00
+2006,4,26,Acceso a la Vivienda y Fomento de la Edificación,23725085.00
+2006,4,31,Sanidad,1029113828.00
+2006,4,32,Educación,640271037.00
+2006,4,33,Cultura,34313510.00
+2006,4,41,"Agricultura, Pesca y Alimentación",78039838.00
+2006,4,42,Industria y Energía,27240530.00
+2006,4,43,"Comercio, Turismo y Pymes",61106896.00
+2006,4,45,Infraestructuras,230523380.87
+2006,4,46,"Investigación, Desarrollo e Innovación",11683857.00
+2006,4,49,Otras Actuaciones de Carácter Económico,12195023.00
+2006,4,91,Alta Dirección,32761038.16
+2006,4,92,Servicios de Carácter General,77005258.00
+2006,4,93,Administración Financiera y Tributaria,16512030.00
+2006,4,94,Transferencias a otras Administraciones Públicas,147581643.00
+2006,4,95,Deuda Pública,105425832.06
+2007,4,11,Justicia,100000.00
+2007,4,13,Seguridad Ciudadana e Instituciones Penitenciarias,22886592.00
+2007,4,14,Política Exterior,17937030.00
+2007,4,21,Pensiones,16581883.00
+2007,4,23,Servicios Sociales y Promoción Social,73406609.00
+2007,4,24,Fomento del Empleo,91150310.00
+2007,4,26,Acceso a la Vivienda y Fomento de la Edificación,25105285.00
+2007,4,31,Sanidad,1086683500.00
+2007,4,32,Educación,679771649.00
+2007,4,33,Cultura,32017517.00
+2007,4,41,"Agricultura, Pesca y Alimentación",63682825.00
+2007,4,42,Industria y Energía,31954851.00
+2007,4,43,"Comercio, Turismo y Pymes",68690548.00
+2007,4,45,Infraestructuras,209939764.00
+2007,4,46,"Investigación, Desarrollo e Innovación",18229476.00
+2007,4,49,Otras Actuaciones de Carácter Económico,21513445.00
+2007,4,91,Alta Dirección,38052177.00
+2007,4,92,Servicios de Carácter General,116198466.00
+2007,4,93,Administración Financiera y Tributaria,15865615.00
+2007,4,94,Transferencias a otras Administraciones Públicas,157424132.00
+2007,4,95,Deuda Pública,112220924.00
+2008,4,11,Justicia,196643.00
+2008,4,13,Seguridad Ciudadana e Instituciones Penitenciarias,26055429.00
+2008,4,14,Política Exterior,19728586.00
+2008,4,21,Pensiones,12430016.00
+2008,4,23,Servicios Sociales y Promoción Social,87379851.00
+2008,4,24,Fomento del Empleo,95228519.00
+2008,4,26,Acceso a la Vivienda y Fomento de la Edificación,18708984.00
+2008,4,31,Sanidad,1197299958.00
+2008,4,32,Educación,780452136.00
+2008,4,33,Cultura,39324729.00
+2008,4,41,"Agricultura, Pesca y Alimentación",68830886.00
+2008,4,42,Industria y Energía,37704477.00
+2008,4,43,"Comercio, Turismo y Pymes",83763379.00
+2008,4,45,Infraestructuras,356355569.00
+2008,4,46,"Investigación, Desarrollo e Innovación",23395872.00
+2008,4,49,Otras Actuaciones de Carácter Económico,22560760.00
+2008,4,91,Alta Dirección,45063248.00
+2008,4,92,Servicios de Carácter General,114674603.00
+2008,4,93,Administración Financiera y Tributaria,15175976.00
+2008,4,94,Transferencias a otras Administraciones Públicas,170949829.00
+2008,4,95,Deuda Pública,112988593.00
+2009,4,11,Justicia,268173.00
+2009,4,13,Seguridad Ciudadana e Instituciones Penitenciarias,27409469.00
+2009,4,14,Política Exterior,19534675.00
+2009,4,21,Pensiones,8630649.00
+2009,4,23,Servicios Sociales y Promoción Social,106207784.00
+2009,4,24,Fomento del Empleo,101872802.00
+2009,4,26,Acceso a la Vivienda y Fomento de la Edificación,19926791.00
+2009,4,31,Sanidad,1257525633.00
+2009,4,32,Educación,826901316.00
+2009,4,33,Cultura,50482309.00
+2009,4,41,"Agricultura, Pesca y Alimentación",71445654.00
+2009,4,42,Industria y Energía,37897803.00
+2009,4,43,"Comercio, Turismo y Pymes",88702088.00
+2009,4,45,Infraestructuras,344664542.00
+2009,4,46,"Investigación, Desarrollo e Innovación",23770090.00
+2009,4,49,Otras Actuaciones de Carácter Económico,23402764.00
+2009,4,91,Alta Dirección,47318181.00
+2009,4,92,Servicios de Carácter General,115007023.00
+2009,4,93,Administración Financiera y Tributaria,22564432.00
+2009,4,94,Transferencias a otras Administraciones Públicas,193949840.00
+2009,4,95,Deuda Pública,177508930.00
+2010,4,11,Justicia,182278.00
+2010,4,13,Seguridad Ciudadana e Instituciones Penitenciarias,25123353.00
+2010,4,14,Política Exterior,12401337.00
+2010,4,21,Pensiones,16999000.00
+2010,4,23,Servicios Sociales y Promoción Social,99755352.00
+2010,4,24,Fomento del Empleo,93299917.00
+2010,4,26,Acceso a la Vivienda y Fomento de la Edificación,28753287.00
+2010,4,31,Sanidad,1176348618.00
+2010,4,32,Educación,802285735.00
+2010,4,33,Cultura,45198719.00
+2010,4,41,"Agricultura, Pesca y Alimentación",60932887.00
+2010,4,42,Industria y Energía,34645181.00
+2010,4,43,"Comercio, Turismo y Pymes",83961168.00
+2010,4,45,Infraestructuras,292209743.00
+2010,4,46,"Investigación, Desarrollo e Innovación",17414548.00
+2010,4,49,Otras Actuaciones de Carácter Económico,29692751.00
+2010,4,91,Alta Dirección,40274333.00
+2010,4,92,Servicios de Carácter General,149099933.00
+2010,4,93,Administración Financiera y Tributaria,20363820.00
+2010,4,94,Transferencias a otras Administraciones Públicas,195449840.00
+2010,4,95,Deuda Pública,171564628.00
+2011,4,11,Justicia,182278.00
+2011,4,13,Seguridad Ciudadana e Instituciones Penitenciarias,25123353.00
+2011,4,14,Política Exterior,12401337.00
+2011,4,21,Pensiones,16999000.00
+2011,4,23,Servicios Sociales y Promoción Social,99755352.00
+2011,4,24,Fomento del Empleo,93299917.00
+2011,4,26,Acceso a la Vivienda y Fomento de la Edificación,28753287.00
+2011,4,31,Sanidad,1176348618.00
+2011,4,32,Educación,802285735.00
+2011,4,33,Cultura,45198719.00
+2011,4,41,"Agricultura, Pesca y Alimentación",60932887.00
+2011,4,42,Industria y Energía,34645181.00
+2011,4,43,"Comercio, Turismo y Pymes",83961168.00
+2011,4,45,Infraestructuras,292209743.00
+2011,4,46,"Investigación, Desarrollo e Innovación",17414548.00
+2011,4,49,Otras Actuaciones de Carácter Económico,29692751.00
+2011,4,91,Alta Dirección,40274333.00
+2011,4,92,Servicios de Carácter General,149099933.00
+2011,4,93,Administración Financiera y Tributaria,20363820.00
+2011,4,94,Transferencias a otras Administraciones Públicas,195449840.00
+2011,4,95,Deuda Pública,171564628.00
+2012,4,11,Justicia,167737.00
+2012,4,13,Seguridad Ciudadana e Instituciones Penitenciarias,26031108.00
+2012,4,14,Política Exterior,12403318.00
+2012,4,21,Pensiones,12446009.00
+2012,4,23,Servicios Sociales y Promoción Social,84308141.00
+2012,4,24,Fomento del Empleo,62840453.00
+2012,4,26,Acceso a la Vivienda y Fomento de la Edificación,11616869.00
+2012,4,31,Sanidad,1222428088.00
+2012,4,32,Educación,742173127.00
+2012,4,33,Cultura,31441848.00
+2012,4,41,"Agricultura, Pesca y Alimentación",64536216.00
+2012,4,42,Industria y Energía,14686250.00
+2012,4,43,"Comercio, Turismo y Pymes",36010887.00
+2012,4,45,Infraestructuras,221666198.00
+2012,4,46,"Investigación, Desarrollo e Innovación",12210529.00
+2012,4,49,Otras Actuaciones de Carácter Económico,12931731.00
+2012,4,91,Alta Dirección,44004364.00
+2012,4,92,Servicios de Carácter General,104193344.00
+2012,4,93,Administración Financiera y Tributaria,16430842.00
+2012,4,94,Transferencias a otras Administraciones Públicas,185317575.00
+2012,4,95,Deuda Pública,772594088.00
+2013,4,11,Justicia,177416.00
+2013,4,13,Seguridad Ciudadana e Instituciones Penitenciarias,24820686.00
+2013,4,14,Política Exterior,2790123.00
+2013,4,21,Pensiones,22113671.00
+2013,4,23,Servicios Sociales y Promoción Social,95579800.00
+2013,4,24,Fomento del Empleo,43357146.00
+2013,4,26,Acceso a la Vivienda y Fomento de la Edificación,7769592.00
+2013,4,31,Sanidad,1174091182.00
+2013,4,32,Educación,724741897.00
+2013,4,33,Cultura,29921515.00
+2013,4,41,"Agricultura, Pesca y Alimentación",57693319.00
+2013,4,42,Industria y Energía,9142172.00
+2013,4,43,"Comercio, Turismo y Pymes",32939881.00
+2013,4,45,Infraestructuras,228429243.00
+2013,4,46,"Investigación, Desarrollo e Innovación",8509668.00
+2013,4,49,Otras Actuaciones de Carácter Económico,11249593.00
+2013,4,91,Alta Dirección,36404299.20
+2013,4,92,Servicios de Carácter General,96648540.00
+2013,4,93,Administración Financiera y Tributaria,14393639.00
+2013,4,94,Transferencias a otras Administraciones Públicas,184315045.00
+2013,4,95,Deuda Pública,793249112.00
+2006,5,11,Justicia,131615662.00
+2006,5,13,Seguridad Ciudadana e Instituciones Penitenciarias,27045697.00
+2006,5,14,Política Exterior,21020721.00
+2006,5,21,Pensiones,7622000.00
+2006,5,23,Servicios Sociales y Promoción Social,267028251.00
+2006,5,24,Fomento del Empleo,242385412.00
+2006,5,26,Acceso a la Vivienda y Fomento de la Edificación,122297035.00
+2006,5,31,Sanidad,2459589436.00
+2006,5,32,Educación,1529256766.00
+2006,5,33,Cultura,70604604.00
+2006,5,41,"Agricultura, Pesca y Alimentación",134756979.00
+2006,5,42,Industria y Energía,34374004.00
+2006,5,43,"Comercio, Turismo y Pymes",77378404.00
+2006,5,44,Subvenciones al Transporte,72708760.00
+2006,5,45,Infraestructuras,475522219.00
+2006,5,46,"Investigación, Desarrollo e Innovación",49135837.00
+2006,5,49,Otras Actuaciones de Carácter Económico,37195416.00
+2006,5,91,Alta Dirección,38612164.00
+2006,5,92,Servicios de Carácter General,175751822.00
+2006,5,93,Administración Financiera y Tributaria,60942738.00
+2006,5,94,Transferencias a otras Administraciones Públicas,171494063.00
+2006,5,95,Deuda Pública,140964752.00
+2007,5,11,Justicia,151201651.00
+2007,5,13,Seguridad Ciudadana e Instituciones Penitenciarias,29080622.00
+2007,5,14,Política Exterior,25749169.00
+2007,5,21,Pensiones,8601320.00
+2007,5,23,Servicios Sociales y Promoción Social,311304733.00
+2007,5,24,Fomento del Empleo,250447744.00
+2007,5,26,Acceso a la Vivienda y Fomento de la Edificación,130560775.00
+2007,5,31,Sanidad,2502593021.00
+2007,5,32,Educación,1608201757.00
+2007,5,33,Cultura,78404070.00
+2007,5,41,"Agricultura, Pesca y Alimentación",142362635.00
+2007,5,42,Industria y Energía,38821006.00
+2007,5,43,"Comercio, Turismo y Pymes",78763103.00
+2007,5,44,Subvenciones al Transporte,93261252.00
+2007,5,45,Infraestructuras,577713367.00
+2007,5,46,"Investigación, Desarrollo e Innovación",53268282.00
+2007,5,49,Otras Actuaciones de Carácter Económico,40916984.00
+2007,5,91,Alta Dirección,41776413.00
+2007,5,92,Servicios de Carácter General,199605557.00
+2007,5,93,Administración Financiera y Tributaria,58517835.00
+2007,5,94,Transferencias a otras Administraciones Públicas,176020860.00
+2007,5,95,Deuda Pública,315403600.00
+2008,5,11,Justicia,163344822.00
+2008,5,13,Seguridad Ciudadana e Instituciones Penitenciarias,33390525.00
+2008,5,14,Política Exterior,21927702.00
+2008,5,21,Pensiones,7850660.00
+2008,5,23,Servicios Sociales y Promoción Social,338221166.00
+2008,5,24,Fomento del Empleo,262345674.00
+2008,5,26,Acceso a la Vivienda y Fomento de la Edificación,140036314.00
+2008,5,31,Sanidad,2786958096.00
+2008,5,32,Educación,1714836813.00
+2008,5,33,Cultura,85401635.00
+2008,5,41,"Agricultura, Pesca y Alimentación",145437311.00
+2008,5,42,Industria y Energía,44241079.00
+2008,5,43,"Comercio, Turismo y Pymes",86819806.00
+2008,5,45,Infraestructuras,727276006.00
+2008,5,46,"Investigación, Desarrollo e Innovación",66575788.00
+2008,5,49,Otras Actuaciones de Carácter Económico,39642770.00
+2008,5,91,Alta Dirección,45104632.00
+2008,5,92,Servicios de Carácter General,247703604.00
+2008,5,93,Administración Financiera y Tributaria,66673223.00
+2008,5,94,Transferencias a otras Administraciones Públicas,534690357.00
+2008,5,95,Deuda Pública,269658098.00
+2009,5,11,Justicia,158060041.00
+2009,5,13,Seguridad Ciudadana e Instituciones Penitenciarias,35916731.00
+2009,5,14,Política Exterior,19747853.00
+2009,5,21,Pensiones,7850660.00
+2009,5,23,Servicios Sociales y Promoción Social,295812794.00
+2009,5,24,Fomento del Empleo,268458929.00
+2009,5,26,Acceso a la Vivienda y Fomento de la Edificación,130317457.00
+2009,5,31,Sanidad,2914879984.00
+2009,5,32,Educación,1748016219.00
+2009,5,33,Cultura,60191233.00
+2009,5,41,"Agricultura, Pesca y Alimentación",138368537.00
+2009,5,42,Industria y Energía,43305547.00
+2009,5,43,"Comercio, Turismo y Pymes",81126526.00
+2009,5,45,Infraestructuras,612831210.00
+2009,5,46,"Investigación, Desarrollo e Innovación",121829266.00
+2009,5,49,Otras Actuaciones de Carácter Económico,11935558.00
+2009,5,91,Alta Dirección,40603112.00
+2009,5,92,Servicios de Carácter General,225697546.00
+2009,5,93,Administración Financiera y Tributaria,66808907.00
+2009,5,94,Transferencias a otras Administraciones Públicas,716877051.00
+2009,5,95,Deuda Pública,226666199.00
+2010,5,11,Justicia,151735603.00
+2010,5,13,Seguridad Ciudadana e Instituciones Penitenciarias,33964789.00
+2010,5,14,Política Exterior,37807550.00
+2010,5,21,Pensiones,7850660.00
+2010,5,23,Servicios Sociales y Promoción Social,302321625.00
+2010,5,24,Fomento del Empleo,343504299.00
+2010,5,26,Acceso a la Vivienda y Fomento de la Edificación,125846928.00
+2010,5,31,Sanidad,2843625502.00
+2010,5,32,Educación,1714631521.00
+2010,5,33,Cultura,58316564.00
+2010,5,41,"Agricultura, Pesca y Alimentación",114890759.00
+2010,5,42,Industria y Energía,44961976.00
+2010,5,43,"Comercio, Turismo y Pymes",64025940.00
+2010,5,45,Infraestructuras,613628903.00
+2010,5,46,"Investigación, Desarrollo e Innovación",122970238.00
+2010,5,49,Otras Actuaciones de Carácter Económico,13594439.00
+2010,5,91,Alta Dirección,37525328.00
+2010,5,92,Servicios de Carácter General,173888695.00
+2010,5,93,Administración Financiera y Tributaria,64015196.00
+2010,5,94,Transferencias a otras Administraciones Públicas,610628654.00
+2010,5,95,Deuda Pública,729759324.00
+2011,5,11,Justicia,129388363.00
+2011,5,13,Seguridad Ciudadana e Instituciones Penitenciarias,25290786.00
+2011,5,14,Política Exterior,16420596.00
+2011,5,21,Pensiones,7850660.00
+2011,5,23,Servicios Sociales y Promoción Social,266287042.00
+2011,5,24,Fomento del Empleo,324025257.00
+2011,5,26,Acceso a la Vivienda y Fomento de la Edificación,76781603.00
+2011,5,31,Sanidad,2527197513.00
+2011,5,32,Educación,1591495061.00
+2011,5,33,Cultura,48852466.00
+2011,5,41,"Agricultura, Pesca y Alimentación",100253162.00
+2011,5,42,Industria y Energía,27773931.00
+2011,5,43,"Comercio, Turismo y Pymes",79477176.00
+2011,5,44,Subvenciones al Transporte,48578311.00
+2011,5,45,Infraestructuras,373484484.00
+2011,5,46,"Investigación, Desarrollo e Innovación",111322791.00
+2011,5,49,Otras Actuaciones de Carácter Económico,34491435.00
+2011,5,91,Alta Dirección,46426913.00
+2011,5,92,Servicios de Carácter General,114404800.00
+2011,5,93,Administración Financiera y Tributaria,74433768.00
+2011,5,94,Transferencias a otras Administraciones Públicas,595794360.00
+2011,5,95,Deuda Pública,394855554.00
+2012,5,11,Justicia,165762186.00
+2012,5,13,Seguridad Ciudadana e Instituciones Penitenciarias,27278448.00
+2012,5,14,Política Exterior,13746145.00
+2012,5,21,Pensiones,5129708.00
+2012,5,23,Servicios Sociales y Promoción Social,268754967.00
+2012,5,24,Fomento del Empleo,291010292.00
+2012,5,26,Acceso a la Vivienda y Fomento de la Edificación,68730520.00
+2012,5,31,Sanidad,2593199880.00
+2012,5,32,Educación,1597879472.00
+2012,5,33,Cultura,34755277.00
+2012,5,41,"Agricultura, Pesca y Alimentación",98157330.00
+2012,5,42,Industria y Energía,30620258.00
+2012,5,43,"Comercio, Turismo y Pymes",97318477.00
+2012,5,44,Subvenciones al Transporte,64008387.00
+2012,5,45,Infraestructuras,368048833.00
+2012,5,46,"Investigación, Desarrollo e Innovación",89039242.00
+2012,5,49,Otras Actuaciones de Carácter Económico,29033200.00
+2012,5,91,Alta Dirección,29790482.00
+2012,5,92,Servicios de Carácter General,132953437.00
+2012,5,93,Administración Financiera y Tributaria,53235956.00
+2012,5,94,Transferencias a otras Administraciones Públicas,713210933.00
+2012,5,95,Deuda Pública,664360000.00
+2013,5,11,Justicia,146983627.00
+2013,5,13,Seguridad Ciudadana e Instituciones Penitenciarias,24936337.00
+2013,5,14,Política Exterior,5566293.00
+2013,5,21,Pensiones,4235000.00
+2013,5,23,Servicios Sociales y Promoción Social,251280999.00
+2013,5,24,Fomento del Empleo,156470960.00
+2013,5,26,Acceso a la Vivienda y Fomento de la Edificación,49604494.00
+2013,5,31,Sanidad,2565999724.00
+2013,5,32,Educación,1462118666.00
+2013,5,33,Cultura,22054926.00
+2013,5,41,"Agricultura, Pesca y Alimentación",55241056.00
+2013,5,42,Industria y Energía,15801599.00
+2013,5,43,"Comercio, Turismo y Pymes",68351090.00
+2013,5,44,Subvenciones al Transporte,65377271.00
+2013,5,45,Infraestructuras,349089865.00
+2013,5,46,"Investigación, Desarrollo e Innovación",54752089.00
+2013,5,49,Otras Actuaciones de Carácter Económico,31692241.00
+2013,5,91,Alta Dirección,33606672.00
+2013,5,92,Servicios de Carácter General,113089395.00
+2013,5,93,Administración Financiera y Tributaria,58042257.00
+2013,5,94,Transferencias a otras Administraciones Públicas,703754084.00
+2013,5,95,Deuda Pública,564250000.00
+2006,6,11,Justicia,900694.00
+2006,6,13,Seguridad Ciudadana e Instituciones Penitenciarias,9356767.00
+2006,6,14,Política Exterior,7043926.00
+2006,6,21,Pensiones,2300000.00
+2006,6,23,Servicios Sociales y Promoción Social,121583243.00
+2006,6,24,Fomento del Empleo,58340000.00
+2006,6,26,Acceso a la Vivienda y Fomento de la Edificación,28407107.00
+2006,6,31,Sanidad,677775081.00
+2006,6,32,Educación,423331000.00
+2006,6,33,Cultura,50427970.00
+2006,6,41,"Agricultura, Pesca y Alimentación",90994896.00
+2006,6,42,Industria y Energía,41473428.00
+2006,6,43,"Comercio, Turismo y Pymes",29964502.00
+2006,6,45,Infraestructuras,331739530.00
+2006,6,46,"Investigación, Desarrollo e Innovación",37784203.00
+2006,6,49,Otras Actuaciones de Carácter Económico,23247317.00
+2006,6,91,Alta Dirección,19908502.00
+2006,6,92,Servicios de Carácter General,26102031.00
+2006,6,93,Administración Financiera y Tributaria,15320797.00
+2006,6,95,Deuda Pública,86454763.00
+2007,6,11,Justicia,625900.00
+2007,6,13,Seguridad Ciudadana e Instituciones Penitenciarias,10403404.00
+2007,6,14,Política Exterior,7809251.00
+2007,6,21,Pensiones,4275000.00
+2007,6,23,Servicios Sociales y Promoción Social,137746015.00
+2007,6,24,Fomento del Empleo,61840400.00
+2007,6,26,Acceso a la Vivienda y Fomento de la Edificación,33355191.00
+2007,6,31,Sanidad,724164611.00
+2007,6,32,Educación,465638738.00
+2007,6,33,Cultura,55378846.00
+2007,6,41,"Agricultura, Pesca y Alimentación",94990656.00
+2007,6,42,Industria y Energía,43406547.00
+2007,6,43,"Comercio, Turismo y Pymes",32275485.00
+2007,6,45,Infraestructuras,351845065.00
+2007,6,46,"Investigación, Desarrollo e Innovación",27361474.00
+2007,6,49,Otras Actuaciones de Carácter Económico,25566722.00
+2007,6,91,Alta Dirección,21770187.00
+2007,6,92,Servicios de Carácter General,27229954.00
+2007,6,93,Administración Financiera y Tributaria,16896725.00
+2007,6,95,Deuda Pública,59515437.00
+2008,6,11,Justicia,29240284.00
+2008,6,13,Seguridad Ciudadana e Instituciones Penitenciarias,13182020.00
+2008,6,14,Política Exterior,8175778.00
+2008,6,21,Pensiones,4215000.00
+2008,6,23,Servicios Sociales y Promoción Social,160566715.00
+2008,6,24,Fomento del Empleo,69299714.00
+2008,6,26,Acceso a la Vivienda y Fomento de la Edificación,38251072.00
+2008,6,31,Sanidad,752294076.00
+2008,6,32,Educación,508161985.00
+2008,6,33,Cultura,58536793.00
+2008,6,41,"Agricultura, Pesca y Alimentación",102102966.00
+2008,6,42,Industria y Energía,58077268.00
+2008,6,43,"Comercio, Turismo y Pymes",38088855.00
+2008,6,45,Infraestructuras,364272623.00
+2008,6,46,"Investigación, Desarrollo e Innovación",12381300.00
+2008,6,49,Otras Actuaciones de Carácter Económico,24344273.00
+2008,6,91,Alta Dirección,14631541.00
+2008,6,92,Servicios de Carácter General,38418392.00
+2008,6,93,Administración Financiera y Tributaria,28203176.00
+2008,6,95,Deuda Pública,87001220.00
+2009,6,11,Justicia,33239994.00
+2009,6,13,Seguridad Ciudadana e Instituciones Penitenciarias,13912834.00
+2009,6,14,Política Exterior,8340268.00
+2009,6,21,Pensiones,4165000.00
+2009,6,23,Servicios Sociales y Promoción Social,183279183.00
+2009,6,24,Fomento del Empleo,70688555.00
+2009,6,26,Acceso a la Vivienda y Fomento de la Edificación,39492714.00
+2009,6,31,Sanidad,789426401.00
+2009,6,32,Educación,533420684.00
+2009,6,33,Cultura,59861559.00
+2009,6,41,"Agricultura, Pesca y Alimentación",103967088.00
+2009,6,42,Industria y Energía,58227317.00
+2009,6,43,"Comercio, Turismo y Pymes",40235660.00
+2009,6,45,Infraestructuras,371739192.00
+2009,6,46,"Investigación, Desarrollo e Innovación",12723933.00
+2009,6,49,Otras Actuaciones de Carácter Económico,25091371.00
+2009,6,91,Alta Dirección,14768900.00
+2009,6,92,Servicios de Carácter General,37162105.00
+2009,6,93,Administración Financiera y Tributaria,28105749.00
+2009,6,95,Deuda Pública,67180000.00
+2010,6,11,Justicia,33535133.00
+2010,6,13,Seguridad Ciudadana e Instituciones Penitenciarias,13950270.00
+2010,6,14,Política Exterior,7706102.00
+2010,6,21,Pensiones,3310000.00
+2010,6,23,Servicios Sociales y Promoción Social,206486505.00
+2010,6,24,Fomento del Empleo,76297004.00
+2010,6,26,Acceso a la Vivienda y Fomento de la Edificación,33015083.00
+2010,6,31,Sanidad,793985030.00
+2010,6,32,Educación,549212120.00
+2010,6,33,Cultura,52584704.00
+2010,6,41,"Agricultura, Pesca y Alimentación",90610649.00
+2010,6,42,Industria y Energía,49292860.00
+2010,6,43,"Comercio, Turismo y Pymes",36596312.00
+2010,6,45,Infraestructuras,334519496.00
+2010,6,46,"Investigación, Desarrollo e Innovación",9956512.00
+2010,6,49,Otras Actuaciones de Carácter Económico,20673274.00
+2010,6,91,Alta Dirección,14504569.00
+2010,6,92,Servicios de Carácter General,30445724.00
+2010,6,93,Administración Financiera y Tributaria,28665367.00
+2010,6,95,Deuda Pública,74000000.00
+2011,6,11,Justicia,32748360.00
+2011,6,13,Seguridad Ciudadana e Instituciones Penitenciarias,13136163.00
+2011,6,14,Política Exterior,6080284.00
+2011,6,21,Pensiones,3290000.00
+2011,6,23,Servicios Sociales y Promoción Social,218860618.00
+2011,6,24,Fomento del Empleo,67835865.00
+2011,6,26,Acceso a la Vivienda y Fomento de la Edificación,28157180.00
+2011,6,31,Sanidad,729747286.00
+2011,6,32,Educación,513685465.00
+2011,6,33,Cultura,42892539.00
+2011,6,41,"Agricultura, Pesca y Alimentación",77884632.00
+2011,6,42,Industria y Energía,27701523.00
+2011,6,43,"Comercio, Turismo y Pymes",29966606.00
+2011,6,45,Infraestructuras,292407863.00
+2011,6,46,"Investigación, Desarrollo e Innovación",7335085.00
+2011,6,49,Otras Actuaciones de Carácter Económico,18456088.00
+2011,6,91,Alta Dirección,13296007.00
+2011,6,92,Servicios de Carácter General,28339171.00
+2011,6,93,Administración Financiera y Tributaria,29172939.00
+2011,6,95,Deuda Pública,217150000.00
+2012,6,11,Justicia,31644887.00
+2012,6,13,Seguridad Ciudadana e Instituciones Penitenciarias,12062443.00
+2012,6,14,Política Exterior,5491933.00
+2012,6,21,Pensiones,116000.00
+2012,6,23,Servicios Sociales y Promoción Social,219756531.00
+2012,6,24,Fomento del Empleo,74279632.00
+2012,6,26,Acceso a la Vivienda y Fomento de la Edificación,27996526.00
+2012,6,31,Sanidad,753697282.00
+2012,6,32,Educación,513827542.00
+2012,6,33,Cultura,39481742.00
+2012,6,41,"Agricultura, Pesca y Alimentación",65311721.00
+2012,6,42,Industria y Energía,33863931.00
+2012,6,43,"Comercio, Turismo y Pymes",25433147.00
+2012,6,45,Infraestructuras,269393129.00
+2012,6,46,"Investigación, Desarrollo e Innovación",13916939.00
+2012,6,49,Otras Actuaciones de Carácter Económico,18017844.00
+2012,6,91,Alta Dirección,10392099.00
+2012,6,92,Servicios de Carácter General,44513143.00
+2012,6,93,Administración Financiera y Tributaria,40620107.00
+2012,6,95,Deuda Pública,240657500.00
+2013,6,11,Justicia,28298056.00
+2013,6,13,Seguridad Ciudadana e Instituciones Penitenciarias,10749781.00
+2013,6,14,Política Exterior,1720196.00
+2013,6,21,Pensiones,95000.00
+2013,6,23,Servicios Sociales y Promoción Social,211921372.00
+2013,6,24,Fomento del Empleo,69663977.00
+2013,6,26,Acceso a la Vivienda y Fomento de la Edificación,19167287.00
+2013,6,31,Sanidad,773156236.00
+2013,6,32,Educación,477665018.00
+2013,6,33,Cultura,24691695.00
+2013,6,41,"Agricultura, Pesca y Alimentación",50890292.00
+2013,6,42,Industria y Energía,26734744.00
+2013,6,43,"Comercio, Turismo y Pymes",13628586.00
+2013,6,45,Infraestructuras,215202036.00
+2013,6,46,"Investigación, Desarrollo e Innovación",13677828.00
+2013,6,49,Otras Actuaciones de Carácter Económico,22313589.00
+2013,6,91,Alta Dirección,8728098.00
+2013,6,92,Servicios de Carácter General,28895097.00
+2013,6,93,Administración Financiera y Tributaria,14714410.00
+2013,6,95,Deuda Pública,281287500.00
+2006,7,11,Justicia,614594.00
+2006,7,13,Seguridad Ciudadana e Instituciones Penitenciarias,13640341.00
+2006,7,14,Política Exterior,1973479.00
+2006,7,21,Pensiones,126600000.00
+2006,7,23,Servicios Sociales y Promoción Social,545290845.00
+2006,7,24,Fomento del Empleo,270897210.00
+2006,7,26,Acceso a la Vivienda y Fomento de la Edificación,130692387.00
+2006,7,31,Sanidad,2820827683.00
+2006,7,32,Educación,1841121100.00
+2006,7,33,Cultura,168713116.00
+2006,7,41,"Agricultura, Pesca y Alimentación",1445144085.00
+2006,7,42,Industria y Energía,131221514.00
+2006,7,43,"Comercio, Turismo y Pymes",79352380.00
+2006,7,45,Infraestructuras,771573167.00
+2006,7,46,"Investigación, Desarrollo e Innovación",206469424.00
+2006,7,49,Otras Actuaciones de Carácter Económico,48651539.00
+2006,7,91,Alta Dirección,50575139.00
+2006,7,92,Servicios de Carácter General,118871301.00
+2006,7,93,Administración Financiera y Tributaria,29505583.00
+2006,7,94,Transferencias a otras Administraciones Públicas,91391606.00
+2006,7,95,Deuda Pública,141497684.00
+2007,7,11,Justicia,327682.00
+2007,7,13,Seguridad Ciudadana e Instituciones Penitenciarias,11732971.00
+2007,7,14,Política Exterior,2133985.00
+2007,7,21,Pensiones,126000000.00
+2007,7,23,Servicios Sociales y Promoción Social,614642323.00
+2007,7,24,Fomento del Empleo,292985036.00
+2007,7,26,Acceso a la Vivienda y Fomento de la Edificación,145705867.00
+2007,7,31,Sanidad,3018775148.00
+2007,7,32,Educación,1970256786.00
+2007,7,33,Cultura,181711381.00
+2007,7,41,"Agricultura, Pesca y Alimentación",1483480313.00
+2007,7,42,Industria y Energía,139441092.00
+2007,7,43,"Comercio, Turismo y Pymes",81379796.00
+2007,7,45,Infraestructuras,806988490.00
+2007,7,46,"Investigación, Desarrollo e Innovación",226299501.00
+2007,7,49,Otras Actuaciones de Carácter Económico,51257600.00
+2007,7,91,Alta Dirección,53096147.00
+2007,7,92,Servicios de Carácter General,127453142.00
+2007,7,93,Administración Financiera y Tributaria,30049184.00
+2007,7,94,Transferencias a otras Administraciones Públicas,99992277.00
+2007,7,95,Deuda Pública,188743801.00
+2008,7,11,Justicia,499305.00
+2008,7,13,Seguridad Ciudadana e Instituciones Penitenciarias,13259103.00
+2008,7,14,Política Exterior,1079139.00
+2008,7,21,Pensiones,126000000.00
+2008,7,23,Servicios Sociales y Promoción Social,698384886.00
+2008,7,24,Fomento del Empleo,309041189.00
+2008,7,26,Acceso a la Vivienda y Fomento de la Edificación,158488078.00
+2008,7,31,Sanidad,3290429941.00
+2008,7,32,Educación,2115668189.00
+2008,7,33,Cultura,192078676.00
+2008,7,41,"Agricultura, Pesca y Alimentación",1550737613.00
+2008,7,42,Industria y Energía,112001243.00
+2008,7,43,"Comercio, Turismo y Pymes",85177873.00
+2008,7,45,Infraestructuras,846578332.00
+2008,7,46,"Investigación, Desarrollo e Innovación",287646598.00
+2008,7,49,Otras Actuaciones de Carácter Económico,54727320.00
+2008,7,91,Alta Dirección,56650742.00
+2008,7,92,Servicios de Carácter General,156517761.00
+2008,7,93,Administración Financiera y Tributaria,39500364.00
+2008,7,94,Transferencias a otras Administraciones Públicas,109429294.00
+2008,7,95,Deuda Pública,180345449.00
+2009,7,11,Justicia,856654.00
+2009,7,13,Seguridad Ciudadana e Instituciones Penitenciarias,13120788.00
+2009,7,21,Pensiones,126000000.00
+2009,7,23,Servicios Sociales y Promoción Social,749277499.00
+2009,7,24,Fomento del Empleo,311367959.00
+2009,7,26,Acceso a la Vivienda y Fomento de la Edificación,145165575.00
+2009,7,31,Sanidad,3376316152.00
+2009,7,32,Educación,2160552060.00
+2009,7,33,Cultura,192171975.00
+2009,7,41,"Agricultura, Pesca y Alimentación",1571427603.00
+2009,7,42,Industria y Energía,108845543.00
+2009,7,43,"Comercio, Turismo y Pymes",86447500.00
+2009,7,45,Infraestructuras,847627926.00
+2009,7,46,"Investigación, Desarrollo e Innovación",212448899.00
+2009,7,49,Otras Actuaciones de Carácter Económico,135023447.00
+2009,7,91,Alta Dirección,46152222.00
+2009,7,92,Servicios de Carácter General,153736072.00
+2009,7,93,Administración Financiera y Tributaria,39044458.00
+2009,7,94,Transferencias a otras Administraciones Públicas,116457816.00
+2009,7,95,Deuda Pública,192501554.00
+2010,7,11,Justicia,851747.00
+2010,7,13,Seguridad Ciudadana e Instituciones Penitenciarias,12992982.00
+2010,7,21,Pensiones,126000000.00
+2010,7,23,Servicios Sociales y Promoción Social,763495630.00
+2010,7,24,Fomento del Empleo,313366102.00
+2010,7,26,Acceso a la Vivienda y Fomento de la Edificación,114877323.00
+2010,7,31,Sanidad,3488095968.00
+2010,7,32,Educación,2172712304.00
+2010,7,33,Cultura,163311852.00
+2010,7,41,"Agricultura, Pesca y Alimentación",1543797019.00
+2010,7,42,Industria y Energía,111605521.00
+2010,7,43,"Comercio, Turismo y Pymes",72298009.00
+2010,7,45,Infraestructuras,677896669.00
+2010,7,46,"Investigación, Desarrollo e Innovación",214851137.00
+2010,7,49,Otras Actuaciones de Carácter Económico,132559002.00
+2010,7,91,Alta Dirección,44352159.00
+2010,7,92,Servicios de Carácter General,135710275.00
+2010,7,93,Administración Financiera y Tributaria,35674713.00
+2010,7,94,Transferencias a otras Administraciones Públicas,130487799.00
+2010,7,95,Deuda Pública,320600825.00
+2011,7,11,Justicia,770701.00
+2011,7,13,Seguridad Ciudadana e Instituciones Penitenciarias,12391898.00
+2011,7,21,Pensiones,125700000.00
+2011,7,23,Servicios Sociales y Promoción Social,759233523.00
+2011,7,24,Fomento del Empleo,294105096.00
+2011,7,26,Acceso a la Vivienda y Fomento de la Edificación,99476888.00
+2011,7,31,Sanidad,3431591930.00
+2011,7,32,Educación,2041931513.00
+2011,7,33,Cultura,131012062.00
+2011,7,41,"Agricultura, Pesca y Alimentación",1494292315.00
+2011,7,42,Industria y Energía,90265248.00
+2011,7,43,"Comercio, Turismo y Pymes",56484564.00
+2011,7,45,Infraestructuras,451627059.00
+2011,7,46,"Investigación, Desarrollo e Innovación",222276200.00
+2011,7,49,Otras Actuaciones de Carácter Económico,118112769.00
+2011,7,91,Alta Dirección,39630318.00
+2011,7,92,Servicios de Carácter General,123452395.00
+2011,7,93,Administración Financiera y Tributaria,33727332.00
+2011,7,94,Transferencias a otras Administraciones Públicas,129940516.00
+2011,7,95,Deuda Pública,389123887.00
+2012,7,11,Justicia,177101.00
+2012,7,13,Seguridad Ciudadana e Instituciones Penitenciarias,12525775.00
+2012,7,21,Pensiones,125700000.00
+2012,7,23,Servicios Sociales y Promoción Social,702581166.00
+2012,7,24,Fomento del Empleo,181635251.00
+2012,7,26,Acceso a la Vivienda y Fomento de la Edificación,72344440.00
+2012,7,31,Sanidad,3404462625.00
+2012,7,32,Educación,1909067075.00
+2012,7,33,Cultura,105084232.00
+2012,7,41,"Agricultura, Pesca y Alimentación",1393198484.00
+2012,7,42,Industria y Energía,193888603.00
+2012,7,43,"Comercio, Turismo y Pymes",39549903.00
+2012,7,45,Infraestructuras,366044641.00
+2012,7,46,"Investigación, Desarrollo e Innovación",243849060.00
+2012,7,49,Otras Actuaciones de Carácter Económico,83182685.00
+2012,7,91,Alta Dirección,34726222.00
+2012,7,92,Servicios de Carácter General,108793405.00
+2012,7,93,Administración Financiera y Tributaria,32529805.00
+2012,7,94,Transferencias a otras Administraciones Públicas,99852638.00
+2012,7,95,Deuda Pública,610855312.00
+2013,7,11,Justicia,136415.00
+2013,7,13,Seguridad Ciudadana e Instituciones Penitenciarias,11705576.00
+2013,7,21,Pensiones,125500000.00
+2013,7,23,Servicios Sociales y Promoción Social,691250152.00
+2013,7,24,Fomento del Empleo,179067729.00
+2013,7,26,Acceso a la Vivienda y Fomento de la Edificación,62044328.00
+2013,7,31,Sanidad,3223815647.00
+2013,7,32,Educación,1765244950.99
+2013,7,33,Cultura,90410384.00
+2013,7,41,"Agricultura, Pesca y Alimentación",1383749512.00
+2013,7,42,Industria y Energía,178360501.00
+2013,7,43,"Comercio, Turismo y Pymes",34876739.00
+2013,7,45,Infraestructuras,358314256.00
+2013,7,46,"Investigación, Desarrollo e Innovación",199370937.00
+2013,7,49,Otras Actuaciones de Carácter Económico,83669976.00
+2013,7,91,Alta Dirección,33529081.00
+2013,7,92,Servicios de Carácter General,102689777.00
+2013,7,93,Administración Financiera y Tributaria,32920428.00
+2013,7,94,Transferencias a otras Administraciones Públicas,70631776.00
+2013,7,95,Deuda Pública,854326922.00
+2006,8,11,Justicia,142130.00
+2006,8,13,Seguridad Ciudadana e Instituciones Penitenciarias,14695030.00
+2006,8,14,Política Exterior,32456600.00
+2006,8,21,Pensiones,4300000.00
+2006,8,23,Servicios Sociales y Promoción Social,554387840.00
+2006,8,24,Fomento del Empleo,241136380.00
+2006,8,26,Acceso a la Vivienda y Fomento de la Edificación,107411260.00
+2006,8,31,Sanidad,2176716550.00
+2006,8,32,Educación,1468925320.00
+2006,8,33,Cultura,114992560.00
+2006,8,41,"Agricultura, Pesca y Alimentación",1260598340.00
+2006,8,42,Industria y Energía,24808320.00
+2006,8,43,"Comercio, Turismo y Pymes",88980070.00
+2006,8,45,Infraestructuras,413929380.00
+2006,8,46,"Investigación, Desarrollo e Innovación",48683060.00
+2006,8,49,Otras Actuaciones de Carácter Económico,52965360.00
+2006,8,91,Alta Dirección,93976960.00
+2006,8,92,Servicios de Carácter General,125369860.00
+2006,8,93,Administración Financiera y Tributaria,14328760.00
+2006,8,94,Transferencias a otras Administraciones Públicas,539008900.00
+2006,8,95,Deuda Pública,91283570.00
+2007,8,11,Justicia,219720.00
+2007,8,13,Seguridad Ciudadana e Instituciones Penitenciarias,16393630.00
+2007,8,14,Política Exterior,37029960.00
+2007,8,21,Pensiones,4169020.00
+2007,8,23,Servicios Sociales y Promoción Social,634194230.00
+2007,8,24,Fomento del Empleo,252933500.00
+2007,8,26,Acceso a la Vivienda y Fomento de la Edificación,121127470.00
+2007,8,31,Sanidad,2357538900.00
+2007,8,32,Educación,1647507310.00
+2007,8,33,Cultura,124633320.00
+2007,8,41,"Agricultura, Pesca y Alimentación",1303224790.00
+2007,8,42,Industria y Energía,29788360.00
+2007,8,43,"Comercio, Turismo y Pymes",97932460.00
+2007,8,45,Infraestructuras,459470760.00
+2007,8,46,"Investigación, Desarrollo e Innovación",68229080.00
+2007,8,49,Otras Actuaciones de Carácter Económico,110769340.00
+2007,8,91,Alta Dirección,97525110.00
+2007,8,92,Servicios de Carácter General,133689970.00
+2007,8,93,Administración Financiera y Tributaria,14530830.00
+2007,8,94,Transferencias a otras Administraciones Públicas,563264300.00
+2007,8,95,Deuda Pública,84380520.00
+2008,8,11,Justicia,2094850.00
+2008,8,13,Seguridad Ciudadana e Instituciones Penitenciarias,18717450.00
+2008,8,14,Política Exterior,41184000.00
+2008,8,21,Pensiones,14769020.00
+2008,8,23,Servicios Sociales y Promoción Social,727951750.00
+2008,8,24,Fomento del Empleo,275683150.00
+2008,8,26,Acceso a la Vivienda y Fomento de la Edificación,122470800.00
+2008,8,31,Sanidad,2569595230.00
+2008,8,32,Educación,1833155780.00
+2008,8,33,Cultura,137271850.00
+2008,8,41,"Agricultura, Pesca y Alimentación",1363010420.00
+2008,8,42,Industria y Energía,34010530.00
+2008,8,43,"Comercio, Turismo y Pymes",111983860.00
+2008,8,45,Infraestructuras,495320700.00
+2008,8,46,"Investigación, Desarrollo e Innovación",84573400.00
+2008,8,49,Otras Actuaciones de Carácter Económico,137707720.00
+2008,8,91,Alta Dirección,101032430.00
+2008,8,92,Servicios de Carácter General,134102450.00
+2008,8,93,Administración Financiera y Tributaria,16498680.00
+2008,8,94,Transferencias a otras Administraciones Públicas,574529580.00
+2008,8,95,Deuda Pública,100573160.00
+2009,8,11,Justicia,327480.00
+2009,8,13,Seguridad Ciudadana e Instituciones Penitenciarias,19850550.00
+2009,8,14,Política Exterior,45252080.00
+2009,8,21,Pensiones,23349390.00
+2009,8,23,Servicios Sociales y Promoción Social,823340760.00
+2009,8,24,Fomento del Empleo,292564700.00
+2009,8,26,Acceso a la Vivienda y Fomento de la Edificación,141083230.00
+2009,8,31,Sanidad,2732046640.00
+2009,8,32,Educación,1961192670.00
+2009,8,33,Cultura,143266800.00
+2009,8,41,"Agricultura, Pesca y Alimentación",1343372890.00
+2009,8,42,Industria y Energía,36822070.00
+2009,8,43,"Comercio, Turismo y Pymes",111058490.00
+2009,8,45,Infraestructuras,540011220.00
+2009,8,46,"Investigación, Desarrollo e Innovación",90918520.00
+2009,8,49,Otras Actuaciones de Carácter Económico,207589830.00
+2009,8,91,Alta Dirección,40745680.00
+2009,8,92,Servicios de Carácter General,138134650.00
+2009,8,93,Administración Financiera y Tributaria,17911810.00
+2009,8,94,Transferencias a otras Administraciones Públicas,585635170.00
+2009,8,95,Deuda Pública,101073160.00
+2010,8,11,Justicia,679300.00
+2010,8,13,Seguridad Ciudadana e Instituciones Penitenciarias,18858150.00
+2010,8,14,Política Exterior,45408490.00
+2010,8,21,Pensiones,26990190.00
+2010,8,23,Servicios Sociales y Promoción Social,851425600.00
+2010,8,24,Fomento del Empleo,303782980.00
+2010,8,26,Acceso a la Vivienda y Fomento de la Edificación,137992600.00
+2010,8,31,Sanidad,2802540020.00
+2010,8,32,Educación,2060966340.00
+2010,8,33,Cultura,139110880.00
+2010,8,41,"Agricultura, Pesca y Alimentación",1353455380.00
+2010,8,42,Industria y Energía,36085730.00
+2010,8,43,"Comercio, Turismo y Pymes",108931650.00
+2010,8,45,Infraestructuras,576818260.00
+2010,8,46,"Investigación, Desarrollo e Innovación",91541980.00
+2010,8,49,Otras Actuaciones de Carácter Económico,204138610.00
+2010,8,91,Alta Dirección,39752890.00
+2010,8,92,Servicios de Carácter General,132852060.00
+2010,8,93,Administración Financiera y Tributaria,17927480.00
+2010,8,94,Transferencias a otras Administraciones Públicas,556353410.00
+2010,8,95,Deuda Pública,107137550.00
+2011,8,11,Justicia,610690.00
+2011,8,13,Seguridad Ciudadana e Instituciones Penitenciarias,15515950.00
+2011,8,14,Política Exterior,45300910.00
+2011,8,21,Pensiones,26410190.00
+2011,8,23,Servicios Sociales y Promoción Social,825066040.00
+2011,8,24,Fomento del Empleo,297186990.00
+2011,8,26,Acceso a la Vivienda y Fomento de la Edificación,123055090.00
+2011,8,31,Sanidad,2692360180.00
+2011,8,32,Educación,1963492500.00
+2011,8,33,Cultura,107112090.00
+2011,8,41,"Agricultura, Pesca y Alimentación",1260194110.00
+2011,8,42,Industria y Energía,19560380.00
+2011,8,43,"Comercio, Turismo y Pymes",95909630.00
+2011,8,45,Infraestructuras,545297720.00
+2011,8,46,"Investigación, Desarrollo e Innovación",86718600.00
+2011,8,49,Otras Actuaciones de Carácter Económico,187511780.00
+2011,8,91,Alta Dirección,34791160.00
+2011,8,92,Servicios de Carácter General,140857660.00
+2011,8,93,Administración Financiera y Tributaria,16950160.00
+2011,8,95,Deuda Pública,128565060.00
+2012,8,13,Seguridad Ciudadana e Instituciones Penitenciarias,11119090.00
+2012,8,14,Política Exterior,1310270.00
+2012,8,21,Pensiones,4256030.00
+2012,8,23,Servicios Sociales y Promoción Social,719798150.00
+2012,8,24,Fomento del Empleo,149040500.00
+2012,8,26,Acceso a la Vivienda y Fomento de la Edificación,46299060.00
+2012,8,31,Sanidad,2535914080.00
+2012,8,32,Educación,1562647660.00
+2012,8,33,Cultura,40972020.00
+2012,8,41,"Agricultura, Pesca y Alimentación",1210514890.00
+2012,8,42,Industria y Energía,12352330.00
+2012,8,43,"Comercio, Turismo y Pymes",36395500.00
+2012,8,45,Infraestructuras,356174350.00
+2012,8,46,"Investigación, Desarrollo e Innovación",39523850.00
+2012,8,49,Otras Actuaciones de Carácter Económico,82603350.00
+2012,8,91,Alta Dirección,68012520.00
+2012,8,92,Servicios de Carácter General,60164260.00
+2012,8,93,Administración Financiera y Tributaria,26440570.00
+2012,8,95,Deuda Pública,1327321330.00
+2013,8,13,Seguridad Ciudadana e Instituciones Penitenciarias,8966670.00
+2013,8,14,Política Exterior,1042160.00
+2013,8,21,Pensiones,3656030.00
+2013,8,23,Servicios Sociales y Promoción Social,638488590.00
+2013,8,24,Fomento del Empleo,144990230.00
+2013,8,26,Acceso a la Vivienda y Fomento de la Edificación,46749040.00
+2013,8,31,Sanidad,2376581310.00
+2013,8,32,Educación,1448602140.00
+2013,8,33,Cultura,37763400.00
+2013,8,41,"Agricultura, Pesca y Alimentación",1178481030.00
+2013,8,42,Industria y Energía,15025890.00
+2013,8,43,"Comercio, Turismo y Pymes",33706000.00
+2013,8,45,Infraestructuras,301626570.00
+2013,8,46,"Investigación, Desarrollo e Innovación",21829190.00
+2013,8,49,Otras Actuaciones de Carácter Económico,81525370.00
+2013,8,91,Alta Dirección,67182310.00
+2013,8,92,Servicios de Carácter General,57334790.00
+2013,8,93,Administración Financiera y Tributaria,25631440.00
+2013,8,95,Deuda Pública,951441380.00
+2006,9,11,Justicia,459868785.89
+2006,9,13,Seguridad Ciudadana e Instituciones Penitenciarias,1107597622.58
+2006,9,14,Política Exterior,59054139.07
+2006,9,21,Pensiones,9025833.50
+2006,9,23,Servicios Sociales y Promoción Social,1365614072.56
+2006,9,24,Fomento del Empleo,511498741.86
+2006,9,26,Acceso a la Vivienda y Fomento de la Edificación,184428821.61
+2006,9,31,Sanidad,7930448929.91
+2006,9,32,Educación,4986654594.39
+2006,9,33,Cultura,379864658.88
+2006,9,41,"Agricultura, Pesca y Alimentación",385773323.45
+2006,9,42,Industria y Energía,74059716.86
+2006,9,43,"Comercio, Turismo y Pymes",143481523.04
+2006,9,44,Subvenciones al Transporte,260271950.05
+2006,9,45,Infraestructuras,1282340083.74
+2006,9,46,"Investigación, Desarrollo e Innovación",185665496.60
+2006,9,49,Otras Actuaciones de Carácter Económico,194921424.93
+2006,9,91,Alta Dirección,121319599.76
+2006,9,92,Servicios de Carácter General,816848284.35
+2006,9,93,Administración Financiera y Tributaria,1217543.00
+2006,9,94,Transferencias a otras Administraciones Públicas,2751631448.74
+2006,9,95,Deuda Pública,1115395220.08
+2007,9,11,Justicia,510378622.07
+2007,9,13,Seguridad Ciudadana e Instituciones Penitenciarias,1224789998.23
+2007,9,14,Política Exterior,67045070.09
+2007,9,21,Pensiones,56089260.17
+2007,9,23,Servicios Sociales y Promoción Social,1511744660.25
+2007,9,24,Fomento del Empleo,534138041.19
+2007,9,26,Acceso a la Vivienda y Fomento de la Edificación,235139247.04
+2007,9,31,Sanidad,8658180101.96
+2007,9,32,Educación,5395672829.78
+2007,9,33,Cultura,423281318.13
+2007,9,41,"Agricultura, Pesca y Alimentación",386781044.27
+2007,9,42,Industria y Energía,88163252.00
+2007,9,43,"Comercio, Turismo y Pymes",158409858.00
+2007,9,44,Subvenciones al Transporte,305807127.58
+2007,9,45,Infraestructuras,1286907506.71
+2007,9,46,"Investigación, Desarrollo e Innovación",316763481.38
+2007,9,49,Otras Actuaciones de Carácter Económico,186284705.62
+2007,9,91,Alta Dirección,105529640.11
+2007,9,92,Servicios de Carácter General,1052770510.77
+2007,9,93,Administración Financiera y Tributaria,7517481.68
+2007,9,94,Transferencias a otras Administraciones Públicas,2961085924.16
+2007,9,95,Deuda Pública,1626286855.77
+2008,9,11,Justicia,573044164.24
+2008,9,13,Seguridad Ciudadana e Instituciones Penitenciarias,1528406029.22
+2008,9,14,Política Exterior,86018964.83
+2008,9,21,Pensiones,77390214.94
+2008,9,23,Servicios Sociales y Promoción Social,1605366026.40
+2008,9,24,Fomento del Empleo,541942569.61
+2008,9,26,Acceso a la Vivienda y Fomento de la Edificación,351350532.92
+2008,9,31,Sanidad,9138623219.73
+2008,9,32,Educación,5824796815.05
+2008,9,33,Cultura,450385668.84
+2008,9,41,"Agricultura, Pesca y Alimentación",375115434.37
+2008,9,42,Industria y Energía,129406879.54
+2008,9,43,"Comercio, Turismo y Pymes",163149313.97
+2008,9,44,Subvenciones al Transporte,352217164.47
+2008,9,45,Infraestructuras,1305663275.78
+2008,9,46,"Investigación, Desarrollo e Innovación",399871944.19
+2008,9,49,Otras Actuaciones de Carácter Económico,239193307.22
+2008,9,91,Alta Dirección,105644857.64
+2008,9,92,Servicios de Carácter General,912442044.79
+2008,9,93,Administración Financiera y Tributaria,39146189.07
+2008,9,94,Transferencias a otras Administraciones Públicas,3172877567.67
+2008,9,95,Deuda Pública,1253130399.01
+2009,9,11,Justicia,599554986.31
+2009,9,13,Seguridad Ciudadana e Instituciones Penitenciarias,1633744302.68
+2009,9,14,Política Exterior,67562750.61
+2009,9,21,Pensiones,48571306.00
+2009,9,23,Servicios Sociales y Promoción Social,1731876262.00
+2009,9,24,Fomento del Empleo,705860284.52
+2009,9,26,Acceso a la Vivienda y Fomento de la Edificación,314129334.74
+2009,9,31,Sanidad,9397914917.14
+2009,9,32,Educación,6085201737.49
+2009,9,33,Cultura,462902539.25
+2009,9,41,"Agricultura, Pesca y Alimentación",403494754.96
+2009,9,42,Industria y Energía,160986868.56
+2009,9,43,"Comercio, Turismo y Pymes",134089172.77
+2009,9,44,Subvenciones al Transporte,342421130.56
+2009,9,45,Infraestructuras,1374944571.98
+2009,9,46,"Investigación, Desarrollo e Innovación",434905944.83
+2009,9,49,Otras Actuaciones de Carácter Económico,260379240.45
+2009,9,91,Alta Dirección,101762551.14
+2009,9,92,Servicios de Carácter General,971554413.24
+2009,9,93,Administración Financiera y Tributaria,34566606.79
+2009,9,94,Transferencias a otras Administraciones Públicas,3191710325.63
+2009,9,95,Deuda Pública,1613774148.78
+2010,9,11,Justicia,648643955.03
+2010,9,13,Seguridad Ciudadana e Instituciones Penitenciarias,1748152623.03
+2010,9,14,Política Exterior,56394161.77
+2010,9,21,Pensiones,54708214.00
+2010,9,23,Servicios Sociales y Promoción Social,2243923603.23
+2010,9,24,Fomento del Empleo,844551434.26
+2010,9,26,Acceso a la Vivienda y Fomento de la Edificación,338184164.02
+2010,9,31,Sanidad,9831914148.36
+2010,9,32,Educación,6323530847.34
+2010,9,33,Cultura,482978562.40
+2010,9,41,"Agricultura, Pesca y Alimentación",414472448.78
+2010,9,42,Industria y Energía,200399797.13
+2010,9,43,"Comercio, Turismo y Pymes",137861861.86
+2010,9,44,Subvenciones al Transporte,343527756.58
+2010,9,45,Infraestructuras,1419860078.66
+2010,9,46,"Investigación, Desarrollo e Innovación",494592781.59
+2010,9,49,Otras Actuaciones de Carácter Económico,458833433.07
+2010,9,91,Alta Dirección,105106504.37
+2010,9,92,Servicios de Carácter General,1107194476.54
+2010,9,93,Administración Financiera y Tributaria,34111833.47
+2010,9,94,Transferencias a otras Administraciones Públicas,2672131195.93
+2010,9,95,Deuda Pública,2913245154.50
+2011,9,11,Justicia,575305468.71
+2011,9,13,Seguridad Ciudadana e Instituciones Penitenciarias,1608206681.73
+2011,9,14,Política Exterior,34615441.49
+2011,9,21,Pensiones,55483725.00
+2011,9,23,Servicios Sociales y Promoción Social,2156806582.09
+2011,9,24,Fomento del Empleo,797090565.11
+2011,9,26,Acceso a la Vivienda y Fomento de la Edificación,278420638.63
+2011,9,31,Sanidad,9167704505.64
+2011,9,32,Educación,5749653708.99
+2011,9,33,Cultura,391114494.35
+2011,9,41,"Agricultura, Pesca y Alimentación",329376465.91
+2011,9,42,Industria y Energía,207313263.24
+2011,9,43,"Comercio, Turismo y Pymes",99669644.03
+2011,9,44,Subvenciones al Transporte,271360579.06
+2011,9,45,Infraestructuras,882024767.08
+2011,9,46,"Investigación, Desarrollo e Innovación",223270275.48
+2011,9,49,Otras Actuaciones de Carácter Económico,252571779.07
+2011,9,91,Alta Dirección,114995052.16
+2011,9,92,Servicios de Carácter General,782474212.48
+2011,9,93,Administración Financiera y Tributaria,27554463.14
+2011,9,94,Transferencias a otras Administraciones Públicas,2910501211.51
+2011,9,95,Deuda Pública,5970771289.42
+2012,9,11,Justicia,535095463.82
+2012,9,13,Seguridad Ciudadana e Instituciones Penitenciarias,1544263014.10
+2012,9,14,Política Exterior,27021160.73
+2012,9,21,Pensiones,56125725.00
+2012,9,23,Servicios Sociales y Promoción Social,2179631912.16
+2012,9,24,Fomento del Empleo,780884138.26
+2012,9,26,Acceso a la Vivienda y Fomento de la Edificación,194395621.68
+2012,9,31,Sanidad,8738617808.50
+2012,9,32,Educación,5454458269.13
+2012,9,33,Cultura,383757724.70
+2012,9,41,"Agricultura, Pesca y Alimentación",412281489.53
+2012,9,42,Industria y Energía,155550884.78
+2012,9,43,"Comercio, Turismo y Pymes",128644720.48
+2012,9,44,Subvenciones al Transporte,296097520.76
+2012,9,45,Infraestructuras,1107404816.19
+2012,9,46,"Investigación, Desarrollo e Innovación",255462837.60
+2012,9,49,Otras Actuaciones de Carácter Económico,163407324.87
+2012,9,91,Alta Dirección,143517143.93
+2012,9,92,Servicios de Carácter General,812174549.92
+2012,9,93,Administración Financiera y Tributaria,62020668.17
+2012,9,94,Transferencias a otras Administraciones Públicas,2897091367.39
+2012,9,95,Deuda Pública,3668913197.27
+2013,9,11,Justicia,535095463.82
+2013,9,13,Seguridad Ciudadana e Instituciones Penitenciarias,1544263014.10
+2013,9,14,Política Exterior,27021160.73
+2013,9,21,Pensiones,56125725.00
+2013,9,23,Servicios Sociales y Promoción Social,2179631912.16
+2013,9,24,Fomento del Empleo,780884138.26
+2013,9,26,Acceso a la Vivienda y Fomento de la Edificación,194395621.68
+2013,9,31,Sanidad,8738617808.50
+2013,9,32,Educación,5454458269.13
+2013,9,33,Cultura,383757724.70
+2013,9,41,"Agricultura, Pesca y Alimentación",412281489.53
+2013,9,42,Industria y Energía,155550884.78
+2013,9,43,"Comercio, Turismo y Pymes",128644720.48
+2013,9,44,Subvenciones al Transporte,296097520.76
+2013,9,45,Infraestructuras,1107404816.19
+2013,9,46,"Investigación, Desarrollo e Innovación",255462837.60
+2013,9,49,Otras Actuaciones de Carácter Económico,163407324.87
+2013,9,91,Alta Dirección,143517143.93
+2013,9,92,Servicios de Carácter General,812174549.92
+2013,9,93,Administración Financiera y Tributaria,62020668.17
+2013,9,94,Transferencias a otras Administraciones Públicas,2897091367.39
+2013,9,95,Deuda Pública,3668913197.27
+2006,11,13,Seguridad Ciudadana e Instituciones Penitenciarias,5034109.00
+2006,11,21,Pensiones,5700000.00
+2006,11,23,Servicios Sociales y Promoción Social,229277845.00
+2006,11,24,Fomento del Empleo,303142799.00
+2006,11,26,Acceso a la Vivienda y Fomento de la Edificación,109556025.00
+2006,11,31,Sanidad,1334560709.00
+2006,11,32,Educación,814741444.00
+2006,11,33,Cultura,86868925.00
+2006,11,41,"Agricultura, Pesca y Alimentación",637846407.00
+2006,11,42,Industria y Energía,40368685.00
+2006,11,43,"Comercio, Turismo y Pymes",158664805.00
+2006,11,45,Infraestructuras,504142482.00
+2006,11,46,"Investigación, Desarrollo e Innovación",35472905.00
+2006,11,49,Otras Actuaciones de Carácter Económico,33200766.00
+2006,11,91,Alta Dirección,15685580.00
+2006,11,92,Servicios de Carácter General,97115362.00
+2006,11,93,Administración Financiera y Tributaria,14899652.00
+2006,11,95,Deuda Pública,112482926.00
+2007,11,13,Seguridad Ciudadana e Instituciones Penitenciarias,6164410.00
+2007,11,21,Pensiones,4200000.00
+2007,11,23,Servicios Sociales y Promoción Social,269753801.00
+2007,11,24,Fomento del Empleo,322077466.00
+2007,11,26,Acceso a la Vivienda y Fomento de la Edificación,120009825.00
+2007,11,31,Sanidad,1459766660.00
+2007,11,32,Educación,896688944.00
+2007,11,33,Cultura,96603761.00
+2007,11,41,"Agricultura, Pesca y Alimentación",672967180.00
+2007,11,42,Industria y Energía,47139759.00
+2007,11,43,"Comercio, Turismo y Pymes",183948483.00
+2007,11,45,Infraestructuras,549435833.00
+2007,11,46,"Investigación, Desarrollo e Innovación",56553853.00
+2007,11,49,Otras Actuaciones de Carácter Económico,38601705.00
+2007,11,91,Alta Dirección,16538132.00
+2007,11,92,Servicios de Carácter General,122654963.00
+2007,11,93,Administración Financiera y Tributaria,17728027.00
+2007,11,95,Deuda Pública,112131256.00
+2008,11,13,Seguridad Ciudadana e Instituciones Penitenciarias,6831726.00
+2008,11,14,Política Exterior,14675930.00
+2008,11,21,Pensiones,3900000.00
+2008,11,23,Servicios Sociales y Promoción Social,336461641.00
+2008,11,24,Fomento del Empleo,312846822.00
+2008,11,26,Acceso a la Vivienda y Fomento de la Edificación,138041709.00
+2008,11,31,Sanidad,1599915385.00
+2008,11,32,Educación,988868512.00
+2008,11,33,Cultura,111816008.00
+2008,11,41,"Agricultura, Pesca y Alimentación",701274023.00
+2008,11,42,Industria y Energía,59410962.00
+2008,11,43,"Comercio, Turismo y Pymes",185622366.00
+2008,11,45,Infraestructuras,626604145.00
+2008,11,46,"Investigación, Desarrollo e Innovación",86427063.00
+2008,11,49,Otras Actuaciones de Carácter Económico,61936724.00
+2008,11,91,Alta Dirección,34324168.00
+2008,11,92,Servicios de Carácter General,130938062.00
+2008,11,93,Administración Financiera y Tributaria,21594947.00
+2008,11,95,Deuda Pública,107468943.00
+2009,11,13,Seguridad Ciudadana e Instituciones Penitenciarias,9646488.00
+2009,11,14,Política Exterior,18492443.00
+2009,11,21,Pensiones,3150000.00
+2009,11,23,Servicios Sociales y Promoción Social,378883298.00
+2009,11,24,Fomento del Empleo,324129695.00
+2009,11,26,Acceso a la Vivienda y Fomento de la Edificación,136461260.00
+2009,11,31,Sanidad,1717677876.00
+2009,11,32,Educación,1050716245.00
+2009,11,33,Cultura,122789274.00
+2009,11,41,"Agricultura, Pesca y Alimentación",743347301.00
+2009,11,42,Industria y Energía,62697877.00
+2009,11,43,"Comercio, Turismo y Pymes",179170936.00
+2009,11,45,Infraestructuras,632912809.00
+2009,11,46,"Investigación, Desarrollo e Innovación",81866702.00
+2009,11,49,Otras Actuaciones de Carácter Económico,32042462.00
+2009,11,91,Alta Dirección,32546371.00
+2009,11,92,Servicios de Carácter General,114714643.00
+2009,11,93,Administración Financiera y Tributaria,21213226.00
+2009,11,95,Deuda Pública,106985433.00
+2010,11,13,Seguridad Ciudadana e Instituciones Penitenciarias,7025271.00
+2010,11,14,Política Exterior,18994701.00
+2010,11,21,Pensiones,2800980.00
+2010,11,23,Servicios Sociales y Promoción Social,452398518.00
+2010,11,24,Fomento del Empleo,265043743.00
+2010,11,26,Acceso a la Vivienda y Fomento de la Edificación,127759986.00
+2010,11,31,Sanidad,1664332359.00
+2010,11,32,Educación,1054023213.00
+2010,11,33,Cultura,112986566.00
+2010,11,41,"Agricultura, Pesca y Alimentación",751756496.00
+2010,11,42,Industria y Energía,30064481.00
+2010,11,43,"Comercio, Turismo y Pymes",119277288.00
+2010,11,45,Infraestructuras,542709653.00
+2010,11,46,"Investigación, Desarrollo e Innovación",83608173.00
+2010,11,49,Otras Actuaciones de Carácter Económico,58448104.00
+2010,11,91,Alta Dirección,30965251.00
+2010,11,92,Servicios de Carácter General,133941243.00
+2010,11,93,Administración Financiera y Tributaria,18404402.00
+2010,11,95,Deuda Pública,146089493.00
+2011,11,13,Seguridad Ciudadana e Instituciones Penitenciarias,6411051.00
+2011,11,14,Política Exterior,17226132.00
+2011,11,21,Pensiones,2465785.00
+2011,11,23,Servicios Sociales y Promoción Social,436486858.00
+2011,11,24,Fomento del Empleo,237168413.00
+2011,11,26,Acceso a la Vivienda y Fomento de la Edificación,95058406.00
+2011,11,31,Sanidad,1539651579.00
+2011,11,32,Educación,977220109.00
+2011,11,33,Cultura,90404449.00
+2011,11,41,"Agricultura, Pesca y Alimentación",736590194.00
+2011,11,42,Industria y Energía,24880298.00
+2011,11,43,"Comercio, Turismo y Pymes",109924943.00
+2011,11,45,Infraestructuras,460133057.00
+2011,11,46,"Investigación, Desarrollo e Innovación",61312230.00
+2011,11,49,Otras Actuaciones de Carácter Económico,40112354.00
+2011,11,91,Alta Dirección,27538265.00
+2011,11,92,Servicios de Carácter General,123176982.00
+2011,11,93,Administración Financiera y Tributaria,15630426.00
+2011,11,95,Deuda Pública,189257340.00
+2012,11,13,Seguridad Ciudadana e Instituciones Penitenciarias,5787479.00
+2012,11,14,Política Exterior,16706485.00
+2012,11,21,Pensiones,2100000.00
+2012,11,23,Servicios Sociales y Promoción Social,365676156.00
+2012,11,24,Fomento del Empleo,221538131.00
+2012,11,26,Acceso a la Vivienda y Fomento de la Edificación,72672166.00
+2012,11,31,Sanidad,1480726425.00
+2012,11,32,Educación,982634669.00
+2012,11,33,Cultura,73322888.00
+2012,11,41,"Agricultura, Pesca y Alimentación",715892484.00
+2012,11,42,Industria y Energía,19015507.00
+2012,11,43,"Comercio, Turismo y Pymes",100593866.00
+2012,11,45,Infraestructuras,375058070.00
+2012,11,46,"Investigación, Desarrollo e Innovación",62113158.00
+2012,11,49,Otras Actuaciones de Carácter Económico,42354094.00
+2012,11,91,Alta Dirección,23623898.00
+2012,11,92,Servicios de Carácter General,108288458.00
+2012,11,93,Administración Financiera y Tributaria,11150065.00
+2012,11,95,Deuda Pública,235094547.00
+2013,11,13,Seguridad Ciudadana e Instituciones Penitenciarias,5021952.00
+2013,11,14,Política Exterior,12348891.00
+2013,11,21,Pensiones,1350000.00
+2013,11,23,Servicios Sociales y Promoción Social,354266012.00
+2013,11,24,Fomento del Empleo,218279378.00
+2013,11,26,Acceso a la Vivienda y Fomento de la Edificación,51467998.00
+2013,11,31,Sanidad,1284771952.00
+2013,11,32,Educación,956217326.00
+2013,11,33,Cultura,60282318.00
+2013,11,41,"Agricultura, Pesca y Alimentación",742665237.00
+2013,11,42,Industria y Energía,11780298.00
+2013,11,43,"Comercio, Turismo y Pymes",98458353.00
+2013,11,45,Infraestructuras,456476908.00
+2013,11,46,"Investigación, Desarrollo e Innovación",52353946.00
+2013,11,49,Otras Actuaciones de Carácter Económico,36920148.00
+2013,11,91,Alta Dirección,22019356.00
+2013,11,92,Servicios de Carácter General,109675825.00
+2013,11,93,Administración Financiera y Tributaria,13279648.00
+2013,11,95,Deuda Pública,303251282.00
+2006,12,11,Justicia,87909668.00
+2006,12,13,Seguridad Ciudadana e Instituciones Penitenciarias,34573787.00
+2006,12,14,Política Exterior,9328576.00
+2006,12,21,Pensiones,50487443.00
+2006,12,23,Servicios Sociales y Promoción Social,333580635.00
+2006,12,24,Fomento del Empleo,279479591.00
+2006,12,26,Acceso a la Vivienda y Fomento de la Edificación,228473716.00
+2006,12,31,Sanidad,3157136837.00
+2006,12,32,Educación,1992100698.00
+2006,12,33,Cultura,186944910.00
+2006,12,41,"Agricultura, Pesca y Alimentación",624772545.00
+2006,12,42,Industria y Energía,212172606.00
+2006,12,43,"Comercio, Turismo y Pymes",108430970.00
+2006,12,45,Infraestructuras,785123186.00
+2006,12,46,"Investigación, Desarrollo e Innovación",97191463.00
+2006,12,49,Otras Actuaciones de Carácter Económico,31158266.00
+2006,12,91,Alta Dirección,36697144.00
+2006,12,92,Servicios de Carácter General,245012727.00
+2006,12,93,Administración Financiera y Tributaria,75597302.00
+2006,12,94,Transferencias a otras Administraciones Públicas,820282981.00
+2006,12,95,Deuda Pública,514845979.00
+2007,12,11,Justicia,94621964.00
+2007,12,13,Seguridad Ciudadana e Instituciones Penitenciarias,25429236.00
+2007,12,14,Política Exterior,12321078.00
+2007,12,21,Pensiones,22012377.00
+2007,12,23,Servicios Sociales y Promoción Social,403725886.00
+2007,12,24,Fomento del Empleo,306376556.00
+2007,12,26,Acceso a la Vivienda y Fomento de la Edificación,239881087.00
+2007,12,31,Sanidad,3388009984.00
+2007,12,32,Educación,2161491400.00
+2007,12,33,Cultura,202741141.00
+2007,12,41,"Agricultura, Pesca y Alimentación",670150911.00
+2007,12,42,Industria y Energía,221003244.00
+2007,12,43,"Comercio, Turismo y Pymes",118747307.00
+2007,12,45,Infraestructuras,843520207.00
+2007,12,46,"Investigación, Desarrollo e Innovación",118741686.00
+2007,12,49,Otras Actuaciones de Carácter Económico,62936166.00
+2007,12,91,Alta Dirección,39163618.00
+2007,12,92,Servicios de Carácter General,281952959.00
+2007,12,93,Administración Financiera y Tributaria,77582016.00
+2007,12,94,Transferencias a otras Administraciones Públicas,891355060.00
+2007,12,95,Deuda Pública,602659911.00
+2008,12,11,Justicia,99167373.00
+2008,12,13,Seguridad Ciudadana e Instituciones Penitenciarias,27934200.00
+2008,12,14,Política Exterior,14903755.00
+2008,12,21,Pensiones,300000.00
+2008,12,23,Servicios Sociales y Promoción Social,514822430.00
+2008,12,24,Fomento del Empleo,345675138.00
+2008,12,26,Acceso a la Vivienda y Fomento de la Edificación,233993741.00
+2008,12,31,Sanidad,3594350756.00
+2008,12,32,Educación,2344303192.00
+2008,12,33,Cultura,212830188.00
+2008,12,41,"Agricultura, Pesca y Alimentación",695722140.00
+2008,12,42,Industria y Energía,259349347.00
+2008,12,43,"Comercio, Turismo y Pymes",119950636.00
+2008,12,45,Infraestructuras,914460288.00
+2008,12,46,"Investigación, Desarrollo e Innovación",130850096.00
+2008,12,49,Otras Actuaciones de Carácter Económico,72713797.00
+2008,12,91,Alta Dirección,42090491.00
+2008,12,92,Servicios de Carácter General,287010932.00
+2008,12,93,Administración Financiera y Tributaria,69120251.00
+2008,12,94,Transferencias a otras Administraciones Públicas,956088955.00
+2008,12,95,Deuda Pública,619309449.00
+2009,12,11,Justicia,105132277.00
+2009,12,13,Seguridad Ciudadana e Instituciones Penitenciarias,26754488.00
+2009,12,14,Política Exterior,15897404.00
+2009,12,21,Pensiones,23056809.00
+2009,12,23,Servicios Sociales y Promoción Social,547695611.00
+2009,12,24,Fomento del Empleo,383225898.00
+2009,12,26,Acceso a la Vivienda y Fomento de la Edificación,262141268.00
+2009,12,31,Sanidad,3719796077.00
+2009,12,32,Educación,2432112984.00
+2009,12,33,Cultura,204590394.00
+2009,12,41,"Agricultura, Pesca y Alimentación",680821069.00
+2009,12,42,Industria y Energía,279700861.00
+2009,12,43,"Comercio, Turismo y Pymes",120854940.00
+2009,12,45,Infraestructuras,993728315.00
+2009,12,46,"Investigación, Desarrollo e Innovación",142685053.00
+2009,12,49,Otras Actuaciones de Carácter Económico,78931567.00
+2009,12,91,Alta Dirección,41779283.00
+2009,12,92,Servicios de Carácter General,308713606.00
+2009,12,93,Administración Financiera y Tributaria,59455661.00
+2009,12,94,Transferencias a otras Administraciones Públicas,971884095.00
+2009,12,95,Deuda Pública,393043895.00
+2010,12,11,Justicia,99465219.00
+2010,12,13,Seguridad Ciudadana e Instituciones Penitenciarias,24126737.00
+2010,12,14,Política Exterior,13282367.00
+2010,12,21,Pensiones,25956809.00
+2010,12,23,Servicios Sociales y Promoción Social,611449619.00
+2010,12,24,Fomento del Empleo,355499667.00
+2010,12,26,Acceso a la Vivienda y Fomento de la Edificación,213281061.00
+2010,12,31,Sanidad,3679881610.00
+2010,12,32,Educación,2409629659.00
+2010,12,33,Cultura,172821331.00
+2010,12,41,"Agricultura, Pesca y Alimentación",659298731.00
+2010,12,42,Industria y Energía,243470231.00
+2010,12,43,"Comercio, Turismo y Pymes",116672645.00
+2010,12,45,Infraestructuras,856917004.00
+2010,12,46,"Investigación, Desarrollo e Innovación",134388602.00
+2010,12,49,Otras Actuaciones de Carácter Económico,90479237.00
+2010,12,91,Alta Dirección,37998063.00
+2010,12,92,Servicios de Carácter General,282333369.00
+2010,12,93,Administración Financiera y Tributaria,58520959.00
+2010,12,94,Transferencias a otras Administraciones Públicas,927878464.00
+2010,12,95,Deuda Pública,672577100.00
+2011,12,11,Justicia,106291612.00
+2011,12,13,Seguridad Ciudadana e Instituciones Penitenciarias,21582475.00
+2011,12,14,Política Exterior,10891449.00
+2011,12,21,Pensiones,22846809.00
+2011,12,23,Servicios Sociales y Promoción Social,590444796.00
+2011,12,24,Fomento del Empleo,326360735.00
+2011,12,26,Acceso a la Vivienda y Fomento de la Edificación,128838848.00
+2011,12,31,Sanidad,3498387112.00
+2011,12,32,Educación,2252146267.00
+2011,12,33,Cultura,116441335.00
+2011,12,41,"Agricultura, Pesca y Alimentación",515243809.00
+2011,12,42,Industria y Energía,162589038.00
+2011,12,43,"Comercio, Turismo y Pymes",77816822.00
+2011,12,45,Infraestructuras,627335952.00
+2011,12,46,"Investigación, Desarrollo e Innovación",114295466.00
+2011,12,49,Otras Actuaciones de Carácter Económico,94709063.00
+2011,12,91,Alta Dirección,36075237.00
+2011,12,92,Servicios de Carácter General,230998570.00
+2011,12,93,Administración Financiera y Tributaria,49863870.00
+2011,12,94,Transferencias a otras Administraciones Públicas,119679062.00
+2011,12,95,Deuda Pública,605175889.00
+2012,12,11,Justicia,105463767.00
+2012,12,13,Seguridad Ciudadana e Instituciones Penitenciarias,25085049.00
+2012,12,14,Política Exterior,9621346.00
+2012,12,21,Pensiones,23821809.00
+2012,12,23,Servicios Sociales y Promoción Social,582826213.00
+2012,12,24,Fomento del Empleo,311817531.00
+2012,12,26,Acceso a la Vivienda y Fomento de la Edificación,120933455.00
+2012,12,31,Sanidad,3482112237.00
+2012,12,32,Educación,2241092260.00
+2012,12,33,Cultura,112866245.00
+2012,12,41,"Agricultura, Pesca y Alimentación",522383859.00
+2012,12,42,Industria y Energía,230022834.00
+2012,12,43,"Comercio, Turismo y Pymes",73644383.00
+2012,12,45,Infraestructuras,543386617.00
+2012,12,46,"Investigación, Desarrollo e Innovación",117572100.00
+2012,12,49,Otras Actuaciones de Carácter Económico,90832117.00
+2012,12,91,Alta Dirección,35178183.00
+2012,12,92,Servicios de Carácter General,226924700.00
+2012,12,93,Administración Financiera y Tributaria,49767797.00
+2012,12,94,Transferencias a otras Administraciones Públicas,121943659.00
+2012,12,95,Deuda Pública,830590743.00
+2013,12,11,Justicia,105705885.00
+2013,12,13,Seguridad Ciudadana e Instituciones Penitenciarias,20681726.00
+2013,12,14,Política Exterior,6862070.00
+2013,12,21,Pensiones,32757080.00
+2013,12,23,Servicios Sociales y Promoción Social,528504039.00
+2013,12,24,Fomento del Empleo,177533075.00
+2013,12,26,Acceso a la Vivienda y Fomento de la Edificación,70081891.00
+2013,12,31,Sanidad,3372228220.00
+2013,12,32,Educación,2097435156.00
+2013,12,33,Cultura,88213704.00
+2013,12,41,"Agricultura, Pesca y Alimentación",478277876.00
+2013,12,42,Industria y Energía,61596363.00
+2013,12,43,"Comercio, Turismo y Pymes",219985027.00
+2013,12,45,Infraestructuras,475125447.00
+2013,12,46,"Investigación, Desarrollo e Innovación",103173790.00
+2013,12,49,Otras Actuaciones de Carácter Económico,125774015.00
+2013,12,91,Alta Dirección,33634524.00
+2013,12,92,Servicios de Carácter General,206899942.00
+2013,12,93,Administración Financiera y Tributaria,45942304.00
+2013,12,94,Transferencias a otras Administraciones Públicas,118620048.00
+2013,12,95,Deuda Pública,1110857232.00
+2006,13,11,Justicia,323020086.00
+2006,13,13,Seguridad Ciudadana e Instituciones Penitenciarias,187418666.00
+2006,13,14,Política Exterior,29544376.00
+2006,13,23,Servicios Sociales y Promoción Social,1129448111.00
+2006,13,24,Fomento del Empleo,525068903.00
+2006,13,26,Acceso a la Vivienda y Fomento de la Edificación,461335563.00
+2006,13,31,Sanidad,5986378065.00
+2006,13,32,Educación,4267986804.00
+2006,13,33,Cultura,273348025.00
+2006,13,41,"Agricultura, Pesca y Alimentación",51550956.00
+2006,13,42,Industria y Energía,26492426.00
+2006,13,43,"Comercio, Turismo y Pymes",39912439.00
+2006,13,45,Infraestructuras,1701071141.00
+2006,13,46,"Investigación, Desarrollo e Innovación",123855902.00
+2006,13,49,Otras Actuaciones de Carácter Económico,35295294.00
+2006,13,91,Alta Dirección,36302804.00
+2006,13,92,Servicios de Carácter General,581439334.00
+2006,13,93,Administración Financiera y Tributaria,121457334.00
+2006,13,94,Transferencias a otras Administraciones Públicas,56659309.00
+2006,13,95,Deuda Pública,618551068.00
+2007,13,11,Justicia,369547120.00
+2007,13,13,Seguridad Ciudadana e Instituciones Penitenciarias,227953615.00
+2007,13,14,Política Exterior,34907524.00
+2007,13,23,Servicios Sociales y Promoción Social,1258545441.00
+2007,13,24,Fomento del Empleo,542750433.00
+2007,13,26,Acceso a la Vivienda y Fomento de la Edificación,519875211.00
+2007,13,31,Sanidad,6485247127.00
+2007,13,32,Educación,4528485832.00
+2007,13,33,Cultura,316002945.00
+2007,13,41,"Agricultura, Pesca y Alimentación",51618417.00
+2007,13,42,Industria y Energía,28061851.00
+2007,13,43,"Comercio, Turismo y Pymes",42085638.00
+2007,13,45,Infraestructuras,1941489618.00
+2007,13,46,"Investigación, Desarrollo e Innovación",150257798.00
+2007,13,49,Otras Actuaciones de Carácter Económico,37185228.00
+2007,13,91,Alta Dirección,37581470.00
+2007,13,92,Servicios de Carácter General,658381000.00
+2007,13,93,Administración Financiera y Tributaria,143744912.00
+2007,13,94,Transferencias a otras Administraciones Públicas,84510208.00
+2007,13,95,Deuda Pública,711208013.00
+2008,13,11,Justicia,469772279.00
+2008,13,13,Seguridad Ciudadana e Instituciones Penitenciarias,240592806.00
+2008,13,14,Política Exterior,39534361.00
+2008,13,23,Servicios Sociales y Promoción Social,1349018460.00
+2008,13,24,Fomento del Empleo,549436172.00
+2008,13,26,Acceso a la Vivienda y Fomento de la Edificación,540911816.00
+2008,13,31,Sanidad,6877602853.00
+2008,13,32,Educación,4701222488.00
+2008,13,33,Cultura,306361253.00
+2008,13,41,"Agricultura, Pesca y Alimentación",51524068.00
+2008,13,42,Industria y Energía,27577202.00
+2008,13,43,"Comercio, Turismo y Pymes",52976870.00
+2008,13,45,Infraestructuras,1949046158.00
+2008,13,46,"Investigación, Desarrollo e Innovación",156694700.00
+2008,13,49,Otras Actuaciones de Carácter Económico,42000054.00
+2008,13,91,Alta Dirección,41169357.00
+2008,13,92,Servicios de Carácter General,612984967.00
+2008,13,93,Administración Financiera y Tributaria,141233107.00
+2008,13,94,Transferencias a otras Administraciones Públicas,70620747.00
+2008,13,95,Deuda Pública,764334716.00
+2009,13,11,Justicia,405335889.00
+2009,13,13,Seguridad Ciudadana e Instituciones Penitenciarias,283911182.00
+2009,13,14,Política Exterior,40427197.00
+2009,13,23,Servicios Sociales y Promoción Social,1402030654.00
+2009,13,24,Fomento del Empleo,550261682.00
+2009,13,26,Acceso a la Vivienda y Fomento de la Edificación,503906666.00
+2009,13,31,Sanidad,7047430980.00
+2009,13,32,Educación,4744670928.00
+2009,13,33,Cultura,298367702.00
+2009,13,42,Industria y Energía,27941367.00
+2009,13,43,"Comercio, Turismo y Pymes",48693638.00
+2009,13,45,Infraestructuras,2210183874.00
+2009,13,46,"Investigación, Desarrollo e Innovación",150416975.00
+2009,13,49,Otras Actuaciones de Carácter Económico,42389310.00
+2009,13,91,Alta Dirección,47133886.00
+2009,13,92,Servicios de Carácter General,714948301.00
+2009,13,93,Administración Financiera y Tributaria,136070842.00
+2009,13,94,Transferencias a otras Administraciones Públicas,56973002.00
+2009,13,95,Deuda Pública,1272405939.00
+2010,13,11,Justicia,415322995.00
+2010,13,13,Seguridad Ciudadana e Instituciones Penitenciarias,283992231.00
+2010,13,14,Política Exterior,37335796.00
+2010,13,23,Servicios Sociales y Promoción Social,1449832408.00
+2010,13,24,Fomento del Empleo,530301342.00
+2010,13,26,Acceso a la Vivienda y Fomento de la Edificación,427793418.00
+2010,13,31,Sanidad,7010146715.00
+2010,13,32,Educación,4709236526.00
+2010,13,33,Cultura,233146553.00
+2010,13,42,Industria y Energía,22746331.00
+2010,13,43,"Comercio, Turismo y Pymes",40627150.00
+2010,13,45,Infraestructuras,1926707345.00
+2010,13,46,"Investigación, Desarrollo e Innovación",130784868.00
+2010,13,49,Otras Actuaciones de Carácter Económico,38693861.00
+2010,13,91,Alta Dirección,46561148.00
+2010,13,92,Servicios de Carácter General,764518498.00
+2010,13,93,Administración Financiera y Tributaria,101686167.00
+2010,13,94,Transferencias a otras Administraciones Públicas,55828387.00
+2010,13,95,Deuda Pública,986146388.00
+2011,13,11,Justicia,410419648.00
+2011,13,13,Seguridad Ciudadana e Instituciones Penitenciarias,267988781.00
+2011,13,14,Política Exterior,31861464.00
+2011,13,23,Servicios Sociales y Promoción Social,1391412404.00
+2011,13,24,Fomento del Empleo,529067990.00
+2011,13,26,Acceso a la Vivienda y Fomento de la Edificación,328265139.00
+2011,13,31,Sanidad,7069216347.00
+2011,13,32,Educación,4481304065.00
+2011,13,33,Cultura,200482239.00
+2011,13,42,Industria y Energía,14051856.00
+2011,13,43,"Comercio, Turismo y Pymes",30496147.00
+2011,13,45,Infraestructuras,1784920214.00
+2011,13,46,"Investigación, Desarrollo e Innovación",110040361.00
+2011,13,49,Otras Actuaciones de Carácter Económico,33507536.00
+2011,13,91,Alta Dirección,43531851.00
+2011,13,92,Servicios de Carácter General,713284680.00
+2011,13,93,Administración Financiera y Tributaria,90253979.00
+2011,13,94,Transferencias a otras Administraciones Públicas,48986706.00
+2011,13,95,Deuda Pública,1189236521.00
+2012,13,11,Justicia,412456691.00
+2012,13,13,Seguridad Ciudadana e Instituciones Penitenciarias,247807663.00
+2012,13,14,Política Exterior,2137763.00
+2012,13,23,Servicios Sociales y Promoción Social,1415673059.00
+2012,13,24,Fomento del Empleo,253394465.00
+2012,13,26,Acceso a la Vivienda y Fomento de la Edificación,292176919.00
+2012,13,31,Sanidad,7111507712.00
+2012,13,32,Educación,4716348951.00
+2012,13,33,Cultura,171455368.00
+2012,13,42,Industria y Energía,14826929.00
+2012,13,43,"Comercio, Turismo y Pymes",18163998.00
+2012,13,45,Infraestructuras,1788881590.00
+2012,13,46,"Investigación, Desarrollo e Innovación",138832810.00
+2012,13,49,Otras Actuaciones de Carácter Económico,43306874.00
+2012,13,91,Alta Dirección,43369321.00
+2012,13,92,Servicios de Carácter General,3210404052.00
+2012,13,93,Administración Financiera y Tributaria,76161794.00
+2012,13,94,Transferencias a otras Administraciones Públicas,39701213.00
+2012,13,95,Deuda Pública,2046162217.00
+2013,13,11,Justicia,391165104.00
+2013,13,13,Seguridad Ciudadana e Instituciones Penitenciarias,189558057.00
+2013,13,14,Política Exterior,2776921.00
+2013,13,23,Servicios Sociales y Promoción Social,1305069017.00
+2013,13,24,Fomento del Empleo,229605071.00
+2013,13,26,Acceso a la Vivienda y Fomento de la Edificación,206307946.00
+2013,13,31,Sanidad,7072737170.00
+2013,13,32,Educación,4141546839.00
+2013,13,33,Cultura,130020712.00
+2013,13,42,Industria y Energía,10567199.00
+2013,13,43,"Comercio, Turismo y Pymes",10378337.00
+2013,13,45,Infraestructuras,1419740180.00
+2013,13,46,"Investigación, Desarrollo e Innovación",77895127.00
+2013,13,49,Otras Actuaciones de Carácter Económico,25975093.00
+2013,13,91,Alta Dirección,39073562.00
+2013,13,92,Servicios de Carácter General,767778057.00
+2013,13,93,Administración Financiera y Tributaria,69359172.00
+2013,13,94,Transferencias a otras Administraciones Públicas,55077009.00
+2013,13,95,Deuda Pública,3049064188.00
+2006,14,13,Seguridad Ciudadana e Instituciones Penitenciarias,30032851.00
+2006,14,14,Política Exterior,4273519.00
+2006,14,21,Pensiones,1888236.00
+2006,14,23,Servicios Sociales y Promoción Social,187349675.00
+2006,14,24,Fomento del Empleo,96300037.00
+2006,14,26,Acceso a la Vivienda y Fomento de la Edificación,31210787.00
+2006,14,29,Gestión y Administración de la Seguridad Social,9873593.00
+2006,14,31,Sanidad,1354657467.00
+2006,14,32,Educación,1015488959.00
+2006,14,33,Cultura,52835264.00
+2006,14,41,"Agricultura, Pesca y Alimentación",245474409.00
+2006,14,42,Industria y Energía,69030463.00
+2006,14,43,"Comercio, Turismo y Pymes",29307941.00
+2006,14,45,Infraestructuras,212836478.00
+2006,14,46,"Investigación, Desarrollo e Innovación",27616468.00
+2006,14,49,Otras Actuaciones de Carácter Económico,20221469.00
+2006,14,91,Alta Dirección,20384544.00
+2006,14,92,Servicios de Carácter General,166964910.00
+2006,14,93,Administración Financiera y Tributaria,30174844.00
+2006,14,95,Deuda Pública,48034337.00
+2007,14,13,Seguridad Ciudadana e Instituciones Penitenciarias,38623100.00
+2007,14,14,Política Exterior,4942839.00
+2007,14,21,Pensiones,16101406.00
+2007,14,23,Servicios Sociales y Promoción Social,214683808.00
+2007,14,24,Fomento del Empleo,92404797.00
+2007,14,26,Acceso a la Vivienda y Fomento de la Edificación,33597618.00
+2007,14,29,Gestión y Administración de la Seguridad Social,10671871.00
+2007,14,31,Sanidad,1530434372.00
+2007,14,32,Educación,1144059114.00
+2007,14,33,Cultura,73597778.00
+2007,14,41,"Agricultura, Pesca y Alimentación",255495419.00
+2007,14,42,Industria y Energía,83078438.00
+2007,14,43,"Comercio, Turismo y Pymes",33652552.00
+2007,14,45,Infraestructuras,278353767.00
+2007,14,46,"Investigación, Desarrollo e Innovación",35907654.00
+2007,14,49,Otras Actuaciones de Carácter Económico,26847542.00
+2007,14,91,Alta Dirección,24414329.00
+2007,14,92,Servicios de Carácter General,192305882.00
+2007,14,93,Administración Financiera y Tributaria,31806652.00
+2007,14,95,Deuda Pública,60495296.00
+2008,14,13,Seguridad Ciudadana e Instituciones Penitenciarias,53779879.00
+2008,14,14,Política Exterior,6965230.00
+2008,14,21,Pensiones,1416177.00
+2008,14,23,Servicios Sociales y Promoción Social,271094822.00
+2008,14,24,Fomento del Empleo,115806342.00
+2008,14,26,Acceso a la Vivienda y Fomento de la Edificación,35439788.00
+2008,14,29,Gestión y Administración de la Seguridad Social,11304513.00
+2008,14,31,Sanidad,1725819797.00
+2008,14,32,Educación,1283028374.00
+2008,14,33,Cultura,86683128.00
+2008,14,41,"Agricultura, Pesca y Alimentación",278424838.00
+2008,14,42,Industria y Energía,77164071.00
+2008,14,43,"Comercio, Turismo y Pymes",38560332.00
+2008,14,45,Infraestructuras,353544551.00
+2008,14,46,"Investigación, Desarrollo e Innovación",45170683.00
+2008,14,49,Otras Actuaciones de Carácter Económico,28871086.00
+2008,14,91,Alta Dirección,22460735.00
+2008,14,92,Servicios de Carácter General,209943570.00
+2008,14,93,Administración Financiera y Tributaria,35813338.00
+2008,14,95,Deuda Pública,51300508.00
+2009,14,13,Seguridad Ciudadana e Instituciones Penitenciarias,51492747.00
+2009,14,14,Política Exterior,6071715.00
+2009,14,21,Pensiones,1258824.00
+2009,14,23,Servicios Sociales y Promoción Social,291515720.00
+2009,14,24,Fomento del Empleo,127794707.00
+2009,14,26,Acceso a la Vivienda y Fomento de la Edificación,38821496.00
+2009,14,29,Gestión y Administración de la Seguridad Social,7699448.00
+2009,14,31,Sanidad,1812039338.00
+2009,14,32,Educación,1390164829.00
+2009,14,33,Cultura,90412975.00
+2009,14,41,"Agricultura, Pesca y Alimentación",286895514.00
+2009,14,42,Industria y Energía,75387675.00
+2009,14,43,"Comercio, Turismo y Pymes",32895463.00
+2009,14,45,Infraestructuras,405070821.00
+2009,14,46,"Investigación, Desarrollo e Innovación",45049000.00
+2009,14,49,Otras Actuaciones de Carácter Económico,88626656.00
+2009,14,91,Alta Dirección,23284907.00
+2009,14,92,Servicios de Carácter General,200815023.00
+2009,14,93,Administración Financiera y Tributaria,36272644.00
+2009,14,95,Deuda Pública,123881656.00
+2010,14,13,Seguridad Ciudadana e Instituciones Penitenciarias,50688033.00
+2010,14,14,Política Exterior,3099857.00
+2010,14,21,Pensiones,629412.00
+2010,14,23,Servicios Sociales y Promoción Social,339236086.00
+2010,14,24,Fomento del Empleo,115194883.00
+2010,14,26,Acceso a la Vivienda y Fomento de la Edificación,30019933.00
+2010,14,29,Gestión y Administración de la Seguridad Social,9989140.00
+2010,14,31,Sanidad,1930029873.00
+2010,14,32,Educación,1469262539.00
+2010,14,33,Cultura,68562141.00
+2010,14,41,"Agricultura, Pesca y Alimentación",258834886.00
+2010,14,42,Industria y Energía,28846492.00
+2010,14,43,"Comercio, Turismo y Pymes",21196838.00
+2010,14,45,Infraestructuras,308709422.00
+2010,14,46,"Investigación, Desarrollo e Innovación",34763578.00
+2010,14,49,Otras Actuaciones de Carácter Económico,23608720.00
+2010,14,91,Alta Dirección,24899153.00
+2010,14,92,Servicios de Carácter General,151528771.00
+2010,14,93,Administración Financiera y Tributaria,37317034.00
+2010,14,95,Deuda Pública,159134831.00
+2011,14,11,Justicia,3127626.00
+2011,14,13,Seguridad Ciudadana e Instituciones Penitenciarias,48125184.00
+2011,14,14,Política Exterior,2115530.00
+2011,14,21,Pensiones,514020.00
+2011,14,23,Servicios Sociales y Promoción Social,314975135.00
+2011,14,24,Fomento del Empleo,120103945.00
+2011,14,26,Acceso a la Vivienda y Fomento de la Edificación,30406149.00
+2011,14,29,Gestión y Administración de la Seguridad Social,29670618.00
+2011,14,31,Sanidad,1969146286.00
+2011,14,32,Educación,1381031821.00
+2011,14,33,Cultura,54526631.00
+2011,14,41,"Agricultura, Pesca y Alimentación",243639114.00
+2011,14,42,Industria y Energía,52113139.00
+2011,14,43,"Comercio, Turismo y Pymes",18088142.00
+2011,14,45,Infraestructuras,222580544.00
+2011,14,46,"Investigación, Desarrollo e Innovación",33134693.00
+2011,14,49,Otras Actuaciones de Carácter Económico,18231633.00
+2011,14,91,Alta Dirección,59944582.00
+2011,14,92,Servicios de Carácter General,100513723.00
+2011,14,93,Administración Financiera y Tributaria,34142311.00
+2011,14,95,Deuda Pública,181921496.00
+2012,14,13,Seguridad Ciudadana e Instituciones Penitenciarias,54927644.00
+2012,14,14,Política Exterior,1367952.00
+2012,14,21,Pensiones,462618.00
+2012,14,23,Servicios Sociales y Promoción Social,341222002.00
+2012,14,24,Fomento del Empleo,103249300.00
+2012,14,26,Acceso a la Vivienda y Fomento de la Edificación,19236032.00
+2012,14,29,Gestión y Administración de la Seguridad Social,8117456.00
+2012,14,31,Sanidad,1747878075.00
+2012,14,32,Educación,1330346900.00
+2012,14,33,Cultura,47575533.00
+2012,14,41,"Agricultura, Pesca y Alimentación",134442253.00
+2012,14,42,Industria y Energía,28637445.00
+2012,14,43,"Comercio, Turismo y Pymes",17449114.00
+2012,14,45,Infraestructuras,179299092.00
+2012,14,46,"Investigación, Desarrollo e Innovación",38373568.00
+2012,14,49,Otras Actuaciones de Carácter Económico,17553802.00
+2012,14,91,Alta Dirección,48498951.00
+2012,14,92,Servicios de Carácter General,57100493.00
+2012,14,93,Administración Financiera y Tributaria,35016486.00
+2012,14,95,Deuda Pública,623597336.00
+2013,14,13,Seguridad Ciudadana e Instituciones Penitenciarias,42514203.00
+2013,14,14,Política Exterior,989162.00
+2013,14,21,Pensiones,262255.00
+2013,14,23,Servicios Sociales y Promoción Social,270992274.00
+2013,14,24,Fomento del Empleo,51229566.00
+2013,14,25,Desempleo,12842791.00
+2013,14,26,Acceso a la Vivienda y Fomento de la Edificación,47399747.00
+2013,14,29,Gestión y Administración de la Seguridad Social,7392465.00
+2013,14,31,Sanidad,1523280482.00
+2013,14,32,Educación,1210328419.00
+2013,14,33,Cultura,44977585.00
+2013,14,41,"Agricultura, Pesca y Alimentación",115171701.00
+2013,14,42,Industria y Energía,21275290.00
+2013,14,43,"Comercio, Turismo y Pymes",1481866.00
+2013,14,45,Infraestructuras,152197607.00
+2013,14,46,"Investigación, Desarrollo e Innovación",20801462.00
+2013,14,49,Otras Actuaciones de Carácter Económico,15197934.00
+2013,14,91,Alta Dirección,26472466.00
+2013,14,92,Servicios de Carácter General,55431345.00
+2013,14,93,Administración Financiera y Tributaria,29493156.00
+2013,14,95,Deuda Pública,826533988.00
+2006,15,11,Justicia,24376626.00
+2006,15,13,Seguridad Ciudadana e Instituciones Penitenciarias,68541104.00
+2006,15,14,Política Exterior,19991528.00
+2006,15,21,Pensiones,13969778.00
+2006,15,22,Otras Prestaciones Económicas,43100354.00
+2006,15,23,Servicios Sociales y Promoción Social,167302099.00
+2006,15,24,Fomento del Empleo,63586354.00
+2006,15,26,Acceso a la Vivienda y Fomento de la Edificación,217164417.00
+2006,15,31,Sanidad,731319913.00
+2006,15,32,Educación,508625826.00
+2006,15,33,Cultura,92946271.00
+2006,15,41,"Agricultura, Pesca y Alimentación",122651905.00
+2006,15,42,Industria y Energía,156484603.00
+2006,15,43,"Comercio, Turismo y Pymes",18400641.00
+2006,15,44,Subvenciones al Transporte,6860189.00
+2006,15,45,Infraestructuras,213880357.00
+2006,15,46,"Investigación, Desarrollo e Innovación",64340609.00
+2006,15,49,Otras Actuaciones de Carácter Económico,14371263.00
+2006,15,91,Alta Dirección,18830220.00
+2006,15,92,Servicios de Carácter General,99427179.00
+2006,15,93,Administración Financiera y Tributaria,27220057.00
+2006,15,94,Transferencias a otras Administraciones Públicas,652287006.00
+2006,15,95,Deuda Pública,34494001.00
+2007,15,11,Justicia,26360302.00
+2007,15,13,Seguridad Ciudadana e Instituciones Penitenciarias,82137838.00
+2007,15,14,Política Exterior,22214749.00
+2007,15,21,Pensiones,65618291.00
+2007,15,22,Otras Prestaciones Económicas,49288423.00
+2007,15,23,Servicios Sociales y Promoción Social,200805249.00
+2007,15,24,Fomento del Empleo,67732563.00
+2007,15,26,Acceso a la Vivienda y Fomento de la Edificación,250296366.00
+2007,15,31,Sanidad,806937983.00
+2007,15,32,Educación,557779868.00
+2007,15,33,Cultura,97057872.00
+2007,15,41,"Agricultura, Pesca y Alimentación",134155939.00
+2007,15,42,Industria y Energía,224752461.00
+2007,15,43,"Comercio, Turismo y Pymes",21562054.00
+2007,15,44,Subvenciones al Transporte,10207413.00
+2007,15,45,Infraestructuras,227617369.00
+2007,15,46,"Investigación, Desarrollo e Innovación",122378136.00
+2007,15,49,Otras Actuaciones de Carácter Económico,7775065.00
+2007,15,91,Alta Dirección,19167866.00
+2007,15,92,Servicios de Carácter General,105235470.00
+2007,15,93,Administración Financiera y Tributaria,17440670.00
+2007,15,94,Transferencias a otras Administraciones Públicas,754870042.00
+2007,15,95,Deuda Pública,29942558.00
+2008,15,11,Justicia,29814797.00
+2008,15,13,Seguridad Ciudadana e Instituciones Penitenciarias,93460751.00
+2008,15,14,Política Exterior,26295055.00
+2008,15,21,Pensiones,13335281.00
+2008,15,22,Otras Prestaciones Económicas,52698300.00
+2008,15,23,Servicios Sociales y Promoción Social,293957730.00
+2008,15,24,Fomento del Empleo,70691811.00
+2008,15,26,Acceso a la Vivienda y Fomento de la Edificación,273881959.00
+2008,15,31,Sanidad,876547957.00
+2008,15,32,Educación,637058935.00
+2008,15,33,Cultura,109166077.00
+2008,15,41,"Agricultura, Pesca y Alimentación",150512476.00
+2008,15,42,Industria y Energía,238842817.00
+2008,15,43,"Comercio, Turismo y Pymes",27361417.00
+2008,15,44,Subvenciones al Transporte,23962275.00
+2008,15,45,Infraestructuras,224519000.00
+2008,15,46,"Investigación, Desarrollo e Innovación",142486767.00
+2008,15,49,Otras Actuaciones de Carácter Económico,9311514.00
+2008,15,91,Alta Dirección,20214302.00
+2008,15,92,Servicios de Carácter General,127072053.00
+2008,15,93,Administración Financiera y Tributaria,22187743.00
+2008,15,94,Transferencias a otras Administraciones Públicas,795916071.00
+2008,15,95,Deuda Pública,28033001.00
+2009,15,11,Justicia,33139164.00
+2009,15,13,Seguridad Ciudadana e Instituciones Penitenciarias,89643760.00
+2009,15,14,Política Exterior,24941868.00
+2009,15,21,Pensiones,13077000.00
+2009,15,22,Otras Prestaciones Económicas,57358300.00
+2009,15,23,Servicios Sociales y Promoción Social,324623151.00
+2009,15,24,Fomento del Empleo,85218484.00
+2009,15,26,Acceso a la Vivienda y Fomento de la Edificación,283718066.00
+2009,15,31,Sanidad,901518462.00
+2009,15,32,Educación,651808456.00
+2009,15,33,Cultura,99169760.00
+2009,15,41,"Agricultura, Pesca y Alimentación",135756963.00
+2009,15,42,Industria y Energía,247498396.00
+2009,15,43,"Comercio, Turismo y Pymes",22806087.00
+2009,15,44,Subvenciones al Transporte,10310440.00
+2009,15,45,Infraestructuras,258298053.00
+2009,15,46,"Investigación, Desarrollo e Innovación",117798132.00
+2009,15,49,Otras Actuaciones de Carácter Económico,9208584.00
+2009,15,91,Alta Dirección,20413792.00
+2009,15,92,Servicios de Carácter General,110343517.00
+2009,15,93,Administración Financiera y Tributaria,22852471.00
+2009,15,94,Transferencias a otras Administraciones Públicas,736533123.00
+2009,15,95,Deuda Pública,45719001.00
+2010,15,11,Justicia,35613564.00
+2010,15,13,Seguridad Ciudadana e Instituciones Penitenciarias,90490225.00
+2010,15,14,Política Exterior,25268752.00
+2010,15,21,Pensiones,11867000.00
+2010,15,22,Otras Prestaciones Económicas,60580000.00
+2010,15,23,Servicios Sociales y Promoción Social,324594025.00
+2010,15,24,Fomento del Empleo,79882239.00
+2010,15,26,Acceso a la Vivienda y Fomento de la Edificación,261986186.00
+2010,15,31,Sanidad,972605139.00
+2010,15,32,Educación,677372230.00
+2010,15,33,Cultura,113473015.00
+2010,15,41,"Agricultura, Pesca y Alimentación",136164149.00
+2010,15,42,Industria y Energía,225844630.00
+2010,15,43,"Comercio, Turismo y Pymes",27120151.00
+2010,15,44,Subvenciones al Transporte,27652917.00
+2010,15,45,Infraestructuras,230450960.00
+2010,15,46,"Investigación, Desarrollo e Innovación",130614911.00
+2010,15,49,Otras Actuaciones de Carácter Económico,9189979.00
+2010,15,91,Alta Dirección,20812785.00
+2010,15,92,Servicios de Carácter General,121536307.00
+2010,15,93,Administración Financiera y Tributaria,22534203.00
+2010,15,94,Transferencias a otras Administraciones Públicas,747772676.00
+2010,15,95,Deuda Pública,55801001.00
+2011,15,11,Justicia,32355165.00
+2011,15,13,Seguridad Ciudadana e Instituciones Penitenciarias,87263789.00
+2011,15,14,Política Exterior,24575676.00
+2011,15,21,Pensiones,11850000.00
+2011,15,22,Otras Prestaciones Económicas,62952525.00
+2011,15,23,Servicios Sociales y Promoción Social,322875395.00
+2011,15,24,Fomento del Empleo,91047782.00
+2011,15,26,Acceso a la Vivienda y Fomento de la Edificación,246349985.00
+2011,15,31,Sanidad,963231560.00
+2011,15,32,Educación,643428253.00
+2011,15,33,Cultura,95059629.00
+2011,15,41,"Agricultura, Pesca y Alimentación",133176282.00
+2011,15,42,Industria y Energía,136824150.00
+2011,15,43,"Comercio, Turismo y Pymes",19621667.00
+2011,15,44,Subvenciones al Transporte,26452682.00
+2011,15,45,Infraestructuras,229349645.00
+2011,15,46,"Investigación, Desarrollo e Innovación",135033617.00
+2011,15,49,Otras Actuaciones de Carácter Económico,10399621.00
+2011,15,91,Alta Dirección,19828589.00
+2011,15,92,Servicios de Carácter General,75128234.00
+2011,15,93,Administración Financiera y Tributaria,18683450.00
+2011,15,94,Transferencias a otras Administraciones Públicas,742205643.00
+2011,15,95,Deuda Pública,60586458.00
+2012,15,11,Justicia,29867474.00
+2012,15,13,Seguridad Ciudadana e Instituciones Penitenciarias,86931673.00
+2012,15,14,Política Exterior,21479662.00
+2012,15,21,Pensiones,13029000.00
+2012,15,22,Otras Prestaciones Económicas,69668438.00
+2012,15,23,Servicios Sociales y Promoción Social,261471568.00
+2012,15,24,Fomento del Empleo,67290725.00
+2012,15,26,Acceso a la Vivienda y Fomento de la Edificación,73530275.00
+2012,15,31,Sanidad,910206467.00
+2012,15,32,Educación,598873795.00
+2012,15,33,Cultura,68468642.00
+2012,15,41,"Agricultura, Pesca y Alimentación",111951284.00
+2012,15,42,Industria y Energía,57987527.00
+2012,15,43,"Comercio, Turismo y Pymes",15200589.00
+2012,15,44,Subvenciones al Transporte,27291529.00
+2012,15,45,Infraestructuras,303401091.00
+2012,15,46,"Investigación, Desarrollo e Innovación",80362837.00
+2012,15,49,Otras Actuaciones de Carácter Económico,9028186.00
+2012,15,91,Alta Dirección,18837778.00
+2012,15,92,Servicios de Carácter General,76752453.00
+2012,15,93,Administración Financiera y Tributaria,14969008.00
+2012,15,94,Transferencias a otras Administraciones Públicas,745129800.00
+2012,15,95,Deuda Pública,175987013.00
+2013,15,11,Justicia,23642375.00
+2013,15,13,Seguridad Ciudadana e Instituciones Penitenciarias,79490205.00
+2013,15,14,Política Exterior,8045631.00
+2013,15,21,Pensiones,13655500.00
+2013,15,22,Otras Prestaciones Económicas,74338719.00
+2013,15,23,Servicios Sociales y Promoción Social,232281090.00
+2013,15,24,Fomento del Empleo,52810423.00
+2013,15,26,Acceso a la Vivienda y Fomento de la Edificación,69985625.00
+2013,15,31,Sanidad,855106435.00
+2013,15,32,Educación,559989552.00
+2013,15,33,Cultura,54771305.00
+2013,15,41,"Agricultura, Pesca y Alimentación",90581209.00
+2013,15,42,Industria y Energía,38701882.00
+2013,15,43,"Comercio, Turismo y Pymes",8160157.00
+2013,15,44,Subvenciones al Transporte,19276610.00
+2013,15,45,Infraestructuras,204548682.00
+2013,15,46,"Investigación, Desarrollo e Innovación",54457415.00
+2013,15,49,Otras Actuaciones de Carácter Económico,7092228.00
+2013,15,91,Alta Dirección,18298738.00
+2013,15,92,Servicios de Carácter General,61326254.00
+2013,15,93,Administración Financiera y Tributaria,16071066.00
+2013,15,94,Transferencias a otras Administraciones Públicas,761108713.00
+2013,15,95,Deuda Pública,293319830.00
+2006,16,11,Justicia,126013548.00
+2006,16,13,Seguridad Ciudadana e Instituciones Penitenciarias,521457703.00
+2006,16,14,Política Exterior,44864905.00
+2006,16,23,Servicios Sociales y Promoción Social,312763464.00
+2006,16,24,Fomento del Empleo,77612268.00
+2006,16,26,Acceso a la Vivienda y Fomento de la Edificación,189076382.00
+2006,16,31,Sanidad,2513300399.00
+2006,16,32,Educación,2093549995.00
+2006,16,33,Cultura,66631037.00
+2006,16,41,"Agricultura, Pesca y Alimentación",136402709.00
+2006,16,42,Industria y Energía,52536445.00
+2006,16,43,"Comercio, Turismo y Pymes",61322129.00
+2006,16,45,Infraestructuras,392249469.00
+2006,16,46,"Investigación, Desarrollo e Innovación",238033886.00
+2006,16,49,Otras Actuaciones de Carácter Económico,75447344.00
+2006,16,91,Alta Dirección,50918908.00
+2006,16,92,Servicios de Carácter General,394381712.00
+2006,16,93,Administración Financiera y Tributaria,55346395.00
+2006,16,95,Deuda Pública,228975142.00
+2007,16,11,Justicia,136972000.00
+2007,16,13,Seguridad Ciudadana e Instituciones Penitenciarias,584124000.00
+2007,16,14,Política Exterior,50467000.00
+2007,16,23,Servicios Sociales y Promoción Social,334185000.00
+2007,16,24,Fomento del Empleo,79200434.00
+2007,16,26,Acceso a la Vivienda y Fomento de la Edificación,196745000.00
+2007,16,31,Sanidad,2833909600.00
+2007,16,32,Educación,2310581695.00
+2007,16,33,Cultura,74343000.00
+2007,16,41,"Agricultura, Pesca y Alimentación",140335000.00
+2007,16,42,Industria y Energía,54467000.00
+2007,16,43,"Comercio, Turismo y Pymes",69438000.00
+2007,16,45,Infraestructuras,683179300.00
+2007,16,46,"Investigación, Desarrollo e Innovación",249346000.00
+2007,16,49,Otras Actuaciones de Carácter Económico,95339000.00
+2007,16,91,Alta Dirección,57274000.00
+2007,16,92,Servicios de Carácter General,458520880.00
+2007,16,93,Administración Financiera y Tributaria,58585000.00
+2007,16,95,Deuda Pública,279047200.00
+2008,16,11,Justicia,161894000.00
+2008,16,13,Seguridad Ciudadana e Instituciones Penitenciarias,638834000.00
+2008,16,14,Política Exterior,59397000.00
+2008,16,23,Servicios Sociales y Promoción Social,368884494.00
+2008,16,24,Fomento del Empleo,81278443.00
+2008,16,26,Acceso a la Vivienda y Fomento de la Edificación,207366000.00
+2008,16,31,Sanidad,3179261000.00
+2008,16,32,Educación,2489636568.00
+2008,16,33,Cultura,75309000.00
+2008,16,41,"Agricultura, Pesca y Alimentación",148741800.00
+2008,16,42,Industria y Energía,28359000.00
+2008,16,43,"Comercio, Turismo y Pymes",76231000.00
+2008,16,45,Infraestructuras,992992100.00
+2008,16,46,"Investigación, Desarrollo e Innovación",313493700.00
+2008,16,49,Otras Actuaciones de Carácter Económico,148686200.00
+2008,16,91,Alta Dirección,62373000.00
+2008,16,92,Servicios de Carácter General,603183944.00
+2008,16,93,Administración Financiera y Tributaria,42357000.00
+2008,16,95,Deuda Pública,266919100.00
+2009,16,11,Justicia,174828000.00
+2009,16,13,Seguridad Ciudadana e Instituciones Penitenciarias,668424975.00
+2009,16,14,Política Exterior,65114000.00
+2009,16,23,Servicios Sociales y Promoción Social,444669394.00
+2009,16,24,Fomento del Empleo,84959653.00
+2009,16,26,Acceso a la Vivienda y Fomento de la Edificación,212102000.00
+2009,16,31,Sanidad,3447709000.00
+2009,16,32,Educación,2673957000.00
+2009,16,33,Cultura,87116000.00
+2009,16,41,"Agricultura, Pesca y Alimentación",155253200.00
+2009,16,42,Industria y Energía,28542000.00
+2009,16,43,"Comercio, Turismo y Pymes",82435000.00
+2009,16,45,Infraestructuras,1045968100.00
+2009,16,46,"Investigación, Desarrollo e Innovación",350172200.00
+2009,16,49,Otras Actuaciones de Carácter Económico,131098000.00
+2009,16,91,Alta Dirección,67115000.00
+2009,16,92,Servicios de Carácter General,605127789.00
+2009,16,93,Administración Financiera y Tributaria,39860000.00
+2009,16,95,Deuda Pública,133777500.00
+2010,16,11,Justicia,178525000.00
+2010,16,13,Seguridad Ciudadana e Instituciones Penitenciarias,702330571.00
+2010,16,14,Política Exterior,62123000.00
+2010,16,23,Servicios Sociales y Promoción Social,495006755.00
+2010,16,24,Fomento del Empleo,78847941.00
+2010,16,26,Acceso a la Vivienda y Fomento de la Edificación,185690000.00
+2010,16,31,Sanidad,3523625000.00
+2010,16,32,Educación,2784872276.00
+2010,16,33,Cultura,86897000.00
+2010,16,41,"Agricultura, Pesca y Alimentación",138616000.00
+2010,16,42,Industria y Energía,32436000.00
+2010,16,43,"Comercio, Turismo y Pymes",91402000.00
+2010,16,45,Infraestructuras,649867000.00
+2010,16,46,"Investigación, Desarrollo e Innovación",362967000.00
+2010,16,49,Otras Actuaciones de Carácter Económico,96447000.00
+2010,16,91,Alta Dirección,58941000.00
+2010,16,92,Servicios de Carácter General,534431871.00
+2010,16,93,Administración Financiera y Tributaria,25889000.00
+2010,16,95,Deuda Pública,245141000.00
+2011,16,11,Justicia,173233000.00
+2011,16,13,Seguridad Ciudadana e Instituciones Penitenciarias,695915926.00
+2011,16,14,Política Exterior,62292000.00
+2011,16,23,Servicios Sociales y Promoción Social,529097227.00
+2011,16,24,Fomento del Empleo,419166888.00
+2011,16,26,Acceso a la Vivienda y Fomento de la Edificación,171037200.00
+2011,16,31,Sanidad,3406370000.00
+2011,16,32,Educación,2699980293.00
+2011,16,33,Cultura,87241000.00
+2011,16,41,"Agricultura, Pesca y Alimentación",141310000.00
+2011,16,42,Industria y Energía,29454000.00
+2011,16,43,"Comercio, Turismo y Pymes",87851000.00
+2011,16,45,Infraestructuras,660036000.00
+2011,16,46,"Investigación, Desarrollo e Innovación",362379000.00
+2011,16,49,Otras Actuaciones de Carácter Económico,92531000.00
+2011,16,91,Alta Dirección,56937000.00
+2011,16,92,Servicios de Carácter General,540243656.00
+2011,16,93,Administración Financiera y Tributaria,26460000.00
+2011,16,95,Deuda Pública,325528300.00
+2012,16,11,Justicia,166946182.00
+2012,16,13,Seguridad Ciudadana e Instituciones Penitenciarias,649436762.00
+2012,16,14,Política Exterior,60131778.00
+2012,16,23,Servicios Sociales y Promoción Social,456372656.00
+2012,16,24,Fomento del Empleo,481238470.00
+2012,16,26,Acceso a la Vivienda y Fomento de la Edificación,153207286.00
+2012,16,31,Sanidad,3394022078.00
+2012,16,32,Educación,2685349880.00
+2012,16,33,Cultura,81663510.00
+2012,16,41,"Agricultura, Pesca y Alimentación",128635990.00
+2012,16,42,Industria y Energía,18310774.00
+2012,16,43,"Comercio, Turismo y Pymes",76939793.00
+2012,16,45,Infraestructuras,739548146.00
+2012,16,46,"Investigación, Desarrollo e Innovación",380496363.00
+2012,16,49,Otras Actuaciones de Carácter Económico,69596056.00
+2012,16,91,Alta Dirección,58651976.00
+2012,16,92,Servicios de Carácter General,429307737.00
+2012,16,93,Administración Financiera y Tributaria,25272770.00
+2012,16,95,Deuda Pública,419503600.00
+2013,16,11,Justicia,166946182.00
+2013,16,13,Seguridad Ciudadana e Instituciones Penitenciarias,649436762.00
+2013,16,14,Política Exterior,60131778.00
+2013,16,23,Servicios Sociales y Promoción Social,456372656.00
+2013,16,24,Fomento del Empleo,481238470.00
+2013,16,26,Acceso a la Vivienda y Fomento de la Edificación,153207286.00
+2013,16,31,Sanidad,3394022078.00
+2013,16,32,Educación,2685349880.00
+2013,16,33,Cultura,81663510.00
+2013,16,41,"Agricultura, Pesca y Alimentación",128635990.00
+2013,16,42,Industria y Energía,18310774.00
+2013,16,43,"Comercio, Turismo y Pymes",76939793.00
+2013,16,45,Infraestructuras,739548146.00
+2013,16,46,"Investigación, Desarrollo e Innovación",380496363.00
+2013,16,49,Otras Actuaciones de Carácter Económico,69596056.00
+2013,16,91,Alta Dirección,58651976.00
+2013,16,92,Servicios de Carácter General,429307737.00
+2013,16,93,Administración Financiera y Tributaria,25272770.00
+2013,16,95,Deuda Pública,419503600.00
+2006,17,13,Seguridad Ciudadana e Instituciones Penitenciarias,8610617.00
+2006,17,14,Política Exterior,5394877.00
+2006,17,21,Pensiones,60000.00
+2006,17,23,Servicios Sociales y Promoción Social,74661119.00
+2006,17,24,Fomento del Empleo,65549503.00
+2006,17,26,Acceso a la Vivienda y Fomento de la Edificación,18015650.00
+2006,17,31,Sanidad,423931392.00
+2006,17,32,Educación,205278827.00
+2006,17,33,Cultura,23528831.00
+2006,17,41,"Agricultura, Pesca y Alimentación",43677784.00
+2006,17,42,Industria y Energía,3590992.00
+2006,17,43,"Comercio, Turismo y Pymes",15560015.00
+2006,17,45,Infraestructuras,118331789.00
+2006,17,46,"Investigación, Desarrollo e Innovación",5200768.00
+2006,17,49,Otras Actuaciones de Carácter Económico,5995261.00
+2006,17,91,Alta Dirección,13647799.00
+2006,17,92,Servicios de Carácter General,44069741.00
+2006,17,93,Administración Financiera y Tributaria,10566465.00
+2006,17,95,Deuda Pública,27303570.00
+2007,17,13,Seguridad Ciudadana e Instituciones Penitenciarias,8995000.00
+2007,17,14,Política Exterior,6649000.00
+2007,17,21,Pensiones,50000.00
+2007,17,23,Servicios Sociales y Promoción Social,92558000.00
+2007,17,24,Fomento del Empleo,69346744.00
+2007,17,26,Acceso a la Vivienda y Fomento de la Edificación,15748000.00
+2007,17,31,Sanidad,465981332.00
+2007,17,32,Educación,232684275.00
+2007,17,33,Cultura,27187000.00
+2007,17,41,"Agricultura, Pesca y Alimentación",48158000.00
+2007,17,42,Industria y Energía,3756000.00
+2007,17,43,"Comercio, Turismo y Pymes",15343994.00
+2007,17,45,Infraestructuras,130482373.00
+2007,17,46,"Investigación, Desarrollo e Innovación",6816000.00
+2007,17,49,Otras Actuaciones de Carácter Económico,6069000.00
+2007,17,91,Alta Dirección,14264000.00
+2007,17,92,Servicios de Carácter General,48226000.00
+2007,17,93,Administración Financiera y Tributaria,12495000.00
+2007,17,95,Deuda Pública,27337639.00
+2008,17,13,Seguridad Ciudadana e Instituciones Penitenciarias,10365691.00
+2008,17,14,Política Exterior,7407157.00
+2008,17,21,Pensiones,40000.00
+2008,17,23,Servicios Sociales y Promoción Social,116913302.00
+2008,17,24,Fomento del Empleo,30268521.00
+2008,17,26,Acceso a la Vivienda y Fomento de la Edificación,15992269.00
+2008,17,31,Sanidad,449510765.00
+2008,17,32,Educación,253135918.00
+2008,17,33,Cultura,29415417.00
+2008,17,41,"Agricultura, Pesca y Alimentación",56486263.00
+2008,17,42,Industria y Energía,3869304.00
+2008,17,43,"Comercio, Turismo y Pymes",64664709.00
+2008,17,45,Infraestructuras,132672695.00
+2008,17,46,"Investigación, Desarrollo e Innovación",22862016.00
+2008,17,49,Otras Actuaciones de Carácter Económico,7621609.00
+2008,17,91,Alta Dirección,18095240.00
+2008,17,92,Servicios de Carácter General,39030758.00
+2008,17,93,Administración Financiera y Tributaria,16873232.00
+2008,17,95,Deuda Pública,27675676.00
+2009,17,13,Seguridad Ciudadana e Instituciones Penitenciarias,11086338.00
+2009,17,14,Política Exterior,6887064.00
+2009,17,21,Pensiones,35000.00
+2009,17,23,Servicios Sociales y Promoción Social,123212438.00
+2009,17,24,Fomento del Empleo,25634348.00
+2009,17,26,Acceso a la Vivienda y Fomento de la Edificación,15172416.00
+2009,17,31,Sanidad,446593676.00
+2009,17,32,Educación,252204900.00
+2009,17,33,Cultura,30131274.00
+2009,17,41,"Agricultura, Pesca y Alimentación",56243148.00
+2009,17,42,Industria y Energía,3679148.00
+2009,17,43,"Comercio, Turismo y Pymes",48941547.00
+2009,17,45,Infraestructuras,132640698.00
+2009,17,46,"Investigación, Desarrollo e Innovación",67314465.00
+2009,17,49,Otras Actuaciones de Carácter Económico,7396920.00
+2009,17,91,Alta Dirección,17262371.00
+2009,17,92,Servicios de Carácter General,38532459.00
+2009,17,93,Administración Financiera y Tributaria,17345780.00
+2009,17,95,Deuda Pública,30172217.00
+2010,17,13,Seguridad Ciudadana e Instituciones Penitenciarias,10414773.00
+2010,17,14,Política Exterior,6570199.00
+2010,17,23,Servicios Sociales y Promoción Social,136480467.00
+2010,17,24,Fomento del Empleo,31360220.00
+2010,17,26,Acceso a la Vivienda y Fomento de la Edificación,12798879.00
+2010,17,31,Sanidad,458568988.00
+2010,17,32,Educación,255123069.00
+2010,17,33,Cultura,29813988.00
+2010,17,41,"Agricultura, Pesca y Alimentación",53477133.00
+2010,17,42,Industria y Energía,4741603.00
+2010,17,43,"Comercio, Turismo y Pymes",47461932.00
+2010,17,45,Infraestructuras,128116980.00
+2010,17,46,"Investigación, Desarrollo e Innovación",69252627.00
+2010,17,49,Otras Actuaciones de Carácter Económico,7181552.00
+2010,17,91,Alta Dirección,15764914.00
+2010,17,92,Servicios de Carácter General,32641658.00
+2010,17,93,Administración Financiera y Tributaria,14925393.00
+2010,17,95,Deuda Pública,38367496.00
+2011,17,13,Seguridad Ciudadana e Instituciones Penitenciarias,7402468.00
+2011,17,14,Política Exterior,6069385.00
+2011,17,23,Servicios Sociales y Promoción Social,136561830.00
+2011,17,24,Fomento del Empleo,29624590.00
+2011,17,26,Acceso a la Vivienda y Fomento de la Edificación,8422974.00
+2011,17,31,Sanidad,429063197.00
+2011,17,32,Educación,234106527.00
+2011,17,33,Cultura,24358004.00
+2011,17,41,"Agricultura, Pesca y Alimentación",46256408.00
+2011,17,42,Industria y Energía,3819962.00
+2011,17,43,"Comercio, Turismo y Pymes",40305666.00
+2011,17,45,Infraestructuras,116306826.00
+2011,17,46,"Investigación, Desarrollo e Innovación",67019331.00
+2011,17,49,Otras Actuaciones de Carácter Económico,6147411.00
+2011,17,91,Alta Dirección,12863950.00
+2011,17,92,Servicios de Carácter General,25486897.00
+2011,17,93,Administración Financiera y Tributaria,13704984.00
+2011,17,95,Deuda Pública,55605604.00
+2012,17,11,Justicia,20861089.00
+2012,17,13,Seguridad Ciudadana e Instituciones Penitenciarias,11366116.00
+2012,17,14,Política Exterior,3741281.00
+2012,17,23,Servicios Sociales y Promoción Social,126493656.00
+2012,17,24,Fomento del Empleo,51081504.00
+2012,17,26,Acceso a la Vivienda y Fomento de la Edificación,8988618.00
+2012,17,31,Sanidad,417608761.00
+2012,17,32,Educación,233524392.00
+2012,17,33,Cultura,21084019.00
+2012,17,41,"Agricultura, Pesca y Alimentación",46776122.00
+2012,17,42,Industria y Energía,2644927.00
+2012,17,43,"Comercio, Turismo y Pymes",12020964.00
+2012,17,45,Infraestructuras,96705333.00
+2012,17,46,"Investigación, Desarrollo e Innovación",66870006.00
+2012,17,49,Otras Actuaciones de Carácter Económico,5485088.00
+2012,17,91,Alta Dirección,12131044.00
+2012,17,92,Servicios de Carácter General,22204442.00
+2012,17,93,Administración Financiera y Tributaria,10788237.00
+2012,17,95,Deuda Pública,95415696.00
+2013,17,11,Justicia,23329048.00
+2013,17,13,Seguridad Ciudadana e Instituciones Penitenciarias,10185743.00
+2013,17,14,Política Exterior,1776210.00
+2013,17,23,Servicios Sociales y Promoción Social,104919922.00
+2013,17,24,Fomento del Empleo,21707109.00
+2013,17,26,Acceso a la Vivienda y Fomento de la Edificación,7771435.00
+2013,17,31,Sanidad,393038226.00
+2013,17,32,Educación,229835628.00
+2013,17,33,Cultura,19048439.00
+2013,17,41,"Agricultura, Pesca y Alimentación",44650985.00
+2013,17,42,Industria y Energía,1807405.00
+2013,17,43,"Comercio, Turismo y Pymes",30074754.00
+2013,17,45,Infraestructuras,87379546.00
+2013,17,46,"Investigación, Desarrollo e Innovación",71009349.00
+2013,17,49,Otras Actuaciones de Carácter Económico,5183953.00
+2013,17,91,Alta Dirección,10687021.00
+2013,17,92,Servicios de Carácter General,19715779.00
+2013,17,93,Administración Financiera y Tributaria,15322663.00
+2013,17,95,Deuda Pública,127796182.00
+2006,10,11,Justicia,179327570.00
+2006,10,13,Seguridad Ciudadana e Instituciones Penitenciarias,57841110.00
+2006,10,14,Política Exterior,33182930.00
+2006,10,21,Pensiones,2583010.00
+2006,10,23,Servicios Sociales y Promoción Social,469230850.00
+2006,10,24,Fomento del Empleo,406793400.00
+2006,10,26,Acceso a la Vivienda y Fomento de la Edificación,239944400.00
+2006,10,31,Sanidad,4594433690.00
+2006,10,32,Educación,3176549320.00
+2006,10,33,Cultura,387002890.00
+2006,10,41,"Agricultura, Pesca y Alimentación",427405440.00
+2006,10,42,Industria y Energía,127994490.00
+2006,10,43,"Comercio, Turismo y Pymes",135133630.00
+2006,10,45,Infraestructuras,646693910.00
+2006,10,46,"Investigación, Desarrollo e Innovación",91117710.00
+2006,10,49,Otras Actuaciones de Carácter Económico,82419640.00
+2006,10,91,Alta Dirección,65647410.00
+2006,10,92,Servicios de Carácter General,192277310.00
+2006,10,93,Administración Financiera y Tributaria,77811220.00
+2006,10,95,Deuda Pública,456521450.00
+2007,10,11,Justicia,211129520.00
+2007,10,13,Seguridad Ciudadana e Instituciones Penitenciarias,69579400.00
+2007,10,14,Política Exterior,68805690.00
+2007,10,21,Pensiones,2583010.00
+2007,10,23,Servicios Sociales y Promoción Social,527371810.00
+2007,10,24,Fomento del Empleo,443103720.00
+2007,10,26,Acceso a la Vivienda y Fomento de la Edificación,224086260.00
+2007,10,31,Sanidad,5809161040.00
+2007,10,32,Educación,3001094480.00
+2007,10,33,Cultura,455957300.00
+2007,10,41,"Agricultura, Pesca y Alimentación",459547780.00
+2007,10,42,Industria y Energía,141947990.00
+2007,10,43,"Comercio, Turismo y Pymes",138606050.00
+2007,10,45,Infraestructuras,691072940.00
+2007,10,46,"Investigación, Desarrollo e Innovación",94373710.00
+2007,10,49,Otras Actuaciones de Carácter Económico,86465770.00
+2007,10,91,Alta Dirección,78452470.00
+2007,10,92,Servicios de Carácter General,237292090.00
+2007,10,93,Administración Financiera y Tributaria,88616750.00
+2007,10,95,Deuda Pública,456413300.00
+2008,10,11,Justicia,287038180.00
+2008,10,13,Seguridad Ciudadana e Instituciones Penitenciarias,85146850.00
+2008,10,14,Política Exterior,72195720.00
+2008,10,21,Pensiones,2955570.00
+2008,10,23,Servicios Sociales y Promoción Social,588731430.00
+2008,10,24,Fomento del Empleo,462127990.00
+2008,10,26,Acceso a la Vivienda y Fomento de la Edificación,169841030.00
+2008,10,31,Sanidad,5438908290.00
+2008,10,32,Educación,4029623090.00
+2008,10,33,Cultura,434933150.00
+2008,10,41,"Agricultura, Pesca y Alimentación",447059900.00
+2008,10,42,Industria y Energía,167522630.00
+2008,10,43,"Comercio, Turismo y Pymes",150206830.00
+2008,10,45,Infraestructuras,773295790.00
+2008,10,46,"Investigación, Desarrollo e Innovación",130329570.00
+2008,10,49,Otras Actuaciones de Carácter Económico,61006180.00
+2008,10,91,Alta Dirección,102894150.00
+2008,10,92,Servicios de Carácter General,266125920.00
+2008,10,93,Administración Financiera y Tributaria,98799490.00
+2008,10,95,Deuda Pública,463729020.00
+2009,10,11,Justicia,295383790.00
+2009,10,13,Seguridad Ciudadana e Instituciones Penitenciarias,81896260.00
+2009,10,14,Política Exterior,69259870.00
+2009,10,21,Pensiones,1750000.00
+2009,10,23,Servicios Sociales y Promoción Social,632017550.00
+2009,10,24,Fomento del Empleo,473219960.00
+2009,10,26,Acceso a la Vivienda y Fomento de la Edificación,159618150.00
+2009,10,31,Sanidad,5644511410.00
+2009,10,32,Educación,4175507360.00
+2009,10,33,Cultura,397698920.00
+2009,10,41,"Agricultura, Pesca y Alimentación",492036830.00
+2009,10,42,Industria y Energía,160131840.00
+2009,10,43,"Comercio, Turismo y Pymes",169146690.00
+2009,10,45,Infraestructuras,785251110.00
+2009,10,46,"Investigación, Desarrollo e Innovación",127468220.00
+2009,10,49,Otras Actuaciones de Carácter Económico,56600700.00
+2009,10,91,Alta Dirección,95903680.00
+2009,10,92,Servicios de Carácter General,359140260.00
+2009,10,93,Administración Financiera y Tributaria,91627150.00
+2009,10,95,Deuda Pública,479725800.00
+2010,10,11,Justicia,291715230.00
+2010,10,13,Seguridad Ciudadana e Instituciones Penitenciarias,76384220.00
+2010,10,14,Política Exterior,45663540.00
+2010,10,21,Pensiones,1000000.00
+2010,10,23,Servicios Sociales y Promoción Social,739599670.00
+2010,10,24,Fomento del Empleo,484373430.00
+2010,10,26,Acceso a la Vivienda y Fomento de la Edificación,112477760.00
+2010,10,31,Sanidad,5704821460.00
+2010,10,32,Educación,4395498480.00
+2010,10,33,Cultura,379724280.00
+2010,10,41,"Agricultura, Pesca y Alimentación",468846830.00
+2010,10,42,Industria y Energía,158085810.00
+2010,10,43,"Comercio, Turismo y Pymes",140760620.00
+2010,10,45,Infraestructuras,634070190.00
+2010,10,46,"Investigación, Desarrollo e Innovación",118783960.00
+2010,10,49,Otras Actuaciones de Carácter Económico,24883050.00
+2010,10,91,Alta Dirección,89296800.00
+2010,10,92,Servicios de Carácter General,361869630.00
+2010,10,93,Administración Financiera y Tributaria,84996360.00
+2010,10,95,Deuda Pública,563330000.00
+2011,10,11,Justicia,283691630.00
+2011,10,13,Seguridad Ciudadana e Instituciones Penitenciarias,72701940.00
+2011,10,14,Política Exterior,32212110.00
+2011,10,21,Pensiones,500000.00
+2011,10,23,Servicios Sociales y Promoción Social,730307450.00
+2011,10,24,Fomento del Empleo,494228430.00
+2011,10,26,Acceso a la Vivienda y Fomento de la Edificación,90380300.00
+2011,10,31,Sanidad,5500609070.00
+2011,10,32,Educación,4236059390.00
+2011,10,33,Cultura,338169730.00
+2011,10,41,"Agricultura, Pesca y Alimentación",452374370.00
+2011,10,42,Industria y Energía,143122960.00
+2011,10,43,"Comercio, Turismo y Pymes",127262620.00
+2011,10,45,Infraestructuras,471203170.00
+2011,10,46,"Investigación, Desarrollo e Innovación",101566890.00
+2011,10,49,Otras Actuaciones de Carácter Económico,22269720.00
+2011,10,91,Alta Dirección,78742140.00
+2011,10,92,Servicios de Carácter General,338123240.00
+2011,10,93,Administración Financiera y Tributaria,76635060.00
+2011,10,95,Deuda Pública,637359810.00
+2012,10,11,Justicia,255360450.00
+2012,10,13,Seguridad Ciudadana e Instituciones Penitenciarias,89814170.00
+2012,10,14,Política Exterior,16203820.00
+2012,10,21,Pensiones,500000.00
+2012,10,23,Servicios Sociales y Promoción Social,759661190.00
+2012,10,24,Fomento del Empleo,437387870.00
+2012,10,26,Acceso a la Vivienda y Fomento de la Edificación,81740240.00
+2012,10,31,Sanidad,5479918890.00
+2012,10,32,Educación,4192579470.00
+2012,10,33,Cultura,365902200.00
+2012,10,41,"Agricultura, Pesca y Alimentación",349704350.00
+2012,10,42,Industria y Energía,120599280.00
+2012,10,43,"Comercio, Turismo y Pymes",99719920.00
+2012,10,45,Infraestructuras,484162270.00
+2012,10,46,"Investigación, Desarrollo e Innovación",118571840.00
+2012,10,49,Otras Actuaciones de Carácter Económico,14923160.00
+2012,10,91,Alta Dirección,68515630.00
+2012,10,92,Servicios de Carácter General,347771780.00
+2012,10,93,Administración Financiera y Tributaria,70098730.00
+2012,10,95,Deuda Pública,697969890.00
+2013,10,11,Justicia,249159880.00
+2013,10,13,Seguridad Ciudadana e Instituciones Penitenciarias,70766880.00
+2013,10,14,Política Exterior,5011410.00
+2013,10,21,Pensiones,500000.00
+2013,10,23,Servicios Sociales y Promoción Social,713462230.00
+2013,10,24,Fomento del Empleo,240381480.00
+2013,10,26,Acceso a la Vivienda y Fomento de la Edificación,40715490.00
+2013,10,31,Sanidad,4952342790.00
+2013,10,32,Educación,3872010900.00
+2013,10,33,Cultura,234702280.00
+2013,10,41,"Agricultura, Pesca y Alimentación",345101150.00
+2013,10,42,Industria y Energía,89814120.00
+2013,10,43,"Comercio, Turismo y Pymes",60611780.00
+2013,10,45,Infraestructuras,338401650.00
+2013,10,46,"Investigación, Desarrollo e Innovación",112353160.00
+2013,10,49,Otras Actuaciones de Carácter Económico,11765760.00
+2013,10,91,Alta Dirección,63942520.00
+2013,10,92,Servicios de Carácter General,267388020.00
+2013,10,93,Administración Financiera y Tributaria,58708930.00
+2013,10,95,Deuda Pública,1291300280.00
+2006,18,13,Seguridad Ciudadana e Instituciones Penitenciarias,2946660.60
+2006,18,23,Servicios Sociales y Promoción Social,11167495.11
+2006,18,24,Fomento del Empleo,4178888.03
+2006,18,26,Acceso a la Vivienda y Fomento de la Edificación,17140000.00
+2006,18,31,Sanidad,1703555.65
+2006,18,32,Educación,6367672.21
+2006,18,33,Cultura,15549786.92
+2006,18,41,"Agricultura, Pesca y Alimentación",233725.00
+2006,18,42,Industria y Energía,2444070.00
+2006,18,43,"Comercio, Turismo y Pymes",6765597.80
+2006,18,45,Infraestructuras,46052783.79
+2006,18,49,Otras Actuaciones de Carácter Económico,46000.00
+2006,18,91,Alta Dirección,1992840.46
+2006,18,92,Servicios de Carácter General,75257181.24
+2006,18,93,Administración Financiera y Tributaria,3590707.00
+2006,18,95,Deuda Pública,9770154.99
+2007,18,13,Seguridad Ciudadana e Instituciones Penitenciarias,3318490.17
+2007,18,23,Servicios Sociales y Promoción Social,13011468.25
+2007,18,24,Fomento del Empleo,5550000.00
+2007,18,26,Acceso a la Vivienda y Fomento de la Edificación,16958808.01
+2007,18,31,Sanidad,1869262.00
+2007,18,32,Educación,7412605.92
+2007,18,33,Cultura,16837527.08
+2007,18,41,"Agricultura, Pesca y Alimentación",245675.00
+2007,18,42,Industria y Energía,2286109.00
+2007,18,43,"Comercio, Turismo y Pymes",7105381.04
+2007,18,45,Infraestructuras,41992899.64
+2007,18,49,Otras Actuaciones de Carácter Económico,89000.00
+2007,18,91,Alta Dirección,2504906.62
+2007,18,92,Servicios de Carácter General,85205578.13
+2007,18,93,Administración Financiera y Tributaria,5937699.05
+2007,18,95,Deuda Pública,12478635.00
+2008,18,13,Seguridad Ciudadana e Instituciones Penitenciarias,4685500.00
+2008,18,23,Servicios Sociales y Promoción Social,15708514.32
+2008,18,24,Fomento del Empleo,6450000.00
+2008,18,26,Acceso a la Vivienda y Fomento de la Edificación,17878808.01
+2008,18,31,Sanidad,2994226.00
+2008,18,32,Educación,8550355.00
+2008,18,33,Cultura,18731964.34
+2008,18,41,"Agricultura, Pesca y Alimentación",438300.00
+2008,18,42,Industria y Energía,3327000.00
+2008,18,43,"Comercio, Turismo y Pymes",8038715.93
+2008,18,45,Infraestructuras,53194058.64
+2008,18,46,"Investigación, Desarrollo e Innovación",60000.00
+2008,18,49,Otras Actuaciones de Carácter Económico,62000.00
+2008,18,91,Alta Dirección,2747683.86
+2008,18,92,Servicios de Carácter General,84046008.99
+2008,18,93,Administración Financiera y Tributaria,13911200.00
+2008,18,95,Deuda Pública,13217710.40
+2009,18,13,Seguridad Ciudadana e Instituciones Penitenciarias,5336000.00
+2009,18,23,Servicios Sociales y Promoción Social,17710746.42
+2009,18,24,Fomento del Empleo,7700000.00
+2009,18,26,Acceso a la Vivienda y Fomento de la Edificación,15543808.01
+2009,18,31,Sanidad,2933427.93
+2009,18,32,Educación,8684600.00
+2009,18,33,Cultura,20083932.64
+2009,18,42,Industria y Energía,4246143.43
+2009,18,43,"Comercio, Turismo y Pymes",8613193.23
+2009,18,45,Infraestructuras,52328240.12
+2009,18,49,Otras Actuaciones de Carácter Económico,401002.00
+2009,18,91,Alta Dirección,2145934.96
+2009,18,92,Servicios de Carácter General,90236664.10
+2009,18,93,Administración Financiera y Tributaria,16997374.76
+2009,18,95,Deuda Pública,14414346.62
+2010,18,13,Seguridad Ciudadana e Instituciones Penitenciarias,5999000.00
+2010,18,23,Servicios Sociales y Promoción Social,18607000.00
+2010,18,24,Fomento del Empleo,8182057.00
+2010,18,26,Acceso a la Vivienda y Fomento de la Edificación,5841000.00
+2010,18,31,Sanidad,3213500.00
+2010,18,32,Educación,8224000.00
+2010,18,33,Cultura,16414953.67
+2010,18,42,Industria y Energía,2622000.00
+2010,18,43,"Comercio, Turismo y Pymes",2561287.00
+2010,18,45,Infraestructuras,81610713.00
+2010,18,49,Otras Actuaciones de Carácter Económico,413002.00
+2010,18,91,Alta Dirección,1903516.12
+2010,18,92,Servicios de Carácter General,80537424.23
+2010,18,93,Administración Financiera y Tributaria,18076097.26
+2010,18,95,Deuda Pública,12954196.99
+2011,18,13,Seguridad Ciudadana e Instituciones Penitenciarias,713000.00
+2011,18,23,Servicios Sociales y Promoción Social,23590495.06
+2011,18,24,Fomento del Empleo,7899244.99
+2011,18,31,Sanidad,8304072.53
+2011,18,32,Educación,18425670.22
+2011,18,33,Cultura,16269008.37
+2011,18,42,Industria y Energía,15000.00
+2011,18,43,"Comercio, Turismo y Pymes",8378585.02
+2011,18,45,Infraestructuras,96741458.90
+2011,18,49,Otras Actuaciones de Carácter Económico,65000.00
+2011,18,91,Alta Dirección,18998292.39
+2011,18,92,Servicios de Carácter General,883137.50
+2011,18,93,Administración Financiera y Tributaria,35927488.99
+2011,18,95,Deuda Pública,16981352.70
+2012,18,11,Justicia,25000.00
+2012,18,13,Seguridad Ciudadana e Instituciones Penitenciarias,2487650.00
+2012,18,23,Servicios Sociales y Promoción Social,25040484.66
+2012,18,24,Fomento del Empleo,9988730.08
+2012,18,26,Acceso a la Vivienda y Fomento de la Edificación,3316218.12
+2012,18,31,Sanidad,7566192.53
+2012,18,32,Educación,16036498.39
+2012,18,33,Cultura,14536272.66
+2012,18,42,Industria y Energía,15000.00
+2012,18,43,"Comercio, Turismo y Pymes",8347364.91
+2012,18,45,Infraestructuras,76054693.84
+2012,18,49,Otras Actuaciones de Carácter Económico,39000.00
+2012,18,91,Alta Dirección,18904581.01
+2012,18,92,Servicios de Carácter General,18534358.86
+2012,18,93,Administración Financiera y Tributaria,21865758.39
+2012,18,95,Deuda Pública,19436317.22
+2006,19,13,Seguridad Ciudadana e Instituciones Penitenciarias,13921868.00
+2006,19,21,Pensiones,563000.00
+2006,19,23,Servicios Sociales y Promoción Social,19119202.00
+2006,19,24,Fomento del Empleo,3885786.00
+2006,19,26,Acceso a la Vivienda y Fomento de la Edificación,13759833.00
+2006,19,31,Sanidad,21183349.00
+2006,19,32,Educación,5065236.00
+2006,19,33,Cultura,15301248.00
+2006,19,41,"Agricultura, Pesca y Alimentación",150000.00
+2006,19,42,Industria y Energía,6106364.00
+2006,19,43,"Comercio, Turismo y Pymes",5116008.00
+2006,19,44,Subvenciones al Transporte,1334000.00
+2006,19,45,Infraestructuras,37589821.00
+2006,19,49,Otras Actuaciones de Carácter Económico,5918173.00
+2006,19,91,Alta Dirección,10330411.00
+2006,19,92,Servicios de Carácter General,21789761.00
+2007,19,13,Seguridad Ciudadana e Instituciones Penitenciarias,15269927.41
+2007,19,21,Pensiones,663678.00
+2007,19,23,Servicios Sociales y Promoción Social,18683455.00
+2007,19,24,Fomento del Empleo,2693267.00
+2007,19,26,Acceso a la Vivienda y Fomento de la Edificación,10087979.74
+2007,19,31,Sanidad,22737205.05
+2007,19,32,Educación,5753146.57
+2007,19,33,Cultura,16636106.30
+2007,19,41,"Agricultura, Pesca y Alimentación",34699.00
+2007,19,42,Industria y Energía,4917100.00
+2007,19,43,"Comercio, Turismo y Pymes",7466923.02
+2007,19,44,Subvenciones al Transporte,334000.00
+2007,19,45,Infraestructuras,42030775.38
+2007,19,49,Otras Actuaciones de Carácter Económico,5168438.50
+2007,19,91,Alta Dirección,14056597.00
+2007,19,92,Servicios de Carácter General,25113966.03
+2008,19,13,Seguridad Ciudadana e Instituciones Penitenciarias,15878089.12
+2008,19,21,Pensiones,616035.00
+2008,19,23,Servicios Sociales y Promoción Social,21817792.99
+2008,19,24,Fomento del Empleo,3164930.00
+2008,19,26,Acceso a la Vivienda y Fomento de la Edificación,7659041.07
+2008,19,31,Sanidad,23649773.84
+2008,19,32,Educación,8658273.23
+2008,19,33,Cultura,20183842.27
+2008,19,41,"Agricultura, Pesca y Alimentación",80805.00
+2008,19,42,Industria y Energía,8572555.00
+2008,19,43,"Comercio, Turismo y Pymes",7364667.78
+2008,19,45,Infraestructuras,53566985.30
+2008,19,46,"Investigación, Desarrollo e Innovación",205000.00
+2008,19,49,Otras Actuaciones de Carácter Económico,6255517.43
+2008,19,91,Alta Dirección,5262785.00
+2008,19,92,Servicios de Carácter General,24036780.97
+2008,19,95,Deuda Pública,10012107.00
+2009,19,13,Seguridad Ciudadana e Instituciones Penitenciarias,16965412.00
+2009,19,21,Pensiones,680000.00
+2009,19,23,Servicios Sociales y Promoción Social,25214879.00
+2009,19,24,Fomento del Empleo,1145500.00
+2009,19,26,Acceso a la Vivienda y Fomento de la Edificación,8977639.00
+2009,19,31,Sanidad,25081967.00
+2009,19,32,Educación,8140514.00
+2009,19,33,Cultura,24991337.00
+2009,19,41,"Agricultura, Pesca y Alimentación",81560.00
+2009,19,42,Industria y Energía,5924134.00
+2009,19,43,"Comercio, Turismo y Pymes",8494510.00
+2009,19,44,Subvenciones al Transporte,673169.00
+2009,19,45,Infraestructuras,54890977.00
+2009,19,46,"Investigación, Desarrollo e Innovación",926800.00
+2009,19,49,Otras Actuaciones de Carácter Económico,5517316.00
+2009,19,91,Alta Dirección,3429819.00
+2009,19,92,Servicios de Carácter General,28763006.00
+2009,19,95,Deuda Pública,11162141.00
+2010,19,13,Seguridad Ciudadana e Instituciones Penitenciarias,17856255.03
+2010,19,21,Pensiones,141536.00
+2010,19,22,Otras Prestaciones Económicas,610000.00
+2010,19,23,Servicios Sociales y Promoción Social,28892967.92
+2010,19,24,Fomento del Empleo,3257932.00
+2010,19,26,Acceso a la Vivienda y Fomento de la Edificación,5370741.09
+2010,19,31,Sanidad,1284162.96
+2010,19,32,Educación,8983779.65
+2010,19,33,Cultura,23368840.41
+2010,19,41,"Agricultura, Pesca y Alimentación",81560.00
+2010,19,43,"Comercio, Turismo y Pymes",10984027.51
+2010,19,45,Infraestructuras,67746749.98
+2010,19,46,"Investigación, Desarrollo e Innovación",303979.50
+2010,19,49,Otras Actuaciones de Carácter Económico,4678510.56
+2010,19,91,Alta Dirección,6058945.15
+2010,19,92,Servicios de Carácter General,40693228.58
+2010,19,93,Administración Financiera y Tributaria,7754111.35
+2010,19,95,Deuda Pública,13733867.00
+2011,19,13,Seguridad Ciudadana e Instituciones Penitenciarias,18395679.79
+2011,19,21,Pensiones,139480.00
+2011,19,22,Otras Prestaciones Económicas,610000.00
+2011,19,23,Servicios Sociales y Promoción Social,29713618.43
+2011,19,24,Fomento del Empleo,4085705.67
+2011,19,26,Acceso a la Vivienda y Fomento de la Edificación,4264698.38
+2011,19,31,Sanidad,1214340.75
+2011,19,32,Educación,9090860.57
+2011,19,33,Cultura,22848167.03
+2011,19,42,Industria y Energía,249131.00
+2011,19,43,"Comercio, Turismo y Pymes",12635317.20
+2011,19,45,Infraestructuras,55335863.53
+2011,19,46,"Investigación, Desarrollo e Innovación",42187.50
+2011,19,49,Otras Actuaciones de Carácter Económico,8483759.85
+2011,19,91,Alta Dirección,5269263.86
+2011,19,92,Servicios de Carácter General,36479910.67
+2011,19,93,Administración Financiera y Tributaria,8587994.71
+2011,19,95,Deuda Pública,15527198.00
+2012,19,13,Seguridad Ciudadana e Instituciones Penitenciarias,17281332.90
+2012,19,22,Otras Prestaciones Económicas,610000.00
+2012,19,23,Servicios Sociales y Promoción Social,30444317.06
+2012,19,24,Fomento del Empleo,4710901.42
+2012,19,26,Acceso a la Vivienda y Fomento de la Edificación,6249559.44
+2012,19,31,Sanidad,1171383.35
+2012,19,32,Educación,10219322.37
+2012,19,33,Cultura,21118926.19
+2012,19,41,"Agricultura, Pesca y Alimentación",26500.00
+2012,19,42,Industria y Energía,259947.54
+2012,19,43,"Comercio, Turismo y Pymes",13127404.09
+2012,19,45,Infraestructuras,58325215.73
+2012,19,46,"Investigación, Desarrollo e Innovación",53228.00
+2012,19,49,Otras Actuaciones de Carácter Económico,8731560.56
+2012,19,91,Alta Dirección,4813585.27
+2012,19,92,Servicios de Carácter General,33910100.93
+2012,19,93,Administración Financiera y Tributaria,9398466.17
+2012,19,95,Deuda Pública,17469280.12

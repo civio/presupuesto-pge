@@ -1,0 +1,52 @@
+{% extends 'base.html' %}
+{% block content %}  
+<section class="home-intro" role="region">
+  <div class="big-intro">
+    <div class="row-fluid">
+      <div class="span6">
+        <div class="intro">
+          <h1>Explora los Presupuestos Generales del Estado</h1>
+          <p class="intro-text">Te mostramos de un modo claro cómo se distribuye nuestro presupuesto. Descubre de dónde vienen los ingresos y a qué destinamos el gasto.</p>
+        </div>
+      </div>
+      <div class="span6">
+        <div class="expense-examples">
+          <p class="title">Algunos ejemplos:</p>
+          <ul>
+            {% for programme in featured_programmes %}
+            <li><a href="{% url 'budget_app.views.programmes_show' programme.uid(), programme.slug() %}">                {{ programme.description }}</a>
+              &rarr; <b>{{ formatter( breakdown.subtotals[programme.uid()].total_expense[latest_budget.year] / 100 ) }} €</b></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="options">
+    <div class="option-global">
+      <div data-icon="B" aria-hidden="true" class="icon mega"></div>
+      <h2>Visión global</h2>
+      <p class="desc">Una idea general de los ingresos y gastos del Gobierno</p>
+      <p><a href="{{ url('budget_app.views.budgets') }}" class="button button-3d magenta icon-plus">Visión global</a></p>
+    </div>
+    <div class="option-policies">
+      <div data-icon="P" aria-hidden="true" class="icon mega"></div>
+      <h2>Políticas concretas</h2>
+      <p class="desc">Pensiones, desempleo, cultura... ¿Qué área te interesa?</p>
+      <p><a href="{{ url('budget_app.views.policies') }}" class="button button-3d blue icon-plus">Políticas</a></p>
+    </div>
+    <div class="option-guide">
+      <div data-icon="&#xe601;" aria-hidden="true" class="icon mega"></div>
+      <h2>Visita guiada</h2>
+      <p class="desc">¿Dónde están los titulares?<br/>Te ayudamos a encontrarlos</p>
+      <p><a href="{{ url('theme-dvmi.views.visita_guiada') }}" class="button button-3d green icon-plus">Visita guiada</a></p>
+    </div>
+  </div>
+</section>
+
+<script>
+  $('.option-global').click(function(){window.location = '{{ url('budget_app.views.budgets') }}';});
+  $('.option-policies').click(function(){window.location = '{{ url('budget_app.views.policies') }}';});
+  $('.option-guide').click(function(){window.location = '{{ url('theme-dvmi.views.visita_guiada') }}';});
+</script>
+{% endblock %} 

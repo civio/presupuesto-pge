@@ -1,0 +1,65 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1 class="page-title">Metodología</h1>
+
+<p class="intro-text">Dónde van mis impuestos se ha levantado sobre dos piezas: la primera es un parser que recorre las páginas publicadas por el Ministerio de Hacienda y Administraciones Públicas, extrae la información que queremos tratar y la convierte en reutilizable. Sobre esta parte trabaja la segunda pieza del proyecto, una web que lee esos presupuestos en formato abierto y los visualiza.</p>
+
+<div class="article">
+
+  <h2>Extrayendo los datos</h2>
+  <p class="intro-text">El código del parser, desarrollado por David Cabo en Ruby, está disponible en <a href="https://github.com/civio/pge-parser/" target="_blank">Github</a>.</p>
+
+  <p>Los Presupuestos Generales del Estado (PGE) se encuentran disponibles en la web del <a href="http://www.sepg.pap.minhap.gob.es/sitios/sepg/es-ES/Presupuestos/pge2014/Paginas/pge2014.aspx" target="_blank">Ministerio de Hacienda y Administraciones Públicas</a>. Antes de comenzar a trabajar con las cuentas públicas es muy recomendable leer el <a href="http://www.sepg.pap.minhap.gob.es/sitios/sepg/es-ES/Presupuestos/pge2014/Documents/LIBROAZUL2014.pdf" target="_blank">Libro Azul</a>, que ofrece una visión general de la estructura de los mismos.</p>
+
+  <p>En Dónde van mis impuestos hemos trabajado con la versión de los presupuestos que no está en tomos estructurados en distintos PDF, sino en un archivo comprimido que contiene un enorme conjunto de ficheros .HTM con nombres aparentemente crípticos. De hecho, trabajamos con datos desde 2007 porque ese fue el primer año en el que los PGE se publicaron no sólo en PDF, sino también en html.</p>
+
+  <p>Hemos utilizado la Serie Verde para extraer la información sobre gastos porque es la que contiene un mayor nivel de detalle. Los gastos de la Seguridad Social, eso sí, están en la Serie Roja. De hecho, todos los ingresos que mostramos en la web salen también de la Serie Roja.</p>
+
+  <p>En ocasiones nos hemos encontrado con algunas inconsistencias en los PGE. Algunas partidas de la Seguridad Social, por ejemplo, se muestran a un nivel menos desglosado que la información que ofrecen los ministerios. Por esa razón, puede que te encuentres con subtotales en la página web cuyo desglose en categorías inferiores no es completo.</p>
+
+  <p>Otro de los problemas con los que nos hemos encontrado es que, aunque la descripción de las grandes categorías económicas es constante, hay una parte que no es igual en todos los organismos, la que va más allá de las dos cifras de código. Por ejemplo, 480 significa algo distinto según de qué ministerio estemos hablando. Para asegurarnos de que esas diferencias no afecten al análisis, al exportar los datos los hemos marcado por organismo de origen.</p>
+
+  <p>Los ingresos y gastos mostrados incluyen los del Estado, los organismos autónomos adscritos a ministerios, las agencias estatales, la Seguridad Social y otras entidades con presupuesto limitativo. Esto es lo que se conoce como presupuesto consolidado, que no incluye a fundaciones o empresas del sector público como Radio Televisión Española.</p>
+
+  <p>El resultado de la extracción de los datos para los distintos ejercicios presupuestarios está en <a href="https://github.com/civio/pge-parser/tree/master/output" target="_blank">estas carpetas</a>. En cada una de ellas (por ejemplo, <a href="https://github.com/civio/pge-parser/tree/master/output/2014" target="_blank">la de 2014</a>), los datos están organizados en varios ficheros: uno para ingresos, otro para gastos y otros tres para las tres categorías del presupuesto: económica, orgánica y funcional. Esta organización en distintos archivos ahorra espacio y resulta más clara, en nuestra opinión, que la creación de un único fichero de gastos y otro de ingresos.</p>
+
+  <p>Además, para asegurarnos de que todo es correcto, cada una de esas carpetas anuales incluye una comprobación automática que verifica que las sumas de determinados datos de nuestros archivos dan como resultado las cifras de los resúmenes oficiales de las cuentas que aparecen en la Serie Roja.</p>
+
+
+  <h2>Mostrando los datos</h2>
+  <p class="intro-text">La página web está desarrollada en Python (Django) y es una adaptación de la que David Cabo realizó de forma comercial para el <a href="http://presupuesto.aragon.es/" target="_blank">Gobierno de Aragón</a> con el diseño de <a href="http://lapersonnalite.com" target="_blank">La Personnalité</a>. Ésta, a su vez, era una reimplementación en Python de la primera web de presupuestos de <a href="http://aurrekontuak.irekia.euskadi.net/" target="_blank">Euskadi</a>, realizada en Ruby on Rails. Todas las visualizaciones están hechas en D3.js. El código original está disponible en <a href="http://github.com/aragonopendata/presupuesto" target="_blank">Github</a>.</p>
+
+  <p>En Dónde van mis impuestos mostramos la evolución temporal de la estructura económica (¿cómo se gasta/ingresa?) y funcional (¿en qué se gasta?), pero no la división orgánica. Esto es: no mostramos el gasto, por ejemplo, de un ministerio a lo largo de los años. Esto es así porque los cambios de nombres, fusiones de organismos, divisiones… que se suelen producir en las administraciones públicas hacen que sea muy difícil cruzar esos datos y la información que podríamos ofrecer no sería rigurosa.</p>
+
+  <p>Así, a diferencia de otras visualizaciones, la división por defecto del gasto es la funcional, porque creemos que es la que mejor muestra en qué se emplea el dinero público. Lo importante no es qué ministerio gestione un gasto, sino cuál es el objetivo de esa política. En el apartado de ingresos utilizamos la división económica.</p>
+
+  <p>En la <a href="/resumen" target="_blank">visión global</a> de ingresos y gastos mostramos solo los capítulos del 1 al 7, esto es, el gasto no financiero. Lo hacemos así para evitar que la amortización de la deuda distorsione los datos. Es decir, nos quedamos sólo con el pago de intereses. Esto práctica es común: así aparecen, por ejemplo, las cifras generales que publica el Ministerio de Hacienda y Administraciones Públicas en el Libro Amarillo que acompaña a los PGE.</p>
+
+  <p>La <a href="/politicas" target="_blank">visualización</a> del reparto del presupuesto tampoco incluye los capítulos 8 y 9. Una vez que bajas un escalón y, por ejemplo, visualizas la distribución de una de las políticas, sí aparecen todos los capítulos en los totales.</p>
+
+  <p>Para que la información fuera completa, deberíamos mostrar no sólo el presupuesto, sino la ejecución presupuestaria, como hicimos en las webs de Euskadi y Aragón. El problema es que no podemos comparar los PGE con su ejecución porque el ministerio publica los datos en un PDF con mucho menos nivel de detalle y estructurados de tal forma que impide cruzarlos con los presupuestos. Por eso, en los próximos meses vamos a trabajar para reclamar al Gobierno que la ejecución presupuestaria, esto es, la aplicación efectiva del presupuesto, se publique de forma detallada y en formatos reutilizables. Sólo así podremos realizar un seguimiento completo a la gestión del dinero público.</p>
+
+
+  <h2 id="credits">Agradecimientos</h2>
+
+  <p class="intro-text">Dónde van mis impuestos es un proyecto de David Cabo (<a href="http://twitter.com/dcabo" target="_blank">@dcabo</a>) para Civio al que se han sumado:
+  <ul>
+    <li><strong>Eva Belmonte</strong> (<a href="http://twitter.com/evabelmonte" target="_blank">@evabelmonte</a>) escribió los textos que verás en esta página web y que intentan explicar, de una forma clara, cómo funcionan las cuentas públicas.</li>
+    <li><strong>Juan Elosua</strong> (<a href="http://twitter.com/jjelosua" target="_blank">@jjelosua</a>) adaptó al mapa de comunidades autónomas español la visualización sobre presupuestos regionales que VISup había realizado para Italia.</li>
+    <li><strong>Jacobo Elosua</strong> (<a href="http://twitter.com/ezaromedia" target="_blank">@ezaromedia</a>) escribió los textos de la primera versión de la web, que se publicó en diciembre de 2010, y apoyó moralmente desde el principio.</li>
+    <li>Y todo el equipo de Civio</li>
+  </ul>
+  </p>
+
+  <h3>Créditos de imágenes</h3>
+  <ul>
+    <li>Fondo de cabecera: <a href="http://subtlepatterns.com/shattered/" target="_blank">Subtle Patterns - Luuk van Baars</a> (modificada)</li>
+    <li>Imagen de cabecera: <a href="http://thenounproject.com/term/analysis/46946/" target="_blank">The Noun Project - Dan Hetteix</a></li>
+    <li>Cerdito: <a href="http://thenounproject.com/term/piggy-bank/2155/" target="_blank">The Noun Project - Jezmael Basilio</a></li>
+  </ul>
+
+
+</div>
+
+
+{% endblock %}
