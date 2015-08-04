@@ -12,7 +12,7 @@ Configure S3 to hold static assets:
 
 Pick the theme:
 
-    $ heroku config:set THEME=theme-dvmi
+    $ heroku config:set THEME=presupuesto-dvmi
 
 ###Updating the Heroku app
 

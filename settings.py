@@ -29,7 +29,7 @@ SEARCH_ENTITIES = False
 
 # We can define additional URLs applicable only to the theme. These will get added
 # to the project URL patterns list. 
-EXTRA_URLS = patterns('theme-dvmi.views',
+EXTRA_URLS = patterns('presupuesto-dvmi.views',
     url(r'^ccaa/$', 'ccaa'),      # Trailing slash optional for backwards compatibility with DVMI 1.0,
                                   # although not consistent with the rest of the site :/
 
