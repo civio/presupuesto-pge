@@ -39,7 +39,7 @@
       <div data-icon="&#xe601;" aria-hidden="true" class="icon mega"></div>
       <h2>Visita guiada</h2>
       <p class="desc">¿Dónde están los titulares?<br/>Te ayudamos a encontrarlos</p>
-      <p><a href="{{ url('presupuesto-dvmi.views.visita_guiada') }}" class="button button-3d green icon-plus">Visita guiada</a></p>
+      <p><a href="{{ url('presupuesto-pge.views.visita_guiada') }}" class="button button-3d green icon-plus">Visita guiada</a></p>
     </div>
   </div>
 </section>
@@ -47,6 +47,6 @@
 <script>
   $('.option-global').click(function(){window.location = '{{ url('budget_app.views.budgets') }}';});
   $('.option-policies').click(function(){window.location = '{{ url('budget_app.views.policies') }}';});
-  $('.option-guide').click(function(){window.location = '{{ url('presupuesto-dvmi.views.visita_guiada') }}';});
+  $('.option-guide').click(function(){window.location = '{{ url('presupuesto-pge.views.visita_guiada') }}';});
 </script>
 {% endblock %} 
