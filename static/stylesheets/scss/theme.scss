@@ -1,1 +1,49 @@
 @import "theme-variables";
+
+// Fix header dropdown item
+.navbar-nav > li{
+
+	.dropdown > a{
+		display: block;
+		color: $dvmi-navbar-color;
+    text-align: center;
+    line-height: 20px;
+    padding: 10px 0;
+    border-bottom: 1px solid mix(white, $navbar-default-bg, 50%);
+    text-transform: uppercase;
+    @include transition( background 0.3s ease-out );
+
+    &:hover,
+    &:focus{
+      color: white;
+      background: $navbar-default-bg-hover;
+    }
+
+		@media (min-width: $grid-float-breakpoint) {
+      padding-top:    $navbar-padding-vertical;
+      padding-bottom: $navbar-padding-vertical;
+      border-right: 1px solid mix( $navbar-default-bg, white, 50% );
+    	border-bottom: none;
+		}
+	}
+
+	&.active .dropdown > a,
+  &.active .dropdown > a:hover,
+  &.active .dropdown > a:focus{
+    font-weight: $font-weight-600;
+  }
+
+  &:last-child .dropdown > a{
+    border-bottom: none;
+  }
+
+  // Fix default color for dropdown open
+  &.open .dropdown > a,
+  &.open .dropdown > a:hover,
+  &.open .dropdown > a:focus{
+    color: $dvmi-navbar-color;
+    background: $navbar-default-bg-hover;
+  }
+}
+
+			

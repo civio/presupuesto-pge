@@ -80,13 +80,16 @@
           {% endif %}
           
           <li class="page-glossary {{ 'active' if active_tab == "glossary"}}">
-            <a href="{{ url('presupuesto-pge.views.visita_guiada') }}" class="icon-glossary">{{ _('Te lo explicamos') }}</a>
-            <ul>
-              <li><a href="{{ url('presupuesto-pge.views.visita_guiada') }}">{{ _('Visita guiada') }}</a></li>
-              <li><a href="{{ url('presupuesto-pge.views.ojo_con_esto') }}">{{ _('Ojo con esto') }}</a></li>
-              <li><a href="{{ url('presupuesto-pge.views.metodologia') }}">{{ _('Metodología') }}</a></li>
-              <li><a href="{{ url('budget_app.views.terms') }}">{{ _('¿Qué significa...?') }}</a></li>
-            </ul>
+            <div class="dropdown">
+              <a href="{{ url('presupuesto-pge.views.visita_guiada') }}" class="dropdown-toggle icon-glossary" id="glossary-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                {{ _('Te lo explicamos') }}<span class="caret"></span>
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="glossary-dropdown">
+                <li><a href="{{ url('presupuesto-pge.views.visita_guiada') }}">{{ _('Visita guiada') }}</a></li>
+                <li><a href="{{ url('presupuesto-pge.views.ojo_con_esto') }}">{{ _('Ojo con esto') }}</a></li>
+                <li><a href="{{ url('presupuesto-pge.views.metodologia') }}">{{ _('Metodología') }}</a></li>
+                <li><a href="{{ url('budget_app.views.terms') }}">{{ _('¿Qué significa...?') }}</a></li>
+              </ul>
           </li>
         </ul>
       </div>
