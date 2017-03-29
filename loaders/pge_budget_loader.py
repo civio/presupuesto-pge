@@ -42,6 +42,11 @@ class PGEBudgetLoader(BudgetLoader):
 
     # Get all the relevant bits from an input line, and put them all into a dictionary
     def add_data_item(self, items, line, is_expense, is_actual):
+
+        # Add a null column for income data, so all the indexes below remain constant
+        if not is_expense:
+            line.insert(2, None)
+
         # Get the amount. For execution data, pick "Obligaciones/Créditos reconocidas/os"
         if is_actual:
             amount = line[10 if is_expense else 9]
@@ -83,6 +88,9 @@ class PGEBudgetLoader(BudgetLoader):
         # Gather all the relevant bits and store them to be processed
         items.append({
                 'ic_code': line[1],
+                'ic_institution': line[1][0:2],
+                'ic_section': line[1][0:4],
+                'ic_department': line[1],
                 'fc_area': fc_area,
                 'fc_policy': fc_policy,
                 'fc_function': fc_function,
