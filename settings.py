@@ -27,6 +27,12 @@ SHOW_ACTUAL = False
 # Search in entity names. Default: True.
 SEARCH_ENTITIES = False
 
+
+# Supported languages. Default: ('es', 'Castellano')
+LANGUAGES = (
+  ('es', 'Castellano')
+)
+
 # We can define additional URLs applicable only to the theme. These will get added
 # to the project URL patterns list. 
 EXTRA_URLS = patterns('presupuesto-pge.views',
