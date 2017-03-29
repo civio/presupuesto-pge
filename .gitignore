@@ -1,3 +1,6 @@
 *pyc
 .DS_Store
-*/config.codekit
+/node_modules
+npm-debug.log
+/static/stylesheets/main.css
+/static/stylesheets/main.css.map
