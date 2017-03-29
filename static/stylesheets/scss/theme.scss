@@ -1,5 +1,54 @@
 @import "theme-variables";
 
+// Fix logo
+.main-entity-logo{
+	margin: $grid-gutter-width/2 0 0;
+
+	a{
+		width: auto; 
+		height: auto;
+		text-indent: 0;
+		color: $brand-secondary;
+		background: none;
+		@include transition( opacity 0.3s ease-out);
+
+		.logo{
+			display: inline-block;
+			width: 108px;
+	    height: 32px;
+	    margin: 0 $grid-gutter-width/6; 
+	    overflow: hidden;
+	    text-indent: -9999px;
+	    vertical-align: middle;
+	    background-image: url(../assets/logo-civio-black.png);
+		}
+
+		&:hover{
+			text-decoration: none;
+			opacity: 0.7;
+		}
+	}
+}
+
+.navbar-brand {
+	font-size: 3.5em;
+	letter-spacing: -0.01em;
+	height: auto;
+	margin: $grid-gutter-width 0 1.5*$grid-gutter-width;
+}
+
+@media (min-width: $screen-sm-min) {
+  
+  .main-entity-logo{
+    float: none;
+  }
+
+  .navbar-brand{
+    position: static;
+  }
+}
+
+
 // Fix header dropdown item
 .navbar-nav > li{
 
@@ -17,6 +66,7 @@
     &:focus{
       color: white;
       background: $navbar-default-bg-hover;
+      text-decoration: none;
     }
 
 		@media (min-width: $grid-float-breakpoint) {

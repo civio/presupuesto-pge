@@ -71,10 +71,12 @@ msgstr "Contribuyes con un total de <strong id=\"tax-amount-paid\"></strong> a l
 
 #: templates/welcome/index.html:12
 msgid "¿Cómo y en qué gasta el Gobierno de Aragón?"
-msgstr "¿Cómo y en qué gasta el Ayuntamiento de Base City?"
+msgstr "Explora los Presupuestos Generales del Estado"
 
 #: templates/welcome/index.html:42
 msgid "Para que tengas una idea general de los ingresos y gastos del Gobierno de Aragón"
-msgstr "Para que tengas una idea general de los ingresos y gastos del Ayuntamiento de Base City"
+msgstr "Para que tengas una idea general de los ingresos y gastos del Gobierno"
 
-
+#: templates/welcome/index.html
+msgid "Educación, protección y bienestar social, cultura... ¿Qué área te interesa?"
+msgstr "Pensiones, desempleo, cultura... ¿Qué área te interesa?"
