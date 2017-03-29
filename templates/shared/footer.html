@@ -1,6 +1,7 @@
-<footer role="contentinfo">
+<footer class="main-footer">
+  
   <div class="donation-banner">
-    <div class="container-fluid">
+    <div class="container">
       <div class="donation-logo">
         <img src="{{ STATIC_URL }}assets/icon-donation.png" alt="Icono de donación"></a>
       </div>
@@ -9,19 +10,23 @@
       </div>
     </div>
   </div>
-  <div class="footer-corp">
-    <div class="container-fluid">
-      <div class="row-fluid">
-        <div class="span7">
-          <p class="legal-text">
-            <a href="{{ url('presupuesto-pge.views.metodologia') }}">¿Cómo se hizo?</a> <span class="bar">|</span> <a href="{{ url('presupuesto-pge.views.metodologia') }}#credits">Agradecimientos</a><br/>
-            Un proyecto de <a href="http://www.civio.es" target="_blank">Fundación Ciudadana Civio</a> <a href="http://twitter.com/civio" target="_blank">@civio</a>
-          </p>
-        </div>
-        <div class="span5">
-          <p class="logo-aragon"><span>Basado en el código de </span><a href="http://opendata.aragon.es/" target="_blank"><img src="{{ STATIC_URL }}assets/logoAragonOpenData.png" alt="Open Data Aragón"></a></p>
-        </div>
-      </div>
-    </div>
+
+  <div class="container">
+    <p class="credit-aragon">
+      <span>{{ _('Un proyecto de') }}</span>
+      <a href="http://www.civio.es/es" class="link-civio" target="_blank">Civio</a>
+      <span>&nbsp;{{ _('basado en el código de') }} </span>
+      <a href="http://opendata.aragon.es" class="link-aragon" target="_blank">Open Data Aragón </a>
+    </p>
+  </div>
+  <div class="container">
+    <ul class="footer-menu">
+      <li>
+        <a href="{{ url('presupuesto-pge.views.metodologia') }}" title="{{ _('¿Cómo se hizo?') }}">{{ _('¿Cómo se hizo?') }}</a>
+      </li>
+      <li>
+        <a href="{{ url('presupuesto-pge.views.metodologia') }}#credits" title="{{ _('Agradecimientos') }}">{{ _('Agradecimientos') }}</a>
+      </li>
+    </ul>
   </div>
 </footer>
