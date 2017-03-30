@@ -10,11 +10,11 @@ $gray-light:            lighten($gray-base, 46.7%) !default; // #777
 $gray-lighter:          lighten($gray-base, 93.5%) !default; // #eee
 $gray-lightest:         lighten($gray-base, 96%) !default;
 
-$text-color:            #414141;
+$text-color:            #333;
 
-$brand-primary:         #1965c4;
-$brand-secondary:       #1b1c1e;
-$brand-terciary:        #3a3634;
+$brand-primary:         #1a69c4;
+$brand-secondary:       #ffb058;
+$brand-terciary:        #403d39;
 
 $link-color:            $brand-primary;
 $link-hover-color:      $link-color;
@@ -67,9 +67,9 @@ $navbar-default-bg:       $brand-primary;
 $navbar-default-bg-hover: mix( $navbar-default-bg, white, 75% );
 
 // Navbar options text color
-$dvmi-navbar-color: mix( $brand-primary, white, 10% );
+$dvmi-navbar-color: mix( $brand-primary, white, 5% );
 
-$navbar-default-link-active-color:    $brand-primary;
+$navbar-default-link-active-color:    white;
 $navbar-default-link-active-bg:       $brand-terciary;
 
 
@@ -77,7 +77,7 @@ $navbar-default-link-active-bg:       $brand-terciary;
 // --------------
 
 $footer-color: white;
-$footer-bg: $brand-primary;
+$footer-bg: darken( $brand-terciary, 10%);
 
 
 // Page Header
@@ -90,8 +90,8 @@ $page-header-border-color:  mix( $brand-secondary, white, 70% );
 // Panels
 // ---------------
 
-$panel-default-border:      $brand-secondary;
-$panel-default-heading-bg:  $brand-secondary;
+$panel-default-border:      $brand-primary;
+$panel-default-heading-bg:  $brand-primary;
 
 
 // Buttons
@@ -145,11 +145,11 @@ $modal-backdrop-opacity:      .75;
 // Pagination
 // --------------
 
-$pagination-color:                     $brand-secondary;
-$pagination-hover-color:               $brand-secondary;
+$pagination-color:                     $brand-primary;
+$pagination-hover-color:               $brand-primary;
 
-$pagination-active-bg:                 $brand-secondary;
-$pagination-active-border:             $brand-secondary;
+$pagination-active-bg:                 $brand-primary;
+$pagination-active-border:             $brand-primary;
 
 
 // Search Form
@@ -161,24 +161,24 @@ $search-form-bg: $brand-terciary;
 // Budget Stream
 // --------------
 
-$budget-stream-color: $brand-secondary;
+$budget-stream-color: darken( $brand-secondary, 10% );
 
 
 // Year Slider
 // --------------
 
-$slider-bg:     $page-header-bg;
-$slider-color:  $brand-secondary;
+$slider-bg:     mix( $brand-secondary, white, 50% );
+$slider-color:  $brand-primary;
 
 
 // Data Sources
 // --------------
 
-$data-sources-color: $brand-terciary;
+$data-sources-color: mix( $brand-secondary, white, 60% );
 
 
 // Sankey Viz
 // --------------
 
-$sankey-budget-color:     saturate( lighten( $brand-secondary, 12% ), 10% );                          // #1F77B4;
-$sankey-execution-color:  saturate( lighten( adjust-hue( $sankey-budget-color, 100% ), 10% ), 10% );  //#E377C2;
+$sankey-budget-color:     saturate( lighten( $brand-primary, 6% ), 6% );                          // #1F77B4;
+$sankey-execution-color:  saturate( lighten( $brand-terciary, 6% ), 6% );  //#E377C2;

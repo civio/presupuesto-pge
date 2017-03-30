@@ -37,16 +37,6 @@ msgstr "Información sobre los Presupuestos Generales del Estado"
 msgid "presupuestos, gastos, ingresos"
 msgstr "presupuestos, gastos, ingresos, gobierno, PGE"
 
-#: templates/budgets/budgets_intro.html:16
-msgid ""
-"El dinero recaudado localmente se complementa con las transferencias de la Administración "
-"General del Estado y del Gobierno de Aragón, que son los encargados de recaudar otros "
-"ingresos como el IVA y el IRPF"
-msgstr ""
-"El dinero recaudado localmente se complementa con las transferencias de la Administración "
-"General del Estado y de la Comunidad de Base City, que son los encargados de recaudar otros "
-"ingresos como el IVA y el IRPF"
-
 #: templates/budgets/index.html:17
 msgid "Ingresos y gastos en el Gobierno de Aragón"
 msgstr "Ingresos y gastos del Estado y la Seguridad Social"
@@ -80,3 +70,26 @@ msgstr "Para que tengas una idea general de los ingresos y gastos del Gobierno"
 #: templates/welcome/index.html
 msgid "Educación, protección y bienestar social, cultura... ¿Qué área te interesa?"
 msgstr "Pensiones, desempleo, cultura... ¿Qué área te interesa?"
+
+#: templates/budgets/budgets_intro.html
+msgid "La recaudación local"
+msgstr "La recaudación"
+
+#: templates/budgets/budgets_intro.html
+msgid "Se realiza a través de impuestos directos -como el impuesto de bienes inmuebles (IBI) o el de vehículos de tracción mecánica (IVTM)- y de tasas -como la de recogida de basura"
+msgstr "Se realiza a través de <strong>impuestos directos</strong> -como el IRPF y el impuesto de sociedades- y de <strong>impuestos indirectos</strong> -el IVA e impuestos sobre el tabaco, el alcohol o la gasolina."
+
+#: templates/budgets/budgets_intro.html
+msgid "Otras fuentes de ingresos"
+msgstr "Cómo se reparte"
+
+#: templates/budgets/budgets_intro.html:16
+msgid ""
+"El dinero recaudado localmente se complementa con las transferencias de la Administración "
+"General del Estado y del Gobierno de Aragón, que son los encargados de recaudar otros "
+"ingresos como el IVA y el IRPF"
+msgstr "Una parte del dinero recaudado se queda en la <strong>Administración General del Estado</strong>, mientras que otra parte se transfiere a las <strong>comunidades autónomas</strong> y a las <strong>entidades locales</strong>"
+
+#: templates/budgets/budgets_intro.html:16
+msgid "El ayuntamiento utiliza el dinero recaudado, junto con otras fuentes de financiación como la deuda, para mantener los servicios públicos y la infraestructura de la ciudad."
+msgstr "Las <strong>administraciones</strong> utilizan el dinero recaudado, junto con otras fuentes de financiación como la deuda, para <strong>mantener los servicios públicos</strong> y la estructura del Estados."
