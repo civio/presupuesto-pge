@@ -1,5 +1,5 @@
 function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL) {
-  var path = d3.geo.path();
+  var path = d3.geoPath();
 
   var ccaaLabels = ["Todas","Andalucía", "Aragón", "Asturias", "Illes Balears",
         "Canarias","Cantabria","Castilla y León","Castilla La Mancha","Cataluña","Comunitat Valenciana",
@@ -71,18 +71,18 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
                                     .key(function(d) { return d.year; })
                                     .key(function(d) { return d.region_id; })
                                     .rollup(function(d) { return formatBudgetData(d); })
-                                    .map(csv);
+                                    .object(csv);
       balanceByYearByType = d3.nest()
                               .key(function(d) { return d.year; })
                               .key(function(d) { return d.policy_id; })
                               .rollup(function(d) { return formatBudgetData(d); })
-                              .map(csv);
+                              .object(csv);
       balanceByYearByRegionByType = d3.nest()
                                       .key(function(d) { return d.year; })
                                       .key(function(d) { return d.region_id; })
                                       .key(function(d) { return d.policy_id; })
                                       .rollup(function(d) { return formatBudgetData(d); })
-                                      .map(csv); 
+                                      .object(csv); 
       calculateDataPerPerson();
 
       self.loadMap();
@@ -104,7 +104,7 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
                                     .key(function(d) { return d.year; })
                                     .key(function(d) { return d.region_id; })
                                     .rollup(function(d) { return formatCensoData(d); })
-                                    .map(csv);
+                                    .object(csv);
 
       self.loadBudgetData();
     });
@@ -114,27 +114,35 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
   this.loadMap = function() {
     var self = this;
 
+    // setup geo path & its projection
+    var projection = d3.geoMercator()
+      .translate([380, 1450])
+      .scale(1700);
+
+
+    path.projection(projection);
+
     d3.select("#vis #map")
       .append("svg:svg")
       .attr("id", "svg")
+      .style('overflow', 'visible')
       .append("svg:g")
       .attr("id", "states");
             
     d3.json(geo_data_URL, function(_geoData) {
-      d3.select("#states")
-          .selectAll("path")
-          .data(_geoData.features)
-        .enter()
-          .append("svg:path")
-          .attr("d", function(a) { return path_proj(a); })
-          .attr("class", function(a, b) { return "region_" + a.properties.ID; })
-          .style("stroke", function() { return "#000000"; })
-          .style("stroke-width", function() { return 1; })
-          .on("mouseover", function(a, b) { return self.mouseOverMap(a); })
-          .on("mouseout", function(a, b) { return self.mouseOutMap(a); })
-          .on("click", function(a, b) { return self.clickMap(a); });
 
-      d3.selectAll("#states path").attr("d", function(a) { return path_proj(a); });
+      d3.select("#states")
+        .selectAll("path")
+        .data(_geoData.features)
+      .enter()
+        .append("svg:path")
+        .attr("class", function(a, b) { return "region_" + a.properties.ID; })
+        .attr("d", path)
+        .on("mouseover", function(a, b) { return self.mouseOverMap(a); })
+        .on("mouseout", function(a, b) { return self.mouseOutMap(a); })
+        .on("click", function(a, b) { return self.clickMap(a); });
+
+      //d3.selectAll("#states path").attr("d", function(a) { return path_proj(a); });
 
       self.update();
       showVis(true);
@@ -236,6 +244,7 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
     getRegionColor = function(a, b, c, f, g) {
       var h = parseInt(a.properties.ID);
       var j = e;
+      if (j === undefined ) return 0 
       if (j[h] != null) {
           _selectedPolicyID != null && j[h][_selectedPolicyID] == null && (j[h][_selectedPolicyID] = [], j[h][_selectedPolicyID][d] = 0, c = 0);
           var k = _selectedPolicyID == null ? j[h][d] : j[h][_selectedPolicyID][d];
@@ -261,25 +270,26 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
     prevItemRegion != null ? prevItemRegion = null : prevItemRegion = g;
   }
 
+  /*
   function path_proj(region) {
     var xy;
     if (region.properties.ID<=17) {
       var scaleFactor = 11;
-      xy = d3.geo.mercator().translate([32 * scaleFactor, scaleFactor * 140]).scale(scaleFactor * 1e3);
+      xy = d3.geoMercator().translate([32 * scaleFactor, scaleFactor * 140]).scale(scaleFactor * 1e3);
 
     } else if (region.properties.ID==18) {  // Ceuta
       var scaleFactor = 40;
-      xy = d3.geo.mercator().translate([19.6 * scaleFactor, scaleFactor * 116.1]).scale(scaleFactor * 1e3);
+      xy = d3.geoMercator().translate([19.6 * scaleFactor, scaleFactor * 116.1]).scale(scaleFactor * 1e3);
 
     } else {                                // Melilla
       var scaleFactor = 40;
-      xy = d3.geo.mercator().translate([14.6 * scaleFactor, scaleFactor * 114.5]).scale(scaleFactor * 1e3);
+      xy = d3.geoMercator().translate([14.6 * scaleFactor, scaleFactor * 114.5]).scale(scaleFactor * 1e3);
     }
 
     path.projection(xy);
     return path(region);
   }
-
+  */
 
   /** BARCHART **/
   this.updateBarChart = function() {
@@ -339,13 +349,13 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
       
     d3.selectAll("#functionsKey div.functional_label")
       .data(m)
-      .style("font-weight", function(a) {return a.value.policy_id == _selectedPolicyID ? "bold" : "normal"})
-      .style("color", function(a) {return a.value.policy_id == _selectedPolicyID ? "#000000" : "#666"})
+      .style("font-weight", function(a) {return a.value.policy_id == _selectedPolicyID ? "600" : "400"})
+      .style("color", function(a) {return a.value.policy_id == _selectedPolicyID ? "#111" : "#666"})
       .text(function(a) {return a.value.policy_label != null ? a.value.policy_label : ""});
     
     d3.selectAll("#functionsKey div.bar")
       .data(m)
-      .style("background-color", function(a) {return a.value.policy_id == _selectedPolicyID ? "black" : "#cccccc"})
+      .style("background-color", function(a) {return a.value.policy_id == _selectedPolicyID ? "#111" : "#cccccc"})
       .transition(300)
       .call(function(a) {
         var b = function(a) {return Math.max(1, (a.value.amount - l) / k * 100)};
@@ -381,14 +391,13 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
 
       var value = formatValueShort(currentMode == MODE_PER_PERSON ? calculateAverage() : getTotalCountryAmount());
       d3.select("#infoValue")
-        .style("font-size", value.length > 8 ? 70 : 40)
         .html(value);
 
       d3.select("#infoAvgBox")
-        .style("visibility", "hidden"); 
+        .style("display", "none"); 
 
-      d3.select("#infobox")
-        .style("background-color", "#f0f0f0");
+      d3.select("#infoBar")
+        .style("background-color", "");
 
       updateInfoDesc();
     }
@@ -408,10 +417,10 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
         .html(formatValueShort(value[area]));
 
       d3.select("#infoAvgBox")
-        .style("visibility", currentMode == MODE_PER_PERSON ? "visible" : "hidden");
+        .style("display", currentMode == MODE_PER_PERSON ? "block" : "none");
       
       if ( currentMode == MODE_PER_PERSON ) {
-        var nationalAverageScale = d3.scale.linear()
+        var nationalAverageScale = d3.scaleLinear()
                                     .domain([0, calculateAverage()])
                                     .rangeRound([-100, 0]);
         var deviation = nationalAverageScale(value[area]);
@@ -419,16 +428,19 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
           .transition(500)
           .style("width", 190 * Math.min(deviation+100, 200) / 200 + "px");
         d3.select("#infoAvgText")
-          .text("sobre media país: " + (deviation > 0 ? "+" + deviation : deviation) + " % ");
+          .text((deviation > 0 ? "+" + deviation : deviation) + "% sobre media país");
       } else {
         d3.select("#infoAvgText").text("");
       }
       
       updateInfoDesc();
     }
+
     d3.select("#infobox")
+      .style("display", "block")
+
+    d3.select("#infoBar")
       .style("background-color", regOverColor)
-      .style("display", "")
   }
 
   // Dependiendo de modo de visualización actual, modifica la etiqueta del infoBox
@@ -482,7 +494,7 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
   }
 
   function getMaxAndMinValues(a) {
-    var c = curRegDataset = _selectedPolicyID == null ? balanceByYearAndByRegion[currentYear] : balanceByYearByRegionByType[currentYear];
+    var c = curRegDataset = (_selectedPolicyID == null) ? balanceByYearAndByRegion[currentYear] : balanceByYearByRegionByType[currentYear];
     var d = d3.entries(c);
     var e = currentMode;
     var f = e == MODE_PER_PERSON ? "valuePerPerson" : "amount";
@@ -552,7 +564,7 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
         e = "\u20ac",
         i = "",
         f = "0";
-    if (a >= c) i = "M", a = a / c;
+    if (a >= c) i = " M", a = a / c;
     else {
         var g = a.toString().substring(0, h);
         a > b ? i = "" : a = Math.round(100 * a) / 100
@@ -562,6 +574,6 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
     h > -1 && (g = a.toString().substring(0, h));
     f = g.substring(0, g.length - 3) + "." + g.substring(g.length - 3, g.length);
     a < b && (f = g + "," + a.toString().substring(h + 1, h + 3));
-    return e + f + i;
+    return f + e + i;
   }
 };
