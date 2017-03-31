@@ -1,5 +1,8 @@
 // Theme custom js methods
 $(document).ready(function(){
 
-  // Add here your custom code
+  // Click
+  $('.home-content .option-guide').click( function(e){
+  	window.location = $('.home-content .option-guide .option-title').attr('href');
+  });
 });
