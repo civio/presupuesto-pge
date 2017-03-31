@@ -1,0 +1,351 @@
+@import "theme-variables";
+
+// Fix logo
+.main-entity-logo{
+	margin: $grid-gutter-width/2 0 0;
+
+	a{
+		width: auto; 
+		height: auto;
+		text-indent: 0;
+		color: $brand-terciary;
+		background: none;
+		@include transition( opacity 0.3s ease-out);
+
+		.logo{
+			display: inline-block;
+			width: 108px;
+	    height: 32px;
+	    margin: 0 $grid-gutter-width/6; 
+	    overflow: hidden;
+	    text-indent: -9999px;
+	    vertical-align: middle;
+	    background-image: url(../assets/logo-civio-black.png);
+		}
+
+		&:hover{
+			text-decoration: none;
+      opacity: 0.7;
+		}
+	}
+}
+
+.navbar-brand {
+	font-size: 3.5em;
+	letter-spacing: -0.01em;
+	height: auto;
+	margin: $grid-gutter-width 0 1.5*$grid-gutter-width;
+}
+
+@media (min-width: $screen-sm-min) {
+  
+  .main-entity-logo{
+    float: none;
+  }
+
+  .navbar-brand{
+    position: static;
+  }
+}
+
+
+// Fix header dropdown item
+.navbar-nav > li{
+
+  .dropdown-menu {
+    width: 100%;
+    margin-top: -1px;
+    margin-left: -1px;
+    padding: 0;
+    border: none;
+    background: $navbar-default-bg;
+
+    > li > a{
+      color: $dvmi-navbar-color;
+      text-align: center;
+      border-top: 1px solid mix($navbar-default-bg, white, 50%);
+      padding: 10px 0;
+      font-weight: $font-weight-300;
+      text-transform: uppercase;
+
+      &:hover{
+        background: $navbar-default-bg-hover;
+      }
+    }
+  }
+
+	.dropdown > a{
+		display: block;
+		color: $dvmi-navbar-color;
+    text-align: center;
+    line-height: 20px;
+    padding: 10px 0;
+    border-bottom: 1px solid mix(white, $navbar-default-bg, 50%);
+    text-transform: uppercase;
+    @include transition( background 0.3s ease-out );
+
+    &:hover,
+    &:focus{
+      color: white;
+      background: $navbar-default-bg-hover;
+      text-decoration: none;
+    }
+
+		@media (min-width: $grid-float-breakpoint) {
+      padding-top:    $navbar-padding-vertical;
+      padding-bottom: $navbar-padding-vertical;
+      border-right: 1px solid mix( $navbar-default-bg, white, 50% );
+    	border-bottom: none;
+		}
+
+    .caret{
+      margin-left: 8px;
+    }
+	}
+
+
+
+	&.active .dropdown > a,
+  &.active .dropdown > a:hover,
+  &.active .dropdown > a:focus{
+    font-weight: $font-weight-600;
+  }
+
+  &:last-child .dropdown > a{
+    border-bottom: none;
+  }
+
+  // Fix default color for dropdown open
+  &.open .dropdown > a,
+  &.open .dropdown > a:hover,
+  &.open .dropdown > a:focus{
+    color: $dvmi-navbar-color;
+    background: $navbar-default-bg-hover;
+  }
+}
+
+// Donation banner
+.donation-banner{
+  font-size: 1.125em;
+  background: $brand-secondary;
+  padding: $grid-gutter-width 0 2*$grid-gutter-width/3;
+  text-align: center;
+
+  .btn{
+    //font-size: 1.125em;
+    font-weight: $font-weight-300;
+    margin-top: $grid-gutter-width/2;
+    text-transform: uppercase;
+
+    .glyphicon{
+      font-size: 0.875em;
+    }
+  }
+}
+
+// Footer
+.main-footer{
+   @media (min-width: $screen-sm-min) {
+    text-align: center;
+
+    .footer-menu li{
+      float: none;
+      border: none;
+    }
+  }
+}
+
+// Home
+.home-content .options .option>div .icon{
+  color: $brand-secondary;
+}
+
+// Budget Intro
+.budget-intro .budget-step .desc{
+  font-size: 1em;
+  color: white;
+
+  strong{
+    font-weight: $font-weight-400;
+  }
+}
+
+// Search form
+.form-search .form-inline {
+
+  label {
+    font-weight: 300;
+    color: white;
+  }
+
+  .form-control{
+    border: none;
+  }
+}
+
+// Articles
+.article-header .lead{
+  font-size: 1.275em;
+  line-height: 1.5em;
+  margin: 0 auto $grid-gutter-width;
+  max-width: $screen-sm-min;
+}
+
+.article-content{
+  font-size: 1.125em;
+  line-height: 1.5em;
+  padding-top: $grid-gutter-width;
+  padding-bottom: $grid-gutter-width;
+
+  .container {
+    max-width: $screen-sm-min;
+  }
+
+  p {
+    margin-bottom: $grid-gutter-width/2; 
+  }
+
+  strong{
+    font-weight: $font-weight-600;
+  }
+
+  h3 {
+    font-size: 26px;
+    margin: $grid-gutter-width 0 $grid-gutter-width/2;
+    font-weight: $font-weight-400;
+  }
+}
+
+.glossary-terms h3:before,
+.glossary-terms h4:before{
+  color: $brand-primary;
+}
+			
+
+// CCAA
+
+.ccaa-content .data-controllers .layout-slider{
+  margin-right: $grid-gutter-width/3;
+}
+
+.ccaa-map {
+  position: relative;
+
+  .actionableLink {
+    cursor: pointer;
+  }
+
+  svg {
+    width: 600px;
+    height: 500px;
+  }
+
+  #states path {
+    fill: $gray-light;
+    stroke: white;
+    stroke-width: 1px;
+    cursor: pointer;
+  }
+
+  // Hide Ceuta & Melilla
+  .region_18, 
+  .region_19{
+    display: none;
+  }
+
+  #functionsKey {
+    color: $gray-light;
+    cursor: pointer;
+    margin-left: 660px;
+    position: absolute;
+    width: 350px;
+  }
+
+  #functionsKey .bar {
+    position: absolute;
+    background-color: $gray-light;
+    margin-top: 2px;
+    color: white;
+    height: 14px;
+  }
+
+  #barchart {
+    height: 300px;
+    top: 400px;
+    width: 300px;
+    margin-left: 530px;
+    margin-top: 25px;
+    position: absolute;
+    text-align: right;
+  }
+
+  #infobox {
+    width: 220px;
+    padding: 15px;
+    position: absolute;
+    left: 300px;
+    top: 330px;
+    background: $gray-lighter;
+  }
+
+  #infobox .title {
+    font-size: 1.375em;
+    font-weight: $font-weight-600;
+  }
+
+  #infobox .value {
+    font-size: 2.5em;
+    line-height: 1.25em;
+    font-weight: $font-weight-600;
+  }
+
+  #infobox .desc {
+    font-size: 1.125em;
+  }
+
+  #infobox .avg {
+    width: 190px;
+    margin-top: 10px;
+    height: 30px;
+  }
+
+  #infobox .infobarbg {
+    position: absolute;
+    background-color: white;
+    width: 190px;
+    height: 12px;
+  }
+
+  #infobox .infobar {
+    position: absolute;
+    background-color: $gray-darker;
+    height: 14px;
+  }
+
+  #infobox .infobarimg {
+    background: #333;
+    position: absolute;
+    width: 2px;
+    height: 14px;
+    left: 50%;
+  }
+
+  #infobox .infoavg {
+    position: absolute;
+    margin-top: 15px;
+  }
+}
+
+#leyenda {
+  width: 180px;
+}
+
+#leyendabg { 
+  height: 8px;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fed976+0,e31b1d+100 */
+  background: #fed976; /* Old browsers */
+  background: -moz-linear-gradient(left, #fed976 0%, #e31b1d 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(left, #fed976 0%,#e31b1d 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right, #fed976 0%,#e31b1d 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fed976', endColorstr='#e31b1d',GradientType=1 ); /* IE6-9 */
+}

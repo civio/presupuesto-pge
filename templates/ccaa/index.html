@@ -1,119 +1,105 @@
 {% extends 'base.html' %}
-{% block extra_javascript %}
-<link href="{{ STATIC_URL }}stylesheets/vis/ccaa.css" media="all" rel="stylesheet" type="text/css" />
-<script src="{{ STATIC_URL }}javascripts/vis/d3.v3.min.js"></script>
-<script src="{{ STATIC_URL }}javascripts/vis/d3.geo.js"></script>
-<script src="{{ STATIC_URL }}javascripts/vis/d3.csv.js"></script>
-<script src="{{ STATIC_URL }}javascripts/vis/ccaa.js"></script>
-{% endblock %}
+
 {% block content %}
-<h1 class="page-title">Los presupuestos de las Comunidades Autónomas</h1>
 
-<p class="intro-text">
-  Te mostramos la distribución del presupuesto regional durante los años 2006 al 2015.
-  Puedes observar tanto <a id="selectTotalAmountLink" class="actionableLink">el gasto presupuestado total</a>, 
-  como el <a id="selectPerPersonAmountLink" class="actionableLink">presupuesto por habitante</a>.      
-  También puedes ver las cantidades por área funcional, como por ejemplo 
-  <a id="selectHealthLink" class="actionableLink">Sanidad</a>, referidas a cada región o 
-  a todo el territorio nacional.
-</p>
-<p class="intro-text">
-  Ten en cuenta que algunas comunidades autónomas tienen competencias que otras no tienen -pasa, por ejemplo, en Justicia, que en ocasiones está transferida y en otras no-, por lo que el gasto total no es comparable sin tener en cuenta esas diferencias.
-</p>
+<section class="article visit-guide" role="region">
 
-<p>
-  Esta visualización es una adaptación de la realizada por <a href="http://visup.it/">VISup</a> <a href="http://www.visup.it/misc/workshop/index.htm">para Italia</a>.
-</p>
+  <!-- Tax Receipt Header -->
+  <div class="ccaa-header section-header">
 
-<!-- CONTROLS -->
-<div class="data-controllers">
-  <div class="row-fluid">
-    <div class="span4">
-      <div class="quantity-selection">
-        <p class="title">Cantidades</p>
-        <select id="select-format">
-          <option value="TOTAL">Presupuesto total</option>
-          <option selected="selected" value="PER PERSON">Per-capita</option>
-        </select>
+    <div class="container">
+      <h2 class="page-title">{{ _('Los presupuestos de las Comunidades Autónomas') }}</h2>
+      <p class="lead">Te mostramos la distribución del presupuesto regional durante los años 2006 al 2015. Puedes observar tanto <a id="selectTotalAmountLink" class="actionableLink">el gasto presupuestado total</a>, como el <a id="selectPerPersonAmountLink" class="actionableLink">presupuesto por habitante</a>. También puedes ver las cantidades por área funcional, como por ejemplo <a id="selectHealthLink" class="actionableLink">Sanidad</a>, referidas a cada región o a todo el territorio nacional.</p>
+      <p class="lead">Ten en cuenta que algunas comunidades autónomas tienen competencias que otras no tienen -pasa, por ejemplo, en Justicia, que en ocasiones está transferida y en otras no-, por lo que el gasto total no es comparable sin tener en cuenta esas diferencias.</p>
+      <p class="lead">
+        <small>Esta visualización es una adaptación de la realizada por <a href="http://visup.it/" target="_blank">VISup</a> para Italia.</small>
+      </p>
+    </div>
+  </div>
+
+  <div class="ccaa-content">
+    <div class="container">
+
+      <!-- CONTROLS -->
+      <div class="data-controllers"> 
+        <div class="quantity-selection">
+          <label for="select-format" class="title">{{ _('Cantidades') }}</label>
+          <select id="select-format" class="form-control">
+            <option value="TOTAL">Presupuesto total</option>
+            <option selected="selected" value="PER PERSON">Per-capita</option>
+          </select>
+        </div>
+        <div class="layout-slider">
+          <p class="title">{{ _('Año') }}</p>
+          <label for="year-selection">{{ _('Año') }}</label>
+          <input id="year-selection" type="text" value="{{ starting_year }}" />
+        </div> 
       </div>
-    </div>
-    <div class="span8">
-      <p class="title">Año</p>
-      <div class="layout-slider">
-        <input id="year-selection" type="slider" name="price" value="20" />
+
+      <div id="leyenda">
+        <div id="leyendabg"></div>
+        <span class="pull-left">min</span>
+        <span class="pull-right">max</span>
       </div>
+
+      <!-- VISUALIZATION -->
+      <div id="vis" class="ccaa-map">
+        <div id="functionsKey"></div>
+        <div id="map"> </div>
+        <div id="infobox">
+          <div id="infoTitle" class="title"></div>
+          <div id="infoValue" class="value"></div>
+
+          <div id="infoDesc" class="desc"></div>
+          <div id="infoAvgBox" class="avg">
+            <div id="infoGreyVal" class="infobarbg"></div>
+            <div id="infoBar" class="infobar"></div>
+            <div id="infoValImg" class="infobarimg"></div>
+            <div id="infoAvgText" class="infoavg"></div>
+          </div>
+        </div>
+      </div>
+
+      {% include 'shared/social_sharing.html' %}
+
     </div>
-  </div>
-</div>
-
-<!-- VISUALIZATION -->
-<div id="vis" class="ccaa-map">
-  <div id="functionsKey"></div>
-  <div id="map"> </div>
-  <div id="infobox">
-    <div id="infoTitle" class="title"></div>
-    <div id="infoValue" class="value"></div>
-
-    <div id="infoDesc" class="desc"></div>
-    <div id="infoAvgBox" class="avg">
-      <div id="infoGreyVal" class="infobarbg"></div>
-      <div id="infoBar" class="infobar"></div>
-      <div id="infoValImg" class="infobarimg"></div>
-      <div id="infoAvgText" class="infoavg"></div>
-    </div>
-  </div>
-</div>
-
-<div id="leyenda">
-  <span>min > max</span>
-  <div id="leyendabg" style="width:190px;"></div>
-</div>
-
-{% include 'shared/social_sharing.html' %}
-
-<section class="data-sources box" role="region">
-  <div class="box-title">
-    <h3>Fuentes de datos</h3>
-  </div>
-  <div class="box-content">
-    <ul class="source-list">
-      <li><a href="http://www.ine.es/ss/Satellite?L=0&c=Page&cid=1254735116596&p=1254735116596&pagename=ProductosYServicios%2FPYSLayout" target="_blank">Cartografía · <b>Instituto Nacional de Estadística (INE)</b></a></li>
-      <li><a href="http://serviciosweb.meh.es/apps/publicacionpresupuestos/aspx/inicio.aspx" target="_blank">Presupuestos autonómicos · <b>Ministerio de Hacienda</b></a></li>
-      <li><a href="http://www.ine.es/jaxiBD/tabla.do?per=12&type=db&divi=DPOP&idtab=1" target="_blank">Población · <b>Instituto Nacional de Estadística (INE)</b></a></li>
-    </ul>
   </div>
 </section>
 
+{% include 'shared/data_sources.html' %}
 
+{% endblock %}
+
+{% block extra_javascript %}
+<script src="{{ STATIC_URL }}javascripts/d3-ccaa.js"></script>
+<script src="{{ STATIC_URL }}javascripts/ccaa.js"></script>
 <script>
-$(function() {
-  var map = new RegionComparisonMap("{{ STATIC_URL }}data/budget_data.csv", 
-                                    "{{ STATIC_URL }}data/population.csv",
-                                    "{{ STATIC_URL }}data/map/ccaa_5km.json");
+  $(function() {
+    var map = new RegionComparisonMap("{{ STATIC_URL }}data/budget_data.csv", 
+                                      "{{ STATIC_URL }}data/population.csv",
+                                      "{{ STATIC_URL }}data/map/ccaa_5km.json");
 
-  /** INTRO TEXT CONTROLS **/
-  $("#selectTotalAmountLink").click(function() {
-    map.selectTotalAmount();
+    /** INTRO TEXT CONTROLS **/
+    $("#selectTotalAmountLink").click(function() {
+      map.selectTotalAmount();
+    });
+    $("#selectPerPersonAmountLink").click(function() {
+      map.selectPerPerson();
+    });
+    $("#selectHealthLink").click(function() {
+      map.selectPolicy(31);
+    });
+
+    function onYearChange() {
+      map.changeYear(getUIState().year);
+    };
+    function onModeChange() {
+      map.changeCurrentMode(getUIState().format);
+    };
+    initSlider("#year-selection", [2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015], onYearChange, 2015);
+    $('#select-format').change(onModeChange);
+
+    map.start(getUIState());
   });
-  $("#selectPerPersonAmountLink").click(function() {
-    map.selectPerPerson();
-  });
-  $("#selectHealthLink").click(function() {
-    map.selectPolicy(31);
-  });
-
-
-  function onYearChange() {
-    map.changeYear(getUIState().year);
-  };
-  function onModeChange() {
-    map.changeCurrentMode(getUIState().format);
-  };
-  initSlider("#year-selection", [2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015], onYearChange, 2015);
-  $('#select-format').change(onModeChange);
-
-
-  map.start(getUIState());
-});
 </script>
 {% endblock %}
