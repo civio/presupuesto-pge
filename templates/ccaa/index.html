@@ -36,28 +36,31 @@
         </div> 
       </div>
 
-      <div id="leyenda">
-        <div id="leyendabg"></div>
-        <span class="pull-left">min</span>
-        <span class="pull-right">max</span>
-      </div>
+      <div id="vis" class="row ccaa-map">
 
-      <!-- VISUALIZATION -->
-      <div id="vis" class="ccaa-map">
-        <div id="functionsKey"></div>
-        <div id="map"> </div>
-        <div id="infobox">
-          <div id="infoTitle" class="title"></div>
-          <div id="infoValue" class="value"></div>
-
-          <div id="infoDesc" class="desc"></div>
-          <div id="infoAvgBox" class="avg">
-            <div id="infoGreyVal" class="infobarbg"></div>
-            <div id="infoBar" class="infobar"></div>
-            <div id="infoValImg" class="infobarimg"></div>
-            <div id="infoAvgText" class="infoavg"></div>
+        <div class="col-sm-6">
+          <div id="map"></div>
+          <div id="leyenda">
+            <div id="leyendabg"></div>
+            <span class="pull-left">min</span>
+            <span class="pull-right">max</span>
           </div>
-        </div>
+        </div> 
+
+        <div class="col-sm-6">
+          <div id="infobox">
+            <div id="infoTitle" class="title"></div>
+            <div id="infoValue" class="value"></div>
+            <div id="infoDesc" class="desc"></div>
+            <div id="infoAvgBox" class="avg">
+              <div id="infoGreyVal" class="infobarbg"></div>
+              <div id="infoBar" class="infobar"></div>
+              <div id="infoValImg" class="infobarimg"></div>
+              <div id="infoAvgText" class="infoavg"></div>
+            </div>
+          </div>
+          <div id="functionsKey"></div>
+        </div> 
       </div>
 
       {% include 'shared/social_sharing.html' %}

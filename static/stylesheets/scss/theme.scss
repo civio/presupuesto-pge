@@ -224,8 +224,17 @@
 
 // CCAA
 
-.ccaa-content .data-controllers .layout-slider{
-  margin-right: $grid-gutter-width/3;
+.ccaa-content .data-controllers {
+
+  @media (min-width: $screen-sm-min) {
+    .layout-slider{
+      margin-left: 225px;
+    }
+  }
+
+  .quantity-selection{
+    margin-left: 0;
+  }
 }
 
 .ccaa-map {
@@ -233,11 +242,6 @@
 
   .actionableLink {
     cursor: pointer;
-  }
-
-  svg {
-    width: 600px;
-    height: 500px;
   }
 
   #states path {
@@ -256,9 +260,9 @@
   #functionsKey {
     color: $gray-light;
     cursor: pointer;
-    margin-left: 660px;
-    position: absolute;
-    width: 350px;
+    margin-left: 100px;
+    position: relative;
+    //width: 350px;
   }
 
   #functionsKey .bar {
@@ -281,11 +285,13 @@
 
   #infobox {
     width: 220px;
-    padding: 15px;
-    position: absolute;
-    left: 300px;
-    top: 330px;
+    padding: 5px 15px;
+    margin: 0 auto 15px;
     background: $gray-lighter;
+
+    @media (min-width: $screen-sm-min) {
+     margin-left: 95px; 
+    }
   }
 
   #infobox .title {
@@ -338,6 +344,7 @@
 
 #leyenda {
   width: 180px;
+  margin: 0 auto 45px;
 }
 
 #leyendabg { 

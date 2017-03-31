@@ -1,5 +1,6 @@
 function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL) {
-  var path = d3.geoPath();
+  var path = d3.geoPath(),
+      projection = d3.geoMercator();
 
   var ccaaLabels = ["Todas","Andalucía", "Aragón", "Asturias", "Illes Balears",
         "Canarias","Cantabria","Castilla y León","Castilla La Mancha","Cataluña","Comunitat Valenciana",
@@ -24,7 +25,8 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
       _clickedPolicy = null,
       regSelected = null,
       _selectedRegion = null,
-      _overRegion = null;
+      _overRegion = null,
+      width;
 
 
   // Entrada principal a la ejecución del script
@@ -114,12 +116,6 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
   this.loadMap = function() {
     var self = this;
 
-    // setup geo path & its projection
-    var projection = d3.geoMercator()
-      .translate([380, 1450])
-      .scale(1700);
-
-
     path.projection(projection);
 
     d3.select("#vis #map")
@@ -136,19 +132,38 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
         .data(_geoData.features)
       .enter()
         .append("svg:path")
-        .attr("class", function(a, b) { return "region_" + a.properties.ID; })
-        .attr("d", path)
-        .on("mouseover", function(a, b) { return self.mouseOverMap(a); })
-        .on("mouseout", function(a, b) { return self.mouseOutMap(a); })
-        .on("click", function(a, b) { return self.clickMap(a); });
+        .attr("class",   function(d){ return "region_" + d.properties.ID; })
+        .on("mouseover", function(d){ return self.mouseOverMap(d);})
+        .on("mouseout",  function(d){ return self.mouseOutMap(d);})
+        .on("click",     function(d){ return self.clickMap(d);});
 
       //d3.selectAll("#states path").attr("d", function(a) { return path_proj(a); });
 
       self.update();
       showVis(true);
+
+      resize();
+      d3.select(window).on('resize', resize);
     })
   };
 
+  function resize() {
+    if (width == $('#map').width()) return;
+
+    width = $('#map').width();
+
+    projection
+      .translate([.742*width, 2.9*width])
+      .scale(3.4*width);
+
+    d3.select("#svg")
+      .attr("width", width)
+      .attr("height", 0.73*width)
+
+    d3.select("#states")
+      .selectAll("path")
+      .attr("d", path);
+  }
 
   /**  CONTROLES **/
   this.selectTotalAmount = function() {
@@ -209,12 +224,20 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
     if ( _selectedRegion == null ) {
       _overRegion = region;
       regSelected = _overRegion.properties.ID;
+      d3.select('.region_'+regSelected)
+        .style('stroke-width', '1.5px')
+        .style('stroke', '#111');
+      // move over region on top
+      d3.selectAll("path").sort(function (a, b){ return (a.properties.ID != regSelected) ? -1 : 1; }) 
       this.update();
     }
   };
 
   this.mouseOutMap = function(region) {
     if ( _selectedRegion == null ) {
+      d3.select('.region_'+regSelected)
+        .style('stroke-width', '')
+        .style('stroke', '');
       regSelected = null;
       _overRegion = null;
       this.update();
@@ -228,9 +251,14 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
       this.mouseOutMap();
     } else {
       _selectedRegion = null;
-      this.mouseOutMap();
+      this.mouseOutMap();  
       _selectedRegion = region;
       regSelected = _selectedRegion.properties.ID;
+      d3.select('.region_'+regSelected)
+        .style('stroke-width', '1.5px')
+        .style('stroke', '#111');
+      // move over region on top
+      d3.selectAll("path").sort(function (a, b){ return (a.properties.ID != regSelected) ? -1 : 1; }) 
       this.update();
     }
   };
@@ -250,8 +278,8 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
           var k = _selectedPolicyID == null ? j[h][d] : j[h][_selectedPolicyID][d];
           var l = k - c;
       }
-      if (_selectedRegion != null && g == false && _selectedRegion.properties.ID == h) return "#000000";
-      if (_overRegion != null && _overRegion.properties.ID == h && g == false) return "#666";
+      //if (_selectedRegion != null && g == false && _selectedRegion.properties.ID == h) return "#000000";
+      //if (_overRegion != null && _overRegion.properties.ID == h && g == false) return "#666";
       var interp = d3.interpolateRgb(d3.rgb(254, 217, 118), d3.rgb(227, 26, 28));
       return interp(l / (f - c));
     };
@@ -269,27 +297,6 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
     });
     prevItemRegion != null ? prevItemRegion = null : prevItemRegion = g;
   }
-
-  /*
-  function path_proj(region) {
-    var xy;
-    if (region.properties.ID<=17) {
-      var scaleFactor = 11;
-      xy = d3.geoMercator().translate([32 * scaleFactor, scaleFactor * 140]).scale(scaleFactor * 1e3);
-
-    } else if (region.properties.ID==18) {  // Ceuta
-      var scaleFactor = 40;
-      xy = d3.geoMercator().translate([19.6 * scaleFactor, scaleFactor * 116.1]).scale(scaleFactor * 1e3);
-
-    } else {                                // Melilla
-      var scaleFactor = 40;
-      xy = d3.geoMercator().translate([14.6 * scaleFactor, scaleFactor * 114.5]).scale(scaleFactor * 1e3);
-    }
-
-    path.projection(xy);
-    return path(region);
-  }
-  */
 
   /** BARCHART **/
   this.updateBarChart = function() {
