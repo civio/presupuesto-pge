@@ -1,5 +1,5 @@
 # Datos de IPC del INE. Medias anuales de IPC para España, Índice general: 
-#   http://www.ine.es/jaxiT3/Tabla.htm?t=2603&L=0
+#   http://www.ine.es/jaxiT3/Tabla.htm?t=22344&L=0
 # Las tasas de inflación se refieren a la media de las tasas interanuales durante los 12
 # meses del año. Esta media es calculada por el INE y publicada en la dirección indicada.
 # La aplicación calcula internamente un índice de inflación a partir de estas tasas, tal que:
@@ -17,5 +17,7 @@
 2011,3.2
 2012,2.4
 2013,1.4
-2014,-0.2
-2015,0
+2014,-0.1
+2015,-0.5
+2016,-0.2
+2017,0

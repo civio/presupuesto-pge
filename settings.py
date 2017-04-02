@@ -99,7 +99,7 @@ DATA_SOURCE_BUDGET      = 'http://www.minhap.gob.es/es-ES/Areas%20Tematicas/Pres
 DATA_SOURCE_POPULATION  = 'http://www.ine.es/jaxi/tabla.do?path=/t20/e245/p08/l0/&file=01001.px&type=pcaxis&L=0'
 
 # Setup Data Source Inflation link
-DATA_SOURCE_INFLATION   = 'http://www.ine.es/jaxiT3/Tabla.htm?t=2603&L=0'
+DATA_SOURCE_INFLATION   = 'http://www.ine.es/jaxiT3/Tabla.htm?t=22344&L=0'
 
 # Setup Main Entity Web Url
 MAIN_ENTITY_WEB_URL     = 'http://civio.es/'
