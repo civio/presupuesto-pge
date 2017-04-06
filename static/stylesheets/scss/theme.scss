@@ -221,6 +221,14 @@
   color: $brand-primary;
 }
 			
+// Hide odd years in stacked area chart for mobile resolutions
+@media (max-width: $screen-xs-min) {
+  .stacked-area-chart .x.axis{
+    .tick:nth-child(odd){
+      display: none;
+    }
+  }
+}
 
 // CCAA
 
