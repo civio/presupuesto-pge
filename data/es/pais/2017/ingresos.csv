@@ -1032,7 +1032,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2017;27302;4;;;TRANSFERENCIAS CORRIENTES;51102360
 2017;27401;4;;;TRANSFERENCIAS CORRIENTES;370485800
 2017;27402;4;;;TRANSFERENCIAS CORRIENTES;17735320
-2017;60004;4;;;TRANSFERENCIAS CORRIENTES;16464611080
+2017;60004;4;;;TRANSFERENCIAS CORRIENTES;16475311080
 2017;98001;4;;;TRANSFERENCIAS CORRIENTES;5962005980
 2017;12301;40;;;De la Administración del Estado;59696010
 2017;12401;40;;;De la Administración del Estado;198951300
@@ -1102,7 +1102,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2017;27302;40;;;De la Administración del Estado;51102360
 2017;27401;40;;;De la Administración del Estado;369853710
 2017;27402;40;;;De la Administración del Estado;17735320
-2017;60004;40;;;De la Administración del Estado;13056112590
+2017;60004;40;;;De la Administración del Estado;13066812590
 2017;12301;400;;;Del departamento al que está adscrito;59696010
 2017;13101;400;;;Del departamento al que está adscrito;7069190
 2017;14101;400;;;Del departamento al que está adscrito;47356610
@@ -1165,7 +1165,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2017;27302;400;;;Del departamento al que está adscrito;51102360
 2017;27401;400;;;Del departamento al que está adscrito;369853710
 2017;27402;400;;;Del departamento al que está adscrito;17735320
-2017;60004;400;;;Del departamento al que está adscrito;11327243540
+2017;60004;400;;;Del departamento al que está adscrito;11337943540
 2017;15302;400;;00;Para gastos de funcionamiento;893886660
 2017;18101;400;;00;Para gastos de funcionamiento;2756090
 2017;18102;400;;00;Para gastos de funcionamiento del Programa de Enseñanzas Universitarias;2096320
@@ -1848,7 +1848,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2017;19301;7;;;TRANSFERENCIAS DE CAPITAL;41940
 2017;20101;7;;;TRANSFERENCIAS DE CAPITAL;34977490
 2017;20104;7;;;TRANSFERENCIAS DE CAPITAL;34049870
-2017;23101;7;;;TRANSFERENCIAS DE CAPITAL;20011080
+2017;23101;7;;;TRANSFERENCIAS DE CAPITAL;23011080
 2017;23102;7;;;TRANSFERENCIAS DE CAPITAL;15271580
 2017;23103;7;;;TRANSFERENCIAS DE CAPITAL;22500000
 2017;23105;7;;;TRANSFERENCIAS DE CAPITAL;15132870
@@ -1881,7 +1881,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2017;27109;7;;;TRANSFERENCIAS DE CAPITAL;2441360
 2017;27302;7;;;TRANSFERENCIAS DE CAPITAL;3749913710
 2017;27401;7;;;TRANSFERENCIAS DE CAPITAL;160839580
-2017;27402;7;;;TRANSFERENCIAS DE CAPITAL;597009820
+2017;27402;7;;;TRANSFERENCIAS DE CAPITAL;591009820
 2017;60004;7;;;TRANSFERENCIAS DE CAPITAL;737407690
 2017;98001;7;;;TRANSFERENCIAS DE CAPITAL;1354498140
 2017;12301;70;;;De la Administración del Estado;4512740
@@ -1913,7 +1913,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2017;19301;70;;;De la Administración del Estado;41940
 2017;20101;70;;;De la Administración del Estado;34977490
 2017;20104;70;;;De la Administración del Estado;29949870
-2017;23101;70;;;De la Administración del Estado;20011080
+2017;23101;70;;;De la Administración del Estado;23011080
 2017;23102;70;;;De la Administración del Estado;11000000
 2017;23103;70;;;De la Administración del Estado;11500000
 2017;23105;70;;;De la Administración del Estado;8142440
@@ -1944,7 +1944,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2017;27109;70;;;De la Administración del Estado;2441360
 2017;27302;70;;;De la Administración del Estado;3749913710
 2017;27401;70;;;De la Administración del Estado;91282280
-2017;27402;70;;;De la Administración del Estado;596759820
+2017;27402;70;;;De la Administración del Estado;590759820
 2017;60004;70;;;De la Administración del Estado;17826180
 2017;12301;700;;;Del departamento al que está adscrito;4512740
 2017;13101;700;;;Del departamento al que está adscrito;512300
@@ -1972,7 +1972,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2017;19301;700;;;Del departamento al que está adscrito;41940
 2017;20101;700;;;Del departamento al que está adscrito;34977490
 2017;20104;700;;;Del departamento al que está adscrito;29949870
-2017;23101;700;;;Del departamento al que está adscrito;20011080
+2017;23101;700;;;Del departamento al que está adscrito;23011080
 2017;23102;700;;;Del departamento al que está adscrito;11000000
 2017;23103;700;;;Del departamento al que está adscrito;11500000
 2017;23105;700;;;Del departamento al que está adscrito;8142440
@@ -2003,12 +2003,12 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2017;27109;700;;;Del departamento al que está adscrito;2441360
 2017;27302;700;;;Del departamento al que está adscrito;3913710
 2017;27401;700;;;Del departamento al que está adscrito;90371840
-2017;27402;700;;;Del departamento al que está adscrito;596759820
+2017;27402;700;;;Del departamento al que está adscrito;590759820
 2017;60004;700;;;Del departamento al que está adscrito;1540000
 2017;15302;700;;00;Para gastos de inversiones;31963320
 2017;18102;700;;00;Para gastos de Capital del Programa de Enseñanzas Universitarias;470000
 2017;18106;700;;00;Para gastos de capital;3919420
-2017;23101;700;;00;De la Secretaria de Estado de Medio Ambiente para el desarrollo de sus actividades;18511080
+2017;23101;700;;00;De la Secretaria de Estado de Medio Ambiente para el desarrollo de sus actividades;21511080
 2017;23102;700;;00;Transferencia de la Dirección General del Agua;11000000
 2017;23106;700;;00;Transferencias de la Dirección General del Agua;12000000
 2017;23107;700;;00;Dirección General del Agua;9770000
@@ -2021,7 +2021,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2017;27106;700;;00;Del Departamento a que está adscrito;1383000
 2017;27107;700;;00;Para gastos de capital;38054700
 2017;27401;700;;00;Para gastos de capital;90072840
-2017;27402;700;;00;Del departamento al que está adscrito;596759820
+2017;27402;700;;00;Del departamento al que está adscrito;590759820
 2017;18102;700;;01;Para gastos de Capital del Programa de Cooperación, promoción y difusión educativa en el exterior;25000
 2017;18106;700;;01;Para el cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991, de 27 de marzo, por el que se regula la distribución de la recaudación y premios de las apuestas deportivas del Estado;3412500
 2017;23101;700;;01;De la Secretaria de Estado de Medio Ambiente para Plan PIMA ADAPTA. Ingresos procedentes de subastas de derechos de emisión;1500000

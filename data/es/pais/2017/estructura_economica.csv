@@ -283,6 +283,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2017;G;4;44;440/20102;;;Subvención a la Fundación Escuela de Organización Industrial (EOI)
 2017;G;4;44;440/23001;;;Consorcio de Compensación de Seguros. Cobertura de pérdidas del Seguro Agrario Combinado.
 2017;G;4;44;440/23004;;;Convenio con la Fundación Biodiversidad para gastos corrientes de funcionamiento
+2017;G;4;44;440/23005;;;A la sociedad estatal Acuamed para el apoyo a la producción de agua desalada
 2017;G;4;44;440/23010;;;Convenio con la Fundación Biodiversidad para promover y facilitar la participación española en el Grupo Intergubernamental de Expertos sobre Cambio Climático (IPCC) y aumentar la sensibilización de la sociedad a través de acciones de divulgación de sus productos
 2017;G;4;44;440/23017;;;Ayudas a la fundación Biodiversidad para el mantenimiento de las actividades del Observatorio Español de Acuicultura (OESA)
 2017;G;4;44;440/23401;;;ENAIRE,  para compensar los costes de los vuelos exonerados
@@ -373,6 +374,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2017;G;4;45;450/26022;;;Programas de asistencia social para mujeres víctimas de violencia de género y otras formas de violencia contra las mujeres
 2017;G;4;45;450/26106;;;A la Universidad Carlos III de Madrid para el Centro Español de Subtitulado y Audiodescripción
 2017;G;4;45;450/27009;;;Convenio para la internacionalización de la economía de Canarias
+2017;G;4;45;450/27011;;;A la Universidad de Las Palmas de Gran Canaria para mejorar las capacidades de investigación y los servicios de apoyo a la i+d+i en las áreas de investigación prioritaria en la Estrategia de Especialización Inteligente de Canarias
 2017;G;4;45;450/32001;;;Compensación financiera al País Vasco derivada del Impuesto Especial sobre las Labores de Tabaco,  incluso liquidación definitiva del ejercicio anterior
 2017;G;4;45;451/15102;;;Formación para el Empleo en las Admisitraciones Públicas de las entidades locales
 2017;G;4;45;451/18004;;;Para actividades de educación compensatoria
@@ -414,6 +416,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2017;G;4;45;452/23101;;;Creación de la Cátedra de Parques Nacionales
 2017;G;4;45;452/23109;;;Instituto Murciano de Investigacion y Desarrollo Agrario y Alimentario
 2017;G;4;45;452/26018;;;Para toda clase de gastos que originen los programas de prevención de drogodependencias desarrollados en el marco de la Estrategia Nacional sobre Drogas
+2017;G;4;45;452/26022;;;A la Comunidad Autónoma de Canarias para el desarrollo de un Plan contra la violencia de género
 2017;G;4;45;452/27104;;;A la Universidad de Córdoba para la realización de un máster en olivicultura
 2017;G;4;45;452/27401;;;A la Fundación Centro Tecnolóxico de Supercomputación de Galicia (CESGA), aportación patronal a los gastos de funcionamiento
 2017;G;4;45;452/36020;;;Liquidación definitiva de la financiación de las Comunidades Autónomas y ciudades con Estatuto de Autonomía de ejercicios anteriores
@@ -444,7 +447,9 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2017;G;4;45;455/18011;;;Al Museo Nacional de Arte de Cataluña (MNAC) para gastos de funcionamiento
 2017;G;4;45;455/18106;;;A las CCAA de Baleares y Canarias y a las Ciudades Autónomas de Ceuta y Melilla para desplazamiento de deportistas
 2017;G;4;45;455/19007;;;Acciones de integración en favor de los inmigrantes
+2017;G;4;45;455/19101;;;Planes integrales de empleo y otras actuaciones en materia de empleo, mediante convenios de colaboración con Comunidades Autónomas
 2017;G;4;45;455/26016;;;A la Comunidad Autónoma de Canarias. Programa para la lucha contra la pobreza
+2017;G;4;45;455/26022;;;Programa para el apoyo a víctimas de agresiones y/o abusos sexuales
 2017;G;4;45;455/26101;;;A Comunidades Autónomas Programa Erasmus+/Juventud
 2017;G;4;45;455/32001;;;Financiación del Estado del coste de la jubilación anticipada de la policía autónoma vasca
 2017;G;4;45;456/18006;;;Programa Campus Inclusivos, Campus sin Límites
@@ -457,6 +462,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2017;G;4;45;457/18004;;;Formación, perfeccionamiento y movilidad del profesorado para refuerzo educativo
 2017;G;4;45;457/19101;;;A Comunidades Autónomas. Para actuaciones en centros nacionales de formación de desempleados y centros de referencia nacional (EJE 2)
 2017;G;4;45;457/26007;;;A las CC.AA. para el desarrollo del plan anual de trabajo de la Red Española de Agencias de Evaluación de Tecnologías Sanitarias y Prestaciones del Sistema Nacional de Salud
+2017;G;4;45;457/26016;;;A la Comunidad Autónoma de Canarias. Prestaciones básicas de Servicios Sociales
 2017;G;4;45;458/18011;;;Al Instituto Valenciano de Arte Moderno (IVAM) para gastos de funcionamiento
 2017;G;4;45;458/19101;;;Para la modernización de los servicios públicos de empleo, según la Ley 45/2002, de 12 de diciembre, y mejora del marco institucional del sistema nacional de empleo (EJE 6)
 2017;G;4;45;458/26007;;;A las CCAA para la mejora del sistema de información sanitaria del SNS
@@ -478,6 +484,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2017;G;4;46;460/23010;;;Convenio con la FEMP para promover y facilitar el desarrollo de iniciativas locales en materia de cambio climático
 2017;G;4;46;460/26016;;;Para Medidas de Acompañamiento del Programa Operativo del Fondo de ayuda Europea para las Personas mas Desfavorecidas (FEAD)
 2017;G;4;46;460/26106;;;Para experiencias innovadoras
+2017;G;4;46;460/27011;;;Al Cabildo de Gran Canaria para el desarrollo de un programa experimental e integral de actividades de investigación y económicas ligadas a la explotación de los recursos marinos insulares
 2017;G;4;46;460/36021;;;Transferencias a Ayuntamientos
 2017;G;4;46;461/12401;;;Instituto Ferial de Madrid (IFEMA)
 2017;G;4;46;461/15102;;;"Aportación al Ayuntamiento de Valdeavellano de Tera: Centro de formación ""ESPACIO VALDEAVELLANO"" (Plan Soria)"
@@ -491,6 +498,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2017;G;4;46;461/18107;;;A festivales y otras actividades musicales de ámbito nacional
 2017;G;4;46;461/19101;;;Programa de fomento de empleo agrario (EJE 3)
 2017;G;4;46;461/20001;;;Para subvencionar a plantas potabilizadoras de agua en Canarias
+2017;G;4;46;461/20012;;;Al Cabildo de Gran Canaria para el desarrollo de un programa integral para convertir a Gran Canaria en una referencia piloto para el desarrollo de la Agenda Digital Española y de las directrices de la Unión Europea sobre islas inteligentes
 2017;G;4;46;461/26109;;;Ayuda a la gestión de las Juntas Arbitrales adscritas a administraciones locales
 2017;G;4;46;461/32002;;;Transferencias a ayuntamientos
 2017;G;4;46;461/36021;;;Transferencias a las Diputaciones y Cabildos Insulares
@@ -499,7 +507,9 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2017;G;4;46;462/18011;;;Al Ayuntamiento de Ibiza para gastos de funcionamiento del Museo Puget
 2017;G;4;46;462/18101;;;Al Consorcio Universidad Internacional Menéndez Pelayo Cartagena
 2017;G;4;46;462/18103;;;A la Empresa pública municipal Festival de Cine de Málaga e Iniciativas Audiovisuales, S.A. para la celebración del Festival de Cine de Málaga
+2017;G;4;46;462/20001;;;Para subvencionar a plantas potabilizadoras de agua en Canarias y extracción de agua de pozos para el riego agrícola
 2017;G;4;46;462/23101;;;Área de Influencia Socioeconómica de los Parques Nacionales para indemnizaciones por pérdida de renta, amparadas en la disposición adicional quinta de la Ley 5/2007, de 3 de abril.
+2017;G;4;46;462/26016;;;Nuevo Plan Integral de Jinámar (Telde). Asuntos sociales
 2017;G;4;46;462/26018;;;A CC.LL. en aplicación de la Ley 17/2003
 2017;G;4;46;462/32002;;;A corporaciones locales para cofinanciar los servicios de transporte colectivo urbano
 2017;G;4;46;463/18005;;;Para subvencionar convenios con ayuntamientos que desarrollan el Proyecto MENTOR para la formación a distancia con nuevas tecnologías
@@ -512,6 +522,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2017;G;4;46;464/18107;;;Programa de apoyo a festivales, muestras, ferias y otras actividades teatrales y circenses organizadas por corporaciones locales
 2017;G;4;46;464/23101;;;Convenio de colaboracion con la Asociación de Municipios con territorio en Parques Nacionales ( AMUPARNA) para apoyar la difusión de la red de Parques Nacionales en el ámbito local.
 2017;G;4;46;464/32002;;;Compensaciones y ayudas a favor de las Ciudades de Ceuta y Melilla
+2017;G;4;46;465/19101;;;Planes integrales de empleo y otras actuaciones en materia de empleo, mediante convenios de colaboración con entidades locales
 2017;G;4;46;465/23101;;;Convenio de colaboración con el Consell Insular de Menorca para actuaciones en la finca Alfurí de Dalt
 2017;G;4;46;465/26101;;;A Entidades de la Administración Local Programa Erasmus+/Juventud
 2017;G;4;46;465/32002;;;Para financiar actuaciones en Melilla
@@ -552,6 +563,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2017;G;4;47;472/17020;;;Subvención al funcionamiento de las Autopistas del Mar entre España y Francia
 2017;G;4;47;472/18103;;;Ayudas a la organización de festivales nacionales e internacionales
 2017;G;4;47;472/19101;;;Gestión de servicios y programas  de políticas activas de empleo en territorio no transferido
+2017;G;4;47;472/20001;;;Para subvencionar a plantas potabilizadoras de agua en Canarias y a comunidades de pozos para el riego agrícola
 2017;G;4;47;472/20102;;;Programa de fomento de las solicitudes de patentes y modelos de utilidad en España para PYMES y persona física titular del derecho
 2017;G;4;47;472/23014;;;"Convenio de colaboración con la Fundación Dieta Mediterránea, para promocionar las características de la ""dieta mediterránea"" y los productos que la componen"
 2017;G;4;47;472/23114;;;Ayudas a la explotación de vacuno de leche
@@ -657,7 +669,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2017;G;4;48;481/16003;;;A la Fundación de Huérfanos de la Dirección General de la Policía para apoyar la formación educativa de los huérfanos de funcionarios del CNP
 2017;G;4;48;481/16005;;;Transferencia a la Comisión Episcopal para atención del culto en centros penitenciarios
 2017;G;4;48;481/17001;;;Subvenciones a la realización de actividades relacionadas con los programas del Departamento, referidas a las obras públicas, los transportes y las comunicaciones postales y telegráficas, a distribuir por Orden Ministerial
-2017;G;4;48;481/17032;;;Para satisfacer la bonificación a residentes no peninsulares por traslado a la Península y regreso por via marítima
+2017;G;4;48;481/17032;;;Para satisfacer la bonificación a residentes no peninsulares por traslado a la Península y regreso por vía marítima, así como por los traslados interinsulares
 2017;G;4;48;481/17039;;;I T S. España (Sistemas Inteligentes de Transporte)
 2017;G;4;48;481/17101;;;Becas del CEDEX
 2017;G;4;48;481/17401;;;Premios de Jubilación
@@ -791,6 +803,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2017;G;4;48;483/23113;;;Familias e instituciones sin fines de lucro.
 2017;G;4;48;483/23114;;;Programa FEAD, para ayuda alimentaria a los desfavorecidos y lucha contra la pobreza infantil
 2017;G;4;48;483/25103;;;Convenio Monasterio de Yuste
+2017;G;4;48;483/26015;;;Fundació Miquel Valls
 2017;G;4;48;483/26016;;;Para programas de infancia y familias
 2017;G;4;48;483/26018;;;A la Federación Española de Municipios y Provincias para el desarrollo de programas sobre drogodependencias financiados a través del Fondo creado por la Ley 17/2003
 2017;G;4;48;483/26022;;;Convenio con la Federación  Española de Municipios y Provincias, para  la teleasistencia móvil  a víctimas de violencia de género
@@ -1372,6 +1385,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2017;G;7;75;750/23006;;;C. A. de Canarias para actuaciones en la costa
 2017;G;7;75;750/23010;;;Transferencia a Comunidades Autónomas para la ejecución de actuaciones enmarcadas en el PIMA Residuos. Actuaciones financiadas con ingresos procedentes de subastas de derechos de emisión.
 2017;G;7;75;750/23012;;;Fomento de la innovación tecnológica
+2017;G;7;75;750/23101;;;Compensaciones socioeconómicas a las áreas de influencia de los PPNN
 2017;G;7;75;750/23102;;;Canon de vertidos.
 2017;G;7;75;750/23103;;;Convenios de colaboración.
 2017;G;7;75;750/23114;;;País Vasco y Navarra por costes de traspaso fuera de cupo
@@ -1380,8 +1394,10 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2017;G;7;75;750/27402;;;Fondo para la Investigación científica y el desarrollo tecnológico
 2017;G;7;75;751/17009;;;Actuaciones relacionadas con el 1 % Cultural
 2017;G;7;75;751/17020;;;Convenio con la Comunidad Autónoma de las Illes Balears en materia de ferrocarril
+2017;G;7;75;751/18004;;;Plan Integral de Empleo (infraestructuras educativas). Instituto de Educación Saulo Torón (Gáldar)
 2017;G;7;75;751/18011;;;Aportación institucional al Consorcio de la Ciudad Monumental, Histórico-Artística y Arqueológica de Mérida para actuaciones arqueológicas
 2017;G;7;75;751/18106;;;Para la construcción y adaptación de centros de alto rendimiento y tecnificación
+2017;G;7;75;751/20004;;;Convenio Administración General del Estado y Comunidad Autónoma de Canarias para la rehabilitación de infraestructura y equipamiento en zonas turísticas. La Palma, La Gomera y El Hierro
 2017;G;7;75;751/20019;;;Al Laboratorio Oficial Madariaga para actuaciones en calidad y seguridad
 2017;G;7;75;751/20101;;;Reactivación económica de las comarcas mineras del carbón
 2017;G;7;75;751/23010;;;Transferencia a Comunidades Autónomas para la ejecución de actuaciones enmarcadas en el PIMA ADAPTA COSTAS. Actuaciones financiadas con ingresos procedentes de subastas de derechos de emisión.
@@ -1395,6 +1411,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2017;G;7;75;752/17038;;;Convenio con la Generalitat de Cataluña sobre la B-23
 2017;G;7;75;752/18107;;;Al Consorcio de Rehabilitación de Teatros de Barcelona para ayudas a la rehabilitación de teatros privados de Barcelona
 2017;G;7;75;752/20019;;;Al Instituto Nacional de Silicosis para actuaciones en salud y seguridad
+2017;G;7;75;752/20101;;;Reactivación económica de las comarcas mineras del carbón en la Comunidad Autónoma del Principado de Asturias
 2017;G;7;75;752/23005;;;Convenio con la Junta de Andalucía para el aprovechamiento hidráulico del litoral mediterráneo
 2017;G;7;75;752/23008;;;Política de residuos
 2017;G;7;75;752/23010;;;Transferencia a Comunidades Autónomas para la ejecución de actuaciones enmarcadas en el PIMA ADAPTA ECOSISTEMAS. Actuaciones financiadas con ingresos procedentes de subastas de derechos de emisión.
@@ -1407,6 +1424,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2017;G;7;75;753/17038;;;A la Comunidad Autónoma de las Illes Balears según convenio
 2017;G;7;75;753/18011;;;Ayudas y subvenciones para financiar excavaciones arqueológicas en el exterior, dentro del plan establecido por el Instituto del Patrimonio Cultural de España
 2017;G;7;75;753/18107;;;A la Fundación Teatro de la Abadía para obras y equipamientos en la sede
+2017;G;7;75;753/23005;;;A la Comunidad Autónoma de Canarias, para financiar inversiones de depuración
 2017;G;7;75;753/23008;;;Adecuación de Puntos Limpios a la nueva normativa de RAEES
 2017;G;7;75;753/23014;;;Fomento del consumo de fruta en las escuelas
 2017;G;7;75;753/23109;;;C.A. de Extremadura, trasvase Tajo-Segura.
@@ -1417,6 +1435,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2017;G;7;75;754/23014;;;Fomento del consumo de leche en las escuelas.
 2017;G;7;75;754/32001;;;A la Comunidad Autónoma de Extremadura para financiar proyectos de inversión
 2017;G;7;75;755/17038;;;Convenio con la Comunidad Autónoma de Canarias
+2017;G;7;75;755/23005;;;Convenio con la Junta de Aragón para la limpieza del Lindano en el río Gállego
 2017;G;7;75;755/23012;;;Mejora de la organización de la producción y reordenación de los sectores productivos.
 2017;G;7;75;755/23016;;;Programa Operativo FEMP (Fondo Europeo Marítimo y de la Pesca) a CC.AA.
 2017;G;7;75;755/33003;;;Fondo de Compensación
@@ -1456,9 +1475,13 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2017;G;7;76;;;;A Entidades Locales
 2017;G;7;76;760/17009;;;Lorca (Murcia)
 2017;G;7;76;760/18011;;;A ayuntamientos, diputaciones y otros entes locales
+2017;G;7;76;760/20004;;;Al Ayuntamiento de Yaiza (Las Palmas) para la rehabilitación de espacios e infraestructuras turísticas en Playa Blanca
 2017;G;7;76;760/20012;;;Agenda Digital para España - Competitividad e Innovación en Telecomunicaciones y Sociedad de la Información
 2017;G;7;76;760/23005;;;Convenios con Ayuntamientos del Pirineo Aragonés para el plan de actuación en el Ciclo Integral del Agua
+2017;G;7;76;760/23006;;;Obra nueva Paseo Marítimo de Valle Gran Rey, Isla de la Gomera
 2017;G;7;76;760/23103;;;Convenios de colaboración.
+2017;G;7;76;760/26015;;;Al Cabildo de La Palma. Plan de Infraestructuras Sociosanitarias. Rehabilitación y acondicionamiento del antiguo Hospital de Las Nieves
+2017;G;7;76;760/27011;;;Al Cabildo de Gran Canaria para el desarrollo de un programa experimental e integral de actividades de investigación y económicas ligadas a la explotación de los recursos marinos insulares
 2017;G;7;76;760/27016;;;Para actuaciones de fomento de la movilidad sostenible
 2017;G;7;76;760/27101;;;Para gastos originados por la explotación estadística del Padrón Municipal y la actualización mensual del Censo Electoral
 2017;G;7;76;760/27402;;;Fondo para la Investigación científica y el desarrollo tecnológico
@@ -1467,20 +1490,27 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2017;G;7;76;761/16102;;;Para financiar obligaciones derivadas de convenios y acuerdos con otras administraciones
 2017;G;7;76;761/18011;;;Ayudas a proyectos de conservación, protección y difusión de bienes declarados Patrimonio Mundial
 2017;G;7;76;761/18106;;;Al Ayuntamiento de Tarragona para los JJMM18
+2017;G;7;76;761/20012;;;Al Cabildo de Gran Canaria para el desarrollo de un programa integral para convertir a Gran Canaria en una referencia piloto para el desarrollo de la Agenda Digital Española y de las directrices de la Unión Europea sobre islas inteligentes
+2017;G;7;76;761/23005;;;Convenio con Ayuntamientos de isla de Lanzarote para actuaciones en el Ciclo Integral del Agua
+2017;G;7;76;761/23006;;;Al Ayuntamiento de Santa María de Guía (Las Palmas) para Acondicionamiento litoral de San Felipe y la Playa del Vagabundo
 2017;G;7;76;761/32002;;;Al Ayuntamiento de Córdoba para financiar inversiones
 2017;G;7;76;762/16001;;;A Corporaciones Locales para equipamiento e infraestructuras derivadas de la aplicación de Planes de Emergencia Nuclear
 2017;G;7;76;762/17020;;;Convenio con el Cabildo Insular de Tenerife en materia de ferrocarril
 2017;G;7;76;762/17038;;;Para financiar expropiaciones en el Convenio con el Consejo Insular de Ibiza
 2017;G;7;76;762/20004;;;Planes de recualificación integral de destinos turísticos
+2017;G;7;76;762/23005;;;Convenio con Ayuntamientos de Santa Lucía para actuaciones en el Ciclo Integral del Agua. Finalización red general de saneamiento del municipio de Santa Lucía (Las Palmas)
 2017;G;7;76;762/32002;;;Al Ayuntamiento de Lorca (Murcia) para financiar obras y servicios de reparación de infraestructuras, equipamientos y servicios de titularidad local. Real Decreto-ley 6/2011
 2017;G;7;76;763/17020;;;Convenio con el Cabildo Insular de Gran Canaria en materia de ferrocarril
 2017;G;7;76;763/17038;;;CC.LL. por asunción de competencias derivadas del cambio de titularidad de determinados tramos de carreteras estatales a vías urbanas
 2017;G;7;76;763/18013;;;"Campaña de animación a la lectura ""María Moliner"" para proyectos de animación lectora en municipios de menos de 50.000 habitantes"
 2017;G;7;76;763/18106;;;Al Ayuntamiento de Palencia para polideportivo
+2017;G;7;76;763/23005;;;Convenio con Ayuntamiento de Yaiza para saneamiento, depuración y reutilización de El Golfo.
 2017;G;7;76;763/32002;;;Al Ayuntamiento de Almería para construcción de una biblioteca
 2017;G;7;76;764/17009;;;Actuaciones relacionadas con el 1 % Cultural
 2017;G;7;76;764/17020;;;Redacción del Proyecto de cubrición de la línea ferroviaria entre el Social Antzokia y el Parque de Gastañabaltza en Basauri-Bizkaia
 2017;G;7;76;764/17038;;;Convenio con el Ayuntamiento de Pontevedra
+2017;G;7;76;764/17039;;;Convenio con el Ayuntamiento de Las Palmas de Gran Canaria para financiar el Proyecto Metroguagua
+2017;G;7;76;764/18013;;;Al Ayuntamiento de Pájara para la construcción de Auditorio
 2017;G;7;76;764/18106;;;A corporaciones locales para obras de adaptación a los reglamentos de competición estatales, obras de accesibilidad y obras en infraestructuras deportivas relacionadas con la celebración de competiciones de carácter internacional, en cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, en relación con el Real Decreto 419/1991
 2017;G;7;76;764/20001;;;Al Ayuntamiento de León para la construcción y equipamiento del Palacio de Congresos
 2017;G;7;76;764/20004;;;A la Mancomunidad de Municipios de la Costa del Sol Occidental para la puesta en marcha del Plan de Adecuación Turística de la Costa del Sol Occidental
@@ -1525,6 +1555,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2017;G;7;77;774/23016;;;Ayudas a programas operativos de la Unión Europea
 2017;G;7;77;774/23114;;;Medidas de Desarrollo Rural
 2017;G;7;77;775/18013;;;Ayudas para la edición de libros
+2017;G;7;77;775/20012;;;Agenda Digital para España. Fondos destinados con carácter prioritario al desarrollo del Programa Nacional de extensión de la banda ancha de nueva generación en Canarias
 2017;G;7;77;775/27016;;;Para compensación de intereses de préstamos para la construcción naval, incluidas obligaciones de ejercicios anteriores
 2017;G;7;77;776/18013;;;Ayudas para proyectos de revalorización cultural y modernización de las librerías
 2017;G;7;77;776/20012;;;Agenda Digital para España - Impulso de la Industria del Lenguaje Natural
@@ -1573,6 +1604,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2017;G;7;78;784/18106;;;A la Real Federación Española de Fútbol para obras y equipamiento del futbol no profesional, en cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991
 2017;G;7;78;784/20012;;;Agenda Digital para España - Formación Profesionales
 2017;G;7;78;784/27401;;;A fundaciones para gastos derivados de convenios de colaboración
+2017;G;7;78;784/60002;;;A la Fundación Matia para la financiación del proyecto piloto de viviendas para mayores.
 2017;G;7;78;785/17009;;;Consejo Superior de Arquitectos de España. Bienales de Arquitectura (Española e Iberoamericana)
 2017;G;7;78;785/18011;;;A la Fundación José Ortega y Gasset - Gregorio Marañón para la rehabilitación y ampliación de la biblioteca y archivo de la Fundación
 2017;G;7;78;785/20012;;;Agenda Digital para España - Formación Usuarios

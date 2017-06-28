@@ -154,12 +154,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;19001;000X;7;;;TRANSFERENCIAS DE CAPITAL;41940
 2017;19001;000X;73;;;A otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;41940
 2017;19001;000X;735/19001;;;Al Consejo Económico y Social;41940
-2017;19002;000X;4;;;TRANSFERENCIAS CORRIENTES;11312097580
-2017;19002;000X;42;;;A la Seguridad Social;11312097580
-2017;19002;000X;420/19002;;;Prestaciones socio-económicas de carácter no contributivo.;4046752950
+2017;19002;000X;4;;;TRANSFERENCIAS CORRIENTES;11322797580
+2017;19002;000X;42;;;A la Seguridad Social;11322797580
+2017;19002;000X;420/19002;;;Prestaciones socio-económicas de carácter no contributivo.;4057452950
 2017;19002;000X;420/19002;;00;Aportación del Estado al presupuesto de la Seguridad Social para la financiación de los subsidios económicos para personas con discapacidad establecidos por el R.D. Legislativo 1/2013, de 29 de noviembre;16522950
 2017;19002;000X;420/19002;;02;Aportación del Estado al presupuesto de la Seguridad Social para financiar las prestaciones no contributivas establecidas por la Ley 26/1990, de 20 de diciembre . Pensiones, incluso para atender obligaciones de ejercicios anteriores;2486050000
-2017;19002;000X;420/19002;;03;Aportación del Estado al presupuesto de la Seguridad Social para financiar las prestaciones no contributivas establecidas por  la Leyes  26/1990, de 20 de diciembre y 35/2007, de 15 de noviembre. Protección familiar, incluso para atender obligaciones de ejercicios anteriores.;1543630000
+2017;19002;000X;420/19002;;03;Aportación del Estado al presupuesto de la Seguridad Social para financiar las prestaciones no contributivas establecidas por  la Leyes  26/1990, de 20 de diciembre y 35/2007, de 15 de noviembre. Protección familiar, incluso para atender obligaciones de ejercicios anteriores.;1554330000
 2017;19002;000X;420/19002;;04;Aportación del Estado al presupuesto de la Seguridad Social para financiar las prestaciones de maternidad no contributivas establecidas por la Ley Orgánica 3/2007, de 22 de marzo.;550000
 2017;19002;000X;423/19002;;;Aportación del Estado para financiar los complementos  de pensiones mínimas del Sistema de la Seguridad Social.;7179594910
 2017;19002;000X;426;;;Aportación del Estado a la Seguridad Social para financiar los servicios sociales del ISM;13405050
@@ -242,9 +242,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;23004;000X;410/23004;;;Parques Nacionales;9423430
 2017;23004;000X;43;;;A otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;24157270
 2017;23004;000X;430/23004;;;Agencia Estatal de Meteorología;24157270
-2017;23004;000X;7;;;TRANSFERENCIAS DE CAPITAL;54669740
-2017;23004;000X;71;;;A Organismos Autónomos;20011080
-2017;23004;000X;710/23004;;;Parques Nacionales;18511080
+2017;23004;000X;7;;;TRANSFERENCIAS DE CAPITAL;57669740
+2017;23004;000X;71;;;A Organismos Autónomos;23011080
+2017;23004;000X;710/23004;;;Parques Nacionales;21511080
 2017;23004;000X;713/23004;;;Parques Nacionales. Plan PIMA ADAPTA. Actuaciones financiadas con ingresos procedentes de subasta de derechos de emisión;1500000
 2017;23004;000X;73;;;A otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;34658660
 2017;23004;000X;730/23004;;;Agencia Estatal de Meteorología;34658660
@@ -408,7 +408,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;27011;000X;430/27011;;04;Al Consejo Superior de Investigaciones Científicas (CSIC) para gastos corrientes del proyecto del Nodo Nacional de GBIF (Global Biodiversity Info Facility);90000
 2017;27011;000X;430/27011;;07;Al CSIC para la contribución a European Grid Initiative (EGI);75000
 2017;27011;000X;431/27011;;;A la Agencia Estatal de Investigación;17735320
-2017;27011;000X;7;;;TRANSFERENCIAS DE CAPITAL;768573630
+2017;27011;000X;7;;;TRANSFERENCIAS DE CAPITAL;762573630
 2017;27011;000X;71;;;A Organismos Autónomos;81441970
 2017;27011;000X;710/27011;;;Al Instituto Geológico y Minero de España (IGME);1538000
 2017;27011;000X;710/27011;;00;Al Instituto Geológico y Minero de España (IGME);1383000
@@ -420,12 +420,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;27011;000X;712/27011;;01;Al Instituto Español de Oceanografía (IEO) para inversiones de la unidad mixta de gestión de la flota oceanográfica e instalaciones antárticas;50000
 2017;27011;000X;713/27011;;;Al Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA);3500000
 2017;27011;000X;714/27011;;;Al Instituto de Salud Carlos III (ISCIII);38054700
-2017;27011;000X;73;;;A otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;687131660
+2017;27011;000X;73;;;A otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;681131660
 2017;27011;000X;730/27011;;;Al Consejo Superior de Investigaciones Científicas (CSIC);90371840
 2017;27011;000X;730/27011;;00;Al Consejo Superior de Investigaciones Científicas (CSIC);90072840
 2017;27011;000X;730/27011;;01;Al Consejo Superior de Investigaciones Científicas (CSIC) para inversiones de la unidad mixta de gestión de la flota oceanográfica e instalaciones antárticas;139000
 2017;27011;000X;730/27011;;02;Al Consejo Superior de Investigaciones Científicas (CSIC) para gastos de inversión del proyecto del Nodo Nacional de GBIF (Global Biodiversity Info Facility);160000
-2017;27011;000X;731/27011;;;A la Agencia Estatal de Investigación;596759820
+2017;27011;000X;731/27011;;;A la Agencia Estatal de Investigación;590759820
 2017;27015;000X;4;;;TRANSFERENCIAS CORRIENTES;3386190
 2017;27015;000X;41;;;A Organismos Autónomos;3386190
 2017;27015;000X;416/27015;;;Al Centro Español de Metrología;3386190
@@ -2807,16 +2807,16 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;16003;132A;494/16003;;;Cooperación Internacional con otros países en materia policial;100000
 2017;16003;132A;495/16003;;;Cooperación Internacional con otros países: Ayudas directas;130000
 2017;16003;132A;496/16003;;;Cooperación Internacional con otros países: Formación;258850
-2017;16003;132A;6;;;INVERSIONES REALES;27552580
-2017;16003;132A;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;379170
-2017;16003;132A;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;379170
+2017;16003;132A;6;;;INVERSIONES REALES;27852580
+2017;16003;132A;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;679170
+2017;16003;132A;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;679170
 2017;16003;132A;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;27173410
 2017;16003;132A;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;27173410
 2017;16003;132A;8;;;ACTIVOS FINANCIEROS;38000
 2017;16003;132A;83;;;Concesión de préstamos fuera del Sector Público;38000
 2017;16003;132A;830;;;Préstamos a corto plazo;38000
 2017;16003;132A;830;;08;Familias e instituciones sin fines de lucro;38000
-2017;16004;132A;1;;;GASTOS DE PERSONAL;2056539710
+2017;16004;132A;1;;;GASTOS DE PERSONAL;2056599710
 2017;16004;132A;10;;;Altos cargos;65010
 2017;16004;132A;100;;;Retribuciones básicas y otras remuneraciones;65010
 2017;16004;132A;100;;00;Retribuciones básicas;17660
@@ -2855,11 +2855,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;16004;132A;15;;;Incentivos al rendimiento;159907880
 2017;16004;132A;150;;;Productividad;138007890
 2017;16004;132A;151;;;Gratificaciones;21899990
-2017;16004;132A;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;15825000
+2017;16004;132A;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;15885000
 2017;16004;132A;160;;;Cuotas sociales;5494420
 2017;16004;132A;160;;00;Seguridad Social;5494420
-2017;16004;132A;162;;;Gastos sociales del personal;10330580
-2017;16004;132A;162;;04;Acción social;7516140
+2017;16004;132A;162;;;Gastos sociales del personal;10390580
+2017;16004;132A;162;;04;Acción social;7576140
 2017;16004;132A;162;;05;Seguros;1496740
 2017;16004;132A;162;;09;Otros;1317700
 2017;16004;132A;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;308310940
@@ -2935,10 +2935,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;16004;132A;35;;;Intereses de demora y otros gastos financieros;18000
 2017;16004;132A;352;;;Intereses de demora;15000
 2017;16004;132A;359;;;Otros gastos financieros;3000
-2017;16004;132A;4;;;TRANSFERENCIAS CORRIENTES;608010
-2017;16004;132A;48;;;A familias e instituciones sin fines de lucro;161000
+2017;16004;132A;4;;;TRANSFERENCIAS CORRIENTES;668010
+2017;16004;132A;48;;;A familias e instituciones sin fines de lucro;221000
 2017;16004;132A;482/16004;;;Al Colegio de Huérfanos de la Guardia Civil para apoyar la formación educativa y protección social de los huérfanos de los socios fallecidos;5000
-2017;16004;132A;483/16004;;;A asociaciones profesionales de la Guardia Civil;120000
+2017;16004;132A;483/16004;;;A asociaciones profesionales de la Guardia Civil;180000
 2017;16004;132A;485/16004;;;A la Fundación Guardia Civil para refuerzo de la imagen institucional y sensibilización social;19000
 2017;16004;132A;486/16004;;;Ayudas para el pago de prótesis del personal del extinto Cuerpo de Mutilados de Guerra procedente de la Guardia Civil;17000
 2017;16004;132A;49;;;Al exterior;447010
@@ -4945,12 +4945,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;60001;221M;35;;;Intereses de demora y otros gastos financieros;114740
 2017;60001;221M;352;;;Intereses de demora;92120
 2017;60001;221M;359;;;Otros gastos financieros;22620
-2017;60001;221M;4;;;TRANSFERENCIAS CORRIENTES;11699787990
+2017;60001;221M;4;;;TRANSFERENCIAS CORRIENTES;11710487990
 2017;60001;221M;45;;;A Comunidades Autónomas;335714500
 2017;60001;221M;459/60001;;;Otras transferencias corrientes;335714500
 2017;60001;221M;47;;;A empresas privadas;11000
 2017;60001;221M;471/60001;;;Entregas de botiquines;11000
-2017;60001;221M;48;;;A familias e instituciones sin fines de lucro;11364062490
+2017;60001;221M;48;;;A familias e instituciones sin fines de lucro;11374762490
 2017;60001;221M;481/60001;;;Pensiones;249750
 2017;60001;221M;482/60001;;;Incapacidad temporal;6986360000
 2017;60001;221M;483/60001;;;Recargos por faltas de medidas de seguridad e higiene en el trabajo;81096000
@@ -4958,7 +4958,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;60001;221M;484/60001;;00;Subsidio por maternidad;1572491000
 2017;60001;221M;484/60001;;01;Subsidio por paternidad;438780000
 2017;60001;221M;484/60001;;02;Otros subsidios;438332020
-2017;60001;221M;485/60001;;;Proteccion a la familia;1531080000
+2017;60001;221M;485/60001;;;Proteccion a la familia;1541780000
 2017;60001;221M;486/60001;;;Indemnizaciones y entregas unicas reglamentarias;165555160
 2017;60001;221M;487/60001;;;Prestaciones sociales;148774430
 2017;60001;221M;488/60001;;;Otras prestaciones e indemnizaciones;1315280
@@ -5585,12 +5585,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;60002;231D;13;;;Laborales;1462920
 2017;60002;231D;15;;;Incentivos al rendimiento;239190
 2017;60002;231D;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;722320
-2017;60002;231D;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;109723610
+2017;60002;231D;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;106723610
 2017;60002;231D;20;;;Arrendamientos y cánones;3490
 2017;60002;231D;21;;;Reparaciones, mantenimiento y conservación;65860
 2017;60002;231D;22;;;Material, suministros y otros;3011220
 2017;60002;231D;23;;;Indemnizaciones por razón del servicio;15350
-2017;60002;231D;26;;;Servicios sociales con medios ajenos;106627690
+2017;60002;231D;26;;;Servicios sociales con medios ajenos;103627690
 2017;60002;231D;3;;;GASTOS FINANCIEROS;50000
 2017;60002;231D;35;;;Intereses de demora y otros gastos financieros;50000
 2017;60002;231D;352;;;Intereses de demora;50000
@@ -5600,6 +5600,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;60002;231D;48;;;A familias e instituciones sin fines de lucro;2567990
 2017;60002;231D;487/60002;;;Prestaciones sociales;2567990
 2017;60002;231D;6;;;INVERSIONES REALES;70000
+2017;60002;231D;7;;;TRANSFERENCIAS DE CAPITAL;3000000
+2017;60002;231D;78;;;A familias e instituciones sin fines de lucro;3000000
+2017;60002;231D;784/60002;;;A la Fundación Matia para la financiación del proyecto piloto de viviendas para mayores.;3000000
 2017;60002;231D;8;;;ACTIVOS FINANCIEROS;300
 2017;60002;231D;84;;;Constitución de depósitos y fianzas;300
 2017;60002;231D;841;;;Fianzas;300
@@ -5660,6 +5663,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;26015;231F;23;;;Indemnizaciones por razón del servicio;149070
 2017;26015;231F;230;;;Dietas;70000
 2017;26015;231F;231;;;Locomoción;79070
+2017;26015;231F;4;;;TRANSFERENCIAS CORRIENTES;60000
+2017;26015;231F;48;;;A familias e instituciones sin fines de lucro;60000
+2017;26015;231F;483/26015;;;Fundació Miquel Valls;60000
+2017;26015;231F;7;;;TRANSFERENCIAS DE CAPITAL;2000000
+2017;26015;231F;76;;;A Entidades Locales;2000000
+2017;26015;231F;760/26015;;;Al Cabildo de La Palma. Plan de Infraestructuras Sociosanitarias. Rehabilitación y acondicionamiento del antiguo Hospital de Las Nieves;2000000
 2017;26015;231F;8;;;ACTIVOS FINANCIEROS;5000000
 2017;26015;231F;87;;;Aportaciones patrimoniales;5000000
 2017;26015;231F;871/26015;;;Fondo de apoyo para la promoción y desarrollo de infraestructuras y servicios del Sistema de Autonomía y Atención a la Dependencia;5000000
@@ -5695,20 +5704,22 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;26016;231F;23;;;Indemnizaciones por razón del servicio;31940
 2017;26016;231F;230;;;Dietas;15970
 2017;26016;231F;231;;;Locomoción;15970
-2017;26016;231F;4;;;TRANSFERENCIAS CORRIENTES;211607790
-2017;26016;231F;45;;;A Comunidades Autónomas;105487500
+2017;26016;231F;4;;;TRANSFERENCIAS CORRIENTES;205547790
+2017;26016;231F;45;;;A Comunidades Autónomas;115487500
 2017;26016;231F;453/26016;;;Programas de servicios sociales;104412500
 2017;26016;231F;453/26016;;01;Plan de desarrollo gitano;412500
 2017;26016;231F;453/26016;;04;Programas de servicios sociales en Ceuta.;2000000
 2017;26016;231F;453/26016;;05;Programas de servicios sociales en Melilla.;2000000
 2017;26016;231F;453/26016;;07;Protección a la familia y atención a la pobreza infantil. Prestaciones básicas de servicios sociales;100000000
-2017;26016;231F;455/26016;;;A la Comunidad Autónoma de Canarias. Programa para la lucha contra la pobreza;1000000
+2017;26016;231F;455/26016;;;A la Comunidad Autónoma de Canarias. Programa para la lucha contra la pobreza;6000000
+2017;26016;231F;457/26016;;;A la Comunidad Autónoma de Canarias. Prestaciones básicas de Servicios Sociales;5000000
 2017;26016;231F;458/26016;;;Plan Estatal del Voluntariado. Congreso Estatal del Voluntariado;75000
-2017;26016;231F;46;;;A Entidades Locales;665000
+2017;26016;231F;46;;;A Entidades Locales;1265000
 2017;26016;231F;460/26016;;;Para Medidas de Acompañamiento del Programa Operativo del Fondo de ayuda Europea para las Personas mas Desfavorecidas (FEAD);665000
-2017;26016;231F;48;;;A familias e instituciones sin fines de lucro;105455290
+2017;26016;231F;462/26016;;;Nuevo Plan Integral de Jinámar (Telde). Asuntos sociales;600000
+2017;26016;231F;48;;;A familias e instituciones sin fines de lucro;88795290
 2017;26016;231F;480/26016;;;A la Fundación Víctimas del Terrorismo;105000
-2017;26016;231F;484/26016;;;Para actividades de interés general consideradas de interés social reguladas por el artículo 2 del Real Decreto-ley 7/2013, de 28 de junio;99827080
+2017;26016;231F;484/26016;;;Para actividades de interés general consideradas de interés social reguladas por el artículo 2 del Real Decreto-ley 7/2013, de 28 de junio;83167080
 2017;26016;231F;486/26016;;;Para actuaciones de acción social;4228100
 2017;26016;231F;486/26016;;00;A la Plataforma Khetané del movimiento asociativo gitano del Estado Español para el sostenimiento económico-financiero de su estructura central;40000
 2017;26016;231F;486/26016;;01;A Cruz Roja Española para el sostenimiento económico-financiero de su estructura central;1353680
@@ -6372,10 +6383,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;26022;232C;231;;;Locomoción;20000
 2017;26022;232C;24;;;Gastos de publicaciones;100000
 2017;26022;232C;240;;;Gastos de edición y distribución;100000
-2017;26022;232C;4;;;TRANSFERENCIAS CORRIENTES;14152840
-2017;26022;232C;45;;;A Comunidades Autónomas;6700000
+2017;26022;232C;4;;;TRANSFERENCIAS CORRIENTES;18152840
+2017;26022;232C;45;;;A Comunidades Autónomas;10700000
 2017;26022;232C;450/26022;;;Programas de asistencia social para mujeres víctimas de violencia de género y otras formas de violencia contra las mujeres;5700000
 2017;26022;232C;451/26022;;;Programas para la implementación de planes personalizados de atención y desarrollo de actuaciones en relación a otras formas de violencia contra las mujeres;1000000
+2017;26022;232C;452/26022;;;A la Comunidad Autónoma de Canarias para el desarrollo de un Plan contra la violencia de género;2000000
+2017;26022;232C;455/26022;;;Programa para el apoyo a víctimas de agresiones y/o abusos sexuales;2000000
 2017;26022;232C;48;;;A familias e instituciones sin fines de lucro;7452840
 2017;26022;232C;480/26022;;;Ayudas sociales para mujeres (art 27 de la L.O.1/2004, de 28 de diciembre);1707840
 2017;26022;232C;481/26022;;;Becas de formación Observatorio Estatal de violencia sobre la mujer;60000
@@ -6517,7 +6530,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;19101;241A;441/19101;;;Reserva de gestión directa Servicio Público de Empleo Estatal. Trabajo Penitenciario y Formación para el Empleo. Oportunidades de empleo para desempleados en obras y servicios de interés general y social (EJE 3);57050
 2017;19101;241A;442/19101;;;Reserva de gestión directa Servicio Público de Empleo Estatal. Trabajo Penitenciario y Formación para el Empleo. Para cuotas de seguros de accidentes de alumnos, becas y/o ayudas a alumnos y subvenciones a centros y entidades de formación profesional para el empleo a parados (EJE 2);4826500
 2017;19101;241A;443/19101;;;A la Fundación Estatal para la Formación en el Empleo, para gastos corrientes;38986060
-2017;19101;241A;45;;;A Comunidades Autónomas;2114700790
+2017;19101;241A;45;;;A Comunidades Autónomas;2156700790
 2017;19101;241A;452/19101;;;Gestión por las Comunidades Autónomas de iniciativas del sistema de formación profesional para el empleo, financiadas con la cuota de formación profesional (EJE 2);1028542910
 2017;19101;241A;452/19101;;40;Iniciativas de oferta formativa para trabajadores desempleados;634316170
 2017;19101;241A;452/19101;;50;Iniciativas de oferta formativa para  trabajadores ocupados;120250560
@@ -6532,6 +6545,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;19101;241A;454/19101;;10;Agencias de colocación (EJE 1);34400000
 2017;19101;241A;454/19101;;70;Orientación profesional para atender a personas desempleadas de larga duración;206600000
 2017;19101;241A;454/19101;;80;Agencias de colocación para atender a personas desempleadas de larga duración;51400000
+2017;19101;241A;455/19101;;;Planes integrales de empleo y otras actuaciones en materia de empleo, mediante convenios de colaboración con Comunidades Autónomas;42000000
+2017;19101;241A;455/19101;;10;Plan Integral de Empleo de Canarias;42000000
 2017;19101;241A;456/19101;;;Gestión por Comunidades Autónomas de servicios y programas establecidos por el R.D. 1224/2009 y desarrollo reglamentario del contrato para la formación y el aprendizaje;24900000
 2017;19101;241A;456/19101;;00;Costes adicionales del contrato de formación y aprendizaje (EJE 2);10000000
 2017;19101;241A;456/19101;;01;Gastos de asesores, evaluadores, medios materiales y movilidad geográfica para el programa de evaluación (R.D. 1224/2009) (EJE 2);14900000
@@ -6539,7 +6554,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;19101;241A;458/19101;;;Para la modernización de los servicios públicos de empleo, según la Ley 45/2002, de 12 de diciembre, y mejora del marco institucional del sistema nacional de empleo (EJE 6);100000000
 2017;19101;241A;458/19101;;00;Mejora del marco institucional del Sistema Nacional de Empleo;60000000
 2017;19101;241A;458/19101;;01;Mejora de las oficinas de empleo;40000000
-2017;19101;241A;46;;;A Entidades Locales;227577740
+2017;19101;241A;46;;;A Entidades Locales;228177740
 2017;19101;241A;460/19101;;;Gestión de servicios y programas de políticas activas de empleo en territorio no transferido;4990350
 2017;19101;241A;460/19101;;00;Orientación profesional (EJE 1);10300
 2017;19101;241A;460/19101;;01;Oportunidades de empleo (EJE 3);4834820
@@ -6547,11 +6562,13 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;19101;241A;461/19101;;;Programa de fomento de empleo agrario (EJE 3);222587390
 2017;19101;241A;461/19101;;01;Andalucía y Extremadura;192587770
 2017;19101;241A;461/19101;;02;Zonas rurales deprimidas;29999620
+2017;19101;241A;465/19101;;;Planes integrales de empleo y otras actuaciones en materia de empleo, mediante convenios de colaboración con entidades locales;600000
+2017;19101;241A;465/19101;;10;Plan Integral de Jinámar (Telde);600000
 2017;19101;241A;47;;;A empresas privadas;1508950
 2017;19101;241A;472/19101;;;Gestión de servicios y programas  de políticas activas de empleo en territorio no transferido;1508950
 2017;19101;241A;472/19101;;00;Oportunidades de empleo (EJE 3);759110
 2017;19101;241A;472/19101;;01;Subvención de cuotas a la Seguridad Social de la capitalización de prestaciones por desempleo y promoción de la actividad económica territorial. Emprendimiento (EJE 5);749840
-2017;19101;241A;48;;;A familias e instituciones sin fines de lucro;3014757800
+2017;19101;241A;48;;;A familias e instituciones sin fines de lucro;2972157800
 2017;19101;241A;481/19101;;;A familias e instituciones sin fines de lucro;1900000
 2017;19101;241A;481/19101;;00;Dotación para facilitar la reinserción laboral de los trabajadores que pierdan su empleo en determinados sectores productivos afectados por la apertura de mercados y la internacionalización de la economía (Reales Decretos 5/2008, 100/2009, 1678/2009, 1679/2009) en Ceuta y Melilla (VARIOS EJES);200000
 2017;19101;241A;481/19101;;01;Dotación para facilitar la reinserción laboral de los trabajadores que pierdan su empleo en determinados sectores productivos afectados por la apertura de mercados y la internacionalización de la economía (Real Decreto 1010/2009, y en su caso, otros) VARIOS EJES;1700000
@@ -6577,8 +6594,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;19101;241A;486/19101;;;Dotación para facilitar la reinserción laboral de los trabajadores que pierdan su empleo en determinados sectores productivos afectados por la apertura de mercados y la internacionalización de la economía (VARIOS EJES);5168820
 2017;19101;241A;486/19101;;00;Reales Decretos 5/2008, 100/2009, 1678/2009 y 1679/2009;2000000
 2017;19101;241A;486/19101;;03;Real Decreto 196/2010 y otros;3168820
-2017;19101;241A;487/19101;;;Para pago de cuotas, subvenciones y bonificaciones a la Seguridad Social;2501240570
-2017;19101;241A;487/19101;;03;Financiación de las bonificaciones en las cotizaciones de la Seguridad Social acogidas a medidas de fomento de empleo por contratación laboral, incluso obligaciones de ejercicios anteriores (EJE 3);1868352250
+2017;19101;241A;487/19101;;;Para pago de cuotas, subvenciones y bonificaciones a la Seguridad Social;2458640570
+2017;19101;241A;487/19101;;03;Financiación de las bonificaciones en las cotizaciones de la Seguridad Social acogidas a medidas de fomento de empleo por contratación laboral, incluso obligaciones de ejercicios anteriores (EJE 3);1825752250
 2017;19101;241A;487/19101;;04;Financiación de las bonificaciones en las cotizaciones de la Seguridad Social por formación de ocupados, incluso obligaciones de ejercicios anteriores (EJE 2);632888320
 2017;19101;241A;49;;;Al exterior;398700
 2017;19101;241A;491/19101;;;Cuotas a la Asociación Mundial de los Servicios Públicos de Empleo (AMSPE) y otras organizaciones internacionales;15750
@@ -6780,15 +6797,17 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;17009;261N;6;;;INVERSIONES REALES;348500
 2017;17009;261N;64;;;Gastos de inversiones de carácter inmaterial;348500
 2017;17009;261N;640;;;Gastos en inversiones de carácter inmaterial;348500
-2017;17009;261N;7;;;TRANSFERENCIAS DE CAPITAL;442947170
+2017;17009;261N;7;;;TRANSFERENCIAS DE CAPITAL;449247170
 2017;17009;261N;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;7784160
 2017;17009;261N;740/17009;;;SEPES;7684160
 2017;17009;261N;740/17009;;01;SEPES Ciudad Autónoma de Ceuta;1000000
 2017;17009;261N;740/17009;;02;SEPES Ciudad Autónoma de Melilla;6684160
 2017;17009;261N;742/17009;;;Línea ICO;100000
-2017;17009;261N;75;;;A Comunidades Autónomas;331063010
-2017;17009;261N;750/17009;;;Convenios específicos;2761910
+2017;17009;261N;75;;;A Comunidades Autónomas;337363010
+2017;17009;261N;750/17009;;;Convenios específicos;9061910
 2017;17009;261N;750/17009;;13;Comunidad Autónoma de Canarias. Convenio Reposición Las Chumberas (San Cristóbal de la Laguna);2761910
+2017;17009;261N;750/17009;;16;Regeneración y renovación Urbana (ARRU) de 392 viviendas en Jinámar, Telde, Gran Canaria;2300000
+2017;17009;261N;750/17009;;18;Convenio renovación urbana Las Rehoyas (Las Palmas de Gran Canaria);4000000
 2017;17009;261N;753/17009;;;Subvenciones Estatales  Planes de Vivienda;328301100
 2017;17009;261N;753/17009;;03;Andalucía;59265180
 2017;17009;261N;753/17009;;04;Aragón;13170040
@@ -6841,11 +6860,13 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;17009;261O;611;;;Otras;14967660
 2017;17009;261O;64;;;Gastos de inversiones de carácter inmaterial;450000
 2017;17009;261O;640;;;Gastos en inversiones de carácter inmaterial;450000
-2017;17009;261O;7;;;TRANSFERENCIAS DE CAPITAL;1157450
+2017;17009;261O;7;;;TRANSFERENCIAS DE CAPITAL;2657450
 2017;17009;261O;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;131490
 2017;17009;261O;741/17009;;;Acción Cultural Española: Bienal de Venecia;125000
 2017;17009;261O;748/17009;;;Actuaciones relacionadas con el 1 % Cultural;6490
-2017;17009;261O;75;;;A Comunidades Autónomas;66490
+2017;17009;261O;75;;;A Comunidades Autónomas;1566490
+2017;17009;261O;750/17009;;;Convenios específicos;1500000
+2017;17009;261O;750/17009;;14;Convenio renovación urbana Atalaya-Becerril (Santa María de Guía);1500000
 2017;17009;261O;751/17009;;;Actuaciones relacionadas con el 1 % Cultural;6490
 2017;17009;261O;758/17009;;;Organismos públicos de comunidades autónomas;60000
 2017;17009;261O;758/17009;;00;A Fundación General de la Universidad Politécnica de Madrid. Edificación Sostenible;45000
@@ -8074,7 +8095,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;18001;321M;162;;04;Acción social;556760
 2017;18001;321M;162;;05;Seguros;10000
 2017;18001;321M;162;;09;Otros;379150
-2017;18001;321M;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;14456480
+2017;18001;321M;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;13714560
 2017;18001;321M;20;;;Arrendamientos y cánones;1920000
 2017;18001;321M;202;;;Arrendamientos de edificios y otras construcciones;1700000
 2017;18001;321M;205;;;Arrendamientos de mobiliario y enseres;2000
@@ -8085,7 +8106,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;18001;321M;214;;;Elementos de transporte;4000
 2017;18001;321M;215;;;Mobiliario y enseres;318200
 2017;18001;321M;216;;;Equipos para procesos de la información;862840
-2017;18001;321M;22;;;Material, suministros y otros;9057130
+2017;18001;321M;22;;;Material, suministros y otros;8865210
 2017;18001;321M;220;;;Material de oficina;623620
 2017;18001;321M;220;;00;Ordinario no inventariable;200000
 2017;18001;321M;220;;01;Prensa, revistas, libros y otras publicaciones;37410
@@ -8113,14 +8134,14 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;18001;321M;226;;03;Jurídicos, contenciosos;60000
 2017;18001;321M;226;;06;Reuniones, conferencias y cursos;177000
 2017;18001;321M;226;;07;Oposiciones y pruebas selectivas;118910
-2017;18001;321M;227;;;Trabajos realizados por otras empresas y profesionales;3413010
-2017;18001;321M;227;;06;Estudios y trabajos técnicos;3304100
+2017;18001;321M;227;;;Trabajos realizados por otras empresas y profesionales;3221090
+2017;18001;321M;227;;06;Estudios y trabajos técnicos;3112180
 2017;18001;321M;227;;99;Otros;108910
-2017;18001;321M;23;;;Indemnizaciones por razón del servicio;952310
+2017;18001;321M;23;;;Indemnizaciones por razón del servicio;402310
 2017;18001;321M;230;;;Dietas;254830
 2017;18001;321M;231;;;Locomoción;79200
 2017;18001;321M;232;;;Traslado;28120
-2017;18001;321M;233;;;Otras indemnizaciones;590160
+2017;18001;321M;233;;;Otras indemnizaciones;40160
 2017;18001;321M;3;;;GASTOS FINANCIEROS;85000
 2017;18001;321M;35;;;Intereses de demora y otros gastos financieros;85000
 2017;18001;321M;354;;;Liquidación de intereses de demora correspondientes al reconocimiento de diferencias salariales por sentencias y autos;85000
@@ -8688,11 +8709,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;18006;322C;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;89350
 2017;18006;322C;160;;;Cuotas sociales;89350
 2017;18006;322C;160;;00;Seguridad Social;89350
-2017;18006;322C;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;1350040
+2017;18006;322C;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;1300040
 2017;18006;322C;21;;;Reparaciones, mantenimiento y conservación;4730
 2017;18006;322C;212;;;Edificios y otras construcciones;850
 2017;18006;322C;215;;;Mobiliario y enseres;3880
-2017;18006;322C;22;;;Material, suministros y otros;760130
+2017;18006;322C;22;;;Material, suministros y otros;710130
 2017;18006;322C;222;;;Comunicaciones;64760
 2017;18006;322C;222;;01;Postales y mensajería;64760
 2017;18006;322C;226;;;Gastos diversos;124020
@@ -8700,22 +8721,22 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;18006;322C;226;;02;Publicidad y propaganda;2020
 2017;18006;322C;226;;06;Reuniones, conferencias y cursos;116260
 2017;18006;322C;226;;99;Otros;1110
-2017;18006;322C;227;;;Trabajos realizados por otras empresas y profesionales;571350
-2017;18006;322C;227;;06;Estudios y trabajos técnicos;569140
+2017;18006;322C;227;;;Trabajos realizados por otras empresas y profesionales;521350
+2017;18006;322C;227;;06;Estudios y trabajos técnicos;519140
 2017;18006;322C;227;;99;Otros;2210
 2017;18006;322C;23;;;Indemnizaciones por razón del servicio;585180
 2017;18006;322C;230;;;Dietas;136920
 2017;18006;322C;231;;;Locomoción;260380
 2017;18006;322C;233;;;Otras indemnizaciones;187880
-2017;18006;322C;4;;;TRANSFERENCIAS CORRIENTES;79209880
+2017;18006;322C;4;;;TRANSFERENCIAS CORRIENTES;79435130
 2017;18006;322C;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;67749970
 2017;18006;322C;441/18006;;;A la Universidad Nacional de Educación a Distancia (UNED);67749970
 2017;18006;322C;441/18006;;17;A la UNED para gastos de funcionamiento;66852000
 2017;18006;322C;441/18006;;18;A la UNED para financiar el programa de estudios en instituciones penitenciarias;225360
 2017;18006;322C;441/18006;;21;A la UNED para la gestión del acceso a la universidad de estudiantes extranjeros;297000
 2017;18006;322C;441/18006;;22;A la UNED para el pago del complemento específico previsto en los artículos 55 y 69 de la LOU;375610
-2017;18006;322C;45;;;A Comunidades Autónomas;8716750
-2017;18006;322C;450/18006;;;A la Oficina VIII Centenario de la Universidad de Salamanca 2018;274750
+2017;18006;322C;45;;;A Comunidades Autónomas;8942000
+2017;18006;322C;450/18006;;;A la Oficina VIII Centenario de la Universidad de Salamanca 2018;500000
 2017;18006;322C;455/18006;;;A la Universidad de Granada para compensar sus gastos en los centros de enseñanza universitaria de Ceuta y Melilla;8442000
 2017;18006;322C;48;;;A familias e instituciones sin fines de lucro;285000
 2017;18006;322C;481/18006;;;A la Fundación César Carlos para sus actividades;100000
@@ -9224,12 +9245,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;18004;322L;160;;00;Seguridad Social;83110
 2017;18004;322L;162;;;Gastos sociales del personal;28960
 2017;18004;322L;162;;00;Formación y perfeccionamiento del personal;28960
-2017;18004;322L;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;6339300
+2017;18004;322L;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;3339300
 2017;18004;322L;21;;;Reparaciones, mantenimiento y conservación;401570
 2017;18004;322L;212;;;Edificios y otras construcciones;22870
 2017;18004;322L;215;;;Mobiliario y enseres;8700
 2017;18004;322L;216;;;Equipos para procesos de la información;370000
-2017;18004;322L;22;;;Material, suministros y otros;5537990
+2017;18004;322L;22;;;Material, suministros y otros;2537990
 2017;18004;322L;220;;;Material de oficina;99660
 2017;18004;322L;220;;00;Ordinario no inventariable;34660
 2017;18004;322L;220;;01;Prensa, revistas, libros y otras publicaciones;45290
@@ -9245,8 +9266,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;18004;322L;226;;02;Publicidad y propaganda;30330
 2017;18004;322L;226;;06;Reuniones, conferencias y cursos;737750
 2017;18004;322L;226;;99;Otros;65260
-2017;18004;322L;227;;;Trabajos realizados por otras empresas y profesionales;4016540
-2017;18004;322L;227;;06;Estudios y trabajos técnicos;4001370
+2017;18004;322L;227;;;Trabajos realizados por otras empresas y profesionales;1016540
+2017;18004;322L;227;;06;Estudios y trabajos técnicos;1001370
 2017;18004;322L;227;;99;Otros;15170
 2017;18004;322L;229/18004;;;Gastos de funcionamiento de los centros docentes no universitarios;469380
 2017;18004;322L;23;;;Indemnizaciones por razón del servicio;399740
@@ -9295,9 +9316,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;18004;322L;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;2231920
 2017;18004;322L;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;383380
 2017;18004;322L;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;383380
-2017;18004;322L;7;;;TRANSFERENCIAS DE CAPITAL;10000000
-2017;18004;322L;75;;;A Comunidades Autónomas;10000000
+2017;18004;322L;7;;;TRANSFERENCIAS DE CAPITAL;12000000
+2017;18004;322L;75;;;A Comunidades Autónomas;12000000
 2017;18004;322L;750/18004;;;Plan Especial de Empleo de Canarias (infraestructura educativa);10000000
+2017;18004;322L;751/18004;;;Plan Integral de Empleo (infraestructuras educativas). Instituto de Educación Saulo Torón (Gáldar);2000000
 2017;18005;322L;1;;;GASTOS DE PERSONAL;412640
 2017;18005;322L;12;;;Funcionarios;412640
 2017;18005;322L;120;;;Retribuciones básicas;204650
@@ -9768,7 +9790,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;18011;333A;35;;;Intereses de demora y otros gastos financieros;27000
 2017;18011;333A;352;;;Intereses de demora;2000
 2017;18011;333A;359;;;Otros gastos financieros;25000
-2017;18011;333A;4;;;TRANSFERENCIAS CORRIENTES;10123860
+2017;18011;333A;4;;;TRANSFERENCIAS CORRIENTES;10273860
 2017;18011;333A;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;5327750
 2017;18011;333A;440/18011;;;A la Fundación Thyssen Bornemisza en concepto de déficit dotable y para gastos de funcionamiento;5237750
 2017;18011;333A;443/18011;;;A la Fundación Lázaro Galdiano para gastos de funcionamiento;90000
@@ -9776,18 +9798,18 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;18011;333A;455/18011;;;Al Museo Nacional de Arte de Cataluña (MNAC) para gastos de funcionamiento;2031330
 2017;18011;333A;456/18011;;;A la Fundación Cristóbal Balenciaga para gastos de funcionamiento;333720
 2017;18011;333A;458/18011;;;Al Instituto Valenciano de Arte Moderno (IVAM) para gastos de funcionamiento;171880
-2017;18011;333A;46;;;A Entidades Locales;1300460
-2017;18011;333A;461/18011;;;Transferencias a instituciones culturales;1256460
+2017;18011;333A;46;;;A Entidades Locales;1375460
+2017;18011;333A;461/18011;;;Transferencias a instituciones culturales;1331460
 2017;18011;333A;461/18011;;01;A Patio Herreriano, Museo de Arte Contemporáneo Español, para gastos de funcionamiento;38560
 2017;18011;333A;461/18011;;02;A la Fundación Antonio Pérez de Cuenca, para gastos corrientes;15000
 2017;18011;333A;461/18011;;03;A la Fundación Museo Marco de Vigo, para gastos de funcionamiento;35000
 2017;18011;333A;461/18011;;04;"Al consorcio de derecho público Museo de Arte Contemporáneo ""Esteban Vicente"" para gastos de funcionamiento";90000
 2017;18011;333A;461/18011;;05;Al Consorcio del MACBA para gastos de funcionamiento;1042900
-2017;18011;333A;461/18011;;06;A la Fundación Artium para gastos de funcionamiento del Centro-Museo Vasco de Arte Contemporáneo Artium;35000
+2017;18011;333A;461/18011;;06;A la Fundación Artium para gastos de funcionamiento del Centro-Museo Vasco de Arte Contemporáneo Artium;110000
 2017;18011;333A;462/18011;;;Al Ayuntamiento de Ibiza para gastos de funcionamiento del Museo Puget;20000
 2017;18011;333A;464/18011;;;A la Diputación de Granada para el Centro José Guerrero;24000
-2017;18011;333A;48;;;A familias e instituciones sin fines de lucro;901220
-2017;18011;333A;485/18011;;;Otras transferencias;900950
+2017;18011;333A;48;;;A familias e instituciones sin fines de lucro;976220
+2017;18011;333A;485/18011;;;Otras transferencias;975950
 2017;18011;333A;485/18011;;01;A la Fundación Privada Antoni Tápies para gastos de funcionamiento;48740
 2017;18011;333A;485/18011;;05;A la Fundación Diaz-Caneja para gastos de funcionamiento;40000
 2017;18011;333A;485/18011;;06;A la Federación Española de Amigos de los Museos;2750
@@ -9795,6 +9817,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;18011;333A;485/18011;;14;A la Fundación Joan Miró de Barcelona para gastos de funcionamiento;70000
 2017;18011;333A;485/18011;;15;A la Fundación Pilar i Joan Miró de Mallorca para gastos de funcionamiento;40000
 2017;18011;333A;485/18011;;18;A la Asociación Profesional de Museólogos de España para gastos de funcionamiento;2500
+2017;18011;333A;485/18011;;25;Al Museo Marítimo Ría de Bilbao;75000
 2017;18011;333A;485/18011;;48;A la Real Academia de Bellas Artes de San Fernando para actividades y gastos de funcionamiento;624930
 2017;18011;333A;485/18011;;50;"A la Fundación Eutherpe para el programa ""Música en Museos""";50000
 2017;18011;333A;486/18011;;;Cuota a la Asociación Española de Museólogos;270
@@ -10069,9 +10092,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;18011;333B;6;;;INVERSIONES REALES;27240
 2017;18011;333B;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;27240
 2017;18011;333B;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;27240
-2017;18001;334A;4;;;TRANSFERENCIAS CORRIENTES;1000000
-2017;18001;334A;48;;;A familias e instituciones sin fines de lucro;1000000
-2017;18001;334A;487/18001;;;Para gastos de funcionamiento de fundaciones y asociaciones vinculadas con partidos políticos con representación en las Cortes Generales, que realicen actividades de estudio y desarrollo del pensamiento político y social, en función de la representación obtenida por éstos;1000000
+2017;18001;334A;4;;;TRANSFERENCIAS CORRIENTES;900000
+2017;18001;334A;48;;;A familias e instituciones sin fines de lucro;900000
+2017;18001;334A;487/18001;;;Para gastos de funcionamiento de fundaciones y asociaciones vinculadas con partidos políticos con representación en las Cortes Generales, que realicen actividades de estudio y desarrollo del pensamiento político y social, en función de la representación obtenida por éstos;900000
 2017;18013;334A;1;;;GASTOS DE PERSONAL;1825190
 2017;18013;334A;10;;;Altos cargos;55750
 2017;18013;334A;100;;;Retribuciones básicas y otras remuneraciones;55750
@@ -10143,8 +10166,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;18013;334A;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;13000
 2017;18013;334A;64;;;Gastos de inversiones de carácter inmaterial;114800
 2017;18013;334A;640;;;Gastos en inversiones de carácter inmaterial;114800
-2017;18013;334A;7;;;TRANSFERENCIAS DE CAPITAL;250000
-2017;18013;334A;76;;;A Entidades Locales;250000
+2017;18013;334A;7;;;TRANSFERENCIAS DE CAPITAL;1250000
+2017;18013;334A;76;;;A Entidades Locales;1250000
+2017;18013;334A;764/18013;;;Al Ayuntamiento de Pájara para la construcción de Auditorio;1000000
 2017;18013;334A;769/18013;;;Al Ayuntamiento de Figueres para la rehabilitación de la Casa Natal de Salvador Dalí;250000
 2017;18105;334A;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;12000
 2017;18105;334A;21;;;Reparaciones, mantenimiento y conservación;7000
@@ -10293,7 +10317,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;18107;335A;160;;00;Seguridad Social;6414150
 2017;18107;335A;162;;;Gastos sociales del personal;78930
 2017;18107;335A;162;;09;Otros;78930
-2017;18107;335A;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;31306870
+2017;18107;335A;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;31081870
 2017;18107;335A;20;;;Arrendamientos y cánones;1073230
 2017;18107;335A;202;;;Arrendamientos de edificios y otras construcciones;930000
 2017;18107;335A;203;;;Arrendamientos de maquinaria, instalaciones y utillaje;16030
@@ -10345,12 +10369,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;18107;335A;233;;;Otras indemnizaciones;482000
 2017;18107;335A;24;;;Gastos de publicaciones;78000
 2017;18107;335A;240;;;Gastos de edición y distribución;78000
-2017;18107;335A;28;;;Gastos relacionados con la actividad comercial;19006490
-2017;18107;335A;280;;;Gastos relacionados con la actividad comercial;19006490
+2017;18107;335A;28;;;Gastos relacionados con la actividad comercial;18781490
+2017;18107;335A;280;;;Gastos relacionados con la actividad comercial;18781490
 2017;18107;335A;3;;;GASTOS FINANCIEROS;45000
 2017;18107;335A;35;;;Intereses de demora y otros gastos financieros;45000
 2017;18107;335A;359;;;Otros gastos financieros;45000
-2017;18107;335A;4;;;TRANSFERENCIAS CORRIENTES;29916090
+2017;18107;335A;4;;;TRANSFERENCIAS CORRIENTES;30141090
 2017;18107;335A;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;18487120
 2017;18107;335A;440/18107;;;A la Fundación Teatro Real;9392800
 2017;18107;335A;441/18107;;;Ayudas para actividades musicales y coreográficas de ámbito nacional;28200
@@ -10366,15 +10390,15 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;18107;335A;454/18107;;09;Al Festival Internacional de Música y Danza de Granada;494580
 2017;18107;335A;454/18107;;10;A la Fundación Cante de las Minas;70340
 2017;18107;335A;454/18107;;11;A la Fundación Pública Festival Internacional de Santander;103500
-2017;18107;335A;46;;;A Entidades Locales;1019070
+2017;18107;335A;46;;;A Entidades Locales;1044070
 2017;18107;335A;461/18107;;;A festivales y otras actividades musicales de ámbito nacional;470000
-2017;18107;335A;464/18107;;;Programa de apoyo a festivales, muestras, ferias y otras actividades teatrales y circenses organizadas por corporaciones locales;549070
-2017;18107;335A;464/18107;;44;A la Quincena Musical de Donostia-San Sebastián;103500
+2017;18107;335A;464/18107;;;Programa de apoyo a festivales, muestras, ferias y otras actividades teatrales y circenses organizadas por corporaciones locales;574070
+2017;18107;335A;464/18107;;44;A la Quincena Musical de Donostia-San Sebastián;128500
 2017;18107;335A;464/18107;;45;Al Consorci Mercat de les Flors-Centre de les Arts de Moviment;375710
 2017;18107;335A;464/18107;;47;A la Fundación Patronato Semana de Música Religiosa de Cuenca;69860
 2017;18107;335A;47;;;A empresas privadas;2564180
 2017;18107;335A;473/18107;;;Giras y producciones de personas y conjuntos musicales y coreográficos;2564180
-2017;18107;335A;48;;;A familias e instituciones sin fines de lucro;4779470
+2017;18107;335A;48;;;A familias e instituciones sin fines de lucro;4979470
 2017;18107;335A;480/18107;;;A programas de actividades musicales de entidades sin fines de lucro;1681400
 2017;18107;335A;480/18107;;12;A la Fundación Archivo Manuel de Falla para sus actividades;14490
 2017;18107;335A;480/18107;;13;A la Fundación Isaac Albéniz, para sus actividades culturales;100000
@@ -10386,10 +10410,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;18107;335A;480/18107;;49;A la Fundación para la Danza Víctor Ullate para sus actividades;50000
 2017;18107;335A;480/18107;;50;A la Fundación Antonio Gades para sus actividades;50000
 2017;18107;335A;481/18107;;;Programa de actividades musicales de ámbito nacional e internacional;1879000
-2017;18107;335A;485/18107;;;Apoyo a programas líricos y de danza;1061170
+2017;18107;335A;485/18107;;;Apoyo a programas líricos y de danza;1261170
 2017;18107;335A;485/18107;;00;Apoyo a temporadas líricas;94000
-2017;18107;335A;485/18107;;01;A la Asociación Bilbaína de Amigos de la Ópera para el desarrollo de su temporada;517500
-2017;18107;335A;485/18107;;02;A la Fundación del Festival de Ópera de Oviedo para el desarrollo de su temporada lírica;258750
+2017;18107;335A;485/18107;;01;A la Asociación Bilbaína de Amigos de la Ópera para el desarrollo de su temporada;617500
+2017;18107;335A;485/18107;;02;A la Fundación del Festival de Ópera de Oviedo para el desarrollo de su temporada lírica;358750
 2017;18107;335A;485/18107;;03;A la Asociación de Amigos Canarios de la Ópera para la temporada de Ópera de Las Palmas;115920
 2017;18107;335A;485/18107;;04;A la Asociación de Amigos de la Ópera de A Coruña, para la temporada lírica de A Coruña;75000
 2017;18107;335A;486/18107;;;Cuotas asociativas de las unidades del INAEM;7900
@@ -10562,7 +10586,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;18103;335C;162;;04;Acción social;12800
 2017;18103;335C;162;;05;Seguros;4620
 2017;18103;335C;162;;09;Otros;6500
-2017;18103;335C;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;4533850
+2017;18103;335C;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;4433850
 2017;18103;335C;20;;;Arrendamientos y cánones;122500
 2017;18103;335C;203;;;Arrendamientos de maquinaria, instalaciones y utillaje;11000
 2017;18103;335C;208;;;Arrendamientos de otro inmovilizado material;110000
@@ -10573,7 +10597,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;18103;335C;214;;;Elementos de transporte;3000
 2017;18103;335C;215;;;Mobiliario y enseres;57200
 2017;18103;335C;216;;;Equipos para procesos de la información;88480
-2017;18103;335C;22;;;Material, suministros y otros;3320320
+2017;18103;335C;22;;;Material, suministros y otros;3220320
 2017;18103;335C;220;;;Material de oficina;253430
 2017;18103;335C;220;;00;Ordinario no inventariable;60720
 2017;18103;335C;220;;01;Prensa, revistas, libros y otras publicaciones;166510
@@ -10599,11 +10623,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;18103;335C;226;;02;Publicidad y propaganda;22640
 2017;18103;335C;226;;06;Reuniones, conferencias y cursos;106730
 2017;18103;335C;226;;99;Otros;6160
-2017;18103;335C;227;;;Trabajos realizados por otras empresas y profesionales;1734350
+2017;18103;335C;227;;;Trabajos realizados por otras empresas y profesionales;1634350
 2017;18103;335C;227;;00;Limpieza y aseo;297340
 2017;18103;335C;227;;01;Seguridad;672970
 2017;18103;335C;227;;04;Custodia, depósito y almacenaje;45000
-2017;18103;335C;227;;06;Estudios y trabajos técnicos;707040
+2017;18103;335C;227;;06;Estudios y trabajos técnicos;607040
 2017;18103;335C;227;;99;Otros;12000
 2017;18103;335C;23;;;Indemnizaciones por razón del servicio;378120
 2017;18103;335C;230;;;Dietas;97240
@@ -10614,14 +10638,14 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;18103;335C;3;;;GASTOS FINANCIEROS;40000
 2017;18103;335C;35;;;Intereses de demora y otros gastos financieros;40000
 2017;18103;335C;359;;;Otros gastos financieros;40000
-2017;18103;335C;4;;;TRANSFERENCIAS CORRIENTES;72320000
+2017;18103;335C;4;;;TRANSFERENCIAS CORRIENTES;72420000
 2017;18103;335C;45;;;A Comunidades Autónomas;124000
 2017;18103;335C;451/18103;;;Ayudas y premios a la Cinematografía a través de las CCAA;124000
-2017;18103;335C;46;;;A Entidades Locales;1600000
+2017;18103;335C;46;;;A Entidades Locales;1700000
 2017;18103;335C;460/18103;;;Ayudas a la Cinematografía a través de corporaciones locales;400000
 2017;18103;335C;461/18103;;;A la Fundación Centro Buñuel de Calanda para sus actividades;20000
 2017;18103;335C;462/18103;;;A la Empresa pública municipal Festival de Cine de Málaga e Iniciativas Audiovisuales, S.A. para la celebración del Festival de Cine de Málaga;100000
-2017;18103;335C;463/18103;;;Al Festival Internacional de Cine de San Sebastián, S.A.;1000000
+2017;18103;335C;463/18103;;;Al Festival Internacional de Cine de San Sebastián, S.A.;1100000
 2017;18103;335C;464/18103;;;Al Festival Internacional de Cine de Huelva;80000
 2017;18103;335C;47;;;A empresas privadas;70060000
 2017;18103;335C;470/18103;;;Fondo de Protección a la Cinematografía;70000000
@@ -11083,11 +11107,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;18011;337B;48;;;A familias e instituciones sin fines de lucro;30000
 2017;18011;337B;481/18011;;;Premios nacionales;30000
 2017;18011;337B;481/18011;;01;Premio Nacional de Conservación y Restauración de Bienes Culturales;30000
-2017;18011;337B;6;;;INVERSIONES REALES;12253410
+2017;18011;337B;6;;;INVERSIONES REALES;12553410
 2017;18011;337B;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;230000
 2017;18011;337B;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;230000
-2017;18011;337B;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;10801410
-2017;18011;337B;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;10771410
+2017;18011;337B;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;11101410
+2017;18011;337B;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;11071410
 2017;18011;337B;631/18011;;;Inversiones producto del 1% cultural, artículo 68 Ley 16/85, de 25 de Junio, del Patrimonio Histórico Español, para obras de conservación y restauración de bienes culturales;30000
 2017;18011;337B;64;;;Gastos de inversiones de carácter inmaterial;1222000
 2017;18011;337B;640;;;Gastos en inversiones de carácter inmaterial;1222000
@@ -11147,9 +11171,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;18011;337C;3;;;GASTOS FINANCIEROS;10560
 2017;18011;337C;35;;;Intereses de demora y otros gastos financieros;10560
 2017;18011;337C;352;;;Intereses de demora;10560
-2017;18011;337C;4;;;TRANSFERENCIAS CORRIENTES;595000
+2017;18011;337C;4;;;TRANSFERENCIAS CORRIENTES;695000
 2017;18011;337C;45;;;A Comunidades Autónomas;275000
 2017;18011;337C;450/18011;;;A la Fundación Real Fábrica de Tapices para el desarrollo de sus actividades;275000
+2017;18011;337C;46;;;A Entidades Locales;100000
+2017;18011;337C;461/18011;;;Transferencias a instituciones culturales;100000
+2017;18011;337C;461/18011;;07;A la Fundación Valle Salado de Añana (Álava-Araba);100000
 2017;18011;337C;48;;;A familias e instituciones sin fines de lucro;270000
 2017;18011;337C;485/18011;;;Otras transferencias;240000
 2017;18011;337C;485/18011;;02;Al Grupo Ciudades Patrimonio de la Humanidad de España para elaboración de estudios sobre conservación de las ciudades declaradas Patrimonio Mundial;200000
@@ -11206,8 +11233,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;23012;412C;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;100000
 2017;23012;412C;64;;;Gastos de inversiones de carácter inmaterial;6877140
 2017;23012;412C;640;;;Gastos en inversiones de carácter inmaterial;6877140
-2017;23012;412C;7;;;TRANSFERENCIAS DE CAPITAL;31195190
-2017;23012;412C;75;;;A Comunidades Autónomas;21041590
+2017;23012;412C;7;;;TRANSFERENCIAS DE CAPITAL;36195190
+2017;23012;412C;75;;;A Comunidades Autónomas;26041590
 2017;23012;412C;750/23012;;;Fomento de la innovación tecnológica;4402000
 2017;23012;412C;750/23012;;01;Ordenación y fomento de la mejora ganadera. Conservación de la biodiversidad.;2900000
 2017;23012;412C;750/23012;;02;Calidad de las variedades vegetales y certificación de los materiales de reproducción.;1502000
@@ -11216,7 +11243,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;23012;412C;755/23012;;;Mejora de la organización de la producción y reordenación de los sectores productivos.;6589590
 2017;23012;412C;755/23012;;02;Fomento de la apicultura;2650000
 2017;23012;412C;755/23012;;06;Mejora del sector de frutos de cáscara y de las algarrobas.;3939590
-2017;23012;412C;756/23012;;;Apoyo a la producción agrícola en el marco del Programa de Opciones Específicas por la lejanía y la Insularidad (POSEI);10000000
+2017;23012;412C;756/23012;;;Apoyo a la producción agrícola en el marco del Programa de Opciones Específicas por la lejanía y la Insularidad (POSEI);15000000
 2017;23012;412C;77;;;A empresas privadas;5753600
 2017;23012;412C;770/23012;;;Fomento de la innovación tecnológica.;753600
 2017;23012;412C;770/23012;;02;Fomento de la investigación, desarrollo e innovación en los sectores ganaderos;753600
@@ -11263,9 +11290,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;23019;412D;752/23019;;03;Prevención y lucha contra plagas;6000000
 2017;23019;412D;752/23019;;04;Programas estatales de erradicación de enfermedades de los animales.;8000000
 2017;23019;412D;752/23019;;05;Fomento de asociacionismo para la defensa sanitaria ganadera.;1000
-2017;23011;412M;4;;;TRANSFERENCIAS CORRIENTES;63910400
-2017;23011;412M;49;;;Al exterior;63910400
-2017;23011;412M;490/23011;;;Abono al Tesoro Público, por cuenta del Organismo Autónomo Fondo Español de Garantía Agraria (FEGA) de las diferencias puestas de manifiesto en las liquidaciones con la Unión Europea correspondientes al FEAGA.;63910400
+2017;23011;412M;4;;;TRANSFERENCIAS CORRIENTES;49210400
+2017;23011;412M;49;;;Al exterior;49210400
+2017;23011;412M;490/23011;;;Abono al Tesoro Público, por cuenta del Organismo Autónomo Fondo Español de Garantía Agraria (FEGA) de las diferencias puestas de manifiesto en las liquidaciones con la Unión Europea correspondientes al FEAGA.;49210400
 2017;23112;412M;1;;;GASTOS DE PERSONAL;3936960
 2017;23112;412M;12;;;Funcionarios;2994370
 2017;23112;412M;120;;;Retribuciones básicas;1673410
@@ -11866,16 +11893,18 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;20001;421M;3;;;GASTOS FINANCIEROS;1000
 2017;20001;421M;35;;;Intereses de demora y otros gastos financieros;1000
 2017;20001;421M;352;;;Intereses de demora;1000
-2017;20001;421M;4;;;TRANSFERENCIAS CORRIENTES;7183070
+2017;20001;421M;4;;;TRANSFERENCIAS CORRIENTES;13183070
 2017;20001;421M;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;1827320
 2017;20001;421M;441/20001;;;A la Fundación Escuela de Organización Industrial para actuaciones financiadas con fondos comunitarios;1648970
 2017;20001;421M;443/20001;;;A la Fundación Centro Nacional del Vidrio. Real Fábrica de Cristales de La Granja;178350
 2017;20001;421M;45;;;A Comunidades Autónomas;310000
 2017;20001;421M;451/20001;;;Para subvencionar a plantas potabilizadoras de agua en Canarias;310000
-2017;20001;421M;46;;;A Entidades Locales;1895000
+2017;20001;421M;46;;;A Entidades Locales;4895000
 2017;20001;421M;461/20001;;;Para subvencionar a plantas potabilizadoras de agua en Canarias;1895000
-2017;20001;421M;47;;;A empresas privadas;3000000
+2017;20001;421M;462/20001;;;Para subvencionar a plantas potabilizadoras de agua en Canarias y extracción de agua de pozos para el riego agrícola;3000000
+2017;20001;421M;47;;;A empresas privadas;6000000
 2017;20001;421M;471/20001;;;Para subvencionar a plantas potabilizadoras de agua en Canarias;3000000
+2017;20001;421M;472/20001;;;Para subvencionar a plantas potabilizadoras de agua en Canarias y a comunidades de pozos para el riego agrícola;3000000
 2017;20001;421M;48;;;A familias e instituciones sin fines de lucro;150750
 2017;20001;421M;480/20001;;;Para concesión de becas, asistencia a congresos, cursos, seminarios y otras subvenciones;137370
 2017;20001;421M;481/20001;;;Para premios a la innovación;13380
@@ -12249,7 +12278,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;27016;422M;8;;;ACTIVOS FINANCIEROS;810919100
 2017;27016;422M;83;;;Concesión de préstamos fuera del Sector Público;810919100
 2017;27016;422M;833/27016;;;Apoyo financiero a la inversión industrial;810919100
-2017;27016;422M;833/27016;;00;Programa de reindustrialización y fortalecimiento de la competitividad industrial;600000000
+2017;27016;422M;833/27016;;00;Programa de reindustrialización y fortalecimiento de la competitividad industrial;590000000
 2017;27016;422M;833/27016;;01;Canarias;15000000
 2017;27016;422M;833/27016;;02;Extremadura;12225590
 2017;27016;422M;833/27016;;03;Teruel;9584870
@@ -12261,6 +12290,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;27016;422M;833/27016;;09;Margen Izquierda del Nervión;7850140
 2017;27016;422M;833/27016;;10;El Hierro;3526600
 2017;27016;422M;833/27016;;11;Lorca;10579700
+2017;27016;422M;833/27016;;12;Asturias;10000000
 2017;20101;423M;7;;;TRANSFERENCIAS DE CAPITAL;33747490
 2017;20101;423M;77;;;A empresas privadas;33747490
 2017;20101;423M;771/20101;;;Reactivación económica de las comarcas mineras del carbón;27747490
@@ -12563,9 +12593,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;20019;425A;23;;;Indemnizaciones por razón del servicio;112290
 2017;20019;425A;230;;;Dietas;46320
 2017;20019;425A;231;;;Locomoción;65970
-2017;20019;425A;4;;;TRANSFERENCIAS CORRIENTES;150379920
-2017;20019;425A;47;;;A empresas privadas;150000000
-2017;20019;425A;471/20019;;;Para compensación por costes adicionales derivados de la financiación del apoyo a la energía eléctrica procedente de fuentes renovables;150000000
+2017;20019;425A;4;;;TRANSFERENCIAS CORRIENTES;131292420
+2017;20019;425A;47;;;A empresas privadas;130912500
+2017;20019;425A;471/20019;;;Para compensación por costes adicionales derivados de la financiación del apoyo a la energía eléctrica procedente de fuentes renovables;130912500
 2017;20019;425A;49;;;Al exterior;379920
 2017;20019;425A;497/20019;;;Organismo Internacional de la Energía Atómica;379920
 2017;20019;425A;6;;;INVERSIONES REALES;1387500
@@ -12820,13 +12850,15 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;20004;432A;6;;;INVERSIONES REALES;1686700
 2017;20004;432A;64;;;Gastos de inversiones de carácter inmaterial;1686700
 2017;20004;432A;640;;;Gastos en inversiones de carácter inmaterial;1686700
-2017;20004;432A;7;;;TRANSFERENCIAS DE CAPITAL;11528600
+2017;20004;432A;7;;;TRANSFERENCIAS DE CAPITAL;17428600
 2017;20004;432A;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;2498600
 2017;20004;432A;742/20004;;;Al ICO para tipos de interés de préstamos concedidos al amparo del Plan Renove Turismo 2009, incluidas obligaciones de ejercicios anteriores;2118040
 2017;20004;432A;743/20004;;;Al ICO para tipos de interés de préstamos concedidos al amparo del Plan FuturE 2009, incluidas obligaciones de ejercicios anteriores;380560
-2017;20004;432A;75;;;A Comunidades Autónomas;5000000
+2017;20004;432A;75;;;A Comunidades Autónomas;8000000
 2017;20004;432A;750/20004;;;Convenio Administración General del Estado y Comunidad Autónoma de Canarias para la rehabilitación de infraestructura y equipamiento en zonas turísticas;5000000
-2017;20004;432A;76;;;A Entidades Locales;3500000
+2017;20004;432A;751/20004;;;Convenio Administración General del Estado y Comunidad Autónoma de Canarias para la rehabilitación de infraestructura y equipamiento en zonas turísticas. La Palma, La Gomera y El Hierro;3000000
+2017;20004;432A;76;;;A Entidades Locales;6400000
+2017;20004;432A;760/20004;;;Al Ayuntamiento de Yaiza (Las Palmas) para la rehabilitación de espacios e infraestructuras turísticas en Playa Blanca;2900000
 2017;20004;432A;762/20004;;;Planes de recualificación integral de destinos turísticos;1000000
 2017;20004;432A;764/20004;;;A la Mancomunidad de Municipios de la Costa del Sol Occidental para la puesta en marcha del Plan de Adecuación Turística de la Costa del Sol Occidental;500000
 2017;20004;432A;765/20004;;;Al Cabildo de Tenerife para rehabilitación de infraestructuras turísticas maduras (Puerto de la Cruz);1000000
@@ -12843,11 +12875,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;20004;432A;786/20004;;11;Al Instituto de Calidad Turística Española (ICTE);200000
 2017;20004;432A;786/20004;;12;A la Asociación Grupo de las Ciudades Patrimonio de la Humanidad de España;30000
 2017;20004;432A;786/20004;;13;A la Asociación Agrupación Empresarial Innovadora Ecoturismo Responsable en la Biosfera (AEI TUREBE);30000
-2017;20004;432A;8;;;ACTIVOS FINANCIEROS;221319670
-2017;20004;432A;83;;;Concesión de préstamos fuera del Sector Público;221314300
-2017;20004;432A;833/20004;;;Líneas de préstamos a empresas del sector turístico;221314300
+2017;20004;432A;8;;;ACTIVOS FINANCIEROS;216020070
+2017;20004;432A;83;;;Concesión de préstamos fuera del Sector Público;216014700
+2017;20004;432A;833/20004;;;Líneas de préstamos a empresas del sector turístico;216014700
 2017;20004;432A;833/20004;;01;Líneas de financiación para jóvenes emprendedores en turismo;30000000
-2017;20004;432A;833/20004;;02;Líneas de financiación para empresas del sector turístico;83314300
+2017;20004;432A;833/20004;;02;Líneas de financiación para empresas del sector turístico;78014700
 2017;20004;432A;833/20004;;03;Líneas de financiación para escuelas de hostelería;34000000
 2017;20004;432A;833/20004;;04;Líneas de financiación para internacionalización de empresas turísticas;74000000
 2017;20004;432A;87;;;Aportaciones patrimoniales;5370
@@ -13031,10 +13063,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;17039;441M;49;;;Al exterior;1640
 2017;17039;441M;492/17039;;;Cuotas a Organismos Internacionales;1640
 2017;17039;441M;492/17039;;00;Organización Internacional de Transportes por Cable OITAF;1640
-2017;32001;441M;4;;;TRANSFERENCIAS CORRIENTES;259694480
-2017;32001;441M;45;;;A Comunidades Autónomas;259694480
+2017;32001;441M;4;;;TRANSFERENCIAS CORRIENTES;262194480
+2017;32001;441M;45;;;A Comunidades Autónomas;262194480
 2017;32001;441M;451/32001;;;A la Autoridad del Transporte Metropolitano de Barcelona, para la financiación del transporte regular de viajeros;108389170
-2017;32001;441M;453/32001;;;A la Comunidad Autónoma de Canarias para la financiación de las necesidades correspondientes al transporte regular de viajeros de las distintas Islas Canarias;25000000
+2017;32001;441M;453/32001;;;A la Comunidad Autónoma de Canarias para la financiación de las necesidades correspondientes al transporte regular de viajeros de las distintas Islas Canarias;27500000
 2017;32001;441M;454/32001;;;Al Consorcio Regional de Transportes de Madrid, para la financiación del transporte regular de viajeros;126305310
 2017;17032;441N;3;;;GASTOS FINANCIEROS;16310
 2017;17032;441N;35;;;Intereses de demora y otros gastos financieros;16310
@@ -13043,7 +13075,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;17032;441N;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;15133340
 2017;17032;441N;442/17032;;;Compensación económica a Empresas Públicas o privadas de transporte marítimo por la prestación del servicio de navegaciones de interés público;15133340
 2017;17032;441N;48;;;A familias e instituciones sin fines de lucro;94750000
-2017;17032;441N;481/17032;;;Para satisfacer la bonificación a residentes no peninsulares por traslado a la Península y regreso por via marítima;81750000
+2017;17032;441N;481/17032;;;Para satisfacer la bonificación a residentes no peninsulares por traslado a la Península y regreso por vía marítima, así como por los traslados interinsulares;81750000
 2017;17032;441N;481/17032;;01;Baleares;19318720
 2017;17032;441N;481/17032;;02;Canarias;39149740
 2017;17032;441N;481/17032;;03;Ceuta y Melilla;23281540
@@ -13063,6 +13095,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;17020;441P;478/17020;;01;Canarias, sin financiación comunitaria;17060000
 2017;17020;441P;478/17020;;02;Baleares;1770000
 2017;17020;441P;478/17020;;03;Canarias, con financiación comunitaria;36497930
+2017;17039;441P;7;;;TRANSFERENCIAS DE CAPITAL;5000000
+2017;17039;441P;76;;;A Entidades Locales;5000000
+2017;17039;441P;764/17039;;;Convenio con el Ayuntamiento de Las Palmas de Gran Canaria para financiar el Proyecto Metroguagua;5000000
 2017;17101;451M;1;;;GASTOS DE PERSONAL;20272390
 2017;17101;451M;12;;;Funcionarios;11144850
 2017;17101;451M;120;;;Retribuciones básicas;5650540
@@ -13659,11 +13694,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;23013;451O;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;2811110
 2017;23013;451O;160;;;Cuotas sociales;2811110
 2017;23013;451O;160;;00;Seguridad Social;2811110
-2017;23013;451O;6;;;INVERSIONES REALES;12073480
+2017;23013;451O;6;;;INVERSIONES REALES;11573480
 2017;23013;451O;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;3595000
 2017;23013;451O;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;3595000
-2017;23013;451O;64;;;Gastos de inversiones de carácter inmaterial;8478480
-2017;23013;451O;640;;;Gastos en inversiones de carácter inmaterial;8478480
+2017;23013;451O;64;;;Gastos de inversiones de carácter inmaterial;7978480
+2017;23013;451O;640;;;Gastos en inversiones de carácter inmaterial;7978480
 2017;23015;451O;1;;;GASTOS DE PERSONAL;1962250
 2017;23015;451O;10;;;Altos cargos;64990
 2017;23015;451O;100;;;Retribuciones básicas y otras remuneraciones;64990
@@ -13710,15 +13745,17 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;23005;452A;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;799470
 2017;23005;452A;160;;;Cuotas sociales;799470
 2017;23005;452A;160;;00;Seguridad Social;799470
-2017;23005;452A;4;;;TRANSFERENCIAS CORRIENTES;426300
+2017;23005;452A;4;;;TRANSFERENCIAS CORRIENTES;4426300
+2017;23005;452A;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;4000000
+2017;23005;452A;440/23005;;;A la sociedad estatal Acuamed para el apoyo a la producción de agua desalada;4000000
 2017;23005;452A;46;;;A Entidades Locales;426300
 2017;23005;452A;460/23005;;;Diputación Provincial de Cuenca para el pago del IBI del Embalse de Alarcón;426300
-2017;23005;452A;6;;;INVERSIONES REALES;289361920
+2017;23005;452A;6;;;INVERSIONES REALES;280861920
 2017;23005;452A;60;;;Inversión nueva en infraestructuras y bienes destinados al uso general;70300000
 2017;23005;452A;601;;;Otras;70000000
 2017;23005;452A;609/23005;;;Expropiaciones, modificados, adicionales y otras incidencias de inversiones de ejercicios anteriores.;300000
-2017;23005;452A;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;217041920
-2017;23005;452A;611;;;Otras;191540750
+2017;23005;452A;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;208541920
+2017;23005;452A;611;;;Otras;183040750
 2017;23005;452A;615;;;Inversiones en actuaciones medioambientales. Actuaciones financiadas con ingresos  procedentes de subastas de derechos de emisión.;18901170
 2017;23005;452A;616;;;Plan PIMA ADAPTA. Actuaciones financiadas con ingresos procedentes de subastas de derechos de emisión;4600000
 2017;23005;452A;619/23005;;;Incidencias de inversiones de ejercicios anteriores.;2000000
@@ -13727,12 +13764,16 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;23005;452A;64;;;Gastos de inversiones de carácter inmaterial;1820000
 2017;23005;452A;640;;;Gastos en inversiones de carácter inmaterial;1800000
 2017;23005;452A;649;;;Incidencias de inversiones de ejercicios anteriores;20000
-2017;23005;452A;7;;;TRANSFERENCIAS DE CAPITAL;23442420
+2017;23005;452A;7;;;TRANSFERENCIAS DE CAPITAL;30942420
 2017;23005;452A;75;;;A Comunidades Autónomas;23159320
-2017;23005;452A;750/23005;;;Convenio de Colaboración con el Gobierno de Canarias para desarrollo de actuaciones en materia de agua;22900000
+2017;23005;452A;750/23005;;;Convenio de Colaboración con el Gobierno de Canarias para desarrollo de actuaciones en materia de agua;12900000
 2017;23005;452A;752/23005;;;Convenio con la Junta de Andalucía para el aprovechamiento hidráulico del litoral mediterráneo;259320
-2017;23005;452A;76;;;A Entidades Locales;283100
+2017;23005;452A;753/23005;;;A la Comunidad Autónoma de Canarias, para financiar inversiones de depuración;10000000
+2017;23005;452A;76;;;A Entidades Locales;7783100
 2017;23005;452A;760/23005;;;Convenios con Ayuntamientos del Pirineo Aragonés para el plan de actuación en el Ciclo Integral del Agua;283100
+2017;23005;452A;761/23005;;;Convenio con Ayuntamientos de isla de Lanzarote para actuaciones en el Ciclo Integral del Agua;4000000
+2017;23005;452A;762/23005;;;Convenio con Ayuntamientos de Santa Lucía para actuaciones en el Ciclo Integral del Agua. Finalización red general de saneamiento del municipio de Santa Lucía (Las Palmas);2500000
+2017;23005;452A;763/23005;;;Convenio con Ayuntamiento de Yaiza para saneamiento, depuración y reutilización de El Golfo.;1000000
 2017;23102;452A;1;;;GASTOS DE PERSONAL;9651230
 2017;23102;452A;12;;;Funcionarios;5056490
 2017;23102;452A;120;;;Retribuciones básicas;2634410
@@ -14849,20 +14890,20 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;17020;453A;4;;;TRANSFERENCIAS CORRIENTES;2100000
 2017;17020;453A;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;2100000
 2017;17020;453A;441/17020;;;"A la sociedad ""Línea Figueras-Perpignan S.A."" para la explotación y mantenimiento de la sección internacional de la línea ferroviaria entre España y Francia.";2100000
-2017;17020;453A;6;;;INVERSIONES REALES;8199990
-2017;17020;453A;60;;;Inversión nueva en infraestructuras y bienes destinados al uso general;7072670
-2017;17020;453A;601;;;Otras;7072670
+2017;17020;453A;6;;;INVERSIONES REALES;10699990
+2017;17020;453A;60;;;Inversión nueva en infraestructuras y bienes destinados al uso general;9572670
+2017;17020;453A;601;;;Otras;9572670
 2017;17020;453A;64;;;Gastos de inversiones de carácter inmaterial;1127320
 2017;17020;453A;640;;;Gastos en inversiones de carácter inmaterial;1127320
-2017;17020;453A;7;;;TRANSFERENCIAS DE CAPITAL;815630000
+2017;17020;453A;7;;;TRANSFERENCIAS DE CAPITAL;819630000
 2017;17020;453A;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;809700000
 2017;17020;453A;745;;;ADIF para mantenimiento red convencional;585000000
 2017;17020;453A;746/17020;;;ADIF para inversiones red convencional;224700000
 2017;17020;453A;75;;;A Comunidades Autónomas;3940000
 2017;17020;453A;751/17020;;;Convenio con la Comunidad Autónoma de las Illes Balears en materia de ferrocarril;3940000
-2017;17020;453A;76;;;A Entidades Locales;1990000
-2017;17020;453A;762/17020;;;Convenio con el Cabildo Insular de Tenerife en materia de ferrocarril;860000
-2017;17020;453A;763/17020;;;Convenio con el Cabildo Insular de Gran Canaria en materia de ferrocarril;860000
+2017;17020;453A;76;;;A Entidades Locales;5990000
+2017;17020;453A;762/17020;;;Convenio con el Cabildo Insular de Tenerife en materia de ferrocarril;2860000
+2017;17020;453A;763/17020;;;Convenio con el Cabildo Insular de Gran Canaria en materia de ferrocarril;2860000
 2017;17020;453A;764/17020;;;Redacción del Proyecto de cubrición de la línea ferroviaria entre el Social Antzokia y el Parque de Gastañabaltza en Basauri-Bizkaia;270000
 2017;32001;453A;7;;;TRANSFERENCIAS DE CAPITAL;12269110
 2017;32001;453A;75;;;A Comunidades Autónomas;12269110
@@ -14908,9 +14949,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;17038;453B;4;;;TRANSFERENCIAS CORRIENTES;100000
 2017;17038;453B;46;;;A Entidades Locales;100000
 2017;17038;453B;461/17038;;;Convenio con la Comarca del Alto Gállego;100000
-2017;17038;453B;6;;;INVERSIONES REALES;832431760
-2017;17038;453B;60;;;Inversión nueva en infraestructuras y bienes destinados al uso general;707470950
-2017;17038;453B;601;;;Otras;706970950
+2017;17038;453B;6;;;INVERSIONES REALES;831931760
+2017;17038;453B;60;;;Inversión nueva en infraestructuras y bienes destinados al uso general;706970950
+2017;17038;453B;601;;;Otras;706470950
 2017;17038;453B;609/17038;;;Expropiaciones, modificados, adicionales y otras incidencias de inversiones de ejercicios anteriores;500000
 2017;17038;453B;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;124314990
 2017;17038;453B;611;;;Otras;123814990
@@ -14919,14 +14960,18 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;17038;453B;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;3780
 2017;17038;453B;64;;;Gastos de inversiones de carácter inmaterial;642040
 2017;17038;453B;640;;;Gastos en inversiones de carácter inmaterial;642040
-2017;17038;453B;7;;;TRANSFERENCIAS DE CAPITAL;208326420
-2017;17038;453B;75;;;A Comunidades Autónomas;195600870
+2017;17038;453B;7;;;TRANSFERENCIAS DE CAPITAL;252326420
+2017;17038;453B;75;;;A Comunidades Autónomas;239600870
 2017;17038;453B;752/17038;;;Convenio con la Generalitat de Cataluña sobre la B-23;1000000
 2017;17038;453B;753/17038;;;A la Comunidad Autónoma de las Illes Balears según convenio;15000000
-2017;17038;453B;755/17038;;;Convenio con la Comunidad Autónoma de Canarias;175000000
+2017;17038;453B;755/17038;;;Convenio con la Comunidad Autónoma de Canarias;219000000
 2017;17038;453B;755/17038;;00;Para financiar obras y expropiaciones;133300000
 2017;17038;453B;755/17038;;01;Para financiar actuaciones relacionadas con La Aldea-El Risco;26700000
 2017;17038;453B;755/17038;;02;Para financiar actuaciones relacionadas con el Anillo de Tenerife;15000000
+2017;17038;453B;755/17038;;03;La Aldea. Fase El Risco-Agaete. Tramo Túnel de Faneque;25000000
+2017;17038;453B;755/17038;;04;Fuerteventura Eje Norte - Sur;10000000
+2017;17038;453B;755/17038;;05;Tenerife TF - 5;5000000
+2017;17038;453B;755/17038;;06;La Palma. Carretera General del Sur. Tramo San Simón-Tajuya;4000000
 2017;17038;453B;758/17038;;;Convenios con Comunidades Autónomas;4600870
 2017;17038;453B;758/17038;;00;Otros convenios con Comunidades Autónomas;4600870
 2017;17038;453B;76;;;A Entidades Locales;12725550
@@ -14976,9 +15021,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;17038;453C;226;;93;Jurídicos, contenciosos, obligaciones de ejercicios anteriores;18900
 2017;17038;453C;227;;;Trabajos realizados por otras empresas y profesionales;2610
 2017;17038;453C;227;;06;Estudios y trabajos técnicos;2610
-2017;17038;453C;6;;;INVERSIONES REALES;884022750
-2017;17038;453C;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;883550460
-2017;17038;453C;611;;;Otras;883050460
+2017;17038;453C;6;;;INVERSIONES REALES;885522750
+2017;17038;453C;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;885050460
+2017;17038;453C;611;;;Otras;884550460
 2017;17038;453C;619/17038;;;Expropiaciones, modificados, adicionales y otras incidencias de inversiones de ejercicios anteriores;500000
 2017;17038;453C;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;472290
 2017;17038;453C;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;472290
@@ -15454,17 +15499,18 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;23005;456A;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;216650
 2017;23005;456A;160;;;Cuotas sociales;216650
 2017;23005;456A;160;;00;Seguridad Social;216650
-2017;23005;456A;6;;;INVERSIONES REALES;131000000
-2017;23005;456A;60;;;Inversión nueva en infraestructuras y bienes destinados al uso general;124000000
-2017;23005;456A;601;;;Otras;123500000
+2017;23005;456A;6;;;INVERSIONES REALES;125500000
+2017;23005;456A;60;;;Inversión nueva en infraestructuras y bienes destinados al uso general;118500000
+2017;23005;456A;601;;;Otras;118000000
 2017;23005;456A;609/23005;;;Expropiaciones, modificados, adicionales y otras incidencias de inversiones de ejercicios anteriores.;500000
 2017;23005;456A;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;1300000
 2017;23005;456A;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;1300000
 2017;23005;456A;64;;;Gastos de inversiones de carácter inmaterial;5700000
 2017;23005;456A;640;;;Gastos en inversiones de carácter inmaterial;5700000
-2017;23005;456A;7;;;TRANSFERENCIAS DE CAPITAL;1000
-2017;23005;456A;75;;;A Comunidades Autónomas;1000
+2017;23005;456A;7;;;TRANSFERENCIAS DE CAPITAL;1501000
+2017;23005;456A;75;;;A Comunidades Autónomas;1501000
 2017;23005;456A;754/23005;;;Plan Nacional de calidad de las aguas y del ciclo hídrico en Aragón.;1000
+2017;23005;456A;755/23005;;;Convenio con la Junta de Aragón para la limpieza del Lindano en el río Gállego;1500000
 2017;23102;456A;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;1002100
 2017;23102;456A;20;;;Arrendamientos y cánones;70000
 2017;23102;456A;202;;;Arrendamientos de edificios y otras construcciones;70000
@@ -15848,9 +15894,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;23008;456C;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;216580
 2017;23008;456C;160;;;Cuotas sociales;216580
 2017;23008;456C;160;;00;Seguridad Social;216580
-2017;23008;456C;6;;;INVERSIONES REALES;12778430
-2017;23008;456C;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;8338030
-2017;23008;456C;611;;;Otras;8338030
+2017;23008;456C;6;;;INVERSIONES REALES;11278430
+2017;23008;456C;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;6838030
+2017;23008;456C;611;;;Otras;6838030
 2017;23008;456C;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;17290
 2017;23008;456C;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;17290
 2017;23008;456C;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;20000
@@ -16028,11 +16074,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;23101;456C;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;15420
 2017;23101;456C;64;;;Gastos de inversiones de carácter inmaterial;726510
 2017;23101;456C;640;;;Gastos en inversiones de carácter inmaterial;726510
-2017;23101;456C;7;;;TRANSFERENCIAS DE CAPITAL;1516410
+2017;23101;456C;7;;;TRANSFERENCIAS DE CAPITAL;4516410
 2017;23101;456C;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;796090
 2017;23101;456C;742/23101;;;Programa de investigación de Parques Nacionales;396090
 2017;23101;456C;743/23101;;;Programa de investigación en parques nacionales. PIMA ADAPTA;400000
-2017;23101;456C;75;;;A Comunidades Autónomas;670320
+2017;23101;456C;75;;;A Comunidades Autónomas;3670320
+2017;23101;456C;750/23101;;;Compensaciones socioeconómicas a las áreas de influencia de los PPNN;3000000
 2017;23101;456C;751/23101;;;Programa de Investigación en Parques Nacionales. PIMA Adapta;600000
 2017;23101;456C;752/23101;;;Programa de Investigación en Parques Nacionales;70320
 2017;23101;456C;79;;;Al exterior;50000
@@ -16066,19 +16113,25 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;23006;456D;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;3949430
 2017;23006;456D;160;;;Cuotas sociales;3949430
 2017;23006;456D;160;;00;Seguridad Social;3949430
-2017;23006;456D;6;;;INVERSIONES REALES;57233290
+2017;23006;456D;6;;;INVERSIONES REALES;59933290
 2017;23006;456D;60;;;Inversión nueva en infraestructuras y bienes destinados al uso general;33317840
 2017;23006;456D;601;;;Otras;33317840
-2017;23006;456D;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;12702310
-2017;23006;456D;611;;;Otras;10152310
+2017;23006;456D;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;14402310
+2017;23006;456D;611;;;Otras;11852310
 2017;23006;456D;614;;;PIMA ADAPTA Costas. Actuaciones financiadas con ingresos procedentes de subastas de derechos de emisión;2550000
 2017;23006;456D;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;231140
 2017;23006;456D;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;231140
-2017;23006;456D;64;;;Gastos de inversiones de carácter inmaterial;10982000
-2017;23006;456D;640;;;Gastos en inversiones de carácter inmaterial;10982000
-2017;23006;456D;7;;;TRANSFERENCIAS DE CAPITAL;2000000
-2017;23006;456D;75;;;A Comunidades Autónomas;2000000
-2017;23006;456D;750/23006;;;C. A. de Canarias para actuaciones en la costa;2000000
+2017;23006;456D;64;;;Gastos de inversiones de carácter inmaterial;11982000
+2017;23006;456D;640;;;Gastos en inversiones de carácter inmaterial;11982000
+2017;23006;456D;7;;;TRANSFERENCIAS DE CAPITAL;9000000
+2017;23006;456D;75;;;A Comunidades Autónomas;6000000
+2017;23006;456D;750/23006;;;C. A. de Canarias para actuaciones en la costa;6000000
+2017;23006;456D;750/23006;;00;Actuaciones diversas en el archipiélago;2000000
+2017;23006;456D;750/23006;;01;Acondicionamiento playa Valleseco (Santa Cruz de Tenerife);2000000
+2017;23006;456D;750/23006;;02;Recuperación de la playa de San Marcos en Icod de los Vinos (Santa Cruz de Tenerife);2000000
+2017;23006;456D;76;;;A Entidades Locales;3000000
+2017;23006;456D;760/23006;;;Obra nueva Paseo Marítimo de Valle Gran Rey, Isla de la Gomera;2000000
+2017;23006;456D;761/23006;;;Al Ayuntamiento de Santa María de Guía (Las Palmas) para Acondicionamiento litoral de San Felipe y la Playa del Vagabundo;1000000
 2017;23004;456M;4;;;TRANSFERENCIAS CORRIENTES;9210
 2017;23004;456M;49;;;Al exterior;9210
 2017;23004;456M;491/23004;;;Estudios y actuaciones en materia de cambio climático en el ámbito de la Unión Europea;9210
@@ -16127,7 +16180,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;23010;456M;871/23010;;;Fondo de carbono para una economía sostenible;9188450
 2017;20101;457M;7;;;TRANSFERENCIAS DE CAPITAL;30000000
 2017;20101;457M;75;;;A Comunidades Autónomas;30000000
-2017;20101;457M;751/20101;;;Reactivación económica de las comarcas mineras del carbón;30000000
+2017;20101;457M;751/20101;;;Reactivación económica de las comarcas mineras del carbón;20000000
+2017;20101;457M;752/20101;;;Reactivación económica de las comarcas mineras del carbón en la Comunidad Autónoma del Principado de Asturias;10000000
 2017;25101;462M;1;;;GASTOS DE PERSONAL;2334130
 2017;25101;462M;10;;;Altos cargos;55750
 2017;25101;462M;100;;;Retribuciones básicas y otras remuneraciones;55750
@@ -16384,9 +16438,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;18001;463A;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;27650
 2017;18001;463A;160;;;Cuotas sociales;27650
 2017;18001;463A;160;;00;Seguridad Social;27650
-2017;18001;463A;4;;;TRANSFERENCIAS CORRIENTES;6416360
-2017;18001;463A;48;;;A familias e instituciones sin fines de lucro;6416360
-2017;18001;463A;481/18001;;;Ayudas al Instituto de España, reales academias y otras instituciones adscritas al programa para desarrollo de actividades y gastos de funcionamiento;6340310
+2017;18001;463A;4;;;TRANSFERENCIAS CORRIENTES;6708280
+2017;18001;463A;48;;;A familias e instituciones sin fines de lucro;6708280
+2017;18001;463A;481/18001;;;Ayudas al Instituto de España, reales academias y otras instituciones adscritas al programa para desarrollo de actividades y gastos de funcionamiento;6632230
 2017;18001;463A;481/18001;;01;Real Academia Española;1661290
 2017;18001;463A;481/18001;;03;Instituto de España;267930
 2017;18001;463A;481/18001;;04;Real Academia de Historia;408600
@@ -16398,17 +16452,19 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;18001;463A;481/18001;;10;Real Academia Nacional de Medicina;292640
 2017;18001;463A;481/18001;;11;Ayudas para el desarrollo de actividades de academias e instituciones adscritas al programa;78190
 2017;18001;463A;481/18001;;12;Institut d'Estudis Catalans;283070
-2017;18001;463A;481/18001;;13;Academia de la Lengua Vasca (Euskaltzaindia);153180
+2017;18001;463A;481/18001;;13;Academia de la Lengua Vasca (Euskaltzaindia);200000
 2017;18001;463A;481/18001;;14;A la Real Academia de la Historia para mantenimiento y actualización del Diccionario Biográfico Español;86620
 2017;18001;463A;481/18001;;15;Real Academia de Ingeniería;226540
 2017;18001;463A;481/18001;;16;Real Academia de Ciencias Económicas y Financieras;226540
-2017;18001;463A;481/18001;;17;Sociedad de Estudios Vascos-Eusko Ikaskuntza;129900
+2017;18001;463A;481/18001;;17;Sociedad de Estudios Vascos-Eusko Ikaskuntza;200000
 2017;18001;463A;481/18001;;18;Real Academia de Doctores de España;94070
 2017;18001;463A;481/18001;;19;Real Academia de Ciencias Veterinarias;36510
 2017;18001;463A;481/18001;;20;Real Academia Galega;283070
 2017;18001;463A;481/18001;;21;"A la Real Academia Española para la elaboración del ""Glosario de términos gramaticales"" para la enseñanza media";90000
 2017;18001;463A;481/18001;;22;Real Academia de Gastronomía;88190
 2017;18001;463A;481/18001;;23;"A la Real Academia de Ciencias Morales y Políticas, para el ""Encuentro de Academias Nacionales de Ciencias Morales y Políticas de Iberoamérica y España";40000
+2017;18001;463A;481/18001;;24;Sociedad de Ciencias Aranzadi;100000
+2017;18001;463A;481/18001;;25;Jakiunde (Academia de las Ciencias, de las Artes y de las Letras);75000
 2017;18001;463A;483/18001;;;Comisión Permanente de la Asociación de Academias de la Lengua Española;76050
 2017;18006;463A;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;1476760
 2017;18006;463A;22;;;Material, suministros y otros;1094390
@@ -16430,12 +16486,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;18006;463A;488/18006;;;Otras becas y ayudas;441000
 2017;18006;463A;488/18006;;04;Certámenes de promoción de la investigación entre los jóvenes;421000
 2017;18006;463A;488/18006;;05;Campus Inclusivos universidades privadas sin fin de lucro;20000
-2017;18006;463A;7;;;TRANSFERENCIAS DE CAPITAL;83322340
-2017;18006;463A;78;;;A familias e instituciones sin fines de lucro;83322340
-2017;18006;463A;788/18006;;;Becas y ayudas para formación, perfeccionamiento y movilidad de profesores incluido pago de primas de seguros de los becarios;83322340
+2017;18006;463A;7;;;TRANSFERENCIAS DE CAPITAL;83147090
+2017;18006;463A;78;;;A familias e instituciones sin fines de lucro;83147090
+2017;18006;463A;788/18006;;;Becas y ayudas para formación, perfeccionamiento y movilidad de profesores incluido pago de primas de seguros de los becarios;83147090
 2017;18006;463A;788/18006;;01;Programa Nacional de Formación I+D+i;65690200
 2017;18006;463A;788/18006;;02;Programa Nacional de Movilidad I+D+i;11378000
-2017;18006;463A;788/18006;;03;Acciones de formación y movilidad en cooperación bilateral y Programa Paulo Freire;2052910
+2017;18006;463A;788/18006;;03;Acciones de formación y movilidad en cooperación bilateral y Programa Paulo Freire;1877660
 2017;18006;463A;788/18006;;04;Programas de prácticas en empresas ARGO GLOBAL y FARO GLOBAL;2650000
 2017;18006;463A;788/18006;;05;Contribución general becas Comisión Fullbright;1000000
 2017;18006;463A;788/18006;;06;Otras ayudas transversales, seguros, gastos de compensación y otros gastos;551230
@@ -16648,7 +16704,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;27011;463B;230;;;Dietas;10920
 2017;27011;463B;231;;;Locomoción;22350
 2017;27011;463B;233;;;Otras indemnizaciones;56480
-2017;27011;463B;4;;;TRANSFERENCIAS CORRIENTES;24001450
+2017;27011;463B;4;;;TRANSFERENCIAS CORRIENTES;26626450
 2017;27011;463B;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;22765040
 2017;27011;463B;449/27011;;;Transferencias, ayudas nominativas y otros;22765040
 2017;27011;463B;449/27011;;00;A la Fundación Española para la Ciencia y la Tecnología (FECYT) para el Museo Nacional de Ciencia y Tecnología;2200420
@@ -16657,6 +16713,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;27011;463B;449/27011;;03;A la Fundación Española para la Ciencia y la Tecnología (FECYT) para la Oficina Europea;500000
 2017;27011;463B;449/27011;;04;A la Fundación Española para la Ciencia y la Tecnología (FECYT) para la Secretaría del Programa Iberoamericano de Ciencia y Tecnología para el Desarrollo (CYTED);275000
 2017;27011;463B;449/27011;;05;Al Instituto de Astrofísica de Canarias (IAC);9526620
+2017;27011;463B;45;;;A Comunidades Autónomas;1500000
+2017;27011;463B;450/27011;;;A la Universidad de Las Palmas de Gran Canaria para mejorar las capacidades de investigación y los servicios de apoyo a la i+d+i en las áreas de investigación prioritaria en la Estrategia de Especialización Inteligente de Canarias;1500000
+2017;27011;463B;46;;;A Entidades Locales;1125000
+2017;27011;463B;460/27011;;;Al Cabildo de Gran Canaria para el desarrollo de un programa experimental e integral de actividades de investigación y económicas ligadas a la explotación de los recursos marinos insulares;1125000
 2017;27011;463B;48;;;A familias e instituciones sin fines de lucro;286410
 2017;27011;463B;480/27011;;;Transferencias, ayudas nominativas y otros;286410
 2017;27011;463B;480/27011;;00;A la Fundación Ibercivis;60000
@@ -16668,12 +16728,14 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;27011;463B;490/27011;;;Al Instituto de Astrofísica de Canarias;950000
 2017;27011;463B;490/27011;;01;Al Instituto de Astrofísica de Canarias para Telescopios ING;700000
 2017;27011;463B;490/27011;;02;Al Instituto de Astrofísica de Canarias para la contribución de la fase transitoria del CTA y obligaciones de ejercicios anteriores;250000
-2017;27011;463B;7;;;TRANSFERENCIAS DE CAPITAL;4510000
+2017;27011;463B;7;;;TRANSFERENCIAS DE CAPITAL;7885000
 2017;27011;463B;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;4510000
 2017;27011;463B;749;;;Transferencias, ayudas nominativas y otros;4510000
 2017;27011;463B;749;;00;A la Fundación Española para la Ciencia y la Tecnología (FECYT) para el Museo Nacional de Ciencia y Tecnología;360000
 2017;27011;463B;749;;03;A la Fundación Española para la Ciencia y la Tecnología (FECYT);4000000
 2017;27011;463B;749;;04;Al Instituto de Astrofísica de Canarias (IAC);150000
+2017;27011;463B;76;;;A Entidades Locales;3375000
+2017;27011;463B;760/27011;;;Al Cabildo de Gran Canaria para el desarrollo de un programa experimental e integral de actividades de investigación y económicas ligadas a la explotación de los recursos marinos insulares;3375000
 2017;27012;463B;1;;;GASTOS DE PERSONAL;615850
 2017;27012;463B;12;;;Funcionarios;532000
 2017;27012;463B;120;;;Retribuciones básicas;224110
@@ -16874,11 +16936,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;27402;463B;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;20000
 2017;27402;463B;64;;;Gastos de inversiones de carácter inmaterial;302000
 2017;27402;463B;640;;;Gastos en inversiones de carácter inmaterial;302000
-2017;27402;463B;7;;;TRANSFERENCIAS DE CAPITAL;596687820
+2017;27402;463B;7;;;TRANSFERENCIAS DE CAPITAL;590687820
 2017;27402;463B;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;10668660
 2017;27402;463B;740/27402;;;Fondo para la Investigación científica y el desarrollo tecnológico;10668660
-2017;27402;463B;75;;;A Comunidades Autónomas;271647640
-2017;27402;463B;750/27402;;;Fondo para la Investigación científica y el desarrollo tecnológico;271647640
+2017;27402;463B;75;;;A Comunidades Autónomas;265647640
+2017;27402;463B;750/27402;;;Fondo para la Investigación científica y el desarrollo tecnológico;265647640
 2017;27402;463B;76;;;A Entidades Locales;6063930
 2017;27402;463B;760/27402;;;Fondo para la Investigación científica y el desarrollo tecnológico;6063930
 2017;27402;463B;77;;;A empresas privadas;80428140
@@ -17731,21 +17793,24 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;20012;467G;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;58000
 2017;20012;467G;160;;;Cuotas sociales;58000
 2017;20012;467G;160;;00;Seguridad Social;58000
-2017;20012;467G;4;;;TRANSFERENCIAS CORRIENTES;192840
+2017;20012;467G;4;;;TRANSFERENCIAS CORRIENTES;1192840
 2017;20012;467G;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;187840
 2017;20012;467G;442/20012;;;A Red.es para Plan Extremadura;187840
+2017;20012;467G;46;;;A Entidades Locales;1000000
+2017;20012;467G;461/20012;;;Al Cabildo de Gran Canaria para el desarrollo de un programa integral para convertir a Gran Canaria en una referencia piloto para el desarrollo de la Agenda Digital Española y de las directrices de la Unión Europea sobre islas inteligentes;1000000
 2017;20012;467G;49;;;Al exterior;5000
 2017;20012;467G;499/20012;;;A la Iniciativa Ambient Asistent Living Association (AAL);5000
 2017;20012;467G;6;;;INVERSIONES REALES;1092570
 2017;20012;467G;64;;;Gastos de inversiones de carácter inmaterial;1092570
 2017;20012;467G;640;;;Gastos en inversiones de carácter inmaterial;1092570
-2017;20012;467G;7;;;TRANSFERENCIAS DE CAPITAL;26330880
+2017;20012;467G;7;;;TRANSFERENCIAS DE CAPITAL;31830880
 2017;20012;467G;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;931680
 2017;20012;467G;740/20012;;;Agenda Digital para España - Competitividad e Innovación en Telecomunicaciones y Sociedad de la Información;931680
 2017;20012;467G;75;;;A Comunidades Autónomas;1693970
 2017;20012;467G;750/20012;;;Agenda Digital para España - Competitividad e Innovación en Telecomunicaciones y Sociedad de la Información;1693970
-2017;20012;467G;76;;;A Entidades Locales;1185760
+2017;20012;467G;76;;;A Entidades Locales;6685760
 2017;20012;467G;760/20012;;;Agenda Digital para España - Competitividad e Innovación en Telecomunicaciones y Sociedad de la Información;1185760
+2017;20012;467G;761/20012;;;Al Cabildo de Gran Canaria para el desarrollo de un programa integral para convertir a Gran Canaria en una referencia piloto para el desarrollo de la Agenda Digital Española y de las directrices de la Unión Europea sobre islas inteligentes;5500000
 2017;20012;467G;77;;;A empresas privadas;19978520
 2017;20012;467G;770/20012;;;Agenda Digital para España - Competitividad e Innovación en Telecomunicaciones y Sociedad de la Información;17209550
 2017;20012;467G;779/20012;;;Agenda Digital para España;2768970
@@ -17985,7 +18050,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;20012;467I;6;;;INVERSIONES REALES;8325070
 2017;20012;467I;64;;;Gastos de inversiones de carácter inmaterial;8325070
 2017;20012;467I;640;;;Gastos en inversiones de carácter inmaterial;8325070
-2017;20012;467I;7;;;TRANSFERENCIAS DE CAPITAL;46578100
+2017;20012;467I;7;;;TRANSFERENCIAS DE CAPITAL;47265600
 2017;20012;467I;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;4000000
 2017;20012;467I;746/20012;;;A Red.es;500000
 2017;20012;467I;747/20012;;;A ICEX;500000
@@ -17995,9 +18060,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;20012;467I;76;;;A Entidades Locales;8576300
 2017;20012;467I;768/20012;;;A la Fundación Barcelona Mobile World Capital;5000000
 2017;20012;467I;769/20012;;;Agenda Digital para España;3576300
-2017;20012;467I;77;;;A empresas privadas;31338890
+2017;20012;467I;77;;;A empresas privadas;32026390
 2017;20012;467I;772/20012;;;Agenda Digital para España - Formación Profesionales;165580
 2017;20012;467I;773/20012;;;Agenda Digital para España - Formación Usuarios;135420
+2017;20012;467I;775/20012;;;Agenda Digital para España. Fondos destinados con carácter prioritario al desarrollo del Programa Nacional de extensión de la banda ancha de nueva generación en Canarias;687500
 2017;20012;467I;776/20012;;;Agenda Digital para España - Impulso de la Industria del Lenguaje Natural;3000000
 2017;20012;467I;778/20012;;;Agenda Digital para España - Internacionalización del Sector de las Comunicaciones y de la Sociedad de la Información;457830
 2017;20012;467I;779/20012;;;Agenda Digital para España;27580060
@@ -18007,11 +18073,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;20012;467I;784/20012;;;Agenda Digital para España - Formación Profesionales;22490
 2017;20012;467I;785/20012;;;Agenda Digital para España - Formación Usuarios;134350
 2017;20012;467I;789/20012;;;Agenda Digital para España;324490
-2017;20012;467I;8;;;ACTIVOS FINANCIEROS;471975570
-2017;20012;467I;83;;;Concesión de préstamos fuera del Sector Público;364799940
-2017;20012;467I;831;;;Préstamos a largo plazo;364799940
+2017;20012;467I;8;;;ACTIVOS FINANCIEROS;477275170
+2017;20012;467I;83;;;Concesión de préstamos fuera del Sector Público;370099540
+2017;20012;467I;831;;;Préstamos a largo plazo;370099540
 2017;20012;467I;831;;12;Agenda Digital para España;334799940
 2017;20012;467I;831;;14;Agenda Digital para España - Internacionalización del Sector de las Comunicaciones y de la Sociedad de la Información;30000000
+2017;20012;467I;831;;15;Agenda Digital para España. Fondos destinados con carácter prioritario al desarrollo del Programa Nacional de extensión de la banda ancha de nueva generación en Canarias;5299600
 2017;20012;467I;87;;;Aportaciones patrimoniales;107175630
 2017;20012;467I;872/20012;;;A Red.es para aportación de socio a INCIBE;20000000
 2017;20012;467I;876/20012;;;A Red.es;87175630
@@ -18059,9 +18126,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;20012;491M;7;;;TRANSFERENCIAS DE CAPITAL;250000
 2017;20012;491M;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;250000
 2017;20012;491M;746/20012;;;A Red.es;250000
-2017;17003;491N;4;;;TRANSFERENCIAS CORRIENTES;120790000
-2017;17003;491N;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;120000000
-2017;17003;491N;440/17003;;;Sociedad Estatal Correos y Telégrafos S.A. para la prestación del Servicio Postal Universal. Pendiente de liquidación;120000000
+2017;17003;491N;4;;;TRANSFERENCIAS CORRIENTES;59490000
+2017;17003;491N;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;58700000
+2017;17003;491N;440/17003;;;Sociedad Estatal Correos y Telégrafos S.A. para la prestación del Servicio Postal Universal. Pendiente de liquidación;58700000
 2017;17003;491N;49;;;Al exterior;790000
 2017;17003;491N;493/17003;;;Cuotas a Organismos Internacionales;790000
 2017;17003;491N;493/17003;;00;Unión Postal Universal;625000
@@ -21885,10 +21952,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;16001;924M;6;;;INVERSIONES REALES;57080
 2017;16001;924M;64;;;Gastos de inversiones de carácter inmaterial;57080
 2017;16001;924M;640;;;Gastos en inversiones de carácter inmaterial;57080
-2017;31002;929M;1;;;GASTOS DE PERSONAL;2337753380
-2017;31002;929M;12;;;Funcionarios;335955000
-2017;31002;929M;121;;;Retribuciones complementarias;335955000
-2017;31002;929M;121;;08;Para todo tipo de retribuciones que pudieran reconocerse en favor de funcionarios de carrera;335955000
+2017;31002;929M;1;;;GASTOS DE PERSONAL;2337453380
+2017;31002;929M;12;;;Funcionarios;335655000
+2017;31002;929M;121;;;Retribuciones complementarias;335655000
+2017;31002;929M;121;;08;Para todo tipo de retribuciones que pudieran reconocerse en favor de funcionarios de carrera;335655000
 2017;31002;929M;15;;;Incentivos al rendimiento;782100
 2017;31002;929M;155/31002;;;Participación  del  personal en  los  programas  de  calidad regulados en el Real Decreto 951/2005, de 29 de Julio;782100
 2017;31002;929M;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;2001016280
@@ -21896,9 +21963,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;31002;929M;160;;01;MUFACE;1304181150
 2017;31002;929M;160;;02;ISFAS;624451730
 2017;31002;929M;160;;03;MUGEJU;72383400
-2017;31002;929M;5;;;FONDO DE CONTINGENCIA Y OTROS IMPREVISTOS;15000000
-2017;31002;929M;51;;;Otros Imprevistos;15000000
-2017;31002;929M;510;;;Imprevistos;15000000
+2017;31002;929M;5;;;FONDO DE CONTINGENCIA Y OTROS IMPREVISTOS;1180000
+2017;31002;929M;51;;;Otros Imprevistos;1180000
+2017;31002;929M;510;;;Imprevistos;1180000
 2017;35001;929N;5;;;FONDO DE CONTINGENCIA Y OTROS IMPREVISTOS;2366740000
 2017;35001;929N;50;;;Dotación al Fondo de Contingencia de ejecución presupuestaria;2366740000
 2017;35001;929N;500;;;Fondo de Contingencia de Ejecución Presupuestaria, Artículo 50 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria;2366740000
@@ -22779,10 +22846,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2017;36021;942M;461/36021;;;Transferencias a las Diputaciones y Cabildos Insulares;5049845780
 2017;36021;942M;461/36021;;01;Entregas a cuenta a las Diputaciones y Cabildos Insulares por su participación en los ingresos de los capítulos I y II del Presupuesto del Estado por recursos no susceptibles de cesión a las Comunidades Autónomas;5049845780
 2017;36021;942M;468;;;Liquidación definitiva de la participación en los ingresos del Estado de las Corporaciones Locales, correspondiente a ejercicios anteriores y compensaciones derivadas del Nuevo Modelo de Financiación Local;619311640
-2017;32002;942N;4;;;TRANSFERENCIAS CORRIENTES;222201570
-2017;32002;942N;46;;;A Entidades Locales;222201570
-2017;32002;942N;461/32002;;;Transferencias a ayuntamientos;81146830
-2017;32002;942N;461/32002;;00;Compensación de los beneficios fiscales, concedidos a las personas físicas o jurídicas en los tributos locales, como consecuencia de normas legales del Estado;77784430
+2017;32002;942N;4;;;TRANSFERENCIAS CORRIENTES;219701570
+2017;32002;942N;46;;;A Entidades Locales;219701570
+2017;32002;942N;461/32002;;;Transferencias a ayuntamientos;78646830
+2017;32002;942N;461/32002;;00;Compensación de los beneficios fiscales, concedidos a las personas físicas o jurídicas en los tributos locales, como consecuencia de normas legales del Estado;75284430
 2017;32002;942N;461/32002;;01;Compensaciones que puedan reconocerse a los municipios;3362400
 2017;32002;942N;462/32002;;;A corporaciones locales para cofinanciar los servicios de transporte colectivo urbano;51054740
 2017;32002;942N;464/32002;;;Compensaciones y ayudas a favor de las Ciudades de Ceuta y Melilla;83000000
