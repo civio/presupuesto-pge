@@ -31,10 +31,19 @@
 }
 
 .navbar-brand {
-	font-size: 3.5em;
+	font-size: 2.75em;
 	letter-spacing: -0.01em;
 	height: auto;
-	margin: $grid-gutter-width 0 1.5*$grid-gutter-width;
+	margin: 1.5*$grid-gutter-width 0;
+  font-weight: 400;
+
+  a{
+    color: $brand-terciary;
+
+    &:hover{
+      color: $brand-primary; 
+    }
+  }
 }
 
 @media (min-width: $screen-sm-min) {
@@ -46,6 +55,11 @@
   .navbar-brand{
     position: static;
   }
+}
+
+.navbar-nav{
+  font-size: .929em;
+  letter-spacing: .02em;
 }
 
 
@@ -126,16 +140,23 @@
 
 // Donation banner
 .donation-banner{
-  font-size: 1.125em;
-  background: $brand-secondary;
+  font-size: 1.25em;
+  letter-spacing: .02em;
+  line-height: 1.5em;
+  color: white;
+  background: $brand-primary;
   padding: $grid-gutter-width 0 2*$grid-gutter-width/3;
   text-align: center;
+  font-weight: 300;
 
   .btn{
     //font-size: 1.125em;
-    font-weight: $font-weight-300;
+    font-weight: $font-weight-600;
     margin-top: $grid-gutter-width/2;
     text-transform: uppercase;
+    color: $civio-brand-primary;
+    background: $civio-brand-terciary;
+    border-color: $civio-brand-terciary;
 
     .glyphicon{
       font-size: 0.875em;
@@ -167,19 +188,6 @@
 
   strong{
     font-weight: $font-weight-400;
-  }
-}
-
-// Search form
-.form-search .form-inline {
-
-  label {
-    font-weight: 300;
-    color: white;
-  }
-
-  .form-control{
-    border: none;
   }
 }
 

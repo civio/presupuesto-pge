@@ -12,9 +12,13 @@ $gray-lightest:         lighten($gray-base, 96%) !default;
 
 $text-color:            #333;
 
-$brand-primary:         #1a69c4;
-$brand-secondary:       #ffb058;
-$brand-terciary:        #403d39;
+$brand-primary:         lighten( #032C6B, 15% );  // #1a69c4;
+$brand-secondary:       darken( saturate( #ffb058, 15% ), 3% );
+$brand-terciary:        darken( $brand-primary, 15% );  //#403d39;
+
+$civio-brand-primary:   #002A6D;  // Civio dark blue
+$civio-brand-secondary: #56FFA9;  // Civio light green
+$civio-brand-terciary:  #FFED6A;  // Civio light yellow
 
 $link-color:            $brand-primary;
 $link-hover-color:      $link-color;
@@ -24,13 +28,13 @@ $link-hover-decoration: underline;
 // Typography
 // -------------
 
-$font-family-sans-serif:  "Source Sans Pro", Helvetica, Arial, sans-serif;
+$font-family-sans-serif:  "Lato", Arial, sans-serif;
 $font-family-serif:       Georgia, "Times New Roman", Times, serif;
 $font-family-base:        $font-family-sans-serif;
 
 $font-weight-300:         300;
 $font-weight-400:         400;
-$font-weight-600:         600; 
+$font-weight-600:         700; 
 $font-weight-700:         700; 
 
 $headings-font-weight:    $font-weight-600;
@@ -77,14 +81,14 @@ $navbar-default-link-active-bg:       $brand-terciary;
 // --------------
 
 $footer-color: white;
-$footer-bg: darken( $brand-terciary, 10%);
+$footer-bg: $brand-terciary;
 
 
 // Page Header
 // --------------
 
-$page-header-bg:            mix( $brand-secondary, white, 8% );
-$page-header-border-color:  mix( $brand-secondary, white, 70% );
+$page-header-bg:            mix( $brand-secondary, white, 12% );
+$page-header-border-color:  $brand-secondary;
 
 
 // Panels
@@ -155,7 +159,7 @@ $pagination-active-border:             $brand-primary;
 // Search Form
 // --------------
 
-$search-form-bg: $brand-terciary;
+$search-form-bg: $brand-secondary;
 
 
 // Budget Stream
