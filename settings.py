@@ -116,7 +116,7 @@ COOKIES_URL             = ''
 # We can define additional URLs applicable only to the theme. These will get added
 # to the project URL patterns list.
 # Must be needed to uncomment 3rd line in order to import i18n_patterns
-EXTRA_URLS = patterns('presupuesto-pge.views',
+EXTRA_URLS = (
     url(r'^ccaa/$', 'ccaa'),      # Trailing slash optional for backwards compatibility with DVMI 1.0,
                                   # although not consistent with the rest of the site :/
 
@@ -125,7 +125,6 @@ EXTRA_URLS = patterns('presupuesto-pge.views',
     url(r'^metodologia$', 'metodologia'),
     url(r'^ojo_con_esto$', 'ojo_con_esto')
 )
-
 
 # Welcome Settings
 # ----------------------
