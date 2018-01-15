@@ -1,5 +1,9 @@
 @import "theme-variables";
 
+header{
+  margin-top: 45px; // Set civio-navbar top offset
+}
+
 // Fix logo
 .main-entity-logo{
 	margin: $grid-gutter-width/2 0 0;
