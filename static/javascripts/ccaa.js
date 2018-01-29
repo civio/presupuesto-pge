@@ -118,11 +118,12 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
 
     path.projection(projection);
 
-    d3.select("#vis #map")
+    self.svg = d3.select("#vis #map")
       .append("svg:svg")
       .attr("id", "svg")
       .style('overflow', 'visible')
-      .append("svg:g")
+      
+    self.svg.append("svg:g")
       .attr("id", "states");
             
     d3.json(geo_data_URL, function(_geoData) {
@@ -133,9 +134,9 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
       .enter()
         .append("svg:path")
         .attr("class",   function(d){ return "region_" + d.properties.ID; })
-        .on("mouseover", function(d){ return self.mouseOverMap(d);})
-        .on("mouseout",  function(d){ return self.mouseOutMap(d);})
-        .on("click",     function(d){ return self.clickMap(d);});
+        .on("mouseover", function(d){ return self.mouseOverMap(d); })
+        .on("mouseout",  function(d){ return self.mouseOutMap(d); })
+        .on("click",     function(d){ return self.clickMap(d); });
 
       //d3.selectAll("#states path").attr("d", function(a) { return path_proj(a); });
 
@@ -214,8 +215,10 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
   };
 
   this.changeYear = function(a) {
-    currentYear = a;
-    this.update();
+    if (currentYear != a) {
+      currentYear = a;
+      this.update();
+    }
   };
 
 
@@ -224,11 +227,11 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
     if ( _selectedRegion == null ) {
       _overRegion = region;
       regSelected = _overRegion.properties.ID;
-      d3.select('.region_'+regSelected)
+      var selected = d3.select('.region_'+regSelected)
         .style('stroke-width', '1.5px')
         .style('stroke', '#111');
       // move over region on top
-      d3.selectAll("path").sort(function (a, b){ return (a.properties.ID != regSelected) ? -1 : 1; }) 
+      this.svg.selectAll("path").sort(function (a, b){ return (a.properties.ID != regSelected) ? -1 : 1; }) 
       this.update();
     }
   };
@@ -258,7 +261,7 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
         .style('stroke-width', '1.5px')
         .style('stroke', '#111');
       // move over region on top
-      d3.selectAll("path").sort(function (a, b){ return (a.properties.ID != regSelected) ? -1 : 1; }) 
+      this.svg.selectAll("path").sort(function (a, b){ return (a.properties.ID != regSelected) ? -1 : 1; }) 
       this.update();
     }
   };
