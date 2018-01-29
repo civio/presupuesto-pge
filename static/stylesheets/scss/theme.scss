@@ -376,3 +376,17 @@ header{
   background: linear-gradient(to right, #fed976 0%,#e31b1d 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fed976', endColorstr='#e31b1d',GradientType=1 ); /* IE6-9 */
 }
+
+// Fix main total amounts alignment
+@media (min-width: $screen-sm-min) {
+  #main-total .panel-content>li>ul>.col-sm-6{
+    width: 100%;
+  }
+  #main-total .panel-content>li>ul>.col-sm-6,
+  #main-total .panel-content>li>ul>li{
+    float: right;
+  }
+}
+#main-total .panel-content>li>ul>.col-sm-6{
+  padding-right: 0;
+}
