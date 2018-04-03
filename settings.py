@@ -139,6 +139,9 @@ FEATURED_PROGRAMMES = ['323M', '143A', '924M']
 # Overview Settings
 # ----------------------
 
+# Use new Sankey visualization or the old one. Default: False
+OVERVIEW_USE_NEW_VIS = True
+
 # Cotizaciones sociales, Sobre la Renta, IVA, Consumos específicos
 OVERVIEW_INCOME_NODES = ['12', ['10', '100'], ['10', '101'], '21', '22']
 
