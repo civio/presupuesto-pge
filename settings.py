@@ -143,10 +143,23 @@ FEATURED_PROGRAMMES = ['323M', '143A', '924M']
 OVERVIEW_USE_NEW_VIS = True
 
 # Cotizaciones sociales, Sobre la Renta, IVA, Consumos específicos
-OVERVIEW_INCOME_NODES = ['12', ['10', '100'], ['10', '101'], '21', '22']
+OVERVIEW_INCOME_NODES = [
+                          '12',
+                          {
+                            'nodes': [['10', '100']],
+                            'label': 'Impuesto sobre la Renta',
+                            'link_id': '10'
+                          },
+                          {
+                            'nodes': [['10', '101']],
+                            'label': 'Impuesto de sociedades',
+                            'link_id': '10'
+                          },
+                          '21', '22'
+                        ]
 
 # Pensiones, Transferencias a otras administraciones, Deuda pública, Desempleo, Agricultura
-OVERVIEW_EXPENSE_NODES = ['21', '94', '95', '25', '41']
+OVERVIEW_EXPENSE_NODES = ['21', '94', '95', '25', '13', '12', '41', '24', '45']
 
 # How much padding between Sankey nodes. Default: 10 (Optional)
 # Note: higher values will result in a more 'curvy accordion'.
