@@ -908,7 +908,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2018;13101;4;;;TRANSFERENCIAS CORRIENTES;6601010
 2018;13102;4;;;TRANSFERENCIAS CORRIENTES;4868500
 2018;13301;4;;;TRANSFERENCIAS CORRIENTES;20000
-2018;14101;4;;;TRANSFERENCIAS CORRIENTES;48799750
+2018;14101;4;;;TRANSFERENCIAS CORRIENTES;49299750
 2018;14107;4;;;TRANSFERENCIAS CORRIENTES;20650000
 2018;14113;4;;;TRANSFERENCIAS CORRIENTES;25048000
 2018;15101;4;;;TRANSFERENCIAS CORRIENTES;11330300
@@ -970,18 +970,18 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2018;27104;4;;;TRANSFERENCIAS CORRIENTES;17929960
 2018;27105;4;;;TRANSFERENCIAS CORRIENTES;22796360
 2018;27106;4;;;TRANSFERENCIAS CORRIENTES;16822200
-2018;27107;4;;;TRANSFERENCIAS CORRIENTES;124260790
+2018;27107;4;;;TRANSFERENCIAS CORRIENTES;124760790
 2018;27109;4;;;TRANSFERENCIAS CORRIENTES;3630810
 2018;27301;4;;;TRANSFERENCIAS CORRIENTES;376855230
 2018;27302;4;;;TRANSFERENCIAS CORRIENTES;52674240
 2018;27303;4;;;TRANSFERENCIAS CORRIENTES;24347090
-2018;60004;4;;;TRANSFERENCIAS CORRIENTES;17105093930
+2018;60004;4;;;TRANSFERENCIAS CORRIENTES;18441158760
 2018;98001;4;;;TRANSFERENCIAS CORRIENTES;6446008310
 2018;12301;40;;;De la Administración del Estado;62372560
 2018;12302;40;;;De la Administración del Estado;210171200
 2018;13101;40;;;De la Administración del Estado;6601010
 2018;13102;40;;;De la Administración del Estado;4868500
-2018;14101;40;;;De la Administración del Estado;48066610
+2018;14101;40;;;De la Administración del Estado;48566610
 2018;14107;40;;;De la Administración del Estado;20650000
 2018;14113;40;;;De la Administración del Estado;25048000
 2018;15101;40;;;De la Administración del Estado;11330300
@@ -1042,15 +1042,15 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2018;27104;40;;;De la Administración del Estado;17929960
 2018;27105;40;;;De la Administración del Estado;22796360
 2018;27106;40;;;De la Administración del Estado;16822200
-2018;27107;40;;;De la Administración del Estado;123996790
+2018;27107;40;;;De la Administración del Estado;124496790
 2018;27109;40;;;De la Administración del Estado;3587190
 2018;27301;40;;;De la Administración del Estado;375798140
 2018;27302;40;;;De la Administración del Estado;52674240
 2018;27303;40;;;De la Administración del Estado;24347090
-2018;60004;40;;;De la Administración del Estado;13540235120
+2018;60004;40;;;De la Administración del Estado;14876299950
 2018;12301;400;;;Del departamento al que está adscrito;62372560
 2018;13101;400;;;Del departamento al que está adscrito;6601010
-2018;14101;400;;;Del departamento al que está adscrito;48066610
+2018;14101;400;;;Del departamento al que está adscrito;48566610
 2018;14107;400;;;Del departamento al que está adscrito;20650000
 2018;15101;400;;;Del departamento al que está adscrito;11330300
 2018;15102;400;;;Del departamento al que está adscrito;12939040
@@ -1109,12 +1109,12 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2018;27104;400;;;Del departamento al que está adscrito;17929960
 2018;27105;400;;;Del departamento al que está adscrito;22796360
 2018;27106;400;;;Del departamento al que está adscrito;16822200
-2018;27107;400;;;Del departamento al que está adscrito;123422280
+2018;27107;400;;;Del departamento al que está adscrito;123922280
 2018;27109;400;;;Del departamento al que está adscrito;3587190
 2018;27301;400;;;Del departamento al que está adscrito;375798140
 2018;27302;400;;;Del departamento al que está adscrito;52674240
 2018;27303;400;;;Del departamento al que está adscrito;24347090
-2018;60004;400;;;Del departamento al que está adscrito;11741194870
+2018;60004;400;;;Del departamento al que está adscrito;13075104870
 2018;15302;400;;00;Para gastos de funcionamiento;920336130
 2018;18101;400;;00;Para gastos de funcionamiento;2971420
 2018;18102;400;;00;Para gastos de funcionamiento del Programa de Enseñanzas Universitarias;2432950
@@ -1138,7 +1138,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2018;27105;400;;00;Para gastos corrientes;22210790
 2018;27106;400;;00;Para gastos corrientes;16587200
 2018;27107;400;;00;Para gastos corrientes;121922280
-2018;27301;400;;00;Para gastos corrientes;367278230
+2018;27301;400;;00;Para gastos corrientes;367028230
 2018;27303;400;;00;Del departamento al que está adscrito;24347090
 2018;14101;400;;01;Para gastos de funcionamiento;47356610
 2018;18102;400;;01;Para gastos de funcionamiento del Programa de Cooperación, promoción y difusión educativa en el exterior;1495950
@@ -1156,7 +1156,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2018;23110;400;;01;Para el pago del IBI  de bienes de titularidad estatal;3900000
 2018;23113;400;;01;Para el Plan Anual de Seguros Agrarios y liquidación de planes anteriores;211267560
 2018;23114;400;;01;Financiación nacional ayuda desfavorecidos;22857000
-2018;27105;400;;01;Para el funcionamiento operativo de buques y bases y de la unidad mixta de gestión de la flota oceanográfica e instalaciones antárticas;585570
+2018;27105;400;;01;Para el funcionamiento operativo de buques de la flota de investigación oceanográfica;585570
 2018;27106;400;;01;Para los gastos de la participación española en el Comité Polar y para el Banco Nacional de Datos Polares;235000
 2018;27301;400;;01;Para el Instituto de Productos Naturales y Agrobiología (IPNA);1180000
 2018;14101;400;;02;Para gastos de funcionamiento Galileo-GSMC;710000
@@ -1165,12 +1165,15 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2018;18101;400;;02;Para Aula de Verano;112000
 2018;18102;400;;02;Para la financiación del Plan Ejecutivo de Cooperación e Intercambio con la República Popular China;150000
 2018;27301;400;;02;Para líneas e instalaciones;953090
+2018;14101;400;;03;Para el CEUS;500000
 2018;15302;400;;03;Por premio de cobranza recursos propios de la Unión Europea;67770730
 2018;18101;400;;03;Para Cursos Institucionales de Verano;75000
 2018;18102;400;;03;Al Servicio Español para la Internacionalización de la Educación para la cofinanciación del Programa Erasmus+;30000000
 2018;18101;400;;04;Para la concesión de becas de inmersión lingüística;8223580
 2018;27107;400;;04;Para la Fundación Centre de Regulació Genómica (CRG) para los estudios de genómica del Centro Nacional de Análisis Genómico (CNAG);1500000
-2018;27301;400;;05;Para gastos de funcionamiento operativo de buques y bases y de la unidad mixta de gestión de la flota oceanográfica e instalaciones antárticas;6221820
+2018;27107;400;;05;Para financiar actuaciones relacionadas con contratos predoctorales destinados a la investigación biomédica;500000
+2018;27301;400;;05;Para el funcionamiento operativo de buques de la flota de investigación oceanográfica e instalaciones polares;6221820
+2018;27301;400;;06;Para actividades de la Unidad Mixta de Investigación con la Universidad de Las Palmas sobre Océano y Clima;250000
 2018;27301;400;;07;Para gastos corrientes del proyecto del Nodo Nacional de GBIF (Global Biodiversity Info Facility);90000
 2018;27301;400;;10;Para la aportación a la European Grid Initiative (EGI);75000
 2018;13102;401;;;De otros departamentos ministeriales;4868500
@@ -1181,7 +1184,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2018;25102;401;;;De otros departamentos ministeriales;30000
 2018;27103;401;;;De otros departamentos ministeriales;100000
 2018;27107;401;;;De otros departamentos ministeriales;574510
-2018;60004;401;;;De otros departamentos ministeriales;1799040250
+2018;60004;401;;;De otros departamentos ministeriales;1801195080
 2018;15302;401;;00;Del Ministerio del Interior por los gastos comunes del edificio de la calle del Plomo, de Madrid;107600
 2018;27107;401;;00;Para el desarrollo del Plan de Calidad del Sistema Nacional de Salud a través de la Agencia de Evaluación de Tecnologías Sanitarias;574510
 2018;12302;404;;;Para atender gastos derivados de proyectos de Ayuda Oficial al Desarrollo, incluídos los propuestos o a ejecutar por Organizaciones No Gubernamentales, con destino a países en vías de desarrollo;185215230
@@ -1713,7 +1716,6 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2018;23109;599;;;Otros;65615840
 2018;23111;599;;;Otros;115000
 2018;25103;599;;;Otros;120000
-2018;12301;6;;;ENAJENACION DE INVERSIONES REALES;1444470
 2018;14107;6;;;ENAJENACION DE INVERSIONES REALES;112000000
 2018;15107;6;;;ENAJENACION DE INVERSIONES REALES;10000
 2018;16101;6;;;ENAJENACION DE INVERSIONES REALES;330560
@@ -1738,7 +1740,6 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2018;98001;600;;;Venta de solares;8000000
 2018;60004;601;;;Venta de fincas rústicas;1500
 2018;98001;601;;;Venta de fincas rústicas;3000000
-2018;12301;61;;;De las demás inversiones reales;1444470
 2018;14107;61;;;De las demás inversiones reales;27000000
 2018;15107;61;;;De las demás inversiones reales;10000
 2018;16101;61;;;De las demás inversiones reales;330560
@@ -1752,7 +1753,6 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2018;98001;61;;;De las demás inversiones reales;7300000
 2018;98001;610;;;Venta de edificios y otras construcciones;7000000
 2018;27106;616;;;Enajenación de bienes destinados a uso general;2000
-2018;12301;619;;;Venta de otras inversiones reales;1444470
 2018;14107;619;;;Venta de otras inversiones reales;27000000
 2018;15107;619;;;Venta de otras inversiones reales;10000
 2018;16101;619;;;Venta de otras inversiones reales;330560
@@ -1798,7 +1798,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2018;18103;7;;;TRANSFERENCIAS DE CAPITAL;585000
 2018;18104;7;;;TRANSFERENCIAS DE CAPITAL;5094180
 2018;18105;7;;;TRANSFERENCIAS DE CAPITAL;29884550
-2018;18106;7;;;TRANSFERENCIAS DE CAPITAL;9166410
+2018;18106;7;;;TRANSFERENCIAS DE CAPITAL;23319770
 2018;18107;7;;;TRANSFERENCIAS DE CAPITAL;7301330
 2018;18108;7;;;TRANSFERENCIAS DE CAPITAL;250000
 2018;18301;7;;;TRANSFERENCIAS DE CAPITAL;8100000
@@ -1807,10 +1807,11 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2018;19104;7;;;TRANSFERENCIAS DE CAPITAL;925000
 2018;19301;7;;;TRANSFERENCIAS DE CAPITAL;41940
 2018;20101;7;;;TRANSFERENCIAS DE CAPITAL;50930030
-2018;20104;7;;;TRANSFERENCIAS DE CAPITAL;33644860
+2018;20104;7;;;TRANSFERENCIAS DE CAPITAL;30694860
 2018;23101;7;;;TRANSFERENCIAS DE CAPITAL;21694890
-2018;23102;7;;;TRANSFERENCIAS DE CAPITAL;16600000
+2018;23102;7;;;TRANSFERENCIAS DE CAPITAL;17100000
 2018;23103;7;;;TRANSFERENCIAS DE CAPITAL;12900000
+2018;23104;7;;;TRANSFERENCIAS DE CAPITAL;26000000
 2018;23105;7;;;TRANSFERENCIAS DE CAPITAL;37377790
 2018;23106;7;;;TRANSFERENCIAS DE CAPITAL;20750000
 2018;23107;7;;;TRANSFERENCIAS DE CAPITAL;9770000
@@ -1860,7 +1861,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2018;18103;70;;;De la Administración del Estado;585000
 2018;18104;70;;;De la Administración del Estado;5094180
 2018;18105;70;;;De la Administración del Estado;29884550
-2018;18106;70;;;De la Administración del Estado;9166410
+2018;18106;70;;;De la Administración del Estado;23319770
 2018;18107;70;;;De la Administración del Estado;7301330
 2018;18108;70;;;De la Administración del Estado;250000
 2018;18301;70;;;De la Administración del Estado;7600000
@@ -1869,10 +1870,11 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2018;19104;70;;;De la Administración del Estado;925000
 2018;19301;70;;;De la Administración del Estado;41940
 2018;20101;70;;;De la Administración del Estado;50930030
-2018;20104;70;;;De la Administración del Estado;32944860
+2018;20104;70;;;De la Administración del Estado;29994860
 2018;23101;70;;;De la Administración del Estado;21194890
-2018;23102;70;;;De la Administración del Estado;11500000
+2018;23102;70;;;De la Administración del Estado;12000000
 2018;23103;70;;;De la Administración del Estado;8500000
+2018;23104;70;;;De la Administración del Estado;26000000
 2018;23105;70;;;De la Administración del Estado;5500000
 2018;23106;70;;;De la Administración del Estado;15750000
 2018;23107;70;;;De la Administración del Estado;9770000
@@ -1919,7 +1921,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2018;18103;700;;;Del departamento al que está adscrito;585000
 2018;18104;700;;;Del departamento al que está adscrito;5094180
 2018;18105;700;;;Del departamento al que está adscrito;29884550
-2018;18106;700;;;Del departamento al que está adscrito;9166410
+2018;18106;700;;;Del departamento al que está adscrito;23319770
 2018;18107;700;;;Del departamento al que está adscrito;7301330
 2018;18108;700;;;Del departamento al que está adscrito;250000
 2018;18301;700;;;Del departamento al que está adscrito;7600000
@@ -1928,10 +1930,11 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2018;19104;700;;;Del departamento al que está adscrito;925000
 2018;19301;700;;;Del departamento al que está adscrito;41940
 2018;20101;700;;;Del departamento al que está adscrito;50930030
-2018;20104;700;;;Del departamento al que está adscrito;32944860
+2018;20104;700;;;Del departamento al que está adscrito;29994860
 2018;23101;700;;;Del departamento al que está adscrito;21194890
-2018;23102;700;;;Del departamento al que está adscrito;11500000
+2018;23102;700;;;Del departamento al que está adscrito;12000000
 2018;23103;700;;;Del departamento al que está adscrito;8500000
+2018;23104;700;;;Del departamento al que está adscrito;26000000
 2018;23105;700;;;Del departamento al que está adscrito;5500000
 2018;23106;700;;;Del departamento al que está adscrito;15750000
 2018;23107;700;;;Del departamento al que está adscrito;9770000
@@ -1965,9 +1968,9 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2018;15302;700;;00;Para gastos de inversiones;33000000
 2018;18102;700;;00;Para gastos de Capital del Programa de Enseñanzas Universitarias;510000
 2018;18105;700;;00;Del departamento a que está adscrito.;22001070
-2018;18106;700;;00;Para gastos de capital;5753910
+2018;18106;700;;00;Para gastos de capital;19907270
 2018;23101;700;;00;De la Secretaria de Estado de Medio Ambiente para el desarrollo de sus actividades;20011080
-2018;23102;700;;00;Transferencia de la Dirección General del Agua;11500000
+2018;23102;700;;00;Transferencia de la Dirección General del Agua;12000000
 2018;23106;700;;00;Transferencias de la Dirección General del Agua;15750000
 2018;23107;700;;00;Dirección General del Agua;9770000
 2018;23108;700;;00;Del Departamento al que esta adscrito;10000000
@@ -1984,11 +1987,11 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2018;18105;700;;01;Del departamento a que está adscrito. Para inversiones en educación.;7883480
 2018;18106;700;;01;Para el cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991, de 27 de marzo, por el que se regula la distribución de la recaudación y premios de las apuestas deportivas del Estado;3412500
 2018;23101;700;;01;De la Secretaria de Estado de Medio Ambiente para Plan PIMA ADAPTA. Ingresos procedentes de subastas de derechos de emisión;1183810
-2018;27105;700;;01;Para inversiones de la unidad mixta de gestión de la flota oceanográfica e instalaciones antárticas;94500
+2018;27105;700;;01;Para inversiones de la flota de investigación oceanográfica;94500
 2018;27106;700;;01;Para los gastos de la partitipación española en el Comité Polar y para el Banco Nacional de Datos Polares;155000
 2018;27303;700;;01;Del departamento al que está adscrito para actuaciones relacionadas con la Red Cervera;30000000
 2018;23114;700;;03;Para el programa nacional de desarrollo rural;13319320
-2018;27301;700;;04;Para inversiones de la unidad mixta de gestión de la flota oceanográfica e instalaciones antárticas;94500
+2018;27301;700;;04;Para inversiones de la flota oceanográfica e instalaciones antárticas;94500
 2018;14101;700;;05;Para investigación científica e información de base;20030270
 2018;27301;700;;05;Para gastos de inversión del proyecto del Nodo Nacional de GBIF (Global Biodiversity Info Facility);160000
 2018;14101;700;;06;Para el proyecto Galileo;4816410
@@ -2119,7 +2122,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2018;12302;799;;27;Transferencias UE para Proyectos de Cooperación Delegada en Ecuador;1427810
 2018;12302;799;;30;Transferencias UE para Proyectos de Cooperación Delegada con Guatemala;637780
 2018;12302;799;;31;Transferencias UE para Proyectos de Cooperación Delegada con Colombia;360560
-2018;12301;8;;;ACTIVOS FINANCIEROS;2070560
+2018;12301;8;;;ACTIVOS FINANCIEROS;3515030
 2018;12302;8;;;ACTIVOS FINANCIEROS;12020
 2018;13101;8;;;ACTIVOS FINANCIEROS;2922460
 2018;13102;8;;;ACTIVOS FINANCIEROS;1020110
@@ -2460,7 +2463,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2018;60004;840;;;Devolución de depósitos;1732300
 2018;14113;841;;;Devolución de fianzas;50000
 2018;60004;841;;;Devolución de fianzas;3078450
-2018;12301;87;;;Remanente de tesorería;2025560
+2018;12301;87;;;Remanente de tesorería;3470030
 2018;13101;87;;;Remanente de tesorería;2922460
 2018;13102;87;;;Remanente de tesorería;1019010
 2018;13301;87;;;Remanente de tesorería;5051270
@@ -2522,7 +2525,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2018;27301;87;;;Remanente de tesorería;45130520
 2018;27302;87;;;Remanente de tesorería;3283350
 2018;60004;87;;;Remanente de tesorería;762431910
-2018;12301;870;;;Remanente de tesorería;2025560
+2018;12301;870;;;Remanente de tesorería;3470030
 2018;13101;870;;;Remanente de tesorería;2922460
 2018;13102;870;;;Remanente de tesorería;1019010
 2018;13301;870;;;Remanente de tesorería;5051270
@@ -2596,16 +2599,16 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2018;23109;9;;;PASIVOS FINANCIEROS;10000000
 2018;23110;9;;;PASIVOS FINANCIEROS;7000000
 2018;25103;9;;;PASIVOS FINANCIEROS;100000
-2018;60004;9;;;PASIVOS FINANCIEROS;15164000000
+2018;60004;9;;;PASIVOS FINANCIEROS;13830090000
 2018;17102;91;;;Préstamos recibidos en euros;2998720
 2018;23102;91;;;Préstamos recibidos en euros;16500000
 2018;23103;91;;;Préstamos recibidos en euros;11000000
 2018;23105;91;;;Préstamos recibidos en euros;24887360
 2018;23109;91;;;Préstamos recibidos en euros;10000000
 2018;23110;91;;;Préstamos recibidos en euros;7000000
-2018;60004;91;;;Préstamos recibidos en euros;15164000000
+2018;60004;91;;;Préstamos recibidos en euros;13830090000
 2018;17102;911;;;Préstamos recibidos a largo plazo de entes del Sector Público;2998720
-2018;60004;911;;;Préstamos recibidos a largo plazo de entes del Sector Público;15164000000
+2018;60004;911;;;Préstamos recibidos a largo plazo de entes del Sector Público;13830090000
 2018;23105;912;;;Préstamos recibidos a corto plazo de entes de fuera del Sector Público.;24887360
 2018;23110;912;;;Préstamos recibidos a corto plazo de entes de fuera del Sector Público.;7000000
 2018;23102;913;;;Préstamos recibidos a largo plazo de entes de fuera del Sector Público;16500000

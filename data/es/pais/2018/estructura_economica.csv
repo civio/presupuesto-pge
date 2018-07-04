@@ -241,7 +241,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;4;42;425/26009;;;Al Instituto Nacional de Gestión Sanitaria por la prestación de servicios sanitarios a terceros obligados al pago
 2018;G;4;42;425/26015;;;Al IMSERSO, para la cobertura de obligaciones de ejercicios anteriores por cuota sociales de cuidadores no profesionales en dependencia (SAAD) 
 2018;G;4;42;426/19002;;;Aportación del Estado a la Seguridad Social para financiar los servicios sociales del ISM
-2018;G;4;42;426/26015;;;Al IMSERSO, para ayudas sociales a los afectados por la Talidomida
+2018;G;4;42;426/26015;;;Al IMSERSO, para ayudas sociales a los afectados por la Talidomida (*)
 2018;G;4;42;427/26004;;;Aportación del Estado a la Tesorería General de la Seguridad Social para financiar la asistencia sanitaria del Instituto Social de la Marina
 2018;G;4;42;427/26015;;;Al IMSERSO para mínimo garantizado en dependencia
 2018;G;4;42;428;;;Aplicaciones del Fondo de Prevención y Rehabilitación
@@ -290,7 +290,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;4;44;440/20004;;;A la Sociedad Estatal para la Gestión de la Innovación y las Tecnologías Turísticas, S.A. (SEGITTUR)
 2018;G;4;44;440/20102;;;Subvención a la Fundación Escuela de Organización Industrial (EOI)
 2018;G;4;44;440/23001;;;Consorcio de Compensación de Seguros. Cobertura de pérdidas del Seguro Agrario Combinado.
-2018;G;4;44;440/23004;;;Convenio con la Fundación Biodiversidad para gastos corrientes de funcionamiento
+2018;G;4;44;440/23004;;;A la Fundación Biodiversidad para gastos corrientes de funcionamiento
 2018;G;4;44;440/23005;;;A la sociedad estatal Acuamed para el apoyo a la producción de agua desalada
 2018;G;4;44;440/23010;;;Convenio con la Fundación Biodiversidad para promover y facilitar la participación española en el Grupo Intergubernamental de Expertos sobre Cambio Climático (IPCC) y aumentar la sensibilización de la sociedad a través de acciones de divulgación de sus productos
 2018;G;4;44;440/23017;;;Ayudas a la fundación Biodiversidad para el mantenimiento de las actividades del Observatorio Español de Acuicultura (OESA)
@@ -348,20 +348,21 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;4;44;443/27301;;;Al Instituto de Productos Naturales y Agrobiología (IPNA)
 2018;G;4;44;444/14001;;;Al Consorcio del Museo Militar de Menorca y Patrimonio Histórico-Militar del Puerto de Mahón y Cala San Esteban
 2018;G;4;44;444/15001;;;Al Consorcio de la Ciudad de Toledo
-2018;G;4;44;444/18107;;;A la Fundación Teatro Real
+2018;G;4;44;444/18107;;;A la Fundación Nacional del Teatro Real y del Teatro de la Zarzuela F.S.P.
 2018;G;4;44;444/20012;;;A RED.es para soporte a FEMP en el ámbito de Ciudades y Territorios Inteligentes
 2018;G;4;44;444/20018;;;Al IDAE. Para centro de investigación Biscay Marine Energy Platform (BIMEP)
 2018;G;4;44;444/20101;;;Costes sociales y técnicos y obligaciones por reordenación
 2018;G;4;44;444/27009;;;Para cobertura de las diferencias producidas por operaciones autorizadas al amparo de la Ley 14/2013, de 27 de septiembre, de apoyo a los emprendedores y su internacionalización, a librar a través del Instituto de Crédito Oficial (ICO)
 2018;G;4;44;445/15001;;;Al Consorcio de la Ciudad de Cuenca
 2018;G;4;44;445/18013;;;A la Fundación Instituto de Cultura Gitana para sus gastos de funcionamiento
-2018;G;4;44;445/18107;;;A la Fundación del Teatro Real. Aportación adicional para la programación del 200 aniversario
+2018;G;4;44;445/18107;;;A la Fundación Nacional del Teatro Real y del Teatro de la Zarzuela F.S.P. Aportación adicional para la programación del 200 aniversario
 2018;G;4;44;445/27107;;;A la Fundación Centro de Investigación de Enfermedades Neurológicas. Operaciones corrientes
 2018;G;4;44;446/15301;;;Subvenciones a universidades públicas para la realización de prácticas en la Autoridad Independiente de Responsabilidad Fiscal
 2018;G;4;44;446/18013;;;A la Fundación Residencia de Estudiantes para sus gastos de funcionamiento
+2018;G;4;44;446/18107;;;A la Fundación Nacional del Teatro Real y del Teatro de la Zarzuela F.S.P. para gastos derivados de la gestión del Teatro de la Zarzuela
 2018;G;4;44;446/20012;;;A RED.es
 2018;G;4;44;446/27107;;;A Centros de Investigación Biomédica en Red (CIBER)
-2018;G;4;44;447/17039;;;Renfe Viajeros, S.A. para compensar los servicios de transporte de cercanías y regionales traspasados a Cataluña, correspondientes al ejercicio 2017, pendientes de liquidación
+2018;G;4;44;447/17039;;;Renfe Viajeros, S.A. para compensar los servicios de transporte de cercanías y regionales traspasados a la Comunidad Autónoma de Cataluña, correspondientes al ejercicio 2017, pendientes de liquidación
 2018;G;4;44;447/27008;;;Transferencias a entes públicos empresariales
 2018;G;4;44;447/27107;;;Para el fomento de la investigación en salud
 2018;G;4;44;448/15001;;;Al Consorcio de la Zona Especial Canaria
@@ -378,6 +379,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;4;45;450/12302;;;Universidad Complutense de Madrid
 2018;G;4;45;450/14001;;;Transferencias a CCAA. Formación Escuelas de Suboficiales
 2018;G;4;45;450/15102;;;Formación para el Empleo en las Administraciones Públicas
+2018;G;4;45;450/17020;;;Convenio con la Comunidad Foral de Navarra para compensar el coste de aplicar a los usuarios de vehículos ligeros (clase I) en la AP-15 con dispositivo OBE Vía-T, los descuentos correspondientes con el objetivo de que los trayectos realizados en las mismas 24 horas no supongan coste para los usuarios
 2018;G;4;45;450/18004;;;Actuaciones en primer ciclo de Educación Infantil
 2018;G;4;45;450/18006;;;A la Oficina VIII Centenario de la Universidad de Salamanca 2018
 2018;G;4;45;450/18011;;;A la Fundación Real Fábrica de Tapices para el desarrollo de sus actividades
@@ -390,20 +392,24 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;4;45;450/23108;;;Xunta de Galicia para Institutos de Formación Profesional para prácticas en laboratorios de la Confederación Hidrográfica
 2018;G;4;45;450/23113;;;Centro de Estudios e Investigación para la gestión de riesgos agrarios y medioambientales (CEIGRAM), para atender gastos que aseguren y den continuidad a su funcionamiento.
 2018;G;4;45;450/23114;;;País Vasco y Navarra por costes de traspaso fuera de cupo
+2018;G;4;45;450/26001;;;Para el desarrollo de nuevas o ampliadas competencias reservadas a las Comunidades Autónomas en el Pacto de Estado contra la violencia de género.
 2018;G;4;45;450/26009;;;Programa de reasentamiento y reubicación de refugiados. Consejo de Justicia y Asuntos de Interior de la U.E.(J.A.I.)
 2018;G;4;45;450/26022;;;Programas de asistencia social para mujeres víctimas de violencia de género y otras formas de violencia contra las mujeres
 2018;G;4;45;450/26106;;;A la Universidad Carlos III de Madrid para el Centro Español de Subtitulado y Audiodescripción
 2018;G;4;45;450/27009;;;Convenio para la internacionalización de la economía de Canarias
+2018;G;4;45;450/27011;;;A la Universidad de Las Palmas de Gran Canaria para mejorar las capacidades de investigación y los servicios de apoyo a la I+D+i en las áreas de investigación prioritaria en la Estrategia de Especialización Inteligente de Canarias
 2018;G;4;45;450/32001;;;Compensación financiera al País Vasco derivada del Impuesto Especial sobre las Labores de Tabaco,  incluso liquidación definitiva del ejercicio anterior
 2018;G;4;45;451/15102;;;Formación para el Empleo en las Admisitraciones Públicas de las entidades locales
 2018;G;4;45;451/18004;;;Para actividades de educación compensatoria
 2018;G;4;45;451/18011;;;Ayudas a la confección del Catálogo Colectivo del Patrimonio Bibliográfico Español
+2018;G;4;45;451/18013;;;Para la difusión nacional e internacional del ilustrado canario D. José Viera y Clavijo
 2018;G;4;45;451/18102;;;Ayudas a universidades para participación en ferias y otras acciones de internacionalización
 2018;G;4;45;451/18103;;;Ayudas y premios a la Cinematografía a través de las CCAA
 2018;G;4;45;451/18107;;;Ayudas para actividades musicales de ámbito nacional e internacional
 2018;G;4;45;451/18303;;;A universidades y entidades públicas para programas de apoyo científico para el deporte y actividades afines
 2018;G;4;45;451/20001;;;Para subvencionar a plantas potabilizadoras de agua en Canarias
 2018;G;4;45;451/20102;;;Subvenciones a universidades
+2018;G;4;45;451/23005;;;Para abaratar a los agricultores el sobre coste de la desalación y de la extracción de agua de pozos y de galerías para el riego agrícola en Canarias
 2018;G;4;45;451/23018;;;A la Universidad de Alcalá de Henares para funciones de Secretariado del Programa Operativo ESPON
 2018;G;4;45;451/23101;;;Fondo de mejora de montes de la Junta de Castilla y León en Segovia según Ley 3/2009, de 6 de abril, de Montes de Castilla y León.
 2018;G;4;45;451/23104;;;Universidad de Zaragoza, para financiar Jornadas de Derecho sobre Agua.
@@ -436,6 +442,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;4;45;452/23101;;;Creación de la Cátedra de Parques Nacionales
 2018;G;4;45;452/23109;;;Instituto Murciano de Investigacion y Desarrollo Agrario y Alimentario
 2018;G;4;45;452/26018;;;Para toda clase de gastos que originen los programas de prevención de drogodependencias desarrollados en el marco de la Estrategia Nacional sobre Drogas
+2018;G;4;45;452/27011;;;A la Universidad de Mondragón. Laboratorio de innovación en educación digital avanzada
 2018;G;4;45;452/27104;;;A la Universidad de Córdoba para la realización de un máster en olivicultura
 2018;G;4;45;452/27301;;;A la Fundación Centro Tecnolóxico de Supercomputación de Galicia (CESGA), aportación patronal a los gastos de funcionamiento
 2018;G;4;45;452/32001;;;A la Comunidad Autónoma del País Vasco para compensación en cupo por regularización de quinquenios anteriores (Acuerdo CMCE 17 de mayo de 2017)
@@ -459,7 +466,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;4;45;454/18106;;;A las CCAA para actividad deportiva estatal en edad escolar, incluidas Ceuta y Melilla
 2018;G;4;45;454/18107;;;Apoyo al funcionamiento de entidades musicales, teatrales, circenses y de danza en el ámbito de las CCAA
 2018;G;4;45;454/19101;;;Gestión por Comunidades Autónomas de servicios y programas de políticas activas de empleo: empleo y formación
-2018;G;4;45;454/26007;;;A CC.AA. para Estrategias frente a enfermedades raras, enfermedades neurodegenerativas y vigilancia en salud
+2018;G;4;45;454/26007;;;A CC.AA. para Estrategias frente a enfermedades raras, enfermedades neurodegenerativas (incluida ELA) y vigilancia de la salud
 2018;G;4;45;454/26016;;;Para actividades de competencia autonómica de interés general consideradas de interés social reguladas por el artículo 2 del Real Decreto-ley 7/2013, de 28 de junio 
 2018;G;4;45;454/26018;;;Para toda clase de gastos derivados del desarrollo del Observatorio Español de las Drogas y las Adicciones
 2018;G;4;45;454/26107;;;A Melilla para la promoción de igualdad de oportunidades y la inserción sociolaboral de mujeres residentes en la referida ciudad
@@ -486,18 +493,21 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;4;45;457/18106;;;A la Comunidad Autónoma de Canarias para campeonatos de España en edad escolar y universitarios
 2018;G;4;45;457/19101;;;A Comunidades Autónomas. Para actuaciones en centros nacionales de formación de desempleados y centros de referencia nacional (EJE 2)
 2018;G;4;45;457/26007;;;A las CC.AA. para el desarrollo del plan anual de trabajo de la Red Española de Agencias de Evaluación de Tecnologías Sanitarias y Prestaciones del Sistema Nacional de Salud
+2018;G;4;45;457/26016;;;A la Comunidad Autónoma de Canarias. Prestaciones básicas de Servicios Sociales
 2018;G;4;45;457/32001;;;A Lanbide-Servicio Vasco de Empleo
 2018;G;4;45;458/18011;;;Al Instituto Valenciano de Arte Moderno (IVAM) para gastos de funcionamiento
 2018;G;4;45;458/19101;;;Para la modernización de los servicios públicos de empleo, según la Ley 45/2002, de 12 de diciembre, y mejora del marco institucional del sistema nacional de empleo (EJE 6)
 2018;G;4;45;458/26007;;;A las CC.AA. para la mejora del sistema de información sanitaria del SNS
 2018;G;4;45;458/26016;;;Plan Estatal del Voluntariado. Congreso Estatal del Voluntariado
 2018;G;4;45;458/26018;;;Para actividades de las Comunidades y Ciudades Autónomas en aplicación de la Ley 17/2003
+2018;G;4;45;458/32001;;;A la Autoridad del Transporte Metropolitano de Valencia, para la financiación del transporte regular de viajeros
 2018;G;4;45;459/19101;;;Formación, orientación profesional y promoción de la actividad emprendedora de los trabajadores autónomos beneficiarios de la protección por cese de actividad
 2018;G;4;45;459/27012;;;Transferencias, ayudas nominativas y otros
 2018;G;4;45;459/27301;;;A otros organismos y entidades dependientes de comunidades autónomas
 2018;G;4;45;459/60001;;;Otras transferencias corrientes
 2018;G;4;45;459/60002;;;Otras transferencias corrientes
 2018;G;4;46;;;;A Entidades Locales
+2018;G;4;46;460/12003;;;Al Cabildo de Gran Canaria para programa de cooperación humanitaria
 2018;G;4;46;460/18013;;;Al Ayuntamiento de Tarragona para el programa cultural de los Juegos del Mediterráneo 2018
 2018;G;4;46;460/18103;;;Ayudas a la Cinematografía a través de corporaciones locales
 2018;G;4;46;460/18106;;;A diputaciones provinciales a través de sus respectivas comunidades autónomas en cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991
@@ -506,12 +516,14 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;4;46;460/19101;;;Gestión de servicios y programas de políticas activas de empleo en territorio no transferido
 2018;G;4;46;460/23005;;;Diputación Provincial de Cuenca para el pago del IBI del Embalse de Alarcón
 2018;G;4;46;460/23010;;;Convenio con la FEMP para promover y facilitar el desarrollo de iniciativas locales en materia de cambio climático
+2018;G;4;46;460/26001;;;Para el desarrollo de nuevas o ampliadas competencias reservadas a las Entidades Locales en el Pacto de Estado contra la violencia de género
 2018;G;4;46;460/26016;;;Para Medidas de Acompañamiento del Programa Operativo del Fondo de ayuda Europea para las Personas mas Desfavorecidas (FEAD)
 2018;G;4;46;460/26106;;;Para experiencias innovadoras
 2018;G;4;46;460/36021;;;Transferencias a Ayuntamientos
 2018;G;4;46;461/12302;;;Instituto Ferial de Madrid (IFEMA)
 2018;G;4;46;461/15102;;;"Aportación al Ayuntamiento de Valdeavellano de Tera: Centro de formación ""ESPACIO VALDEAVELLANO"" (Plan Soria)"
 2018;G;4;46;461/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
+2018;G;4;46;461/18004;;;Al Ayuntamiento de Telde para actuaciones en educación infantil de 0 a 3 años
 2018;G;4;46;461/18011;;;Transferencias a instituciones culturales
 2018;G;4;46;461/18013;;;Al Consorcio Centro Federico García Lorca para sus actividades
 2018;G;4;46;461/18101;;;Al Consorcio Universidad Internacional Menéndez Pelayo Barcelona
@@ -522,7 +534,6 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;4;46;461/20001;;;Para subvencionar a plantas potabilizadoras de agua en Canarias
 2018;G;4;46;461/20012;;;Al Cabildo de Gran Canaria para el desarrollo de un programa integral para convertir a Gran Canaria en una referencia piloto para el desarrollo de la Agenda Digital Española y de las directrices de la Unión Europea sobre islas inteligentes
 2018;G;4;46;461/26109;;;Ayuda a la gestión de las Juntas Arbitrales adscritas a administraciones locales
-2018;G;4;46;461/27011;;;Otras actuaciones del Departamento en materia de I+D+i
 2018;G;4;46;461/32002;;;Transferencias a ayuntamientos
 2018;G;4;46;461/36021;;;Transferencias a las Diputaciones y Cabildos Insulares
 2018;G;4;46;462/12302;;;Fundación Municipal de Cultura (Ayuntamiento de Cadiz)
@@ -531,7 +542,9 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;4;46;462/18101;;;Al Consorcio Universidad Internacional Menéndez Pelayo Cartagena
 2018;G;4;46;462/18103;;;A la Empresa pública municipal Festival de Cine de Málaga e Iniciativas Audiovisuales, S.A. para la celebración del Festival de Cine de Málaga
 2018;G;4;46;462/23101;;;Área de Influencia Socioeconómica de los Parques Nacionales para indemnizaciones por pérdida de renta, amparadas en la disposición adicional quinta de la Ley 5/2007, de 3 de abril.
+2018;G;4;46;462/26016;;;Nuevo Plan Integral de Jinámar. Asuntos sociales
 2018;G;4;46;462/26018;;;A CC.LL. en aplicación de la Ley 17/2003
+2018;G;4;46;462/27011;;;Al Cabildo de Gran Canaria para el desarrollo de un programa experimental e integral de actividades de I+D+i ligadas a la explotación de los recursos marinos insulares
 2018;G;4;46;462/32002;;;A corporaciones locales para cofinanciar los servicios de transporte colectivo urbano
 2018;G;4;46;463/13002;;;A Entidades Locales. Para la satisfacción de los fines previstos en la disposición adicional sexta de la Ley de Enjuiciamiento Criminal
 2018;G;4;46;463/18005;;;Para subvencionar convenios con ayuntamientos que desarrollan el Proyecto MENTOR para la formación a distancia con nuevas tecnologías
@@ -544,8 +557,12 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;4;46;464/18107;;;Programa de apoyo a festivales, muestras, ferias y otras actividades teatrales y circenses organizadas por corporaciones locales
 2018;G;4;46;464/23101;;;Convenio de colaboracion con la Asociación de Municipios con territorio en Parques Nacionales ( AMUPARNA) para apoyar la difusión de la red de Parques Nacionales en el ámbito local.
 2018;G;4;46;464/32002;;;Compensaciones y ayudas a favor de las Ciudades de Ceuta y Melilla
+2018;G;4;46;465/18011;;;Al Ayuntamiento de Las Palmas de Gran Canaria para gastos de funcionamiento y actividades del Museo Néstor
+2018;G;4;46;465/18103;;;A la Sociedad de Promoción de Las Palmas de Gran Canaria para el Festival Internacional de Cine de Las Palmas
+2018;G;4;46;465/19101;;;Planes integrales de empleo y otras actuaciones en materia de empleo, mediante convenios de colaboración con entidades locales
 2018;G;4;46;465/26101;;;A Entidades de la Administración Local Programa Erasmus+/Juventud
 2018;G;4;46;465/32002;;;Para financiar actuaciones en Melilla
+2018;G;4;46;466;;;Para financiar actuaciones en Ceuta
 2018;G;4;46;468;;;Liquidación definitiva de la participación en los ingresos del Estado de las Corporaciones Locales, correspondiente a ejercicios anteriores y compensaciones derivadas del Nuevo Modelo de Financiación Local
 2018;G;4;47;;;;A empresas privadas
 2018;G;4;47;470/02002;;;Transferencia corriente de las Cortes a Empresas privadas
@@ -599,6 +616,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;4;47;474/19101;;;Formación, orientación profesional y promoción de la actividad emprendedora de los trabajadores autónomos beneficiarios de la protección por cese de actividad. Territorio no transferido: Ceuta y Melilla
 2018;G;4;47;474/20101;;;Costes sociales y técnicos y obligaciones por reordenación
 2018;G;4;47;474/23114;;;Subvenciones nacionales para la cofinanciación de ayudas a la apicultura con Fondos Europeos Agrícolas
+2018;G;4;47;475/17020;;;Para fomentar la desviación del tráfico pesado por la AP-2 entre Zaragoza y Fraga
 2018;G;4;47;475/18107;;;A programas de difusión nacional de la dramaturgia actual y de preservación y difusión del teatro clásico y desarrollo de la actividad circense a través de planes de comunicación y difusión en España
 2018;G;4;47;475/26101;;;A empresas privadas Programa Erasmus+/Juventud
 2018;G;4;47;476;;;Ayudas a Emprendimiento Joven
@@ -821,6 +839,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;4;48;483/20019;;;A las Cámaras Oficiales mineras por participación en la recaudación de la tasa 072, concepto 132.002. Ejercicio corriente.
 2018;G;4;48;483/20102;;;Subvención al Club de Inventores Españoles
 2018;G;4;48;483/23001;;;Organizaciones Profesionales Agrarias y otras Entidades Asociativas para su participación y presencia internacional.
+2018;G;4;48;483/23014;;;Convenio con el Centro Nacional de Tecnología y Seguridad Alimentaria
 2018;G;4;48;483/23016;;;Ayudas al fomento y apoyo del asociacionismo pesquero.
 2018;G;4;48;483/23101;;;Becas
 2018;G;4;48;483/23107;;;Comité Español de Riegos y Drenajes.
@@ -997,7 +1016,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;4;48;487/27101;;;Al Comité Español de Matemáticas
 2018;G;4;48;487/27107;;;A la Asociación para el Registro y Estudio de Malformaciones Congénitas
 2018;G;4;48;487/60001;;;Prestaciones sociales
-2018;G;4;48;487/60002;;;Prestaciones sociales
+2018;G;4;48;487/60002;;;Prestaciones sociales (*)
 2018;G;4;48;488/12002;;;Para actividades de promoción de asuntos de la Unión Europea
 2018;G;4;48;488/13002;;;Compensación por la prestación de la asistencia psicológica a las víctimas y pericias psicológicas en los procesos judiciales, mediante convenio con el Consejo General de Colegios Oficiales de Psicólogos
 2018;G;4;48;488/14001;;;Ayudas a alumnos extranjeros en centros docentes de las Fuerzas Armadas
@@ -1022,6 +1041,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;4;48;488/25004;;;Pensiones de jubilación complementaria correspondientes a personal no funcionario
 2018;G;4;48;488/26007;;;Para el pago de ayudas sociales a enfermos contaminados de VIH por tratamiento con hemoderivados por transfusiones sanguíneas y sus familiares
 2018;G;4;48;488/26107;;;A la Confederación Española de Organizaciones Empresariales (CEOE) para realizar el programa de desarrollo de liderazgo y promoción de mujeres directivas
+2018;G;4;48;488/27107;;;Actuaciones relacionadas con contratos predoctorales destinados a la investigación biomédica
 2018;G;4;48;488/60001;;;Otras prestaciones e indemnizaciones
 2018;G;4;48;488/60002;;;Otras prestaciones e indemnizaciones
 2018;G;4;48;489/12302;;;Instituciones sin fines de lucro
@@ -1358,7 +1378,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;7;74;740/18006;;;A la Universidad Nacional de Educación a Distancia (UNED)
 2018;G;7;74;740/19003;;;A la Fundación del Servicio Interconfederal de Mediación y Arbitraje (SIMA)
 2018;G;7;74;740/20012;;;Agenda Digital
-2018;G;7;74;740/23004;;;Convenio con la Fundación Biodiversidad para inversiones en equipamiento
+2018;G;7;74;740/23004;;;A la Fundación Biodiversidad, F.S.P., para inversiones en equipamiento
 2018;G;7;74;740/23010;;;Convenio con la Fundación Biodiversidad para acciones en cambio climático. Actuaciones financiadas con ingresos procedentes de subastas de derechos de emisión
 2018;G;7;74;740/23107;;;Sociedad ACUAMED, para diversas obras de mejora de infraestructuras
 2018;G;7;74;740/23110;;;Sociedad ACUAES, convenio obras de Santa Lucia y Arroyo Niebla
@@ -1390,6 +1410,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;7;74;744;;;Subvenciones de intereses por préstamos de líneas de mediación instrumentados por el ICO
 2018;G;7;74;745;;;A RED.es para formación y capacitación digital
 2018;G;7;74;746/17020;;;ADIF para inversiones red convencional
+2018;G;7;74;746/18107;;;A la Fundación Nacional del Teatro Real y del Teatro de la Zarzuela F.S.P. para inversiones en el Teatro de la Zarzuela
 2018;G;7;74;746/20012;;;A RED.es para actividades de apoyo al desarrollo de la Agenda Digital
 2018;G;7;74;746/27107;;;A Centros de Investigación Biomédica en Red (CIBER)
 2018;G;7;74;747/16101;;;Para financiar proyectos de investigación sobre seguridad vial
@@ -1416,20 +1437,22 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;7;75;750/23101;;;Compensaciones socioeconómicas a las áreas de influencia de los PPNN
 2018;G;7;75;750/23103;;;Convenios de colaboración.
 2018;G;7;75;750/23114;;;País Vasco y Navarra por costes de traspaso fuera de cupo
+2018;G;7;75;750/27011;;;A la Universidad de Las Palmas de Gran Canaria para mejorar las capacidades de investigación y los servicios de apoyo a la I+D+i en las áreas de investigación prioritaria en la Estrategia de Especialización Inteligente de Canarias
 2018;G;7;75;750/27016;;;Para actuaciones de fomento de la movilidad sostenible
 2018;G;7;75;750/27103;;;Aportación a la Fundación Parque Científico de Madrid
 2018;G;7;75;750/27303;;;Fondo para la Investigación científica y el desarrollo tecnológico
 2018;G;7;75;751/17009;;;Actuaciones relacionadas con el 1 % Cultural
 2018;G;7;75;751/17020;;;Convenio con la Comunidad Autónoma de las Illes Balears en materia de ferrocarril
 2018;G;7;75;751/17038;;;Convenio para la realización de actuaciones de la Ciudad Autónoma de Melilla
+2018;G;7;75;751/18004;;;Plan Integral de Empleo (infraestructuras educativas). Instituto de Educación Saulo Torón (Gáldar)
 2018;G;7;75;751/18011;;;Aportación institucional al Consorcio de la Ciudad Monumental, Histórico-Artística y Arqueológica de Mérida para actuaciones arqueológicas
 2018;G;7;75;751/18106;;;Para la construcción y adaptación de centros de alto rendimiento y tecnificación
 2018;G;7;75;751/20019;;;Al Laboratorio Oficial Madaríaga de la Universidad Politécnica de Madrid para actuaciones en calidad y seguridad
 2018;G;7;75;751/20101;;;Reactivación económica de las comarcas mineras del carbón
-2018;G;7;75;751/23001;;;Otras actuaciones del Departamento en materia de infraestructuras
 2018;G;7;75;751/23101;;;Programa de Investigación en Parques Nacionales. PIMA Adapta
 2018;G;7;75;751/23104;;;Acuerdo de colaboración entre la Confederación Hidrográfica del Ebro y la Universidad de Girona para la elaboración de indicadores biológicos de diatomeas y clorifilas.
 2018;G;7;75;751/23109;;;C.A. de Castilla-La Mancha, trasvase Tajo-Segura.
+2018;G;7;75;751/27011;;;A la Universidad de la Laguna para actuaciones de I+D+i en materia de Estrategia de Especialización Inteligente de Canarias
 2018;G;7;75;751/27104;;;Para actividades de investigación
 2018;G;7;75;751/32001;;;A la Comunidad Autónoma de Andalucía
 2018;G;7;75;752/17020;;;A la Comunidad Autónoma de Euskadi, por aplicación de la disposición adicional cuarta de la Ley 12/2002 y disposiciones concordantes
@@ -1438,6 +1461,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;7;75;752/20019;;;Al Instituto Nacional de Silicosis del Servicio de Salud del Principado de Asturias para actuaciones en salud y seguridad
 2018;G;7;75;752/23005;;;Convenio con la Junta de Andalucía para el aprovechamiento hidráulico del litoral mediterráneo
 2018;G;7;75;752/23008;;;Política de residuos
+2018;G;7;75;752/23010;;;Transferencia a Comunidades Autónomas para la ejecución de actuaciones enmarcadas en el PIMA ADAPTA ECOSISTEMAS. Actuaciones financiadas con ingresos procedentes de subastas de derechos de emisión.
 2018;G;7;75;752/23019;;;Sanidad de la producción agraria.
 2018;G;7;75;752/23101;;;Programa de Investigación en Parques Nacionales
 2018;G;7;75;752/23104;;;Transferencias a la Universidad de Valencia
@@ -1449,6 +1473,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;7;75;753/18011;;;Ayudas y subvenciones para financiar excavaciones arqueológicas en el exterior, dentro del plan establecido por el Instituto del Patrimonio Cultural de España
 2018;G;7;75;753/18107;;;A la Fundación Teatro de la Abadía para obras y equipamientos en la sede
 2018;G;7;75;753/23005;;;A la Comunidad Autónoma de Canarias, para financiar inversiones de depuración
+2018;G;7;75;753/23010;;;Transferencia a Comunidades Autónomas para la ejecución de actuaciones enmarcadas en el PIMA ADAPTA Residuos. Actuaciones financiadas con ingresos procedentes de subastas de derechos de emisión.
 2018;G;7;75;753/23109;;;C.A. de Extremadura, trasvase Tajo-Segura.
 2018;G;7;75;753/25004;;;A la Comunidad Autónoma de Aragón para financiar proyectos de inversión en la provincia de Teruel, incluyendo compensaciones por regularizaciones de ejercicios anteriores
 2018;G;7;75;754/18106;;;Ayudas para la actualización del Censo Nacional de Instalaciones Deportivas
@@ -1494,6 +1519,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;7;75;757/16101;;;Para financiar proyectos de investigación sobre seguridad vial
 2018;G;7;75;757/23008;;;Actuaciones del Fondo del Patrimonio Natural y la Biodiversidad
 2018;G;7;75;757/23012;;;Mejora del sector hortofruticola y cultivos industriales
+2018;G;7;75;757/32001;;;A la Comunidad Autónoma de La Rioja para financiar proyectos de inversión. Rehabilitación y reforma de IES SAGASTA de Logroño
 2018;G;7;75;758/17009;;;Organismos públicos de Comunidades Autónomas
 2018;G;7;75;758/17038;;;Convenios con Comunidades Autónomas
 2018;G;7;75;758/27107;;;Para proyectos, programa de recursos humanos y estructuras estables de investigación cooperativa
@@ -1503,50 +1529,81 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;7;75;759/33020;;;Para financiar la incorporación de remanentes de crédito de los Fondos de Compensación Interterritorial
 2018;G;7;76;;;;A Entidades Locales
 2018;G;7;76;760/17009;;;Lorca (Murcia)
+2018;G;7;76;760/17020;;;Al Cabildo de Gran Canaria para un programa de actuaciones y equipamientos para el desarrollo de nuevas actividades y favorecer la innovación empresarial en el ámbito portuario y marítimo
 2018;G;7;76;760/18011;;;A ayuntamientos, diputaciones y otros entes locales
+2018;G;7;76;760/18013;;;Al Ayuntamiento de Agüimes para la casa de la Cultura del Cruce de Arinaga
+2018;G;7;76;760/20004;;;Al Ayuntamiento de Yaiza para modernización turística del núcleo de Playa Blanca. Vía alternativa de acceso
 2018;G;7;76;760/20012;;;Agenda Digital
 2018;G;7;76;760/23005;;;Convenios con Ayuntamientos del Pirineo Aragonés para el plan de actuación en el Ciclo Integral del Agua
+2018;G;7;76;760/23008;;;Al Ayuntamiento de Tinajo para la instalación de un punto limpio
+2018;G;7;76;760/23012;;;Al Ayuntamiento de Agüimes para la construcción del Recinto Ferial y Mercado Municipal
 2018;G;7;76;760/23103;;;Convenios de colaboración.
+2018;G;7;76;760/25004;;;A las Entidades Locales, como aportación a la financiación de sus inversiones
 2018;G;7;76;760/27016;;;Para actuaciones de fomento de la movilidad sostenible
 2018;G;7;76;760/27101;;;Para gastos originados por la explotación estadística del Padrón Municipal y la actualización mensual del Censo Electoral
 2018;G;7;76;760/27303;;;Fondo para la Investigación científica y el desarrollo tecnológico
 2018;G;7;76;761/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
 2018;G;7;76;761/16102;;;Para financiar obligaciones derivadas de convenios y acuerdos con otras administraciones
+2018;G;7;76;761/17009;;;Al Ayuntamiento de Santa María de Guía para la renovación y regeneración urbana de la zona de Marente
 2018;G;7;76;761/18011;;;Ayudas a proyectos de conservación, protección y difusión de bienes declarados Patrimonio Mundial
+2018;G;7;76;761/20004;;;Al Cabildo de La Palma. Para infraestructuras y equipamientos turísticos
 2018;G;7;76;761/20012;;;Al Cabildo de Gran Canaria para el desarrollo de un programa integral para convertir a Gran Canaria en una referencia piloto para el desarrollo de la Agenda Digital Española y de las directrices de la Unión Europea sobre islas inteligentes
 2018;G;7;76;761/20019;;;A entidades locales para la recuperación de comarcas mineras no energéticas
 2018;G;7;76;761/20101;;;Reactivación económica de las comarcas mineras del carbón
+2018;G;7;76;761/27010;;;Al Ayuntamiento de Valsequillo para construir un parking y peatonalizar la zona comercial abierta del municipio
+2018;G;7;76;761/27011;;;Al Cabildo de Gran Canaria para el desarrollo de un programa experimental e integral de actividades de I+D+i ligadas a la explotación de los recursos marinos insulares
 2018;G;7;76;761/27016;;;Al Ayuntamiento de Ávila para el desarrollo del Polígono de las Hervencias
 2018;G;7;76;761/32002;;;Al Ayuntamiento de Córdoba para financiar inversiones
 2018;G;7;76;762/16001;;;A Corporaciones Locales para equipamiento e infraestructuras derivadas de la aplicación de Planes de Emergencia Nuclear
+2018;G;7;76;762/17009;;;Al Ayuntamiento de Arrecife de Lanzarote para la renovación y regeneración urbana de Tinasoria
 2018;G;7;76;762/17020;;;Convenio con el Cabildo Insular de Tenerife en materia de ferrocarril
+2018;G;7;76;762/18106;;;Al Ayuntamiento de Valsequillo para el Centro de Formación y Tecnificación Deportiva
 2018;G;7;76;762/20004;;;Planes de recualificación integral de destinos turísticos
+2018;G;7;76;762/23006;;;Al Cabildo Insular de La Palma para acondicionamiento del litoral en la Avda. Marítima S/C de la Palma y del litoral de Las Maretas en Mazo
 2018;G;7;76;762/32002;;;Al Ayuntamiento de Lorca (Murcia) para financiar obras y servicios de reparación de infraestructuras, equipamientos y servicios de titularidad local. Real Decreto-ley 6/2011
+2018;G;7;76;763/16001;;;Al Ayuntamiento de Vitoria-Gasteiz regeneración zona limítrofe antigua sede del Banco de España
+2018;G;7;76;763/17009;;;Al Ayuntamiento de Galdar para la renovación y regeneración urbana barrio de Becerril
 2018;G;7;76;763/17020;;;Convenio con el Cabildo Insular de Gran Canaria en materia de ferrocarril
 2018;G;7;76;763/17038;;;CC.LL. por asunción de competencias derivadas del cambio de titularidad de determinados tramos de carreteras estatales a vías urbanas
 2018;G;7;76;763/18013;;;"Campaña de animación a la lectura ""María Moliner"" para proyectos de animación lectora en municipios de menos de 50.000 habitantes"
+2018;G;7;76;763/23006;;;Al Ayuntamiento de la Oliva para la renovación y ampliación del paseo marítimo de Corralejo
 2018;G;7;76;764/17009;;;Actuaciones relacionadas con el 1 % Cultural
 2018;G;7;76;764/18106;;;A corporaciones locales para obras de adaptación a los reglamentos de competición estatales, obras de accesibilidad y obras en infraestructuras deportivas relacionadas con la celebración de competiciones de carácter internacional, en cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, en relación con el Real Decreto 419/1991
 2018;G;7;76;764/20001;;;Al Ayuntamiento de León para la construcción y equipamiento del Palacio de Congresos
 2018;G;7;76;764/20004;;;A la Mancomunidad de Municipios de la Costa del Sol Occidental para la puesta en marcha del Plan de Adecuación Turística de la Costa del Sol Occidental
+2018;G;7;76;764/23005;;;Al Cabildo Insular de La Palma para actuaciones en el Ciclo Integral del Agua. Balsa del Riachuelo en El Paso
+2018;G;7;76;764/23006;;;Al Ayuntamiento de Santa Lucia para actuaciones en la costa. Finalización del paseo marítimo Litoral Pozo Izquierdo
 2018;G;7;76;764/32002;;;A la Ciudad de Melilla para reparar los daños causados por el terremoto de 25 de enero de 2016
 2018;G;7;76;765/18106;;;A corporaciones locales para otras obras
 2018;G;7;76;765/18107;;;Al Consorcio de Rehabilitación de Teatros de Madrid para ayudas a la rehabilitación de teatros privados de Madrid
 2018;G;7;76;765/20004;;;Al Cabildo de Tenerife para rehabilitación de infraestructuras turísticas maduras (Puerto de la Cruz)
+2018;G;7;76;765/20019;;;A entidades locales para actuaciones en materia de energía
+2018;G;7;76;765/23005;;;Al Cabildo Insular de La Palma para actuaciones en el Ciclo Integral del Agua. Aprovechamiento de aguas de las depuradoras de Aridane para riego agrícola
+2018;G;7;76;765/23006;;;Al Ayuntamiento de Icod de los Vinos para obras de urgencia en la Playa de San Marcos
 2018;G;7;76;766/18011;;;Ayudas en concurrencia competitiva a proyectos de salvaguardia del patrimonio cultural inmaterial a entidades locales
+2018;G;7;76;766/18106;;;A entidades locales para instalaciones deportivas
 2018;G;7;76;766/18107;;;A la Fundación Teatre Lliure-Teatre Public para obras y equipamientos en la sede
+2018;G;7;76;766/20004;;;Al Ayuntamiento de Icod de Los Vinos. Paseo peatonal desde el casco urbano a la playa de San Marcos
+2018;G;7;76;766/23005;;;Al Ayuntamiento de Santa María de Guía para mejora de la red de abastecimiento de agua y ampliación de la red de saneamiento
+2018;G;7;76;766/23006;;;Al Cabildo Insular de Tenerife para la mejora del entorno de las piscinas de Mesa del Mar y el camino hacia el PRIS en el municipio de Tacoronte
 2018;G;7;76;767/17038;;;Convenio con el Cabildo Insular de La Palma para la mejora de la carretera de acceso al Instituto Astrofísico de Canarias
 2018;G;7;76;767/20004;;;Al Ayuntamiento de Mogán (Las Palmas) para rehabilitación de infraestructuras turísticas maduras
+2018;G;7;76;767/23005;;;Al Ayuntamiento de Tejeda para tratamiento de aguas residuales en diversos barrios, mediante la instalación de depuradoras
 2018;G;7;76;768/17038;;;Convenios con Entidades Locales
 2018;G;7;76;768/20004;;;Al Consorcio Urbanístico para la rehabilitación de las zonas turísticas de San Agustín, Playa del Inglés y Maspalomas para la rehabilitación de infraestructuras turísticas maduras
 2018;G;7;76;768/20012;;;A la Fundación Barcelona Mobile World Capital
+2018;G;7;76;768/23005;;;Al Ayuntamiento de Hermigua (La Gomera), para la red de trasvase entre el tomadero de Los Tiles y el depósito de La Serenita
+2018;G;7;76;768/23006;;;Al Ayuntamiento de San Sebastián para reparación voladizo y barandilla del Paseo de La Concha, entre La Perla y el Túnel del Antiguo
 2018;G;7;76;768/27107;;;Para proyectos, programa de recursos humanos y estructuras estables de investigación cooperativa
+2018;G;7;76;769/18011;;;Al Ayuntamiento de Figueres para la rehabilitación de la Casa Natal de Dalí en Gerona
+2018;G;7;76;769/20004;;;A la Diputación de Teruel para la creación de un Centro de Interpretación de la Trufa Negra
 2018;G;7;77;;;;A empresas privadas
 2018;G;7;77;770/17009;;;Actuaciones relacionadas con el 1 % Cultural
 2018;G;7;77;770/23001;;;Apoyo financiero por daños ocasionados por la sequía y otras causas extraordinarias.
 2018;G;7;77;770/23008;;;Adaptación de las líneas eléctricas aéreas de alta tensión en cumplimiento del Real Decreto 1432/2008, de 29 de agosto
 2018;G;7;77;770/23010;;;Plan de Impulso al Medio Ambiente PIMA Frío. Actuaciones financiadas con ingresos procedentes de subastas de derechos de emisión.
 2018;G;7;77;770/23012;;;Fomento de la innovación tecnológica.
+2018;G;7;77;770/27012;;;Convenio con la Universidad de Navarra para creación de Centro de investigación
 2018;G;7;77;770/27016;;;Para actuaciones de fomento de la movilidad sostenible
 2018;G;7;77;770/27303;;;Fondo para la Investigación científica y el desarrollo tecnológico
 2018;G;7;77;771/15014;;;Subvenciones a empresas localizadas en zonas de promoción económica y otras zonas acordadas por el Gobierno
@@ -1574,6 +1631,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;7;77;776/23016;;;Desarrollo tecnológico pesquero y acuícola
 2018;G;7;77;776/27302;;;Para compensar reducción de ingresos en el sistema eléctrico consecuencia de la eliminación del peaje 6.1.b
 2018;G;7;77;777/16101;;;Para financiar proyectos de investigación sobre seguridad vial
+2018;G;7;77;777/20012;;;Agenda Digital. Programa de Extensión de la Banda Ancha de Nueva Generación en Canarias
 2018;G;7;77;777/20019;;;Explotación, ordenación, productividad y seguridad minera
 2018;G;7;77;777/23018;;;Modernización de explotaciones.
 2018;G;7;77;777/27302;;;Para financiar costes del sector eléctrico de acuerdo con el apartado b) de la disposición adicional segunda de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética
@@ -1600,6 +1658,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;7;78;781/20019;;;Actuaciones de seguridad minera
 2018;G;7;78;781/23017;;;Fundación AZTI. Desarrollo de actividades de investigación en áreas relacionadas con la alimentación, la pesca y la oceanografía
 2018;G;7;78;781/26018;;;Para proyectos de investigación a desarrollar por entidades  públicas y privadas
+2018;G;7;78;781/27016;;;A CIDETEC, para equipamiento de investigación y testeo para electromovilidad y almacenamiento eléctrico
 2018;G;7;78;781/27303;;;Actuaciones relacionadas con la Red CERVERA
 2018;G;7;78;782/14107;;;Ayuda al acceso a la propiedad de vivienda
 2018;G;7;78;782/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
@@ -1608,7 +1667,6 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;7;78;782/23018;;;"Proyecto LIFE Natura 2000. ""Conecting people with biodiversity"". Sociedad Española de Ornitología/Bird life."
 2018;G;7;78;782/27010;;;Cámara Oficial de Comercio, Industria, Servicios y Navegación de España. Plan Integral de Apoyo a la Competitividad del Comercio Minorista de España
 2018;G;7;78;783;;;Consejo Superior de Colegios de Arquitectos de España. EUROPAN
-2018;G;7;78;784/18011;;;Aportaciones institucionales
 2018;G;7;78;784/18106;;;A la Real Federación Española de Fútbol para obras y equipamiento del futbol no profesional, en cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991
 2018;G;7;78;784/27301;;;A fundaciones para gastos derivados de convenios de colaboración
 2018;G;7;78;784/60002;;;A la Fundación Matia para la financiación del proyecto piloto de viviendas para mayores.
@@ -1653,7 +1711,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2018;G;7;79;796/12302;;;Para Ayuda Oficial al Desarrollo
 2018;G;7;79;796/27103;;;Aportación al Test Infrastructure Accelerator Research Area (TIARA)
 2018;G;7;79;797;;;Aportación al Proyecto BIP 3
-2018;G;7;79;798;;;Aportación al Proyecto STEAM 2
+2018;G;7;79;798;;;Aportación al Proyecto STEM2
 2018;G;7;79;799;;;Aportación al CERN para el experimento AMS
 2018;G;8;;;;;Activos financieros
 2018;G;8;80;;;;Adquisición de deuda del Sector Público
