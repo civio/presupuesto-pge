@@ -90,7 +90,7 @@ FACEBOOK_ID             = '383807661992851'
 
 # Google Analytics ID. Default: ''
 # In order to get the ID create a Google Analytics Acount in https://analytics.google.com/analytics/web/
-ANALYTICS_ID            = 'UA-28946840-31'
+ANALYTICS_ID            = 'GTM-K8SZTVW'
 
 # Setup Data Source Budget link
 DATA_SOURCE_BUDGET      = 'http://www.minhap.gob.es/es-ES/Areas%20Tematicas/Presupuestos%20Generales%20del%20Estado/Paginas/Presupuestos.aspx'
