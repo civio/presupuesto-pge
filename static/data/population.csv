@@ -1,23 +1,61 @@
 year,region_id,region_name,total
-2017,1,Andalucía,8388107
-2017,2,Aragón,1308563
-2017,3,"Asturias, Principado de",1042608
-2017,4,"Balears, Illes",1107220
-2017,5,Canarias,2101924
-2017,6,Cantabria,582206
-2017,7,Castilla y León,2447519
-2017,8,Castilla - La Mancha,2041631
-2017,9,Cataluña,7522596
-2017,10,Comunitat Valenciana,4959968
-2017,11,Extremadura,1087778
-2017,12,Galicia,2718525
-2017,13,"Madrid, Comunidad de",6466996
-2017,14,"Murcia, Región de",1464847
-2017,15,"Navarra, Comunidad Foral de",640647
-2017,16,País Vasco,2189534
-2017,17,"Rioja, La",315794
-2017,18,Ceuta,84519
-2017,19,Melilla,86026
+2019,1,Andalucía,8414240
+2019,2,Aragón,1319291
+2019,3,"Asturias, Principado de",1022800
+2019,4,"Balears, Illes",1149460
+2019,5,Canarias,2153389
+2019,6,Cantabria,581078
+2019,7,Castilla y León,2399548
+2019,8,Castilla - La Mancha,2032863
+2019,9,Cataluña,7675217
+2019,10,Comunitat Valenciana,5003769
+2019,11,Extremadura,1067710
+2019,12,Galicia,2699499
+2019,13,"Madrid, Comunidad de",6663394
+2019,14,"Murcia, Región de",1493898
+2019,15,"Navarra, Comunidad Foral de",654214
+2019,16,País Vasco,2207776
+2019,17,"Rioja, La",316798
+2019,18,Ceuta,84777
+2019,19,Melilla,86487
+2018,1,Andalucía,8384408
+2018,2,Aragón,1308728
+2018,3,"Asturias, Principado de",1028244
+2018,4,"Balears, Illes",1128908
+2018,5,Canarias,2127685
+2018,6,Cantabria,580229
+2018,7,Castilla y León,2409164
+2018,8,Castilla - La Mancha,2026807
+2018,9,Cataluña,7600065
+2018,10,Comunitat Valenciana,4963703
+2018,11,Extremadura,1072863
+2018,12,Galicia,2701743
+2018,13,"Madrid, Comunidad de",6578079
+2018,14,"Murcia, Región de",1478509
+2018,15,"Navarra, Comunidad Foral de",647554
+2018,16,País Vasco,2199088
+2018,17,"Rioja, La",315675
+2018,18,Ceuta,85144
+2018,19,Melilla,86384
+2017,1,Andalucía,8379820
+2017,2,Aragón,1308750
+2017,3,"Asturias, Principado de",1034960
+2017,4,"Balears, Illes",1115999
+2017,5,Canarias,2108121
+2017,6,Cantabria,580295
+2017,7,Castilla y León,2425801
+2017,8,Castilla - La Mancha,2031479
+2017,9,Cataluña,7555830
+2017,10,Comunitat Valenciana,4941509
+2017,11,Extremadura,1079920
+2017,12,Galicia,2708339
+2017,13,"Madrid, Comunidad de",6507184
+2017,14,"Murcia, Región de",1470273
+2017,15,"Navarra, Comunidad Foral de",643234
+2017,16,País Vasco,2194158
+2017,17,"Rioja, La",315381
+2017,18,Ceuta,84959
+2017,19,Melilla,86120
 2016,1,Andalucía,8388107
 2016,2,Aragón,1308563
 2016,3,"Asturias, Principado de",1042608

@@ -9,7 +9,7 @@
 
     <div class="container">
       <h2 class="page-title">{{ _('Los presupuestos de las Comunidades Autónomas') }}</h2>
-      <p class="lead">Te mostramos la distribución del presupuesto regional durante los años 2006 al 2017. Puedes observar tanto <a id="selectTotalAmountLink" class="actionableLink">el gasto presupuestado total</a>, como el <a id="selectPerPersonAmountLink" class="actionableLink">presupuesto por habitante</a>. También puedes ver las cantidades por área funcional, como por ejemplo <a id="selectHealthLink" class="actionableLink">Sanidad</a>, referidas a cada región o a todo el territorio nacional.</p>
+      <p class="lead">Te mostramos la distribución del presupuesto regional durante los años 2006 al 2019. Puedes observar tanto <a id="selectTotalAmountLink" class="actionableLink">el gasto presupuestado total</a>, como el <a id="selectPerPersonAmountLink" class="actionableLink">presupuesto por habitante</a>. También puedes ver las cantidades por área funcional, como por ejemplo <a id="selectHealthLink" class="actionableLink">Sanidad</a>, referidas a cada región o a todo el territorio nacional.</p>
       <p class="lead">Ten en cuenta que algunas comunidades autónomas tienen competencias que otras no tienen -pasa, por ejemplo, en Justicia, que en ocasiones está transferida y en otras no-, por lo que el gasto total no es comparable sin tener en cuenta esas diferencias.</p>
       <p class="lead">
         <small>Esta visualización es una adaptación de la realizada por <a href="http://visup.it/" target="_blank">VISup</a> para Italia.</small>
@@ -100,13 +100,13 @@
       map.changeCurrentMode(getUIState().format);
     };
 
-    initSlider('#year-selection', [2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017], 2017);
+    initSlider('#year-selection', [2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019], 2019);
     
     $('#select-format').change(onModeChange);
 
     map.start(getUIState());
 
-    setRedrawOnSliderChange('#year-selection', 2017, onYearChange);
+    setRedrawOnSliderChange('#year-selection', 2019, onYearChange);
   });
 </script>
 {% endblock %}
