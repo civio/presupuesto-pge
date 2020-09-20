@@ -1,10 +1,10 @@
 {
-  "name": "presupuesto-baleares",
+  "name": "presupuesto-pge",
   "version": "0.0.1",
   "author": "Fundación Civio",
   "repository": {
     "type": "git",
-    "url": "https://github.com/civio/presupuesto-baleares"
+    "url": "https://github.com/civio/presupuesto-pge"
   },
   "scripts": {
     "css-build": "node-sass --output-style compressed --source-map true static/stylesheets/scss/main.scss static/stylesheets/main.css",
@@ -13,9 +13,9 @@
     "start": "concurrently --kill-others \"npm run css-watch\" \"npm run browser-sync\""
   },
   "devDependencies": {
-    "browser-sync": "^2.24.7",
-    "concurrently": "^4.0.1",
-    "node-sass": "^4.9.3",
-    "nodemon": "^1.18.4"
+    "browser-sync": "^2.26.7",
+    "concurrently": "^5.1.0",
+    "node-sass": "^4.13.1",
+    "nodemon": "^2.0.1"
   }
 }
