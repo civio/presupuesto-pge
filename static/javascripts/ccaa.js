@@ -264,14 +264,13 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
 
   function updateColors() {
     var maxmin = getMaxAndMinValues(true);
-    var prop = maxmin.prop;
 
     getRegionColor = function(region, min, max) {
       var region_id = parseInt(region.properties.ID);
       if (currentYearData === undefined ) return 0;
       if (currentYearData[region_id] != null) {
-          _selectedPolicyID != null && currentYearData[region_id][_selectedPolicyID] == null && (currentYearData[region_id][_selectedPolicyID] = [], currentYearData[region_id][_selectedPolicyID][prop] = 0, min = 0);
-          var k = _selectedPolicyID == null ? currentYearData[region_id][prop] : currentYearData[region_id][_selectedPolicyID][prop];
+          _selectedPolicyID != null && currentYearData[region_id][_selectedPolicyID] == null && (currentYearData[region_id][_selectedPolicyID] = [], currentYearData[region_id][_selectedPolicyID][maxmin.prop] = 0, min = 0);
+          var k = _selectedPolicyID == null ? currentYearData[region_id][maxmin.prop] : currentYearData[region_id][_selectedPolicyID][maxmin.prop];
       }
       var interp = d3.interpolateRgb(d3.rgb(254, 217, 118), d3.rgb(227, 26, 28));
       return interp((k - min) / (max - min));
@@ -508,12 +507,12 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
       d3.entries(data).forEach(function(item) {
         if (item.key >= availableYears[0] && item.key <= availableYears[availableYears.length - 1]) {
           var b = d3.entries(item.value);
-          max_tmp.push( d3.max(b, function(a) {return getValue(a)}) );
-          min_tmp.push( d3.min(b, function(a) {return getValue(a)}) );
+          max_tmp.push( d3.max(b, getValue) );
+          min_tmp.push( d3.min(b, getValue) );
         }
       });
       max = d3.max(max_tmp, function(a) {return a});
-      min = d3.max(min_tmp, function(a) {return a});  // XXXX????
+      min = d3.max(min_tmp, function(a) {return a});  // XXXX: max????
 
     } else {
       var d = d3.entries(currentYearData);
