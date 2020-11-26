@@ -18,7 +18,6 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
   var currentMode,
       currentYear,
       currentYearData = null,
-      _useAbsoluteValues = true,
       prevItemRegion = null,
       regOverColor = null,
       _selectedPolicyID = null,
@@ -264,7 +263,7 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
   };
 
   function updateColors() {
-    var maxmin = getMaxAndMinValues();
+    var maxmin = getMaxAndMinValues(true);
     var prop = maxmin.prop;
 
     getRegionColor = function(region, min, max) {
@@ -299,8 +298,6 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
     var a = regSelected;
     var b = regSelected == null ? balanceByYearByType[currentYear] : balanceByYearByRegionByType[currentYear][a];
     var c = d3.entries(b);
-    var d = d3.max(c, function(a) {return a.value.amount});
-    var e = d3.min(c, function(a) {return a.value.amount});
     var f = [];
     f.data = [];
     f.byYear = [];
@@ -322,8 +319,6 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
       
     var i = d3.max(f.data, function(a) {return a});
     j = d3.min(g.data, function(a) {return a});
-    k = _useAbsoluteValues ? i : d,
-    l = _useAbsoluteValues ? j : e,
     m = c.sort(function(a, b) {
       if (a.value.policy_label == null || b.value.policy_label == null) return 0;
       var c = a.value.policy_label.toLowerCase(),
@@ -361,7 +356,7 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
       .style("background-color", function(a) {return a.value.policy_id == _selectedPolicyID ? "#111" : "#cccccc"})
       .transition(300)
       .call(function(a) {
-        var b = function(a) {return Math.max(1, (a.value.amount - l) / k * 100)};
+        var b = function(a) {return Math.max(1, (a.value.amount - j) / i * 100)};
         a.style("width", function(a) {return b(a) + "px"});
         a.style("left", function(a) {return -5 - b(a) + "px"})
       });
@@ -496,45 +491,41 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
     return total;
   }
 
-  function getMaxAndMinValues(a) {
-    var c = currentYearData = (_selectedPolicyID == null) ? balanceByYearAndByRegion[currentYear] : balanceByYearByRegionByType[currentYear];
-    var d = d3.entries(c);
-    var e = currentMode;
-    var f = e == MODE_PER_PERSON ? "valuePerPerson" : "amount";
-    var g = function(a) {
-      _selectedPolicyID != null && a.value[_selectedPolicyID] == null && (a.value[_selectedPolicyID] = [], a.value[_selectedPolicyID][f] = 0);
-      return _selectedPolicyID == null ? a.value[f] : a.value[_selectedPolicyID][f]
+  function getMaxAndMinValues(useAbsoluteValues) {
+    var data = _selectedPolicyID == null ? balanceByYearAndByRegion : balanceByYearByRegionByType;
+    currentYearData = data[currentYear];
+    var propName = (currentMode == MODE_PER_PERSON) ? "valuePerPerson" : "amount";
+    var max, min;
+    var getValue = function(a) {
+      return _selectedPolicyID == null ?
+                a.value[propName] :
+                a.value[_selectedPolicyID] ? a.value[_selectedPolicyID][propName] : 0;
     };
-    var h = _selectedPolicyID == null ? balanceByYearAndByRegion : balanceByYearByRegionByType;
-    var i = d3.entries(h);
-    var j = [];
-    j.data = [];
-    j.byYear = [];
-    var k = [];
-    k.data = []; 
-    k.byYear = [];
-    var l = 0;
-    var m = 0;
-      
-    i.forEach(function(a) {
-      if (a.key >= availableYears[0] && a.key <= availableYears[availableYears.length - 1]) {
-        var b = d3.entries(a.value);
-        var c = d3.max(b, function(a) {return g(a)});
-        j.data.push(c), j.byYear[a.key] = j.data.length - 1;
-        var d = d3.min(b, function(a) {return g(a)});
-        k.data.push(d), k.byYear[a.key] = k.data.length - 1
-      }
-    });
-    
-    l = d3.max(j.data, function(a) {return a});
-    m = d3.max(k.data, function(a) {return a});
-      
-    var n = d3.max(d, function(a) {return g(a)});
-    var o = d3.min(d, function(a) {return g(a)});
-    var p = a == null ? _useAbsoluteValues : a;
-    var q = p ? l : n;
-    var r = p ? m : o;
-    return {curMax: q, curMin: r, prop: f}
+
+    if ( useAbsoluteValues ) {
+      var max_tmp = [];
+      var min_tmp = [];
+      d3.entries(data).forEach(function(item) {
+        if (item.key >= availableYears[0] && item.key <= availableYears[availableYears.length - 1]) {
+          var b = d3.entries(item.value);
+          max_tmp.push( d3.max(b, function(a) {return getValue(a)}) );
+          min_tmp.push( d3.min(b, function(a) {return getValue(a)}) );
+        }
+      });
+      max = d3.max(max_tmp, function(a) {return a});
+      min = d3.max(min_tmp, function(a) {return a});  // XXXX????
+
+    } else {
+      var d = d3.entries(currentYearData);
+      max = d3.max(d, getValue);
+      min = d3.min(d, getValue);
+    }
+
+    return {
+      curMax: max,
+      curMin: min,
+      prop: propName
+    }
   }
 
   // Cálculo para YR y YRT por persona teniendo en cuenta presupuesto total y población asociada
