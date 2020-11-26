@@ -17,7 +17,7 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
 
   var currentMode,
       currentYear,
-      curRegDataset = null,
+      currentYearData = null,
       _useAbsoluteValues = true,
       prevItemRegion = null,
       regOverColor = null,
@@ -25,8 +25,7 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
       _clickedPolicy = null,
       regSelected = null,
       _selectedRegion = null,
-      _overRegion = null,
-      width;
+      _overRegion = null;
 
 
   // Entrada principal a la ejecución del script
@@ -149,9 +148,7 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
   };
 
   function resize() {
-    if (width == $('#map').width()) return;
-
-    width = $('#map').width();
+    var width = $('#map').width();
 
     projection
       .translate([.742*width, 2.9*width])
@@ -214,9 +211,9 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
     })
   };
 
-  this.changeYear = function(a) {
-    if (currentYear != a) {
-      currentYear = a;
+  this.changeYear = function(year) {
+    if (currentYear != year) {
+      currentYear = year;
       this.update();
     }
   };
@@ -267,38 +264,34 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
   };
 
   function updateColors() {
-    var a = getMaxAndMinValues();
-    var b = a.curMax;
-    var c = a.curMin;
-    var d = a.prop;
-    var e = curRegDataset;
-    getRegionColor = function(a, b, c, f, g) {
-      var h = parseInt(a.properties.ID);
-      var j = e;
-      if (j === undefined ) return 0 
-      if (j[h] != null) {
-          _selectedPolicyID != null && j[h][_selectedPolicyID] == null && (j[h][_selectedPolicyID] = [], j[h][_selectedPolicyID][d] = 0, c = 0);
-          var k = _selectedPolicyID == null ? j[h][d] : j[h][_selectedPolicyID][d];
-          var l = k - c;
+    var maxmin = getMaxAndMinValues();
+    var prop = maxmin.prop;
+
+    getRegionColor = function(region, min, max) {
+      var region_id = parseInt(region.properties.ID);
+      if (currentYearData === undefined ) return 0;
+      if (currentYearData[region_id] != null) {
+          _selectedPolicyID != null && currentYearData[region_id][_selectedPolicyID] == null && (currentYearData[region_id][_selectedPolicyID] = [], currentYearData[region_id][_selectedPolicyID][prop] = 0, min = 0);
+          var k = _selectedPolicyID == null ? currentYearData[region_id][prop] : currentYearData[region_id][_selectedPolicyID][prop];
       }
-      //if (_selectedRegion != null && g == false && _selectedRegion.properties.ID == h) return "#000000";
-      //if (_overRegion != null && _overRegion.properties.ID == h && g == false) return "#666";
       var interp = d3.interpolateRgb(d3.rgb(254, 217, 118), d3.rgb(227, 26, 28));
-      return interp(l / (f - c));
+      return interp((k - min) / (max - min));
     };
       
-    var f = d3.selectAll("#states path");
+    var states = d3.selectAll("#states path");
     if (_overRegion != null || prevItemRegion || _selectedRegion) {
-        var g = _selectedRegion == null ? prevItemRegion == null ? _overRegion.properties.ID : prevItemRegion : _selectedRegion.properties.ID;
-        f = d3.select("#states path.region_" + g)
+        var region_id = _selectedRegion == null ?
+                    prevItemRegion == null ? _overRegion.properties.ID : prevItemRegion :
+                    _selectedRegion.properties.ID;
+        states = d3.select("#states path.region_" + region_id)
     }
-    _overRegion != null && _selectedRegion == null && (regOverColor = getRegionColor(_overRegion, _overRegion.properties.ID, c, b, true));
-    _selectedRegion != null && (regOverColor = getRegionColor(_selectedRegion, _selectedRegion.properties.ID, c, b, true));
+    _overRegion != null && _selectedRegion == null && (regOverColor = getRegionColor(_overRegion, maxmin.curMin, maxmin.curMax));
+    _selectedRegion != null && (regOverColor = getRegionColor(_selectedRegion, maxmin.curMin, maxmin.curMax));
     
-    f.transition(300).style("fill", function(a, d) {
-      return getRegionColor(a, d, c, b, false)
+    states.transition(300).style("fill", function(region, d) {
+      return getRegionColor(region, maxmin.curMin, maxmin.curMax)
     });
-    prevItemRegion != null ? prevItemRegion = null : prevItemRegion = g;
+    prevItemRegion = (prevItemRegion != null ? null : region_id);
   }
 
   /** BARCHART **/
@@ -414,8 +407,8 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
   }
 
   function showRegionInfo(region) {
-    if (curRegDataset[region] != null) {
-      var value = _selectedPolicyID == null ? curRegDataset[region] : curRegDataset[region][_selectedPolicyID];
+    if (currentYearData[region] != null) {
+      var value = _selectedPolicyID == null ? currentYearData[region] : currentYearData[region][_selectedPolicyID];
       var maxmin = getMaxAndMinValues(false);
       var max = maxmin.curMax;
       var min = maxmin.curMin;
@@ -495,7 +488,7 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
 
   function getTotalCountryAmount() {
     var total = 0;
-    d3.entries(curRegDataset).forEach(function(region_id) {
+    d3.entries(currentYearData).forEach(function(region_id) {
       total += _selectedPolicyID ? 
                   region_id.value[_selectedPolicyID].amount || 0 : 
                   region_id.value.amount || 0
@@ -504,7 +497,7 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
   }
 
   function getMaxAndMinValues(a) {
-    var c = curRegDataset = (_selectedPolicyID == null) ? balanceByYearAndByRegion[currentYear] : balanceByYearByRegionByType[currentYear];
+    var c = currentYearData = (_selectedPolicyID == null) ? balanceByYearAndByRegion[currentYear] : balanceByYearByRegionByType[currentYear];
     var d = d3.entries(c);
     var e = currentMode;
     var f = e == MODE_PER_PERSON ? "valuePerPerson" : "amount";
