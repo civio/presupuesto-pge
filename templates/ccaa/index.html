@@ -85,9 +85,11 @@
     /** INTRO TEXT CONTROLS **/
     $("#selectTotalAmountLink").click(function() {
       map.selectTotalAmount();
+      $('#select-format').val('TOTAL');
     });
     $("#selectPerPersonAmountLink").click(function() {
       map.selectPerPerson();
+      $('#select-format').val('PER PERSON');
     });
     $("#selectHealthLink").click(function() {
       map.selectPolicy(31);
