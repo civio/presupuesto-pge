@@ -181,13 +181,13 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;19101;000X;410/19101;;01;Jefatura Central de Tráfico (Ministerio del Interior);216480
 2021;19101;000X;410/19101;;03;Instituto de la Cinematografía y de las Artes Audiovisuales (Ministerio de Cultura y Deporte);149820
 2021;19101;000X;410/19101;;04;Instituto Nacional de las Artes Escénicas y de la Música (Ministerio de Cultura y Deporte);105870
-2021;19101;000X;410/19101;;05;Instituto de la Juventud (Ministerio de Sanidad, Consumo y Bienestar Social);1000000
-2021;19101;000X;410/19101;;08;Consejo de Administración del Patrimonio Nacional (Ministerio de Presidencia, Relaciones con las Cortes e Igualdad);1400000
-2021;19101;000X;411/19101;;;Reserva de gestión directa Servicio Público de Empleo Estatal. Servicios y programas de políticas activas de empleo. Oportunidades de empleo y formación. Consejo de Administración del Patrimonio Nacional (Ministerio de la Presidencia, Relaciones con las Cortes e Igualdad) (EJE 2);8000000
+2021;19101;000X;410/19101;;05;Instituto de la Juventud (Ministerio de Derechos Sociales y Agenda 2030);1000000
+2021;19101;000X;410/19101;;08;Consejo de Administración del Patrimonio Nacional (Ministerio de Presidencia, Relaciones con las Cortes y Memoria Democrática);1400000
+2021;19101;000X;411/19101;;;Reserva de gestión directa Servicio Público de Empleo Estatal. Servicios y programas de políticas activas de empleo. Oportunidades de empleo y formación. Consejo de Administración del Patrimonio Nacional (Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática) (EJE 2);8000000
 2021;19101;000X;415/19101;;;Al Instituto Nacional de Administración Pública, para la formación del personal al servicio de las Administraciones Públicas (EJE 2);65488530
 2021;19101;000X;43;;;A otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;1896790
 2021;19101;000X;430/19101;;;Servicios y programas de políticas activas de empleo a desarrollar en el exterior. Oportunidades de empleo y formación. A la Agencia Española de Cooperación Internacional para el Desarrollo (AECID) (EJE 2);1614700
-2021;19101;000X;431/19101;;;Reserva de gestión directa Servicio Público de Empleo Estatal. Consejo Superior de Investigaciones Científicas (Ministerio de Ciencia, Innovación y Universidades) Oportunidades de empleo para desempleados en obras y servicios de interés general y social (EJE 3);282090
+2021;19101;000X;431/19101;;;Reserva de gestión directa Servicio Público de Empleo Estatal. Consejo Superior de Investigaciones Científicas (Ministerio de Ciencia e Innovación) Oportunidades de empleo para desempleados en obras y servicios de interés general y social (EJE 3);282090
 2021;19102;000X;4;;;TRANSFERENCIAS CORRIENTES;21570
 2021;19102;000X;40;;;A la Administración del Estado;21570
 2021;19102;000X;402;;;Al Estado, para compensar gastos de gestión centralizada;21570
@@ -212,10 +212,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;20104;000X;4;;;TRANSFERENCIAS CORRIENTES;100000
 2021;20104;000X;40;;;A la Administración del Estado;100000
 2021;20104;000X;403/20104;;;Contribución al sostenimiento de los gastos derivados de la integración de las Consejerías de Turismo en las Representaciones de España en el Exterior;100000
-2021;21001;000X;4;;;TRANSFERENCIAS CORRIENTES;255754750
-2021;21001;000X;41;;;A Organismos Autónomos;255754750
-2021;21001;000X;414/21001;;;Entidad Estatal de Seguros Agrarios (ENESA);255754750
-2021;21001;000X;414/21001;;00;Para subvenciones del Plan Anual de Seguros Agrarios y liquidación de planes anteriores;251267560
+2021;21001;000X;4;;;TRANSFERENCIAS CORRIENTES;258254750
+2021;21001;000X;41;;;A Organismos Autónomos;258254750
+2021;21001;000X;414/21001;;;Entidad Estatal de Seguros Agrarios (ENESA);258254750
+2021;21001;000X;414/21001;;00;Para subvenciones del Plan Anual de Seguros Agrarios y liquidación de planes anteriores;253767560
 2021;21001;000X;414/21001;;01;Para gastos de funcionamiento y otras subvenciones;4487190
 2021;21001;000X;7;;;TRANSFERENCIAS DE CAPITAL;684370
 2021;21001;000X;71;;;A Organismos Autónomos;684370
@@ -263,11 +263,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;23003;000X;71;;;A Organismos Autónomos;60821810
 2021;23003;000X;712/23003;;;Al Instituto para la Transición Justa;60821810
 2021;23003;000X;73;;;A otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;3597848720
+2021;23003;000X;733;;;Al CSIC (CENIM) para planta piloto hidrometalúrgica de recuperación de críticos a partir de residuos de minería y RAEEs en el Centro de Investigaciones Metalúrgicas;1000000
 2021;23003;000X;734;;;A la CNMC para compensar en el sistema eléctrico la reducción de ingresos consecuencia de las medidas del art. 42 del RDL 11/2020;172000000
 2021;23003;000X;735/23003;;;A la CNMC para compensar en el sistema gasista la reducción de ingresos consecuencia de las medidas del art. 43 del RDL 11/2020;30670000
 2021;23003;000X;736;;;A la CNMC para compensar reducción de ingresos en el sistema eléctrico consecuencia de la eliminación del peaje 6.1.b);22372500
 2021;23003;000X;737/23003;;;A la CNMC para financiar costes del sector eléctrico de acuerdo con el apartado b) de la disposición adicional segunda de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética;1100000000
-2021;23003;000X;738/23003;;;A la CNMC para financiar costes del sector eléctrico de acuerdo con el apartado a) de la disposición adicional segunda de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética;1783000000
+2021;23003;000X;738/23003;;;A la CNMC para financiar costes del sector eléctrico de acuerdo con el apartado a) de la disposición adicional segunda de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética;1782000000
 2021;23003;000X;739/23003;;;A la CNMC para atender el extracoste de generación al que se refiere la disposición adicional decimoquinta de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico;489806220
 2021;23004;000X;4;;;TRANSFERENCIAS CORRIENTES;24840640
 2021;23004;000X;43;;;A otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;24840640
@@ -297,11 +298,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;23005;000X;411/23005;;07;Confederación Hidrográfica del Cantabrico para el pago del IBI de bienes de titularidad estatal;17600
 2021;23005;000X;411/23005;;08;Confederación Hidrográfica del Tajo para el pago del IBI de bienes de titularidad estatal;4500000
 2021;23005;000X;417/23005;;;Al CEDEX para I+D en recursos e infraestructuras hidráulicas;3000000
-2021;23005;000X;7;;;TRANSFERENCIAS DE CAPITAL;107750000
-2021;23005;000X;71;;;A Organismos Autónomos;107750000
-2021;23005;000X;710/23005;;;Confederaciones Hidrográficas;107750000
+2021;23005;000X;7;;;TRANSFERENCIAS DE CAPITAL;108024000
+2021;23005;000X;71;;;A Organismos Autónomos;108024000
+2021;23005;000X;710/23005;;;Confederaciones Hidrográficas;108024000
 2021;23005;000X;710/23005;;00;Confederación Hidrográfica del Duero;8500000
-2021;23005;000X;710/23005;;01;Confederación Hidrográfica del Ebro;4000000
+2021;23005;000X;710/23005;;01;Confederación Hidrográfica del Ebro;4274000
 2021;23005;000X;710/23005;;02;Confederación Hidrográfica del Guadalquivir;11000000
 2021;23005;000X;710/23005;;03;Confederación Hidrográfica del Guadiana;18750000
 2021;23005;000X;710/23005;;04;Confederación Hidrográfica del Júcar;12500000
@@ -355,14 +356,14 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;23302;000X;4;;;TRANSFERENCIAS CORRIENTES;968310
 2021;23302;000X;40;;;A la Administración del Estado;968310
 2021;23302;000X;402;;;Al Estado, para compensar gastos de gestión centralizada;968310
-2021;24001;000X;4;;;TRANSFERENCIAS CORRIENTES;416392220
-2021;24001;000X;41;;;A Organismos Autónomos;363067750
+2021;24001;000X;4;;;TRANSFERENCIAS CORRIENTES;416397220
+2021;24001;000X;41;;;A Organismos Autónomos;363072750
 2021;24001;000X;410/24001;;;Al Consejo Superior de Deportes;78018720
 2021;24001;000X;411/24001;;;Al Consejo Superior de Deportes para el cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego, en relación con el Real Decreto 419/1991, de 27 de marzo, por el que se regula la distribución de la recaudación y premios de las apuestas deportivas del Estado;47725000
 2021;24001;000X;412/24001;;;A la Biblioteca Nacional de España;22880320
 2021;24001;000X;414/24001;;;Al Instituto de la Cinematografía y de las Artes Audiovisuales;8200230
 2021;24001;000X;415/24001;;;Al Instituto de la Cinematografía y de las Artes Audiovisuales. Dotación del Fondo de Protección a la Cinematografía;65000000
-2021;24001;000X;416/24001;;;Al Instituto Nacional de las Artes Escénicas y de la Música;134753990
+2021;24001;000X;416/24001;;;Al Instituto Nacional de las Artes Escénicas y de la Música;134758990
 2021;24001;000X;417/24001;;;A la Gerencia de Infraestructuras y Equipamientos de Cultura;6489490
 2021;24001;000X;43;;;A otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;53324470
 2021;24001;000X;430/24001;;;A la Agencia Española de Protección de la Salud en el Deporte;8668210
@@ -486,8 +487,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;28006;000X;430/28006;;09;Al CSIC, para la coordinación de la participación en SKA-ESPAÑA;250000
 2021;28006;000X;430/28006;;10;Al CSIC, para la coordinación de la participación en INSTRUCT-ESPAÑA;250000
 2021;28006;000X;431/28006;;;A la Agencia Estatal de Investigación (AEI);29804940
-2021;28006;000X;7;;;TRANSFERENCIAS DE CAPITAL;755194470
-2021;28006;000X;71;;;A Organismos Autónomos;84022540
+2021;28006;000X;7;;;TRANSFERENCIAS DE CAPITAL;755394470
+2021;28006;000X;71;;;A Organismos Autónomos;84222540
 2021;28006;000X;710/28006;;;Al Instituto Geológico y Minero de España (IGME);1383000
 2021;28006;000X;711/28006;;;Al Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT);25189270
 2021;28006;000X;711/28006;;00;Al CIEMAT;24139270
@@ -497,8 +498,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;28006;000X;712/28006;;00;Al IEO;18547330
 2021;28006;000X;712/28006;;01;Al IEO para inversiones de la flota de investigación oceanográfica;94500
 2021;28006;000X;713/28006;;;Al Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA);3500000
-2021;28006;000X;714/28006;;;Al Instituto de Salud Carlos III (ISCIII);35308440
-2021;28006;000X;714/28006;;01;Al ISCIII;34808440
+2021;28006;000X;714/28006;;;Al Instituto de Salud Carlos III (ISCIII);35508440
+2021;28006;000X;714/28006;;01;Al ISCIII;35008440
 2021;28006;000X;714/28006;;02;Al ISCIII para financiar contratos predoctorales destinados a la investigación biomédica;500000
 2021;28006;000X;73;;;A otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;671171930
 2021;28006;000X;730/28006;;;Al Consejo Superior de Investigaciones Científicas (CSIC);91962340
@@ -514,7 +515,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;28050;000X;71;;;A Organismos Autónomos;150560000
 2021;28050;000X;710/28050;;;Al Instituto Geológico y Minero de España (IGME). Mecanismo de Recuperación y Resiliencia;3960000
 2021;28050;000X;711/28050;;;Al Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT). Mecanismo de Recuperación y Resiliencia;15900000
-2021;28050;000X;713/28050;;;Al Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA).Mecanismo de Recuperación y Resiliencia;17200000
+2021;28050;000X;713/28050;;;Al Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA). Mecanismo de Recuperación y Resiliencia;17200000
 2021;28050;000X;714/28050;;;Al Instituto de Salud Carlos III (ISCIII). Mecanismo de Recuperación y Resiliencia;113500000
 2021;28050;000X;73;;;A otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;288075000
 2021;28050;000X;730/28050;;;Al Consejo Superior de Investigaciones Científicas (CSIC). Mecanismo de Recuperación y Resiliencia;147575000
@@ -584,10 +585,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;29003;000X;729/29003;;;Al IMSERSO para otros gastos en dependencia;4405000
 2021;30002;000X;4;;;TRANSFERENCIAS CORRIENTES;12169490
 2021;30002;000X;41;;;A Organismos Autónomos;12169490
-2021;30002;000X;416/30002;;;Al Instituto de la Mujer y para la Igualdad de Oportunidades, para el cumplimiento de sus fines;12169490
+2021;30002;000X;416/30002;;;Al Instituto de las Mujeres, para el cumplimiento de sus fines;12169490
 2021;30002;000X;7;;;TRANSFERENCIAS DE CAPITAL;365000
 2021;30002;000X;71;;;A Organismos Autónomos;365000
-2021;30002;000X;716/30002;;;Al Instituto de la Mujer y para la Igualdad de Oportunidades;365000
+2021;30002;000X;716/30002;;;Al Instituto de las Mujeres.;365000
 2021;31003;000X;4;;;TRANSFERENCIAS CORRIENTES;10079790
 2021;31003;000X;41;;;A Organismos Autónomos;10079790
 2021;31003;000X;411/31003;;;A la Agencia Española de Seguridad Alimentaria y Nutrición;10079790
@@ -4310,8 +4311,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;12004;142A;498/12004;;67;Protocolo de Nagoya sobre acceso a los recursos genéticos;375230
 2021;12004;142A;498/12004;;68;Tratado sobre Comercio de Armas;59590
 2021;12004;142A;499/12004;;;Participación en Organismos Internacionales. Contribuciones voluntarias;39185760
-2021;12004;142A;499/12004;;00;Contribuciones voluntarias en el ámbito político;39045760
+2021;12004;142A;499/12004;;00;Contribuciones voluntarias en el ámbito político;35045760
 2021;12004;142A;499/12004;;01;Contribuciones voluntarias en el ámbito de la seguridad, no proliferación y desarme;140000
+2021;12004;142A;499/12004;;02;Contribuciones voluntarias para proyectos de ayuda humanitaria para refugiados y asilados;4000000
 2021;12005;142A;1;;;GASTOS DE PERSONAL;2341710
 2021;12005;142A;10;;;Altos cargos;196590
 2021;12005;142A;100;;;Retribuciones básicas y otras remuneraciones;196590
@@ -6109,11 +6111,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;29003;231F;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;275000
 2021;29003;231F;160;;;Cuotas sociales;275000
 2021;29003;231F;160;;00;Seguridad Social;275000
-2021;29003;231F;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;807490
-2021;29003;231F;22;;;Material, suministros y otros;732960
-2021;29003;231F;226;;;Gastos diversos;652960
+2021;29003;231F;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;757490
+2021;29003;231F;22;;;Material, suministros y otros;682960
+2021;29003;231F;226;;;Gastos diversos;602960
 2021;29003;231F;226;;01;Atenciones protocolarias y representativas;11800
-2021;29003;231F;226;;02;Publicidad y propaganda;626160
+2021;29003;231F;226;;02;Publicidad y propaganda;576160
 2021;29003;231F;226;;06;Reuniones, conferencias y cursos;10000
 2021;29003;231F;226;;99;Otros;5000
 2021;29003;231F;227;;;Trabajos realizados por otras empresas y profesionales;80000
@@ -6357,11 +6359,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;29004;231G;23;;;Indemnizaciones por razón del servicio;23220
 2021;29004;231G;230;;;Dietas;11610
 2021;29004;231G;231;;;Locomoción;11610
-2021;29004;231G;4;;;TRANSFERENCIAS CORRIENTES;27760000
+2021;29004;231G;4;;;TRANSFERENCIAS CORRIENTES;27810000
 2021;29004;231G;45;;;A Comunidades Autónomas;27700000
 2021;29004;231G;450/29004;;;Para la concesión directa de subvenciones a las CCAA y las ciudades de Ceuta y Melilla para la atención a niños, niñas y adolescentes migrantes no acompañados;27700000
-2021;29004;231G;48;;;A familias e instituciones sin fines de lucro;60000
+2021;29004;231G;48;;;A familias e instituciones sin fines de lucro;110000
 2021;29004;231G;481/29004;;;A la Federación Interautonómica de ECAIS (FIDECAI);60000
+2021;29004;231G;482/29004;;;UNES UNIÓ ESPORTIVA Escola AFA;50000
 2021;29005;231G;1;;;GASTOS DE PERSONAL;791660
 2021;29005;231G;12;;;Funcionarios;649270
 2021;29005;231G;120;;;Retribuciones básicas;307120
@@ -7257,16 +7260,16 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;19101;240A;482/19101;;90;Reserva de gestión directa Servicio Público de Empleo Estatal. Inversión-PAES (I): Empleo joven-tándem. Mecanismo de Recuperación y Resiliencia;40000000
 2021;19101;240A;482/19101;;95;Reserva de gestión directa Servicio Público de Empleo Estatal. Inversión-PAES (II): Empleo joven. Primeras experiencias profesionales en las Administraciones Públicas. Mecanismo de Recuperación y Resiliencia;44000000
 2021;19101;240A;482/19101;;96;Reserva de gestión directa Servicio Público de Empleo Estatal. Inversión-PAES (III): Empleo joven. Programa de investigación. Mecanismo de Recuperación y Resiliencia;35000000
-2021;19101;240A;6;;;INVERSIONES REALES;14800000
-2021;19101;240A;68;;;Inversiones reales: Mecanismo de Recuperación y Resiliencia;14800000
-2021;19101;240A;680;;;Inversión nueva en infraestructuras y bienes destinados al uso general. Mecanismo de Recuperación y Resiliencia;1800000
-2021;19101;240A;680;;01;Otras;1800000
+2021;19101;240A;6;;;INVERSIONES REALES;17800000
+2021;19101;240A;68;;;Inversiones reales: Mecanismo de Recuperación y Resiliencia;17800000
+2021;19101;240A;680;;;Inversión nueva en infraestructuras y bienes destinados al uso general. Mecanismo de Recuperación y Resiliencia;4800000
+2021;19101;240A;680;;01;Otras;4800000
 2021;19101;240A;682;;;Inversión nueva asociada al funcionamiento operativo de los servicios. Mecanismo de Recuperación y Resiliencia;7000000
 2021;19101;240A;683;;;Inversión de reposición asociada al funcionamiento operativo de los servicios. Mecanismo de Recuperación y Resiliencia;6000000
-2021;19101;240A;7;;;TRANSFERENCIAS DE CAPITAL;31200000
-2021;19101;240A;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;21000000
-2021;19101;240A;744/19101;;;A FUNDAE. Desarrollo de espacios, plataformas app y app de recursos formativos para la extensión del sistema de formación profesional para el empleo. Mecanismo de Recuperación y Resiliencia;16000000
-2021;19101;240A;745/19101;;;A FUNDAE. Mejora de ciberseguridad, nuevas formas de trabajo y detección de riesgos. Mecanismo de Recuperación y Resiliencia;3000000
+2021;19101;240A;7;;;TRANSFERENCIAS DE CAPITAL;28200000
+2021;19101;240A;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;18000000
+2021;19101;240A;744/19101;;;A FUNDAE. Desarrollo de espacios, plataformas app y app de recursos formativos para la extensión del sistema de formación profesional para el empleo. Mecanismo de Recuperación y Resiliencia;15000000
+2021;19101;240A;745/19101;;;A FUNDAE. Mejora de ciberseguridad, nuevas formas de trabajo y detección de riesgos. Mecanismo de Recuperación y Resiliencia;1000000
 2021;19101;240A;746/19101;;;A FUNDAE. Plataforma para autónomos y de la Economía Social. Mecanismo de Recuperación y Resiliencia;2000000
 2021;19101;240A;75;;;A Comunidades Autónomas;10200000
 2021;19101;240A;754/19101;;;A Comunidades Autónomas, Centros de Orientación y Emprendimiento. Mecanismo de Recuperación y Resliencia;10200000
@@ -7449,8 +7452,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;18005;241B;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;639260
 2021;18005;241B;160;;;Cuotas sociales;639260
 2021;18005;241B;160;;00;Seguridad Social;639260
-2021;18005;241B;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;11504910
-2021;18005;241B;22;;;Material, suministros y otros;10510680
+2021;18005;241B;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;10504910
+2021;18005;241B;22;;;Material, suministros y otros;9510680
 2021;18005;241B;220;;;Material de oficina;19930
 2021;18005;241B;220;;00;Ordinario no inventariable;6220
 2021;18005;241B;220;;01;Prensa, revistas, libros y otras publicaciones;7490
@@ -7461,8 +7464,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;18005;241B;226;;;Gastos diversos;2684480
 2021;18005;241B;226;;02;Publicidad y propaganda;872000
 2021;18005;241B;226;;06;Reuniones, conferencias y cursos;1812480
-2021;18005;241B;227;;;Trabajos realizados por otras empresas y profesionales;4244200
-2021;18005;241B;227;;06;Estudios y trabajos técnicos;4244200
+2021;18005;241B;227;;;Trabajos realizados por otras empresas y profesionales;3244200
+2021;18005;241B;227;;06;Estudios y trabajos técnicos;3244200
 2021;18005;241B;229/18005;;;Gastos de funcionamiento de los centros docentes no universitarios;3424730
 2021;18005;241B;229/18005;;00;Funcionamiento ordinario-gastos corrientes;2416640
 2021;18005;241B;229/18005;;01;Acciones de calidad en Formación Profesional;233120
@@ -7475,16 +7478,18 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;18005;241B;233;;;Otras indemnizaciones;341720
 2021;18005;241B;24;;;Gastos de publicaciones;125000
 2021;18005;241B;240;;;Gastos de edición y distribución;125000
-2021;18005;241B;4;;;TRANSFERENCIAS CORRIENTES;905920410
+2021;18005;241B;4;;;TRANSFERENCIAS CORRIENTES;906920410
 2021;18005;241B;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;4471770
 2021;18005;241B;442/18005;;;Reserva de gestión directa. Trabajo Penitenciario y Formación para el Empleo. Para cuotas de seguros de accidentes de alumnos, becas y/o ayudas a alumnos y subvenciones a centros y entidades de formación profesional para el empleo a parados;4471770
-2021;18005;241B;45;;;A Comunidades Autónomas;768354410
-2021;18005;241B;458/18005;;;Gestión por las comunidades autónomas de iniciativas del sistema de formación profesional para el empleo;768354410
-2021;18005;241B;458/18005;;01;Iniciativas de oferta formativa para trabajadores desempleados;549735070
+2021;18005;241B;45;;;A Comunidades Autónomas;769354410
+2021;18005;241B;458/18005;;;Gestión por las comunidades autónomas de iniciativas del sistema de formación profesional para el empleo;769354410
+2021;18005;241B;458/18005;;01;Iniciativas de oferta formativa para trabajadores desempleados;548735070
 2021;18005;241B;458/18005;;02;Iniciativas de oferta formativa para trabajadores ocupados;114944990
 2021;18005;241B;458/18005;;04;Acciones del sistema de Formación Profesional para el Empleo impartidas con carácter extraordinario a través de la red pública de centros de formación a trabajadores ocupados y desempleados;19569620
+2021;18005;241B;458/18005;;05;"Programa especial de formación profesional para el empleo en el sector turístico y en sectores económicos ""avanzados""";1000000
 2021;18005;241B;458/18005;;07;Para actuaciones en centros nacionales de formación de desempleados y centros de referencia nacional;27510300
 2021;18005;241B;458/18005;;10;A la Comunidad Autónoma del País Vasco para la gestión de iniciativas del sistema de formación profesional para el empleo;56594430
+2021;18005;241B;458/18005;;11;Ayudas a la movilidad de estudiantes y profesores para programas de formación fuera de las islas y becas de estudio y/o desplazamiento para prácticas de estudiantes canarios;1000000
 2021;18005;241B;48;;;A familias e instituciones sin fines de lucro;133094230
 2021;18005;241B;481/18005;;;Reserva de gestión directa de créditos destinados a programas de fomento de empleo;126416800
 2021;18005;241B;481/18005;;00;Iniciativas del sistema de formación profesional para el empleo: oferta formativa para desempleados;35896660
@@ -7607,10 +7612,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;19003;241N;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;167230
 2021;19003;241N;160;;;Cuotas sociales;167230
 2021;19003;241N;160;;00;Seguridad Social;167230
-2021;19003;241N;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;3793040
-2021;19003;241N;22;;;Material, suministros y otros;3793040
-2021;19003;241N;227;;;Trabajos realizados por otras empresas y profesionales;3793040
-2021;19003;241N;227;;06;Estudios y trabajos técnicos;3793040
+2021;19003;241N;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;3293040
+2021;19003;241N;22;;;Material, suministros y otros;3293040
+2021;19003;241N;227;;;Trabajos realizados por otras empresas y profesionales;3293040
+2021;19003;241N;227;;06;Estudios y trabajos técnicos;3293040
 2021;19003;241N;4;;;TRANSFERENCIAS CORRIENTES;10438000
 2021;19003;241N;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;3060300
 2021;19003;241N;441/19003;;;Subvenciones a universidades y otras instituciones de carácter público para acciones de formación, difusión y fomento del trabajo autónomo, de la economía social y de la responsabilidad social de las empresas, de ámbito estatal.;60300
@@ -7803,9 +7808,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;17009;261N;766/17009;;02;Ayuntamiento de Sevilla. Promoción de viviendas en alquiler (Plan 20.000);4000000
 2021;17009;261N;766/17009;;03;Ayuntamiento de Ibiza. Promoción de viviendas en alquiler (Plan 20.000);1000000
 2021;17009;261N;766/17009;;04;Consell Insular de Mallorca. Promoción de viviendas en alquiler (Plan 20.000);3000000
-2021;17009;261N;766/17009;;05;Ayuntamiento de Menorca. Promoción de viviendas en alquiler (Plan 20.000);500000
+2021;17009;261N;766/17009;;05;Consell Insular de Menorca. Promoción de viviendas en alquiler (Plan 20.000);500000
 2021;17009;261N;768/17009;;;Lorca. Vivienda;3000000
-2021;17009;261N;769;;;Las Rehoyas (Las Palmas de Gran Canaria). Renovación urbana;1000000
+2021;17009;261N;769/17009;;;Las Rehoyas (Las Palmas de Gran Canaria). Renovación urbana;1000000
 2021;17009;261N;78;;;A familias e instituciones sin fines de lucro;72625000
 2021;17009;261N;782/17009;;;Ayudas para renta básica de emancipación de jóvenes, subsidiación de préstamos y otros apoyos a la vivienda;72600000
 2021;17009;261N;782/17009;;01;Subsidiación de préstamos;72000000
@@ -7953,7 +7958,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;19050;280A;68;;;Inversiones reales: Mecanismo de Recuperación y Resiliencia;11250000
 2021;19050;280A;682;;;Inversión nueva asociada al funcionamiento operativo de los servicios. Mecanismo de Recuperación y Resiliencia;8490000
 2021;19050;280A;683;;;Inversión de reposición asociada al funcionamiento operativo de los servicios. Mecanismo de Recuperación y Resiliencia;2760000
-2021;19001;281M;1;;;GASTOS DE PERSONAL;47010870
+2021;19001;281M;1;;;GASTOS DE PERSONAL;45010870
 2021;19001;281M;10;;;Altos cargos;262590
 2021;19001;281M;100;;;Retribuciones básicas y otras remuneraciones;262590
 2021;19001;281M;100;;00;Retribuciones básicas;130370
@@ -7985,15 +7990,15 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;19001;281M;15;;;Incentivos al rendimiento;2925390
 2021;19001;281M;150;;;Productividad;2704160
 2021;19001;281M;151;;;Gratificaciones;221230
-2021;19001;281M;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;4315650
-2021;19001;281M;160;;;Cuotas sociales;3294420
-2021;19001;281M;160;;00;Seguridad Social;3294420
+2021;19001;281M;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;2315650
+2021;19001;281M;160;;;Cuotas sociales;1294420
+2021;19001;281M;160;;00;Seguridad Social;1294420
 2021;19001;281M;162;;;Gastos sociales del personal;1021230
 2021;19001;281M;162;;00;Formación y perfeccionamiento del personal;124580
 2021;19001;281M;162;;04;Acción social;240810
 2021;19001;281M;162;;05;Seguros;623690
 2021;19001;281M;162;;09;Otros;32150
-2021;19001;281M;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;21365680
+2021;19001;281M;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;19865680
 2021;19001;281M;20;;;Arrendamientos y cánones;3234650
 2021;19001;281M;202;;;Arrendamientos de edificios y otras construcciones;1100900
 2021;19001;281M;205;;;Arrendamientos de mobiliario y enseres;80000
@@ -8006,7 +8011,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;19001;281M;215;;;Mobiliario y enseres;61100
 2021;19001;281M;216;;;Equipos para procesos de la información;1531020
 2021;19001;281M;218;;;Bienes situados en el exterior;200000
-2021;19001;281M;22;;;Material, suministros y otros;14303940
+2021;19001;281M;22;;;Material, suministros y otros;12803940
 2021;19001;281M;220;;;Material de oficina;297670
 2021;19001;281M;220;;00;Ordinario no inventariable;40640
 2021;19001;281M;220;;01;Prensa, revistas, libros y otras publicaciones;44730
@@ -8042,11 +8047,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;19001;281M;226;;07;Oposiciones y pruebas selectivas;440
 2021;19001;281M;226;;15;Gastos diversos en el exterior;25000
 2021;19001;281M;226;;99;Otros;200
-2021;19001;281M;227;;;Trabajos realizados por otras empresas y profesionales;8306860
+2021;19001;281M;227;;;Trabajos realizados por otras empresas y profesionales;6806860
 2021;19001;281M;227;;00;Limpieza y aseo;12270
 2021;19001;281M;227;;01;Seguridad;1168510
 2021;19001;281M;227;;02;Valoraciones y peritajes;7980
-2021;19001;281M;227;;06;Estudios y trabajos técnicos;6457270
+2021;19001;281M;227;;06;Estudios y trabajos técnicos;4957270
 2021;19001;281M;227;;15;Trabajos realizados por otras empresas y profesionales en el exterior;622000
 2021;19001;281M;227;;99;Otros;38830
 2021;19001;281M;23;;;Indemnizaciones por razón del servicio;1301130
@@ -8060,15 +8065,13 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;19001;281M;35;;;Intereses de demora y otros gastos financieros;24660
 2021;19001;281M;352;;;Intereses de demora;4660
 2021;19001;281M;359;;;Otros gastos financieros;20000
-2021;19001;281M;4;;;TRANSFERENCIAS CORRIENTES;11583550
-2021;19001;281M;48;;;A familias e instituciones sin fines de lucro;11583550
+2021;19001;281M;4;;;TRANSFERENCIAS CORRIENTES;16583550
+2021;19001;281M;48;;;A familias e instituciones sin fines de lucro;16583550
 2021;19001;281M;480/19001;;;A los participantes en órganos consultivos y consejos.;2699660
 2021;19001;281M;480/19001;;00;Compensación económica por participación de centrales sindicales y organizaciones empresariales en los órganos consultivos.;2699660
-2021;19001;281M;489/19001;;;Financiación y compensaciones económicas;8883890
-2021;19001;281M;489/19001;;00;A las organizaciones sindicales en proporción a su representatividad, según los resultados globales obtenidos en elecciones sindicales legalmente convocadas, por la realización de actividades de carácter sindical.;8883890
-2021;19001;281M;6;;;INVERSIONES REALES;6800020
-2021;19001;281M;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;1000000
-2021;19001;281M;611;;;Otras;1000000
+2021;19001;281M;489/19001;;;Financiación y compensaciones económicas;13883890
+2021;19001;281M;489/19001;;00;A las organizaciones sindicales en proporción a su representatividad, según los resultados globales obtenidos en elecciones sindicales legalmente convocadas, por la realización de actividades de carácter sindical.;13883890
+2021;19001;281M;6;;;INVERSIONES REALES;5800020
 2021;19001;281M;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;1166640
 2021;19001;281M;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;966640
 2021;19001;281M;628;;;Patrimonio Sindical Acumulado;200000
@@ -8559,11 +8562,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;26001;311M;231;;;Locomoción;404860
 2021;26001;311M;232;;;Traslado;4620
 2021;26001;311M;233;;;Otras indemnizaciones;96780
-2021;26001;311M;6;;;INVERSIONES REALES;2197840
+2021;26001;311M;6;;;INVERSIONES REALES;2047840
 2021;26001;311M;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;114000
 2021;26001;311M;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;114000
-2021;26001;311M;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;2083840
-2021;26001;311M;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;2083840
+2021;26001;311M;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;1933840
+2021;26001;311M;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;1933840
 2021;26001;311M;8;;;ACTIVOS FINANCIEROS;40500
 2021;26001;311M;83;;;Concesión de préstamos fuera del Sector Público;40500
 2021;26001;311M;830;;;Préstamos a corto plazo;2500
@@ -9176,13 +9179,15 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;26007;313B;23;;;Indemnizaciones por razón del servicio;287400
 2021;26007;313B;230;;;Dietas;85390
 2021;26007;313B;231;;;Locomoción;202010
-2021;26007;313B;4;;;TRANSFERENCIAS CORRIENTES;5637840
+2021;26007;313B;4;;;TRANSFERENCIAS CORRIENTES;5787840
 2021;26007;313B;45;;;A Comunidades Autónomas;3018070
 2021;26007;313B;453/26007;;;Al Instituto Universitario de Enfermedades Tropicales y Salud Pública de Canarias para la investigación, desarrollo e innovación en los campos de las enfermedades tropicales y salud pública;200000
 2021;26007;313B;454/26007;;;A CC.AA. para Estrategias frente a enfermedades raras, enfermedades neurodegenerativas (incluida ELA);2818070
-2021;26007;313B;48;;;A familias e instituciones sin fines de lucro;2163770
+2021;26007;313B;48;;;A familias e instituciones sin fines de lucro;2313770
 2021;26007;313B;484/26007;;;Ayudas sociales para personas con hemofilia u otras coagulopatías;18000
+2021;26007;313B;485/26007;;;Investigación translacional en neurorehabilitación del Institut de Recerca de l'Institut Guttmann;100000
 2021;26007;313B;486/26007;;;Para subvenciones a instituciones de cualquier titularidad, sin ánimo de lucro, con destino a financiar Programas de Prevención y Control del SIDA y otras ITS;2000000
+2021;26007;313B;487/26007;;;Fundació Esclerosi Múltiple;50000
 2021;26007;313B;488/26007;;;Para el pago de ayudas sociales a enfermos contaminados de VIH por tratamiento con hemoderivados por transfusiones sanguíneas y sus familiares;145770
 2021;26007;313B;49;;;Al exterior;456000
 2021;26007;313B;491/26007;;;A la Oficina de la Organización Mundial de la Salud;456000
@@ -11191,10 +11196,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;24004;331M;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;64150
 2021;24004;331M;160;;;Cuotas sociales;64150
 2021;24004;331M;160;;00;Seguridad Social;64150
-2021;24004;331M;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;835600
-2021;24004;331M;22;;;Material, suministros y otros;672000
-2021;24004;331M;226;;;Gastos diversos;613000
-2021;24004;331M;226;;04;Refuerzo medios y recursos Sección Segunda Comisión de Propiedad Intelectual;600000
+2021;24004;331M;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;735600
+2021;24004;331M;22;;;Material, suministros y otros;572000
+2021;24004;331M;226;;;Gastos diversos;513000
+2021;24004;331M;226;;04;Refuerzo medios y recursos Sección Segunda Comisión de Propiedad Intelectual;500000
 2021;24004;331M;226;;06;Reuniones, conferencias y cursos;13000
 2021;24004;331M;227;;;Trabajos realizados por otras empresas y profesionales;59000
 2021;24004;331M;227;;06;Estudios y trabajos técnicos;59000
@@ -11645,7 +11650,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;24005;333A;160;;00;Seguridad Social;3671810
 2021;24005;333A;162;;;Gastos sociales del personal;76220
 2021;24005;333A;162;;00;Formación y perfeccionamiento del personal;76220
-2021;24005;333A;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;20268610
+2021;24005;333A;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;20243610
 2021;24005;333A;20;;;Arrendamientos y cánones;392000
 2021;24005;333A;202;;;Arrendamientos de edificios y otras construcciones;10000
 2021;24005;333A;203;;;Arrendamientos de maquinaria, instalaciones y utillaje;30000
@@ -11693,21 +11698,21 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;24005;333A;227;;01;Seguridad;8089790
 2021;24005;333A;227;;06;Estudios y trabajos técnicos;1770030
 2021;24005;333A;227;;99;Otros;41610
-2021;24005;333A;23;;;Indemnizaciones por razón del servicio;245410
-2021;24005;333A;230;;;Dietas;141790
+2021;24005;333A;23;;;Indemnizaciones por razón del servicio;220410
+2021;24005;333A;230;;;Dietas;116790
 2021;24005;333A;231;;;Locomoción;103620
 2021;24005;333A;3;;;GASTOS FINANCIEROS;32000
 2021;24005;333A;35;;;Intereses de demora y otros gastos financieros;32000
 2021;24005;333A;352;;;Intereses de demora;2000
 2021;24005;333A;359;;;Otros gastos financieros;30000
-2021;24005;333A;4;;;TRANSFERENCIAS CORRIENTES;13925360
+2021;24005;333A;4;;;TRANSFERENCIAS CORRIENTES;14448480
 2021;24005;333A;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;8129000
 2021;24005;333A;440/24005;;;A la Fundación Thyssen Bornemisza en concepto de déficit dotable y para gastos de funcionamiento;7989000
 2021;24005;333A;443/24005;;;A la Fundación Lázaro Galdiano para gastos de funcionamiento;140000
-2021;24005;333A;45;;;A Comunidades Autónomas;2796930
+2021;24005;333A;45;;;A Comunidades Autónomas;2935050
 2021;24005;333A;455/24005;;;Al Museo Nacional de Arte de Cataluña (MNAC) para gastos de funcionamiento;2181330
 2021;24005;333A;456/24005;;;A la Fundación Cristóbal Balenciaga para gastos de funcionamiento;353720
-2021;24005;333A;458/24005;;;Al Instituto Valenciano de Arte Moderno (IVAM) para gastos de funcionamiento;261880
+2021;24005;333A;458/24005;;;Al Instituto Valenciano de Arte Moderno (IVAM) para gastos de funcionamiento;400000
 2021;24005;333A;46;;;A Entidades Locales;1585460
 2021;24005;333A;461/24005;;;Transferencias a instituciones culturales;1491460
 2021;24005;333A;461/24005;;01;A Patio Herreriano, Museo de Arte Contemporáneo Español, para gastos de funcionamiento;38560
@@ -11719,16 +11724,17 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;24005;333A;462/24005;;;Al Ayuntamiento de Ibiza para gastos de funcionamiento del Museo Puget;20000
 2021;24005;333A;464/24005;;;A la Diputación de Granada para el Centro José Guerrero;24000
 2021;24005;333A;465/24005;;;Al Ayuntamiento de Las Palmas de Gran Canaria para gastos de funcionamiento y actividades del Museo Néstor;50000
-2021;24005;333A;48;;;A familias e instituciones sin fines de lucro;1347220
+2021;24005;333A;48;;;A familias e instituciones sin fines de lucro;1732220
 2021;24005;333A;481/24005;;;Premios nacionales;90000
 2021;24005;333A;481/24005;;03;Premios Nacionales de Artes Plásticas, de Fotografía y de Diseño de Moda;90000
-2021;24005;333A;485/24005;;;Otras transferencias;1256950
+2021;24005;333A;485/24005;;;Otras transferencias;1641950
 2021;24005;333A;485/24005;;01;A la Fundación Privada Antoni Tápies para gastos de funcionamiento;68740
 2021;24005;333A;485/24005;;05;A la Fundación Diaz-Caneja para gastos de funcionamiento;61000
 2021;24005;333A;485/24005;;06;A la Federación Española de Amigos de los Museos;2750
 2021;24005;333A;485/24005;;10;A la Real Fundación de Toledo para gastos de conservación y difusión del Museo Victorio Macho;22030
-2021;24005;333A;485/24005;;14;A la Fundación Joan Miró de Barcelona para gastos de funcionamiento;190000
+2021;24005;333A;485/24005;;14;A la Fundación Joan Miró de Barcelona para gastos de funcionamiento;500000
 2021;24005;333A;485/24005;;15;A la Fundación Pilar i Joan Miró de Mallorca para gastos de funcionamiento;60000
+2021;24005;333A;485/24005;;16;Fundación Gala-Salvador Dalí;75000
 2021;24005;333A;485/24005;;18;A la Asociación Profesional de Museólogos de España para gastos de funcionamiento;2500
 2021;24005;333A;485/24005;;25;Al Museo Marítimo Ría de Bilbao;75000
 2021;24005;333A;485/24005;;48;A la Real Academia de Bellas Artes de San Fernando para actividades y gastos de funcionamiento;624930
@@ -11750,9 +11756,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;24005;333A;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;275000
 2021;24005;333A;64;;;Gastos de inversiones de carácter inmaterial;508090
 2021;24005;333A;640;;;Gastos en inversiones de carácter inmaterial;508090
-2021;24005;333A;7;;;TRANSFERENCIAS DE CAPITAL;1000
-2021;24005;333A;78;;;A familias e instituciones sin fines de lucro;1000
+2021;24005;333A;7;;;TRANSFERENCIAS DE CAPITAL;301000
+2021;24005;333A;78;;;A familias e instituciones sin fines de lucro;301000
 2021;24005;333A;781/24005;;;Pago de indemnizaciones a que se refiere la disposición adicional novena de la Ley 16/1985, del Patrimonio Histórico Español;1000
+2021;24005;333A;782/24005;;;A la Sociedad Gaztelu para proyecto museológico y museográfico para el Centro de Visitas del Castillo de Amaiur y del Valle de Baztán;300000
 2021;24105;333A;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;40000
 2021;24105;333A;21;;;Reparaciones, mantenimiento y conservación;5000
 2021;24105;333A;212;;;Edificios y otras construcciones;5000
@@ -12091,9 +12098,14 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;24004;334A;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;13000
 2021;24004;334A;64;;;Gastos de inversiones de carácter inmaterial;30000
 2021;24004;334A;640;;;Gastos en inversiones de carácter inmaterial;30000
-2021;24004;334A;7;;;TRANSFERENCIAS DE CAPITAL;5000000
-2021;24004;334A;76;;;A Entidades Locales;5000000
+2021;24004;334A;7;;;TRANSFERENCIAS DE CAPITAL;5300000
+2021;24004;334A;75;;;A Comunidades Autónomas;100000
+2021;24004;334A;750/24004;;;Patronat de la Muntanya de Montserrat;100000
+2021;24004;334A;76;;;A Entidades Locales;5100000
+2021;24004;334A;762/24004;;;Ajuntament de Sant Ferriol. Centro Cívico;100000
 2021;24004;334A;768/24004;;;Al Ayuntamiento de Barcelona para el convenio de la capitalidad cultural y científica de Barcelona;5000000
+2021;24004;334A;78;;;A familias e instituciones sin fines de lucro;100000
+2021;24004;334A;781/24004;;;Patronat del Reial Monestir de Poblet;100000
 2021;24105;334A;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;10000
 2021;24105;334A;21;;;Reparaciones, mantenimiento y conservación;5000
 2021;24105;334A;212;;;Edificios y otras construcciones;5000
@@ -12166,11 +12178,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;24003;334B;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;10000
 2021;24003;334B;64;;;Gastos de inversiones de carácter inmaterial;25000
 2021;24003;334B;640;;;Gastos en inversiones de carácter inmaterial;25000
-2021;24003;334B;7;;;TRANSFERENCIAS DE CAPITAL;7383380
+2021;24003;334B;7;;;TRANSFERENCIAS DE CAPITAL;6745260
 2021;24003;334B;76;;;A Entidades Locales;825290
 2021;24003;334B;763/24003;;;"Campaña de animación a la lectura ""María Moliner"" para proyectos de animación lectora en municipios de menos de 50.000 habitantes";825290
-2021;24003;334B;77;;;A empresas privadas;6558090
-2021;24003;334B;772/24003;;;Plan de Fomento de la Lectura;5000000
+2021;24003;334B;77;;;A empresas privadas;5919970
+2021;24003;334B;772/24003;;;Plan de Fomento de la Lectura;4361880
 2021;24003;334B;775/24003;;;Ayudas para la edición de libros;1150000
 2021;24003;334B;776/24003;;;Ayudas para proyectos de revalorización cultural y modernización de las librerías;408090
 2021;24004;334C;1;;;GASTOS DE PERSONAL;748600
@@ -12241,7 +12253,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;24107;335A;160;;00;Seguridad Social;6838760
 2021;24107;335A;162;;;Gastos sociales del personal;80220
 2021;24107;335A;162;;09;Otros;80220
-2021;24107;335A;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;33093470
+2021;24107;335A;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;32789170
 2021;24107;335A;20;;;Arrendamientos y cánones;1093230
 2021;24107;335A;202;;;Arrendamientos de edificios y otras construcciones;950000
 2021;24107;335A;203;;;Arrendamientos de maquinaria, instalaciones y utillaje;16030
@@ -12254,7 +12266,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;24107;335A;215;;;Mobiliario y enseres;22890
 2021;24107;335A;216;;;Equipos para procesos de la información;233720
 2021;24107;335A;219;;;Otro inmovilizado material;309750
-2021;24107;335A;22;;;Material, suministros y otros;7339060
+2021;24107;335A;22;;;Material, suministros y otros;7139060
 2021;24107;335A;220;;;Material de oficina;182980
 2021;24107;335A;220;;00;Ordinario no inventariable;81500
 2021;24107;335A;220;;01;Prensa, revistas, libros y otras publicaciones;58000
@@ -12282,10 +12294,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;24107;335A;226;;06;Reuniones, conferencias y cursos;98000
 2021;24107;335A;226;;07;Oposiciones y pruebas selectivas;22900
 2021;24107;335A;226;;99;Otros;50800
-2021;24107;335A;227;;;Trabajos realizados por otras empresas y profesionales;4216500
+2021;24107;335A;227;;;Trabajos realizados por otras empresas y profesionales;4016500
 2021;24107;335A;227;;00;Limpieza y aseo;1500000
 2021;24107;335A;227;;01;Seguridad;1150000
-2021;24107;335A;227;;06;Estudios y trabajos técnicos;816500
+2021;24107;335A;227;;06;Estudios y trabajos técnicos;616500
 2021;24107;335A;227;;99;Otros;750000
 2021;24107;335A;23;;;Indemnizaciones por razón del servicio;1984770
 2021;24107;335A;230;;;Dietas;1004160
@@ -12293,35 +12305,35 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;24107;335A;233;;;Otras indemnizaciones;482000
 2021;24107;335A;24;;;Gastos de publicaciones;78000
 2021;24107;335A;240;;;Gastos de edición y distribución;78000
-2021;24107;335A;28;;;Gastos relacionados con la actividad comercial;20732050
-2021;24107;335A;280;;;Gastos relacionados con la actividad comercial;20732050
+2021;24107;335A;28;;;Gastos relacionados con la actividad comercial;20627750
+2021;24107;335A;280;;;Gastos relacionados con la actividad comercial;20627750
 2021;24107;335A;3;;;GASTOS FINANCIEROS;45000
 2021;24107;335A;35;;;Intereses de demora y otros gastos financieros;45000
 2021;24107;335A;359;;;Otros gastos financieros;45000
-2021;24107;335A;4;;;TRANSFERENCIAS CORRIENTES;34519470
+2021;24107;335A;4;;;TRANSFERENCIAS CORRIENTES;34828770
 2021;24107;335A;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;12321800
 2021;24107;335A;441/24107;;;Ayudas para actividades musicales y coreográficas de ámbito nacional;28930
 2021;24107;335A;444/24107;;;A la Fundación Nacional del Teatro Real F.S.P.;12292870
-2021;24107;335A;45;;;A Comunidades Autónomas;13269770
+2021;24107;335A;45;;;A Comunidades Autónomas;13374070
 2021;24107;335A;451/24107;;;Ayudas para actividades musicales de ámbito nacional e internacional;86800
-2021;24107;335A;454/24107;;;Apoyo al funcionamiento de entidades musicales, teatrales, circenses y de danza en el ámbito de las comunidades autónomas;13182970
+2021;24107;335A;454/24107;;;Apoyo al funcionamiento de entidades musicales, teatrales, circenses y de danza en el ámbito de las comunidades autónomas;13287270
 2021;24107;335A;454/24107;;00;Al Consorcio del Teatro de la Maestranza y Salas del Arenal;2250000
-2021;24107;335A;454/24107;;04;A la Fundació Palau de les Arts de la Comunidad Valenciana;895700
+2021;24107;335A;454/24107;;04;A la Fundació Palau de les Arts de la Comunidad Valenciana;1000000
 2021;24107;335A;454/24107;;06;Al Instituto Complutense de Ciencias Musicales;37730
 2021;24107;335A;454/24107;;09;Al Festival Internacional de Música y Danza de Granada;494580
 2021;24107;335A;454/24107;;10;A la Fundación Cante de las Minas;70340
 2021;24107;335A;454/24107;;11;A la Fundación Pública Festival Internacional de Santander;103500
 2021;24107;335A;454/24107;;12;A la Fundación del Gran Teatre del Liceu;7111120
 2021;24107;335A;454/24107;;13;A la Fundación del Gran Teatre del Liceu. Aportación adicional para necesidades de tesorería;2220000
-2021;24107;335A;46;;;A Entidades Locales;1056290
+2021;24107;335A;46;;;A Entidades Locales;1061290
 2021;24107;335A;461/24107;;;A festivales y otras actividades musicales de ámbito nacional;482220
-2021;24107;335A;464/24107;;;Programa de apoyo a festivales, muestras, ferias y otras actividades teatrales y circenses organizadas por corporaciones locales;574070
-2021;24107;335A;464/24107;;44;A la Quincena Musical de Donostia-San Sebastián;128500
+2021;24107;335A;464/24107;;;Programa de apoyo a festivales, muestras, ferias y otras actividades teatrales y circenses organizadas por corporaciones locales;579070
+2021;24107;335A;464/24107;;44;A la Quincena Musical de Donostia-San Sebastián;133500
 2021;24107;335A;464/24107;;45;Al Consorci Mercat de les Flors-Centre de les Arts de Moviment;375710
 2021;24107;335A;464/24107;;47;A la Fundación Patronato Semana de Música Religiosa de Cuenca;69860
 2021;24107;335A;47;;;A empresas privadas;2630850
 2021;24107;335A;473/24107;;;Giras y producciones de personas y conjuntos musicales y coreográficos;2630850
-2021;24107;335A;48;;;A familias e instituciones sin fines de lucro;5240760
+2021;24107;335A;48;;;A familias e instituciones sin fines de lucro;5440760
 2021;24107;335A;480/24107;;;Programas de actividades de música y danza de entidades sin fines de lucro;1691400
 2021;24107;335A;480/24107;;01;Actos conmemorativos del centenario del Orfeón La Paz, de La Laguna, Tenerife;20000
 2021;24107;335A;480/24107;;12;A la Fundación Archivo Manuel de Falla para sus actividades;14490
@@ -12333,9 +12345,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;24107;335A;480/24107;;48;A la Fundación Pau Casals;25000
 2021;24107;335A;480/24107;;50;A la Fundación Antonio Gades para sus actividades;50000
 2021;24107;335A;481/24107;;;Programa de actividades de música y danza de ámbito nacional e internacional;1927850
-2021;24107;335A;485/24107;;;Apoyo a programas líricos y de danza;1463610
+2021;24107;335A;485/24107;;;Apoyo a programas líricos y de danza;1663610
 2021;24107;335A;485/24107;;00;Apoyo a temporadas líricas;96440
-2021;24107;335A;485/24107;;01;A la Asociación Bilbaína de Amigos de la Ópera para el desarrollo de su temporada;617500
+2021;24107;335A;485/24107;;01;A la Asociación Bilbaína de Amigos de la Ópera para el desarrollo de su temporada;817500
 2021;24107;335A;485/24107;;02;A la Fundación del Festival de Ópera de Oviedo para el desarrollo de su temporada lírica;408750
 2021;24107;335A;485/24107;;03;A la Asociación de Amigos Canarios de la Ópera para la temporada de Ópera de Las Palmas;115920
 2021;24107;335A;485/24107;;04;A la Asociación de Amigos de la Ópera de A Coruña para la temporada lírica de A Coruña;75000
@@ -12708,7 +12720,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;24106;336A;478/24106;;;A universidades y entidades privadas para programas de apoyo científico al deporte y actividades afines;130000
 2021;24106;336A;48;;;A familias e instituciones sin fines de lucro;124339170
 2021;24106;336A;480/24106;;;Al  Comité Paralímpico Español;1900000
-2021;24106;336A;481/24106;;;A federaciones deportivas españolas, procedente del 1% de los ingresos obtenidos en la comercialización conjunta de derechos audiovisuales, en aplicación Real Decreto-ley 5/2015;18000000
+2021;24106;336A;481/24106;;;A federaciones deportivas españolas, procedente de los ingresos obtenidos en la comercialización conjunta de derechos audiovisuales, en aplicación Real Decreto-ley 5/2015;18000000
 2021;24106;336A;481/24106;;01;Para cotizaciones a la Seguridad Social de los deportistas de alto nivel en aplicación del Real Decreto-ley 5/2015;11000000
 2021;24106;336A;481/24106;;02;Para ayudas a deportistas que representen a España en competiciones internacionales en aplicación del Real Decreto-ley 5/2015;5000000
 2021;24106;336A;481/24106;;03;Para federaciones deportivas españolas procedente de ingresos obtenidos en aplicación del Real Decreto-ley 5/2015;1000000
@@ -12743,15 +12755,17 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;24106;336A;64;;;Gastos de inversiones de carácter inmaterial;367000
 2021;24106;336A;640;;;Gastos en inversiones de carácter inmaterial;367000
 2021;24106;336A;7;;;TRANSFERENCIAS DE CAPITAL;14483360
-2021;24106;336A;75;;;A Comunidades Autónomas;5600000
+2021;24106;336A;75;;;A Comunidades Autónomas;5500000
 2021;24106;336A;750/24106;;;A comunidades autónomas para obras y equipamiento en infraestructuras deportivas;900000
 2021;24106;336A;750/24106;;01;A universidades públicas para obras y equipamiento deportivo con motivo de la organización de campeonatos internacionales;500000
 2021;24106;336A;750/24106;;03;A la Universidad de León para la remodelación de la pista de atletismo, mejora del campo de hierba, equipamiento atletismo y grada almacén;400000
 2021;24106;336A;751/24106;;;Para la construcción y adaptación de centros de alto rendimiento y tecnificación;1500000
 2021;24106;336A;751/24106;;03;Al Centro de Alto Rendimiento Deportivo de San Cugat (Barcelona) para la construcción de nuevas instalaciones deportivas y modernización;1500000
-2021;24106;336A;754/24106;;;Ayudas para la actualización del Censo Nacional de Instalaciones Deportivas;3200000
-2021;24106;336A;76;;;A Entidades Locales;5055160
+2021;24106;336A;754/24106;;;Ayudas para la actualización del Censo Nacional de Instalaciones Deportivas;3100000
+2021;24106;336A;76;;;A Entidades Locales;5155160
 2021;24106;336A;765/24106;;;A corporaciones locales para otras obras;5055160
+2021;24106;336A;766/24106;;;A entidades locales para instalaciones deportivas;100000
+2021;24106;336A;766/24106;;30;Ayuntamiento de Calella. Ampliación de la zona deportiva La Muntanyeta;100000
 2021;24106;336A;77;;;A empresas privadas;100000
 2021;24106;336A;770/24106;;;A universidades privadas para obras y equipamiento deportivo con motivo de la organización de campeonatos internacionales;100000
 2021;24106;336A;78;;;A familias e instituciones sin fines de lucro;3728200
@@ -13053,11 +13067,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;24005;337B;48;;;A familias e instituciones sin fines de lucro;30000
 2021;24005;337B;481/24005;;;Premios nacionales;30000
 2021;24005;337B;481/24005;;01;Premio Nacional de Conservación y Restauración de Bienes Culturales;30000
-2021;24005;337B;6;;;INVERSIONES REALES;16210970
+2021;24005;337B;6;;;INVERSIONES REALES;15850970
 2021;24005;337B;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;230000
 2021;24005;337B;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;230000
-2021;24005;337B;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;15008970
-2021;24005;337B;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;14998970
+2021;24005;337B;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;14648970
+2021;24005;337B;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;14638970
 2021;24005;337B;631/24005;;;Inversiones producto del 1% cultural, artículo 68 Ley 16/85, de 25 de Junio, del Patrimonio Histórico Español, para obras de conservación y restauración de bienes culturales;10000
 2021;24005;337B;64;;;Gastos de inversiones de carácter inmaterial;972000
 2021;24005;337B;640;;;Gastos en inversiones de carácter inmaterial;972000
@@ -13136,13 +13150,13 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;24005;337C;491/24005;;;Cuotas a organismos internacionales y para proyectos de cooperación internacional;50000
 2021;24005;337C;491/24005;;07;Al Consejo de Europa para cuota anual de Itinerarios Culturales Europeos;30000
 2021;24005;337C;491/24005;;12;A Spain-USA Foundation para la defensa de los intereses españoles en los buques hundidos en aguas norteamericanas;20000
-2021;24005;337C;6;;;INVERSIONES REALES;4610500
+2021;24005;337C;6;;;INVERSIONES REALES;4605500
 2021;24005;337C;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;4360500
 2021;24005;337C;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;4334500
 2021;24005;337C;621;;;Inversiones producto del 1% cultural, artículo 68 Ley 16/85, de 25 de junio,del Patrimonio Histórico Español para adquisición de bienes culturales;25000
 2021;24005;337C;622;;;Pago de indemnizaciones a que se refiere la Ley 36/1994, de 23 de diciembre, de incorporación de la Directiva 93/7 de la CEE relativa a la restitución de bienes culturales que hayan salido del territorio de un estado miembro y pago de los costes derivados de la devolución de bienes culturales previsto en el instrumento de adhesión de España al Convenio UNIDROIT sobre bienes culturales robados o exportados ilegalmente de 24 de junio de 1995;1000
-2021;24005;337C;64;;;Gastos de inversiones de carácter inmaterial;250000
-2021;24005;337C;640;;;Gastos en inversiones de carácter inmaterial;250000
+2021;24005;337C;64;;;Gastos de inversiones de carácter inmaterial;245000
+2021;24005;337C;640;;;Gastos en inversiones de carácter inmaterial;245000
 2021;24005;337C;7;;;TRANSFERENCIAS DE CAPITAL;610000
 2021;24005;337C;75;;;A Comunidades Autónomas;80000
 2021;24005;337C;751/24005;;;Aportación institucional al Consorcio de la Ciudad Monumental, Histórico-Artística y Arqueológica de Mérida para actuaciones arqueológicas;80000
@@ -13589,14 +13603,14 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;21005;412C;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;100000
 2021;21005;412C;64;;;Gastos de inversiones de carácter inmaterial;6519400
 2021;21005;412C;640;;;Gastos en inversiones de carácter inmaterial;6519400
-2021;21005;412C;7;;;TRANSFERENCIAS DE CAPITAL;33862000
-2021;21005;412C;75;;;A Comunidades Autónomas;22712000
+2021;21005;412C;7;;;TRANSFERENCIAS DE CAPITAL;36862000
+2021;21005;412C;75;;;A Comunidades Autónomas;25712000
 2021;21005;412C;750/21005;;;Fomento de la innovación tecnológica;4652000
 2021;21005;412C;750/21005;;01;Ordenación y fomento de la mejora ganadera. Conservación de la biodiversidad;2900000
 2021;21005;412C;750/21005;;02;Calidad de las variedades vegetales y certificación de los materiales de reproducción;1752000
 2021;21005;412C;755/21005;;;Mejora de la organización de la producción y reordenación de los sectores productivos;2710000
 2021;21005;412C;755/21005;;02;Fomento de la apicultura;2710000
-2021;21005;412C;756/21005;;;Apoyo a la producción agrícola en el marco del Programa de Opciones Específicas por la lejanía y la Insularidad (POSEI);15000000
+2021;21005;412C;756/21005;;;Apoyo a la producción agrícola en el marco del Programa de Opciones Específicas por la lejanía y la Insularidad (POSEI);18000000
 2021;21005;412C;757/21005;;;Mejora del sector hortofruticola y cultivos industriales;350000
 2021;21005;412C;77;;;A empresas privadas;6550000
 2021;21005;412C;771/21005;;;Fomento de la modernización de maquinaria y tecnología agrícola;6550000
@@ -13642,9 +13656,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;21006;412D;752/21006;;03;Prevención y lucha contra plagas;10072190
 2021;21006;412D;752/21006;;04;Programas estatales de erradicación de enfermedades de los animales;11007280
 2021;21006;412D;752/21006;;05;Fomento de asociacionismo para la defensa sanitaria ganadera;1000
-2021;21004;412M;4;;;TRANSFERENCIAS CORRIENTES;56908840
-2021;21004;412M;49;;;Al exterior;56908840
-2021;21004;412M;490/21004;;;Abono al Tesoro Público, por cuenta del Organismo Autónomo Fondo Español de Garantía Agraria (FEGA) de las diferencias puestas de manifiesto en las liquidaciones con la Unión Europea correspondientes al FEAGA;56908840
+2021;21004;412M;4;;;TRANSFERENCIAS CORRIENTES;50908840
+2021;21004;412M;49;;;Al exterior;50908840
+2021;21004;412M;490/21004;;;Abono al Tesoro Público, por cuenta del Organismo Autónomo Fondo Español de Garantía Agraria (FEGA) de las diferencias puestas de manifiesto en las liquidaciones con la Unión Europea correspondientes al FEAGA;50908840
 2021;21101;412M;1;;;GASTOS DE PERSONAL;4031620
 2021;21101;412M;12;;;Funcionarios;3067780
 2021;21101;412M;120;;;Retribuciones básicas;1710910
@@ -13940,8 +13954,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;21008;414B;6;;;INVERSIONES REALES;8159650
 2021;21008;414B;64;;;Gastos de inversiones de carácter inmaterial;8159650
 2021;21008;414B;640;;;Gastos en inversiones de carácter inmaterial;8159650
-2021;21008;414B;7;;;TRANSFERENCIAS DE CAPITAL;105802110
-2021;21008;414B;75;;;A Comunidades Autónomas;104500000
+2021;21008;414B;7;;;TRANSFERENCIAS DE CAPITAL;106302110
+2021;21008;414B;75;;;A Comunidades Autónomas;105000000
+2021;21008;414B;751/21008;;;Para conservación de variedades agrícolas y razas ganaderas locales de Canarias;500000
 2021;21008;414B;756/21008;;;Financiación AGE a los PDRs 2014-2020;104500000
 2021;21008;414B;77;;;A empresas privadas;576050
 2021;21008;414B;773/21008;;;Ayudas para el refuerzo de la conectividad en el ámbito de la Estrategia de Digitalización del sector agroalimentario, forestal y del medio rural;526050
@@ -14124,11 +14139,13 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;21102;416A;3;;;GASTOS FINANCIEROS;15000
 2021;21102;416A;35;;;Intereses de demora y otros gastos financieros;15000
 2021;21102;416A;352;;;Intereses de demora;15000
-2021;21102;416A;4;;;TRANSFERENCIAS CORRIENTES;252387360
+2021;21102;416A;4;;;TRANSFERENCIAS CORRIENTES;254887360
 2021;21102;416A;45;;;A Comunidades Autónomas;126000
 2021;21102;416A;450/21102;;;Centro de Estudios e Investigación para la Gestión de Riesgos Agrarios y Medioambientales (CEIGRAM), para atender gastos que aseguren y den continuidad a su funcionamiento;126000
-2021;21102;416A;47;;;A empresas privadas;251267560
-2021;21102;416A;471/21102;;;Plan Anual de Seguros Agrarios y liquidación de planes anteriores;251267560
+2021;21102;416A;47;;;A empresas privadas;253767560
+2021;21102;416A;471/21102;;;Plan Anual de Seguros Agrarios y liquidación de planes anteriores;253767560
+2021;21102;416A;471/21102;;00;Plan Anual de Seguros Agrarios y liquidación de planes anteriores;251267560
+2021;21102;416A;471/21102;;01;Para incrementar en un 65% la subvención base que en cada momento se establezca para los seguros agrarios de aplicación en Canarias;2500000
 2021;21102;416A;48;;;A familias e instituciones sin fines de lucro;993800
 2021;21102;416A;483/21102;;;Familias e instituciones sin fines de lucro;28800
 2021;21102;416A;483/21102;;00;Becas relacionadas con la gestion de riesgos;28800
@@ -14699,12 +14716,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;20009;422B;3;;;GASTOS FINANCIEROS;500000
 2021;20009;422B;35;;;Intereses de demora y otros gastos financieros;500000
 2021;20009;422B;359;;;Otros gastos financieros;500000
-2021;20009;422B;7;;;TRANSFERENCIAS DE CAPITAL;200100000
+2021;20009;422B;7;;;TRANSFERENCIAS DE CAPITAL;170100000
 2021;20009;422B;75;;;A Comunidades Autónomas;100000
 2021;20009;422B;750/20009;;;Para actuaciones de fomento de la movilidad sostenible;40000
 2021;20009;422B;751/20009;;;A la Oficina Asturias Industrial;60000
-2021;20009;422B;77;;;A empresas privadas;200000000
-2021;20009;422B;771/20009;;;Programa de Compensación costes indirectos. Régimen de Comercio de Derechos de Emisión de Gases de Efecto  Invernadero (RCDE);109000000
+2021;20009;422B;77;;;A empresas privadas;170000000
+2021;20009;422B;771/20009;;;Programa de Compensación costes indirectos. Régimen de Comercio de Derechos de Emisión de Gases de Efecto  Invernadero (RCDE);79000000
 2021;20009;422B;773/20009;;;Estatuto Electrointensivo: Programa de compensación a los consumidores electrointensivos;91000000
 2021;20009;422M;1;;;GASTOS DE PERSONAL;1835260
 2021;20009;422M;12;;;Funcionarios;1400780
@@ -14728,11 +14745,14 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;20009;422M;4;;;TRANSFERENCIAS CORRIENTES;28000
 2021;20009;422M;49;;;Al exterior;28000
 2021;20009;422M;490/20009;;;Contribución de España al presupuesto del Comité del Acero de la OCDE;28000
-2021;20009;422M;7;;;TRANSFERENCIAS DE CAPITAL;62701500
+2021;20009;422M;7;;;TRANSFERENCIAS DE CAPITAL;103701500
 2021;20009;422M;75;;;A Comunidades Autónomas;5000000
 2021;20009;422M;752/20009;;;A la Comunidad Autónoma de Castilla y León para la potenciación de infraestructuras industriales en Villadangos del Páramo;5000000
-2021;20009;422M;77;;;A empresas privadas;57701500
-2021;20009;422M;775/20009;;;Para compensación de intereses de préstamos para la construcción naval, incluidas obligaciones de ejercicios anteriores;57701500
+2021;20009;422M;76;;;A Entidades Locales;1000000
+2021;20009;422M;763/20009;;;Al ayuntamiento de Mezquita de Jarque (Teruel) para potenciación de infraestructuras industriales en el polígono industrial de la localidad;1000000
+2021;20009;422M;77;;;A empresas privadas;97701500
+2021;20009;422M;775/20009;;;Para compensación de intereses de préstamos para la construcción naval, incluidas obligaciones de ejercicios anteriores;47701500
+2021;20009;422M;776/20009;;;Plan Renove Máquina Herramienta;50000000
 2021;20009;422M;8;;;ACTIVOS FINANCIEROS;600000000
 2021;20009;422M;87;;;Aportaciones patrimoniales;600000000
 2021;20009;422M;870;;;Aportaciones patrimoniales;600000000
@@ -14918,9 +14938,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;23003;425A;64;;;Gastos de inversiones de carácter inmaterial;5684470
 2021;23003;425A;640;;;Gastos en inversiones de carácter inmaterial;5684470
 2021;23003;425A;7;;;TRANSFERENCIAS DE CAPITAL;102115130
-2021;23003;425A;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;102115130
-2021;23003;425A;741/23003;;;Al IDAE. Para financiar actuaciones de apoyo a la movilidad energéticamente eficiente y sostenible;63799000
+2021;23003;425A;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;100115130
+2021;23003;425A;741/23003;;;Al IDAE. Para financiar actuaciones de apoyo a la movilidad energéticamente eficiente y sostenible;61799000
 2021;23003;425A;746/23003;;;Al IDAE. Para actuaciones de energías renovables, flexibilidad y eficiencia energética, actuaciones en zonas de transición justa y medidas dirigidas a consumidores vulnerables;38316130
+2021;23003;425A;75;;;A Comunidades Autónomas;2000000
+2021;23003;425A;750/23003;;;Para financiar actuaciones en Canarias de apoyo a la movilidad energéticamente eficiente y sostenible;2000000
 2021;23003;425A;8;;;ACTIVOS FINANCIEROS;300000000
 2021;23003;425A;82;;;Concesión de préstamos al Sector Público;300000000
 2021;23003;425A;821;;;Préstamos a largo plazo;300000000
@@ -14947,13 +14969,13 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;23009;425A;6;;;INVERSIONES REALES;3012180
 2021;23009;425A;64;;;Gastos de inversiones de carácter inmaterial;3012180
 2021;23009;425A;640;;;Gastos en inversiones de carácter inmaterial;3012180
-2021;27302;425A;7;;;TRANSFERENCIAS DE CAPITAL;3597848720
-2021;27302;425A;77;;;A empresas privadas;3597848720
+2021;27302;425A;7;;;TRANSFERENCIAS DE CAPITAL;3596848720
+2021;27302;425A;77;;;A empresas privadas;3596848720
 2021;27302;425A;774/27302;;;Para compensar la reducción de ingresos en el sistema eléctrico como consecuencia de las medidas del art. 42 del Real Decreto-ley 11/2020;172000000
 2021;27302;425A;775/27302;;;Para compensar la reducción de ingresos en el sistema gasista como consecuencia de las medidas del art. 43 del Real Decreto-ley 11/2020;30670000
 2021;27302;425A;776/27302;;;Para compensar reducción de ingresos en el sistema eléctrico consecuencia de la eliminación del peaje 6.1.b;22372500
 2021;27302;425A;777/27302;;;Para financiar costes del sector eléctrico de acuerdo con el apartado b) de la disposición adicional segunda de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética;1100000000
-2021;27302;425A;778/27302;;;Para financiar costes del sector eléctrico de acuerdo con el apartado a) de la disposición adicional segunda de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética;1783000000
+2021;27302;425A;778/27302;;;Para financiar costes del sector eléctrico de acuerdo con el apartado a) de la disposición adicional segunda de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética;1782000000
 2021;27302;425A;779/27302;;;Para atender el extracoste de generación al que se refiere la disposición adicional decimoquinta de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico;489806220
 2021;20050;430A;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;160000
 2021;20050;430A;29;;;Gastos corrientes en bienes y servicios. Mecanismo de Recuperación y Resiliencia;160000
@@ -15014,10 +15036,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;20005;431A;447/20005;;04;Al ICEX para atender sus gastos de funcionamiento en el fomento de la internacionalización y atracción de inversiones extranjeras en España;14886770
 2021;20005;431A;48;;;A familias e instituciones sin fines de lucro;120000
 2021;20005;431A;480/20005;;;Becas Fulbright de comercio;120000
-2021;20005;431A;7;;;TRANSFERENCIAS DE CAPITAL;67816290
-2021;20005;431A;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;67816290
-2021;20005;431A;747/20005;;;Transferencias a entes públicos empresariales;67816290
-2021;20005;431A;747/20005;;01;Al ICEX para sus operaciones de capital en el fomento de la internacionalización y atracción de inversiones extranjeras en España;67816290
+2021;20005;431A;7;;;TRANSFERENCIAS DE CAPITAL;66816290
+2021;20005;431A;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;66816290
+2021;20005;431A;747/20005;;;Transferencias a entes públicos empresariales;66816290
+2021;20005;431A;747/20005;;01;Al ICEX para sus operaciones de capital en el fomento de la internacionalización y atracción de inversiones extranjeras en España;66816290
 2021;20006;431A;1;;;GASTOS DE PERSONAL;17641290
 2021;20006;431A;10;;;Altos cargos;59300
 2021;20006;431A;100;;;Retribuciones básicas y otras remuneraciones;59300
@@ -15084,9 +15106,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;20006;431A;3;;;GASTOS FINANCIEROS;108870
 2021;20006;431A;35;;;Intereses de demora y otros gastos financieros;108870
 2021;20006;431A;359;;;Otros gastos financieros;108870
-2021;20006;431A;4;;;TRANSFERENCIAS CORRIENTES;35000
+2021;20006;431A;4;;;TRANSFERENCIAS CORRIENTES;1035000
 2021;20006;431A;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;30000
 2021;20006;431A;444/20006;;;Para cobertura de las diferencias producidas por operaciones autorizadas al amparo de la Ley 14/2013, de 27 de septiembre, de apoyo a los emprendedores y su internacionalización, a librar a través del Instituto de Crédito Oficial (ICO), incluidas obligaciones de ejercicios anteriores;30000
+2021;20006;431A;45;;;A Comunidades Autónomas;1000000
+2021;20006;431A;450/20006;;;Para promover la internacionalización de las actividades económicas de Canarias;1000000
 2021;20006;431A;49;;;Al exterior;5000
 2021;20006;431A;490/20006;;;Subvención a las Cámaras de Comercio en el Extranjero;5000
 2021;20006;431A;6;;;INVERSIONES REALES;1400000
@@ -15267,21 +15291,23 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;20004;432A;3;;;GASTOS FINANCIEROS;40000
 2021;20004;432A;35;;;Intereses de demora y otros gastos financieros;40000
 2021;20004;432A;359;;;Otros gastos financieros;40000
-2021;20004;432A;4;;;TRANSFERENCIAS CORRIENTES;250000
-2021;20004;432A;48;;;A familias e instituciones sin fines de lucro;100000
+2021;20004;432A;4;;;TRANSFERENCIAS CORRIENTES;280000
+2021;20004;432A;48;;;A familias e instituciones sin fines de lucro;130000
 2021;20004;432A;480/20004;;;A la Fundación Mas Miró;100000
+2021;20004;432A;481/20004;;;Al Terres Travel Festival Certamen Internacional del Audiovisual Turistic;30000
 2021;20004;432A;49;;;Al exterior;150000
 2021;20004;432A;491/20004;;;Cuota a la Organización Mundial del Turismo;150000
 2021;20004;432A;6;;;INVERSIONES REALES;2556700
 2021;20004;432A;64;;;Gastos de inversiones de carácter inmaterial;2556700
 2021;20004;432A;640;;;Gastos en inversiones de carácter inmaterial;2556700
-2021;20004;432A;7;;;TRANSFERENCIAS DE CAPITAL;24562250
+2021;20004;432A;7;;;TRANSFERENCIAS DE CAPITAL;24532250
 2021;20004;432A;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;277250
 2021;20004;432A;742/20004;;;Al ICO para tipos de interés de préstamos concedidos al amparo del Plan Renove Turismo 2009, incluidas obligaciones de ejercicios anteriores;239650
 2021;20004;432A;743/20004;;;Al ICO para tipos de interés de préstamos concedidos al amparo del Plan FuturE 2009, incluidas obligaciones de ejercicios anteriores;37600
-2021;20004;432A;76;;;A Entidades Locales;23460000
-2021;20004;432A;763/20004;;;A entidades locales;23460000
-2021;20004;432A;763/20004;;01;Planes de Sostenibilidad Turística en Destinos;23460000
+2021;20004;432A;76;;;A Entidades Locales;23430000
+2021;20004;432A;763/20004;;;A entidades locales;23430000
+2021;20004;432A;763/20004;;01;Planes de Sostenibilidad Turística en Destinos;23230000
+2021;20004;432A;763/20004;;03;Al Ajuntament de Gironella. Recuperación del antiguo trazado del Carrillet (tren de vía estrecha) como itinerario saludable y turístico de norte a sur del municipio.;200000
 2021;20004;432A;78;;;A familias e instituciones sin fines de lucro;825000
 2021;20004;432A;786/20004;;;Programas de Colaboración con Actores Sociales de Turismo;825000
 2021;20004;432A;786/20004;;01;A la Asociación de Educación Ambiental y del Consumidor (ADEAC) para financiar la campaña anual de Banderas Azules;35000
@@ -15443,16 +15469,18 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;20009;433M;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;154560
 2021;20009;433M;160;;;Cuotas sociales;154560
 2021;20009;433M;160;;00;Seguridad Social;154560
-2021;20009;433M;4;;;TRANSFERENCIAS CORRIENTES;1610000
-2021;20009;433M;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;1610000
-2021;20009;433M;445/20009;;;A la Empresa Nacional de Innovación, S.A. (ENISA);1610000
+2021;20009;433M;4;;;TRANSFERENCIAS CORRIENTES;1410000
+2021;20009;433M;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;1410000
+2021;20009;433M;445/20009;;;A la Empresa Nacional de Innovación, S.A. (ENISA);1410000
 2021;20009;433M;6;;;INVERSIONES REALES;4461130
 2021;20009;433M;64;;;Gastos de inversiones de carácter inmaterial;4461130
 2021;20009;433M;640;;;Gastos en inversiones de carácter inmaterial;4461130
-2021;20009;433M;7;;;TRANSFERENCIAS DE CAPITAL;34236590
-2021;20009;433M;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;26236590
-2021;20009;433M;747/20009;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.;26236590
-2021;20009;433M;747/20009;;01;A la Compañía Española de Reafianzamiento, S.A. (CERSA);26236590
+2021;20009;433M;7;;;TRANSFERENCIAS DE CAPITAL;24436590
+2021;20009;433M;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;16236590
+2021;20009;433M;747/20009;;;A sdades, ent.públ.emp, fundac. y resto entes Sect. Públ.;16236590
+2021;20009;433M;747/20009;;01;A la Compañía Española de Reafianzamiento, S.A. (CERSA);16236590
+2021;20009;433M;76;;;A Entidades Locales;200000
+2021;20009;433M;764/20009;;;Al Ayuntamiento de Mollerusa. Creación del Institut d'Emprenedoria i Innovació de Mollerusa.;200000
 2021;20009;433M;78;;;A familias e instituciones sin fines de lucro;8000000
 2021;20009;433M;787/20009;;;A familias e instituciones sin fines de lucro;8000000
 2021;20009;433M;787/20009;;05;A Agrupaciones Empresariales Innovadoras (AEI);8000000
@@ -15513,13 +15541,13 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;17032;441N;3;;;GASTOS FINANCIEROS;16310
 2021;17032;441N;35;;;Intereses de demora y otros gastos financieros;16310
 2021;17032;441N;353;;;Intereses de demora por Sentencias, Recursos y Reclamaciones, incluidas obligaciones de ejercicios anteriores;16310
-2021;17032;441N;4;;;TRANSFERENCIAS CORRIENTES;169683260
+2021;17032;441N;4;;;TRANSFERENCIAS CORRIENTES;167168870
 2021;17032;441N;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;15433340
 2021;17032;441N;442/17032;;;Compensación económica a Empresas Públicas o privadas de transporte marítimo por la prestación del servicio de navegaciones de interés público;15433340
-2021;17032;441N;48;;;A familias e instituciones sin fines de lucro;154249920
-2021;17032;441N;481/17032;;;Para satisfacer la bonificación a residentes no peninsulares por traslado a la Península y regreso por vía marítima, así como por los traslados interinsulares;144249920
+2021;17032;441N;48;;;A familias e instituciones sin fines de lucro;151735530
+2021;17032;441N;481/17032;;;Para satisfacer la bonificación a residentes no peninsulares por traslado a la Península y regreso por vía marítima, así como por los traslados interinsulares;141735530
 2021;17032;441N;481/17032;;01;Baleares;50726540
-2021;17032;441N;481/17032;;02;Canarias;60865020
+2021;17032;441N;481/17032;;02;Canarias;58350630
 2021;17032;441N;481/17032;;03;Ceuta y Melilla;32658360
 2021;17032;441N;484/17032;;;Para satisfacer bonificaciones en billetes de transporte marítimo expedidos a familias numerosas;10000000
 2021;17034;441O;4;;;TRANSFERENCIAS CORRIENTES;664085920
@@ -15589,6 +15617,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;23050;450D;7;;;TRANSFERENCIAS DE CAPITAL;144030000
 2021;23050;450D;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;144030000
 2021;23050;450D;744/23050;;;Aportación al FRER para actuaciones en la costa. En Comunidades Autónomas;144030000
+2021;23050;450D;744/23050;;00;Aportación al FRER para actuaciones en la costa. En Comunidades Autónomas;143780000
+2021;23050;450D;744/23050;;01;Aportación al FRER para Caminos de ronda a su paso por Roses;75000
+2021;23050;450D;744/23050;;02;Aportación al FRER para Sendero peatonal entre carrer Colón y el Cap de Salou;100000
+2021;23050;450D;744/23050;;03;Aportación al FRER para Mejora de caminos de ronda S'Agaró a Punta Prima;75000
 2021;23050;450F;7;;;TRANSFERENCIAS DE CAPITAL;500000000
 2021;23050;450F;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;500000000
 2021;23050;450F;745/23050;;;Aportación al FRER para Estrategia de Economía Circular;500000000
@@ -15905,11 +15937,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;17020;451N;472/17020;;01;Subvención al funcionamiento de la Autopista del Mar entre Gijón y Nantes;1640130
 2021;17020;451N;48;;;A familias e instituciones sin fines de lucro;70000
 2021;17020;451N;489/17020;;;Centro de Estudios de Transportes del Mediterráneo Occidental;70000
-2021;17020;451N;6;;;INVERSIONES REALES;5856020
+2021;17020;451N;6;;;INVERSIONES REALES;200000
 2021;17020;451N;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;100000
 2021;17020;451N;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;100000
-2021;17020;451N;64;;;Gastos de inversiones de carácter inmaterial;5756020
-2021;17020;451N;640;;;Gastos en inversiones de carácter inmaterial;5756020
+2021;17020;451N;64;;;Gastos de inversiones de carácter inmaterial;100000
+2021;17020;451N;640;;;Gastos en inversiones de carácter inmaterial;100000
 2021;17020;451N;7;;;TRANSFERENCIAS DE CAPITAL;221961680
 2021;17020;451N;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;16961680
 2021;17020;451N;741/17020;;;Sociedad Española de Estudios para la Comunicación Fija a través del Estrecho de Gibraltar, S.A. (SECEGSA);50000
@@ -16207,18 +16239,18 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;23005;452A;451/23005;;;Para abaratar a los agricultores el sobre coste de la desalación y de la extracción de agua de pozos y de galerías para el riego agrícola en Canarias;8000000
 2021;23005;452A;46;;;A Entidades Locales;426300
 2021;23005;452A;460/23005;;;Diputación Provincial de Cuenca para el pago del IBI del Embalse de Alarcón;426300
-2021;23005;452A;6;;;INVERSIONES REALES;243525100
+2021;23005;452A;6;;;INVERSIONES REALES;246125100
 2021;23005;452A;60;;;Inversión nueva en infraestructuras y bienes destinados al uso general;22500000
 2021;23005;452A;601;;;Otras;22000000
 2021;23005;452A;609/23005;;;Expropiaciones, modificados, adicionales y otras incidencias de inversiones de ejercicios anteriores.;500000
-2021;23005;452A;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;199925100
+2021;23005;452A;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;199775100
 2021;23005;452A;611;;;Otras;170655100
-2021;23005;452A;615;;;Inversiones en actuaciones medioambientales y PIMA ADAPTA. Actuaciones financiadas con ingresos  procedentes de subastas de derechos de emisión;27270000
+2021;23005;452A;615;;;Inversiones en actuaciones medioambientales y PIMA ADAPTA. Actuaciones financiadas con ingresos  procedentes de subastas de derechos de emisión;27120000
 2021;23005;452A;619/23005;;;Incidencias de inversiones de ejercicios anteriores.;2000000
 2021;23005;452A;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;1000000
 2021;23005;452A;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;1000000
-2021;23005;452A;64;;;Gastos de inversiones de carácter inmaterial;20100000
-2021;23005;452A;640;;;Gastos en inversiones de carácter inmaterial;20000000
+2021;23005;452A;64;;;Gastos de inversiones de carácter inmaterial;22850000
+2021;23005;452A;640;;;Gastos en inversiones de carácter inmaterial;22750000
 2021;23005;452A;649;;;Incidencias de inversiones de ejercicios anteriores;100000
 2021;23005;452A;7;;;TRANSFERENCIAS DE CAPITAL;2000
 2021;23005;452A;75;;;A Comunidades Autónomas;2000
@@ -16525,9 +16557,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;23104;452A;4;;;TRANSFERENCIAS CORRIENTES;45000
 2021;23104;452A;45;;;A Comunidades Autónomas;45000
 2021;23104;452A;451/23104;;;Universidad de Zaragoza, para financiar Jornadas de Derecho sobre Agua;45000
-2021;23104;452A;6;;;INVERSIONES REALES;31381500
-2021;23104;452A;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;23840000
+2021;23104;452A;6;;;INVERSIONES REALES;31655500
+2021;23104;452A;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;24114000
 2021;23104;452A;610;;;Inversiones en terrenos;23840000
+2021;23104;452A;611;;;Otras;274000
 2021;23104;452A;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;2126500
 2021;23104;452A;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;2126500
 2021;23104;452A;64;;;Gastos de inversiones de carácter inmaterial;5415000
@@ -17365,12 +17398,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;17040;453A;871/17040;;;ADIF-Alta Velocidad;466173950
 2021;17040;453A;872/17040;;;ADIF para amortización de deuda a largo plazo;57679000
 2021;17040;453A;873/17040;;;ADIF;842232000
-2021;37001;453A;7;;;TRANSFERENCIAS DE CAPITAL;315559150
-2021;37001;453A;75;;;A Comunidades Autónomas;315559150
+2021;37001;453A;7;;;TRANSFERENCIAS DE CAPITAL;261554150
+2021;37001;453A;75;;;A Comunidades Autónomas;261554150
 2021;37001;453A;751/37001;;;A la Comunidad Autónoma de Andalucía;11127180
 2021;37001;453A;751/37001;;00;Para la financiación de infraestructuras del transporte metropolitano de Sevilla, según convenio suscrito con el Estado;5916200
 2021;37001;453A;751/37001;;01;Para la financiación de infraestructuras del transporte metropolitano de Málaga, según convenio suscrito con el Estado;5210980
-2021;37001;453A;758/37001;;;Convenios con Comunidades Autónomas para infraestructuras del transporte ferroviario;304431970
+2021;37001;453A;758/37001;;;Convenios con Comunidades Autónomas para infraestructuras del transporte ferroviario;250426970
 2021;17038;453B;1;;;GASTOS DE PERSONAL;35573090
 2021;17038;453B;10;;;Altos cargos;59300
 2021;17038;453B;100;;;Retribuciones básicas y otras remuneraciones;59300
@@ -17407,26 +17440,26 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;17038;453B;4;;;TRANSFERENCIAS CORRIENTES;50000
 2021;17038;453B;46;;;A Entidades Locales;50000
 2021;17038;453B;461/17038;;;Convenio con la Comarca del Alto Gállego. Obligaciones de ejercicios anteriores;50000
-2021;17038;453B;6;;;INVERSIONES REALES;988719110
-2021;17038;453B;60;;;Inversión nueva en infraestructuras y bienes destinados al uso general;795035760
-2021;17038;453B;601;;;Otras;758198540
+2021;17038;453B;6;;;INVERSIONES REALES;988689110
+2021;17038;453B;60;;;Inversión nueva en infraestructuras y bienes destinados al uso general;794785760
+2021;17038;453B;601;;;Otras;757948540
 2021;17038;453B;602;;;Destinado a atender los efectos derivados de la resolución de los contratos de concesión de obra pública;1000
 2021;17038;453B;609/17038;;;Expropiaciones, modificados adicionales y otras incidencias de inversiones de ejercicios anteriores;36836220
-2021;17038;453B;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;192351910
-2021;17038;453B;611;;;Otras;184373570
+2021;17038;453B;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;192571910
+2021;17038;453B;611;;;Otras;184593570
 2021;17038;453B;619/17038;;;Expropiaciones, modificados adicionales y otras incidencias de ejercicios anteriores;7978340
 2021;17038;453B;64;;;Gastos de inversiones de carácter inmaterial;1331440
 2021;17038;453B;640;;;Gastos en inversiones de carácter inmaterial;1331440
-2021;17038;453B;7;;;TRANSFERENCIAS DE CAPITAL;228460000
+2021;17038;453B;7;;;TRANSFERENCIAS DE CAPITAL;234116020
 2021;17038;453B;75;;;A Comunidades Autónomas;219410000
 2021;17038;453B;752/17038;;;Convenio con la Generalitat de Cataluña sobre la B-23;2000000
 2021;17038;453B;754/17038;;;Subvención a la Junta de Comunidades de Castilla-La Mancha;210000
-2021;17038;453B;755/17038;;;Convenio con la Comunidad Autónoma de Canarias;200000000
-2021;17038;453B;758/17038;;;Convenios con Comunidades Autónomas;12200000
-2021;17038;453B;758/17038;;01;Al Gobierno de Navarra para actuaciones en la N-121 de su titularidad que den continuidad a la Red de carreteras del Estado en la Comunidad Foral;12000000
+2021;17038;453B;755/17038;;;Convenio con la Comunidad Autónoma de Canarias;197000000
+2021;17038;453B;758/17038;;;Convenios con Comunidades Autónomas;15200000
+2021;17038;453B;758/17038;;01;Al Gobierno de Navarra para actuaciones en la N-121 de su titularidad que den continuidad a la Red de carreteras del Estado en la Comunidad Foral;15000000
 2021;17038;453B;758/17038;;02;Convenio con la Junta de Extremadura y el Ayuntamiento de Plasencia;200000
 2021;17038;453B;759/17038;;;Convenio con la Comunidad Autónoma de Murcia. Autovía Zeneta-Santomera;5000000
-2021;17038;453B;76;;;A Entidades Locales;9050000
+2021;17038;453B;76;;;A Entidades Locales;14706020
 2021;17038;453B;763/17038;;;CC.LL. por asunción de competencias derivadas del cambio de titularidad de determinados tramos de carreteras estatales a vías urbanas;1200000
 2021;17038;453B;763/17038;;00;Resto de actuaciones por asunción de competencias por cambio de titularidad en tramos de carreteras estatales a vías urbanas;1200000
 2021;17038;453B;766/17038;;;Para financiar obras en los Convenios con los Consells Insulares de Mallorca, Menorca e Ibiza;4000000
@@ -17434,13 +17467,13 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;17038;453B;766/17038;;01;Para financiar obras en el Convenio con el Consell Insular de Menorca;1000000
 2021;17038;453B;766/17038;;02;Para financiar obras en el Convenio con el Consell Insular de Ibiza;1000000
 2021;17038;453B;767/17038;;;Convenio con el Cabildo Insular de La Palma para la mejora de la carretera de acceso al Instituto Astrofísico de Canarias;1000000
-2021;17038;453B;768/17038;;;Convenios con Entidades Locales;2850000
+2021;17038;453B;768/17038;;;Convenios con Entidades Locales;8506020
 2021;17038;453B;768/17038;;03;Convenio con el Ayuntamiento de Las Palmas de Gran Canaria para financiar el proyecto Metroguagua;1000000
 2021;17038;453B;768/17038;;04;Convenio entre el Ministerio de Transportes, Movilidad y Agenda Urbana y el Ayuntamiento de Castañeda (Cantabria) para la financiación de las obras de construcción de una pasarela peatonal sobre la carretera N-634 en el término municipal de Castañeda;350000
 2021;17038;453B;768/17038;;07;Al Ayuntamiento de Soria para la construccion de una pasarela peatonal sobre la SO-20, para conexión del polígono industrial de Soria con el barrio Las Casas;200000
 2021;17038;453B;768/17038;;09;Convenio con el Ayuntamiento de Valencia para la rehabilitación Torre Miramar;100000
 2021;17038;453B;768/17038;;10;Convenio con la Diputación Foral de Álava por obras de ampliación de la AP-1. Enlace de Armiñón;200000
-2021;17038;453B;768/17038;;11;Convenio con el Ayuntamiento de Rivas-Vaciamadrid para nuevo enlace M-50;1000000
+2021;17038;453B;768/17038;;11;Convenio con el Ayuntamiento de Rivas-Vaciamadrid para nuevo enlace M-50;6656020
 2021;17038;453C;1;;;GASTOS DE PERSONAL;20394870
 2021;17038;453C;12;;;Funcionarios;6984440
 2021;17038;453C;120;;;Retribuciones básicas;3574420
@@ -17493,9 +17526,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;17038;453C;227;;01;Seguridad;33000
 2021;17038;453C;227;;06;Estudios y trabajos técnicos;2610
 2021;17038;453C;227;;99;Otros;20000
-2021;17038;453C;6;;;INVERSIONES REALES;1032980890
-2021;17038;453C;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;1032570900
-2021;17038;453C;611;;;Otras;1022915730
+2021;17038;453C;6;;;INVERSIONES REALES;1033010890
+2021;17038;453C;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;1032600900
+2021;17038;453C;611;;;Otras;1022945730
 2021;17038;453C;619/17038;;;Expropiaciones, modificados adicionales y otras incidencias de ejercicios anteriores;9655170
 2021;17038;453C;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;409990
 2021;17038;453C;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;409990
@@ -18289,8 +18322,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;23008;456B;75;;;A Comunidades Autónomas;5871190
 2021;23008;456B;750/23008;;;Programa de Economía Circular;1871060
 2021;23008;456B;750/23008;;01;Programa de Economía Circular;1871060
+2021;23008;456B;751/23008;;;Programa de Economía Circular en Canarias. Gestión, valorización, reciclaje y descontaminación de los residuos;1000000
 2021;23008;456B;752/23008;;;Política de residuos;130
-2021;23008;456B;756/23008;;;PIMA RESIDUOS. Actuaciones financiadas con ingresos procedentes de subastas de derechos de emisión;4000000
+2021;23008;456B;756/23008;;;PIMA RESIDUOS. Actuaciones financiadas con ingresos procedentes de subastas de derechos de emisión;3000000
 2021;23011;456C;1;;;GASTOS DE PERSONAL;5319290
 2021;23011;456C;10;;;Altos cargos;59300
 2021;23011;456C;100;;;Retribuciones básicas y otras remuneraciones;59300
@@ -18316,18 +18350,19 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;23011;456C;160;;00;Seguridad Social;540000
 2021;23011;456C;4;;;TRANSFERENCIAS CORRIENTES;6433340
 2021;23011;456C;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;6293340
-2021;23011;456C;440/23011;;;A la Fundación Biodiversidad, F.S.P., para gastos corrientes;6293340
+2021;23011;456C;440/23011;;;A la Fundación Biodiversidad, F.S.P., para gastos corrientes;6093340
+2021;23011;456C;441/23011;;;A la Fundación Biodiversidad, F.S.P., para actuaciones de la asamblea ciudadana para el cambio climático;200000
 2021;23011;456C;46;;;A Entidades Locales;20000
 2021;23011;456C;460/23011;;;Al Ayuntamiento de Tineo (Asturias) para la celebración  de la XIII Feria internacional ASTUR-FORESTA;20000
 2021;23011;456C;48;;;A familias e instituciones sin fines de lucro;120000
 2021;23011;456C;481/23011;;;Colaboración para la organización del Congreso Forestal Español 2021. Sociedad Española de Ciencias Forestales;20000
 2021;23011;456C;488/23011;;;Confederación de Organizaciones de Selvicultores de España (COSE);100000
-2021;23011;456C;6;;;INVERSIONES REALES;136676800
+2021;23011;456C;6;;;INVERSIONES REALES;136552800
 2021;23011;456C;60;;;Inversión nueva en infraestructuras y bienes destinados al uso general;17000000
 2021;23011;456C;601;;;Otras;17000000
-2021;23011;456C;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;87876360
+2021;23011;456C;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;87752360
 2021;23011;456C;611;;;Otras;4068000
-2021;23011;456C;612;;;Otras inversiones del medio natural y política forestal;83808360
+2021;23011;456C;612;;;Otras inversiones del medio natural y política forestal;83684360
 2021;23011;456C;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;1001000
 2021;23011;456C;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;1001000
 2021;23011;456C;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;3002000
@@ -18507,16 +18542,21 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;23006;456D;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;4390770
 2021;23006;456D;160;;;Cuotas sociales;4390770
 2021;23006;456D;160;;00;Seguridad Social;4390770
-2021;23006;456D;6;;;INVERSIONES REALES;70408290
+2021;23006;456D;6;;;INVERSIONES REALES;66658290
 2021;23006;456D;60;;;Inversión nueva en infraestructuras y bienes destinados al uso general;38267840
 2021;23006;456D;601;;;Otras;38267840
-2021;23006;456D;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;21427310
-2021;23006;456D;611;;;Otras;17877310
+2021;23006;456D;61;;;Inversión de reposición en infraestructuras y bienes destinados al uso general;22477310
+2021;23006;456D;611;;;Otras;18927310
 2021;23006;456D;614;;;PIMA ADAPTA Costas. Actuaciones financiadas con ingresos procedentes de subastas de derechos de emisión;3550000
 2021;23006;456D;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;231140
 2021;23006;456D;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;231140
-2021;23006;456D;64;;;Gastos de inversiones de carácter inmaterial;10482000
-2021;23006;456D;640;;;Gastos en inversiones de carácter inmaterial;10482000
+2021;23006;456D;64;;;Gastos de inversiones de carácter inmaterial;5682000
+2021;23006;456D;640;;;Gastos en inversiones de carácter inmaterial;5682000
+2021;23006;456D;7;;;TRANSFERENCIAS DE CAPITAL;1000000
+2021;23006;456D;76;;;A Entidades Locales;1000000
+2021;23006;456D;761/23006;;;Restauración muro protección y barandilla del paseo de la Concha en Donostia-San Sebastián;500000
+2021;23006;456D;767/23006;;;"Ajuntament de Deltebre. Entubamiento, bombeo y posterior urbanización de un paseo multifuncional sobre el actual desague del ""Prestamo"" del municipio de Deltebre";250000
+2021;23006;456D;769/23006;;;Consolidación estructural astillero de Mendieta en Lekeitio Bizkaia;250000
 2021;23013;456E;1;;;GASTOS DE PERSONAL;1080990
 2021;23013;456E;10;;;Altos cargos;69130
 2021;23013;456E;100;;;Retribuciones básicas y otras remuneraciones;69130
@@ -18881,7 +18921,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;28050;460E;749/28050;;07;Al CDTI para capital riesgo, coinversión e inversión en empresas con tecnologías estratégicas. Mecanismo de Recuperación y Resiliencia;217000000
 2021;28050;460E;749/28050;;08;Al CDTI para ayudas Cervera a centros tecnológicos y pymes y midcaps para la realización de I+D en Tecnologías Prioritarias. Mecanismo de Recuperación y Resiliencia;40000000
 2021;28050;460E;749/28050;;09;Al CDTI para I+D de vanguardia orientada a retos de la sociedad. Mecanismo de Recuperación y Resiliencia;100000000
-2021;28050;460E;749/28050;;10;Al CDTI para el Plan Tecnológico Aeronáutico. Mecanismo de Recuperación y Resiliencia;40000000
+2021;28050;460E;749/28050;;10;Al CDTI para el Plan Tecnológico Aeronáutico. Mecanismo de Recuperación y Resiliencia;30000000
+2021;28050;460E;749/28050;;11;Al CDTI para la financiación de Proyectos de Investigación, Desarrollo e Innovación, incluyendo la Modernización Tecnológica, del Plan Tecnológico  Aeronáutico. Mecanismo de Recuperación y Resiliencia;10000000
 2021;28001;461M;1;;;GASTOS DE PERSONAL;14677440
 2021;28001;461M;10;;;Altos cargos;203290
 2021;28001;461M;100;;;Retribuciones básicas y otras remuneraciones;203290
@@ -18920,14 +18961,14 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;28001;461M;162;;04;Acción social;413450
 2021;28001;461M;162;;05;Seguros;50000
 2021;28001;461M;162;;09;Otros;60000
-2021;28001;461M;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;8186000
+2021;28001;461M;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;8146000
 2021;28001;461M;20;;;Arrendamientos y cánones;402000
 2021;28001;461M;202;;;Arrendamientos de edificios y otras construcciones;402000
 2021;28001;461M;21;;;Reparaciones, mantenimiento y conservación;546700
 2021;28001;461M;212;;;Edificios y otras construcciones;155540
 2021;28001;461M;213;;;Maquinaria, instalaciones y utillaje;308490
 2021;28001;461M;215;;;Mobiliario y enseres;82670
-2021;28001;461M;22;;;Material, suministros y otros;7061500
+2021;28001;461M;22;;;Material, suministros y otros;7021500
 2021;28001;461M;220;;;Material de oficina;111320
 2021;28001;461M;220;;00;Ordinario no inventariable;87630
 2021;28001;461M;220;;01;Prensa, revistas, libros y otras publicaciones;7050
@@ -18948,19 +18989,19 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;28001;461M;226;;;Gastos diversos;14000
 2021;28001;461M;226;;01;Atenciones protocolarias y representativas;10000
 2021;28001;461M;226;;06;Reuniones, conferencias y cursos;4000
-2021;28001;461M;227;;;Trabajos realizados por otras empresas y profesionales;5713840
+2021;28001;461M;227;;;Trabajos realizados por otras empresas y profesionales;5673840
 2021;28001;461M;227;;00;Limpieza y aseo;58860
 2021;28001;461M;227;;01;Seguridad;1015920
 2021;28001;461M;227;;04;Custodia, depósito y almacenaje;2540
-2021;28001;461M;227;;06;Estudios y trabajos técnicos;4423320
+2021;28001;461M;227;;06;Estudios y trabajos técnicos;4383320
 2021;28001;461M;227;;99;Otros;213200
 2021;28001;461M;23;;;Indemnizaciones por razón del servicio;175800
 2021;28001;461M;230;;;Dietas;61480
 2021;28001;461M;231;;;Locomoción;83230
 2021;28001;461M;233;;;Otras indemnizaciones;31090
-2021;28001;461M;6;;;INVERSIONES REALES;12752620
-2021;28001;461M;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;10421010
-2021;28001;461M;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;10421010
+2021;28001;461M;6;;;INVERSIONES REALES;11207620
+2021;28001;461M;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;8876010
+2021;28001;461M;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;8876010
 2021;28001;461M;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;454730
 2021;28001;461M;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;454730
 2021;28001;461M;64;;;Gastos de inversiones de carácter inmaterial;1876880
@@ -18990,15 +19031,15 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;28002;461M;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;458600
 2021;28002;461M;160;;;Cuotas sociales;458600
 2021;28002;461M;160;;00;Seguridad Social;458600
-2021;28002;461M;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;951360
-2021;28002;461M;22;;;Material, suministros y otros;889890
+2021;28002;461M;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;901360
+2021;28002;461M;22;;;Material, suministros y otros;839890
 2021;28002;461M;220;;;Material de oficina;150
 2021;28002;461M;220;;01;Prensa, revistas, libros y otras publicaciones;150
 2021;28002;461M;226;;;Gastos diversos;2740
 2021;28002;461M;226;;01;Atenciones protocolarias y representativas;2340
 2021;28002;461M;226;;06;Reuniones, conferencias y cursos;400
-2021;28002;461M;227;;;Trabajos realizados por otras empresas y profesionales;887000
-2021;28002;461M;227;;06;Estudios y trabajos técnicos;887000
+2021;28002;461M;227;;;Trabajos realizados por otras empresas y profesionales;837000
+2021;28002;461M;227;;06;Estudios y trabajos técnicos;837000
 2021;28002;461M;23;;;Indemnizaciones por razón del servicio;1470
 2021;28002;461M;230;;;Dietas;660
 2021;28002;461M;231;;;Locomoción;760
@@ -19258,12 +19299,14 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;15101;462N;83;;;Concesión de préstamos fuera del Sector Público;35740
 2021;15101;462N;830;;;Préstamos a corto plazo;35740
 2021;15101;462N;830;;08;Familias e instituciones sin fines de lucro;35740
-2021;28001;463A;4;;;TRANSFERENCIAS CORRIENTES;12907600
+2021;28001;463A;4;;;TRANSFERENCIAS CORRIENTES;13142600
 2021;28001;463A;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;96000
 2021;28001;463A;449/28001;;;Transferencias, ayudas nominativas y otros;96000
 2021;28001;463A;449/28001;;01;A la Fundación Residencia de Estudiantes para becas;96000
-2021;28001;463A;48;;;A familias e instituciones sin fines de lucro;12811600
-2021;28001;463A;481/28001;;;Ayudas al Instituto de España, reales academias y otras instituciones adscritas al programa para desarrollo de actividades y gastos de funcionamiento;12727950
+2021;28001;463A;45;;;A Comunidades Autónomas;100000
+2021;28001;463A;450/28001;;;Universitat Rovira i Virgili para el Centre Technològic de la Quimica de Tarragona y el CentreTecnològic del Vi;100000
+2021;28001;463A;48;;;A familias e instituciones sin fines de lucro;12946600
+2021;28001;463A;481/28001;;;Ayudas al Instituto de España, reales academias y otras instituciones adscritas al programa para desarrollo de actividades y gastos de funcionamiento;12812950
 2021;28001;463A;481/28001;;01;Real Academia Española;6827420
 2021;28001;463A;481/28001;;03;Instituto de España;308000
 2021;28001;463A;481/28001;;04;Real Academia de Historia;750000
@@ -19274,7 +19317,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;28001;463A;481/28001;;09;Real Academia de Jurisprudencia y Legislación;313500
 2021;28001;463A;481/28001;;10;Real Academia Nacional de Medicina;330000
 2021;28001;463A;481/28001;;12;Institut d'Estudis Catalans;311380
-2021;28001;463A;481/28001;;13;Academia de la Lengua Vasca (Euskaltzaindia);220000
+2021;28001;463A;481/28001;;13;Academia de la Lengua Vasca (Euskaltzaindia);250000
 2021;28001;463A;481/28001;;14;A la Real Academia de la Historia para mantenimiento y actualización del Diccionario Biográfico Español;95280
 2021;28001;463A;481/28001;;15;Real Academia de Ingeniería;264000
 2021;28001;463A;481/28001;;16;Real Academia de Ciencias Económicas y Financieras;264000
@@ -19283,13 +19326,15 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;28001;463A;481/28001;;19;Real Academia de Ciencias Veterinarias;52800
 2021;28001;463A;481/28001;;20;Real Academia Galega;311380
 2021;28001;463A;481/28001;;22;Real Academia de Gastronomía;110000
-2021;28001;463A;481/28001;;24;Sociedad de Ciencias Aranzadi;110000
+2021;28001;463A;481/28001;;24;Sociedad de Ciencias Aranzadi;125000
 2021;28001;463A;481/28001;;25;Jakiunde (Academia de las Ciencias, de las Artes y de las Letras);82500
 2021;28001;463A;481/28001;;27;A la Real Academia Nacional de Medicina para el Diccionario Panhispánico de Términos Médicos;55000
 2021;28001;463A;481/28001;;28;Academia Joven de España;40000
 2021;28001;463A;481/28001;;29;Academia de Psicología de España;44590
 2021;28001;463A;481/28001;;30;A la Real Academia de Ingeniería para el mantenimiento y actualización del Diccionario Español de Ingeniería;15000
+2021;28001;463A;481/28001;;31;A la Academia de la Llingua Asturiana;40000
 2021;28001;463A;483/28001;;;Comisión permanente de la Asociación de Academias de la Lengua Española;83650
+2021;28001;463A;484/28001;;;A la Fundación Dr. Ferran de Investigación Biomédica;50000
 2021;28301;463A;1;;;GASTOS DE PERSONAL;353025940
 2021;28301;463A;10;;;Altos cargos;89630
 2021;28301;463A;100;;;Retribuciones básicas y otras remuneraciones;89630
@@ -19435,9 +19480,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;28301;463A;491/28301;;32;EU Bioimaging;20000
 2021;28301;463A;491/28301;;33;Time Machine Organisation (TMO);500
 2021;28301;463A;491/28301;;50;Otras;795000
-2021;28301;463A;6;;;INVERSIONES REALES;255039710
-2021;28301;463A;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;44100000
-2021;28301;463A;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;44100000
+2021;28301;463A;6;;;INVERSIONES REALES;256039710
+2021;28301;463A;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;45100000
+2021;28301;463A;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;45100000
 2021;28301;463A;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;22645000
 2021;28301;463A;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;22645000
 2021;28301;463A;64;;;Gastos de inversiones de carácter inmaterial;188294710
@@ -19528,7 +19573,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;28006;463B;3;;;GASTOS FINANCIEROS;1000
 2021;28006;463B;35;;;Intereses de demora y otros gastos financieros;1000
 2021;28006;463B;352;;;Intereses de demora;1000
-2021;28006;463B;4;;;TRANSFERENCIAS CORRIENTES;24147570
+2021;28006;463B;4;;;TRANSFERENCIAS CORRIENTES;26147570
 2021;28006;463B;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;24022420
 2021;28006;463B;449/28006;;;Transferencias, ayudas nominativas y otros;24022420
 2021;28006;463B;449/28006;;00;A la Fundación Española para la Ciencia y la Tecnología (FECYT);10152000
@@ -19537,20 +19582,24 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;28006;463B;449/28006;;05;Al Instituto de Astrofísica de Canarias (IAC);10000000
 2021;28006;463B;449/28006;;06;Al Instituto de Astrofísica de Canarias (IAC) para la Red de Infraestructuras de Astronomía;60000
 2021;28006;463B;449/28006;;09;A la Fundación Residencia de Estudiantes;1110000
+2021;28006;463B;45;;;A Comunidades Autónomas;2000000
+2021;28006;463B;459/28006;;;Transferencias, ayudas nominativas y otros;2000000
+2021;28006;463B;459/28006;;06;A la Universidad de Las Palmas de Gran Canaria para la Estrategia de Especialización Inteligente de las Universidades Públicas Canarias como Centros de Referencia Nacional;1000000
+2021;28006;463B;459/28006;;07;A la Universidad de La Laguna para la Estrategia de Especialización Inteligente de las Universidades Públicas Canarias como Centros de Referencia Nacional;1000000
 2021;28006;463B;48;;;A familias e instituciones sin fines de lucro;125150
 2021;28006;463B;480/28006;;;Transferencias, ayudas nominativas y otros;125150
 2021;28006;463B;480/28006;;01;A la Fundación de Apoyo al Museo de Ciencia y Tecnología, para su liquidación;125150
 2021;28006;463B;6;;;INVERSIONES REALES;300000
 2021;28006;463B;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;300000
 2021;28006;463B;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;300000
-2021;28006;463B;7;;;TRANSFERENCIAS DE CAPITAL;104510000
+2021;28006;463B;7;;;TRANSFERENCIAS DE CAPITAL;101510000
 2021;28006;463B;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;4510000
 2021;28006;463B;749/28006;;;Transferencias, ayudas nominativas y otros;4510000
 2021;28006;463B;749/28006;;01;A la Fundación Española para la Ciencia y la Tecnología (FECYT);4000000
 2021;28006;463B;749/28006;;02;A la Fundación Española para la Ciencia y la Tecnología (FECYT) para el Museo Nacional de Ciencia y Tecnología;360000
 2021;28006;463B;749/28006;;16;Al Instituto de Astrofísica de Canarias (IAC);150000
-2021;28006;463B;78;;;A familias e instituciones sin fines de lucro;100000000
-2021;28006;463B;782/28006;;;Acciones de Política Científica;100000000
+2021;28006;463B;78;;;A familias e instituciones sin fines de lucro;97000000
+2021;28006;463B;782/28006;;;Acciones de Política Científica;97000000
 2021;28007;463B;1;;;GASTOS DE PERSONAL;1911740
 2021;28007;463B;10;;;Altos cargos;59300
 2021;28007;463B;100;;;Retribuciones básicas y otras remuneraciones;59300
@@ -19587,7 +19636,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;28007;463B;230;;;Dietas;105720
 2021;28007;463B;231;;;Locomoción;135580
 2021;28007;463B;233;;;Otras indemnizaciones;53640
-2021;28007;463B;4;;;TRANSFERENCIAS CORRIENTES;155715700
+2021;28007;463B;4;;;TRANSFERENCIAS CORRIENTES;155815700
 2021;28007;463B;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;30042900
 2021;28007;463B;449/28007;;;Transferencias, ayudas nominativas y otros;30042900
 2021;28007;463B;449/28007;;03;A Red.es para la gestión de RedIRIS;6817030
@@ -19595,7 +19644,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;28007;463B;449/28007;;06;Al  Consorcio para la creación, construcción, equipamiento y explotación del Barcelona Supercomputing Center - Centro Nacional de Supercomputación (BSC-CNS);9332000
 2021;28007;463B;449/28007;;07;Al Consorcio para el equipamiento y explotación del Laboratorio Subterráneo de Canfranc (LSC);1056610
 2021;28007;463B;449/28007;;08;Al Consorcio Centro Nacional de Investigación sobre la Evolución Humana (CENIEH);2066670
-2021;28007;463B;45;;;A Comunidades Autónomas;9325000
+2021;28007;463B;45;;;A Comunidades Autónomas;9425000
+2021;28007;463B;454/28007;;;A IRTA. Fruit centre CENTRE TECNOLOGIC DE LA FRUITA;100000
 2021;28007;463B;459/28007;;;Transferencias, ayudas nominativas y otros;9325000
 2021;28007;463B;459/28007;;01;A la Fundación Centro Nacional de Energías Renovables (Fundación CENER-CIEMAT) de Sarriguren, Navarra;4000000
 2021;28007;463B;459/28007;;03;A la Universidad Autónoma de Barcelona para el proyecto MELISSA;75000
@@ -19643,14 +19693,14 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;28007;463B;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;3140
 2021;28007;463B;64;;;Gastos de inversiones de carácter inmaterial;90000
 2021;28007;463B;640;;;Gastos en inversiones de carácter inmaterial;90000
-2021;28007;463B;7;;;TRANSFERENCIAS DE CAPITAL;31955350
-2021;28007;463B;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;29555350
-2021;28007;463B;749/28007;;;Transferencias, ayudas nominativas y otros;29555350
+2021;28007;463B;7;;;TRANSFERENCIAS DE CAPITAL;34055350
+2021;28007;463B;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;26255350
+2021;28007;463B;749/28007;;;Transferencias, ayudas nominativas y otros;26255350
 2021;28007;463B;749/28007;;02;Al Consorcio para el equipamiento y explotación del Laboratorio Subterráneo de Canfranc (LSC);50000
 2021;28007;463B;749/28007;;03;Convenios con consorcios, sociedades, entes públicos empresariales y fundaciones para el desarrollo del Mapa de Infraestructuras Científicas y Técnicas Singulares;5768600
 2021;28007;463B;749/28007;;05;Al Consorcio Centro de Láseres Pulsados Ultracortos Ultraintensos (CLPU);1195100
 2021;28007;463B;749/28007;;06;Al Consorcio Sistema de Observación Costero Illes Balears (SOCIB);1142810
-2021;28007;463B;749/28007;;07;Actuaciones en Infraestructuras Científicas y Técnicas Singulares (ICTs) y Grandes Instalaciones Científicas (GICs) con sede en España;6705000
+2021;28007;463B;749/28007;;07;Actuaciones en Infraestructuras Científicas y Técnicas Singulares (ICTs) y Grandes Instalaciones Científicas (GICs) con sede en España;3405000
 2021;28007;463B;749/28007;;10;Al Consorcio para la creación, construcción, equipamiento y explotación del Barcelona Supercomputing Center-Centro Nacional de  Supercomputación (BSC-CNS);4009210
 2021;28007;463B;749/28007;;11;Al Consorcio para la construcción, equipamiento y explotación del Laboratorio de Luz Sincrotrón (CELLS);4598030
 2021;28007;463B;749/28007;;12;Al Consorcio para la construcción, equipamiento y explotación de la Plataforma Oceánica de Canarias (PLOCAN);741380
@@ -19658,11 +19708,17 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;28007;463B;749/28007;;15;A Red.es para gestion de RedIRIS ;1000000
 2021;28007;463B;749/28007;;17;Al Consorcio ESS-Bilbao para la fuente europea de neutrones por espalación;4060220
 2021;28007;463B;749/28007;;18;Al Consorcio para el impulso de la construcción en España de la infraestructura científico técnica  “International Fusión Materials Irradiation Facility - Demo Oriented Neutron Source” (IFMIF – DONES);250000
-2021;28007;463B;75;;;A Comunidades Autónomas;100000
+2021;28007;463B;75;;;A Comunidades Autónomas;4800000
+2021;28007;463B;751/28007;;;Centralización Infraestructura Científico-Tecnológica en los Servicios Generales de Investigación, SGIker UPV;2600000
+2021;28007;463B;752/28007;;;A la Fundación Centro Nacional de Energías Renovables CENER. Laboratorio Prototipado Ensayo y Demostración de Tecnologías de Almacenamiento  de Energía;1000000
+2021;28007;463B;753/28007;;;Centre Tecnològic Forestal de Catalunya;100000
+2021;28007;463B;754/28007;;;A la Institució CERCA. Centres de Reserca de Catalunya para la infraestructura científico - tecnológica;1000000
 2021;28007;463B;755/28007;;;Unidad de Paleontología de Dinosaurios de Teruel;100000
+2021;28007;463B;77;;;A empresas privadas;700000
+2021;28007;463B;771/28007;;;A Escuela Politécnica Superior de Mondragon Unibertsitatea;700000
 2021;28007;463B;79;;;Al exterior;2300000
 2021;28007;463B;790/28007;;;Al exterior;2300000
-2021;28007;463B;790/28007;;01;Al Observatorio Europeo del Sur (ESO) para la construcción del Telescopio Europeo Extremadamente Grande (E-ELT);2300000
+2021;28007;463B;790/28007;;01;Al Observatorio Europeo del Sur (ESO) para la construcción del Telescopio Europeo Extremadamente Grande (E-ELT) y obligaciones de ejercicios anteriores;2300000
 2021;28007;463B;8;;;ACTIVOS FINANCIEROS;1856028530
 2021;28007;463B;82;;;Concesión de préstamos al Sector Público;1094532390
 2021;28007;463B;821;;;Préstamos a largo plazo;1094532390
@@ -20065,7 +20121,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;28107;465A;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;2087390
 2021;28107;465A;64;;;Gastos de inversiones de carácter inmaterial;627280
 2021;28107;465A;640;;;Gastos en inversiones de carácter inmaterial;627280
-2021;28107;465A;7;;;TRANSFERENCIAS DE CAPITAL;131383580
+2021;28107;465A;7;;;TRANSFERENCIAS DE CAPITAL;131583580
 2021;28107;465A;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;8810830
 2021;28107;465A;741/28107;;;A la Fundación Centro Nacional de Investigaciones Oncológicas Carlos III. Operaciones de capital;1031090
 2021;28107;465A;742/28107;;;A la Fundación Centro Nacional de Investigaciones Cardiovasculares Carlos III. Operaciones de capital;1154700
@@ -20076,7 +20132,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;28107;465A;748/28107;;;Para proyectos, programa de recursos humanos y estructuras estables de investigación cooperativa;5694620
 2021;28107;465A;75;;;A Comunidades Autónomas;104630390
 2021;28107;465A;758/28107;;;Para proyectos, programa de recursos humanos y estructuras estables de investigación cooperativa;104630390
-2021;28107;465A;76;;;A Entidades Locales;300760
+2021;28107;465A;76;;;A Entidades Locales;500760
+2021;28107;465A;760/28107;;;Al Ajuntament d´Igualada, Centre de Simulació 4D Health;200000
 2021;28107;465A;768/28107;;;Para proyectos, programa de recursos humanos y estructuras estables de investigación cooperativa;300760
 2021;28107;465A;78;;;A familias e instituciones sin fines de lucro;17641600
 2021;28107;465A;788/28107;;;Para proyectos, programa de recursos humanos y estructuras estables de investigación cooperativa;17641600
@@ -20102,9 +20159,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;20004;467C;7;;;TRANSFERENCIAS DE CAPITAL;7000000
 2021;20004;467C;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;7000000
 2021;20004;467C;741/20004;;;A la Sociedad Mercantil Estatal para la Gestión de la Innovación y las Tecnologías Turísticas, S.A.M.P. (SEGITTUR);7000000
-2021;20009;467C;7;;;TRANSFERENCIAS DE CAPITAL;15000000
-2021;20009;467C;77;;;A empresas privadas;15000000
-2021;20009;467C;774/20009;;;A proyectos industriales de digitalización y de innovación tecnológica;15000000
+2021;20009;467C;7;;;TRANSFERENCIAS DE CAPITAL;14000000
+2021;20009;467C;77;;;A empresas privadas;14000000
+2021;20009;467C;774/20009;;;A proyectos industriales de digitalización y de innovación tecnológica;14000000
 2021;20009;467C;8;;;ACTIVOS FINANCIEROS;585000000
 2021;20009;467C;83;;;Concesión de préstamos fuera del Sector Público;585000000
 2021;20009;467C;830;;;Préstamos a corto plazo;100000000
@@ -20614,7 +20671,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;27008;467G;6;;;INVERSIONES REALES;2400000
 2021;27008;467G;64;;;Gastos de inversiones de carácter inmaterial;2400000
 2021;27008;467G;640;;;Gastos en inversiones de carácter inmaterial;2400000
-2021;27008;467G;7;;;TRANSFERENCIAS DE CAPITAL;10000890
+2021;27008;467G;7;;;TRANSFERENCIAS DE CAPITAL;9900890
 2021;27008;467G;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;931680
 2021;27008;467G;740/27008;;;España Digital 2025;931680
 2021;27008;467G;75;;;A Comunidades Autónomas;1693970
@@ -20624,9 +20681,9 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;27008;467G;77;;;A empresas privadas;3648530
 2021;27008;467G;770/27008;;;España Digital 2025;1648530
 2021;27008;467G;771/27008;;;Convocatorias Programa ECSEL;2000000
-2021;27008;467G;78;;;A familias e instituciones sin fines de lucro;2540950
+2021;27008;467G;78;;;A familias e instituciones sin fines de lucro;2440950
 2021;27008;467G;780/27008;;;Convocatorias Programa ECSEL;855000
-2021;27008;467G;782/27008;;;España Digital 2025;1685950
+2021;27008;467G;782/27008;;;España Digital 2025;1585950
 2021;27008;467G;8;;;ACTIVOS FINANCIEROS;82596560
 2021;27008;467G;83;;;Concesión de préstamos fuera del Sector Público;67596560
 2021;27008;467G;831;;;Préstamos a largo plazo;67596560
@@ -20656,10 +20713,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;27009;467G;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;812430
 2021;27009;467G;160;;;Cuotas sociales;812430
 2021;27009;467G;160;;00;Seguridad Social;812430
-2021;27009;467G;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;16576860
+2021;27009;467G;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;16476860
 2021;27009;467G;21;;;Reparaciones, mantenimiento y conservación;4260450
 2021;27009;467G;216;;;Equipos para procesos de la información;4260450
-2021;27009;467G;22;;;Material, suministros y otros;12239710
+2021;27009;467G;22;;;Material, suministros y otros;12139710
 2021;27009;467G;220;;;Material de oficina;308720
 2021;27009;467G;220;;00;Ordinario no inventariable;158250
 2021;27009;467G;220;;01;Prensa, revistas, libros y otras publicaciones;41010
@@ -20671,8 +20728,8 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;27009;467G;226;;;Gastos diversos;10290
 2021;27009;467G;226;;01;Atenciones protocolarias y representativas;4680
 2021;27009;467G;226;;06;Reuniones, conferencias y cursos;5610
-2021;27009;467G;227;;;Trabajos realizados por otras empresas y profesionales;11317810
-2021;27009;467G;227;;06;Estudios y trabajos técnicos;11314080
+2021;27009;467G;227;;;Trabajos realizados por otras empresas y profesionales;11217810
+2021;27009;467G;227;;06;Estudios y trabajos técnicos;11214080
 2021;27009;467G;227;;99;Otros;3730
 2021;27009;467G;23;;;Indemnizaciones por razón del servicio;76700
 2021;27009;467G;230;;;Dietas;34550
@@ -20853,15 +20910,16 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;27008;467I;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;107120
 2021;27008;467I;160;;;Cuotas sociales;107120
 2021;27008;467I;160;;00;Seguridad Social;107120
-2021;27008;467I;4;;;TRANSFERENCIAS CORRIENTES;1335000
+2021;27008;467I;4;;;TRANSFERENCIAS CORRIENTES;1535000
 2021;27008;467I;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;1045000
 2021;27008;467I;441/27008;;;A la Fundación Residencia de Estudiantes para gastos de funcionamiento y desarrollo de la Sociedad de la Información;120000
 2021;27008;467I;443/27008;;;A INCIBE para gastos en el impulso de España como nodo internacional en el ámbito de la ciberseguridad;305000
 2021;27008;467I;446/27008;;;A Red.es;400000
 2021;27008;467I;448/27008;;;A INCIBE;220000
-2021;27008;467I;48;;;A familias e instituciones sin fines de lucro;290000
+2021;27008;467I;48;;;A familias e instituciones sin fines de lucro;490000
 2021;27008;467I;485/27008;;;A la Asociación Española de Normalización (UNE) para soporte a secretaría, actividad normalización y acción internacional en comités tecnologías digitales y digitalización;150000
 2021;27008;467I;486/27008;;;A la Federación Española de Municipios y Provincias para la Oficina Técnica de apoyo a la Red Española de Ciudades Inteligentes (RECI);140000
+2021;27008;467I;487/27008;;;A organizaciones del tercer sector en la lucha contra la brecha digital entre mujeres y hombres;200000
 2021;27008;467I;6;;;INVERSIONES REALES;14082760
 2021;27008;467I;64;;;Gastos de inversiones de carácter inmaterial;14082760
 2021;27008;467I;640;;;Gastos en inversiones de carácter inmaterial;14082760
@@ -20902,9 +20960,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;27012;467I;6;;;INVERSIONES REALES;3120810
 2021;27012;467I;64;;;Gastos de inversiones de carácter inmaterial;3120810
 2021;27012;467I;640;;;Gastos en inversiones de carácter inmaterial;3120810
-2021;27012;467I;7;;;TRANSFERENCIAS DE CAPITAL;7100000
-2021;27012;467I;77;;;A empresas privadas;7100000
-2021;27012;467I;774/27012;;;Extensión de Conectividad;7100000
+2021;27012;467I;7;;;TRANSFERENCIAS DE CAPITAL;8100000
+2021;27012;467I;77;;;A empresas privadas;8100000
+2021;27012;467I;774/27012;;;Extensión de Conectividad;6100000
+2021;27012;467I;775/27012;;;A Cellnex para el desarrollo del Proyecto LabNad;1000000
+2021;27012;467I;777/27012;;;Programa de Extensión de los Servicios de Banda Ancha en Canarias;1000000
 2021;27012;467I;8;;;ACTIVOS FINANCIEROS;120000000
 2021;27012;467I;83;;;Concesión de préstamos fuera del Sector Público;120000000
 2021;27012;467I;831;;;Préstamos a largo plazo;120000000
@@ -22043,10 +22103,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;31005;496M;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;35380
 2021;31005;496M;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;1299920
 2021;31005;496M;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;1299920
-2021;17032;497M;4;;;TRANSFERENCIAS CORRIENTES;133775000
-2021;17032;497M;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;133775000
-2021;17032;497M;441/17032;;;Sociedad Estatal de Salvamento y Seguridad Marítima (SASEMAR);133775000
-2021;17032;497M;441/17032;;00;Subvención para financiar la actividad global de la Sociedad de Salvamento y Socorro Marítimo;133625000
+2021;17032;497M;4;;;TRANSFERENCIAS CORRIENTES;136289390
+2021;17032;497M;44;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;136289390
+2021;17032;497M;441/17032;;;Sociedad Estatal de Salvamento y Seguridad Marítima (SASEMAR);136289390
+2021;17032;497M;441/17032;;00;Subvención para financiar la actividad global de la Sociedad de Salvamento y Socorro Marítimo;136139390
 2021;17032;497M;441/17032;;01;Para financiar proyectos de cooperación técnica internacional con la Administración Marítima;150000
 2021;17032;497M;7;;;TRANSFERENCIAS DE CAPITAL;27910000
 2021;17032;497M;74;;;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;27910000
@@ -24566,7 +24626,7 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;27004;923O;16;;;Cuotas, prestaciones y gastos sociales a cargo del empleador;591320
 2021;27004;923O;160;;;Cuotas sociales;591320
 2021;27004;923O;160;;00;Seguridad Social;591320
-2021;27004;923O;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;3588460
+2021;27004;923O;2;;;GASTOS CORRIENTES EN BIENES Y SERVICIOS;3579460
 2021;27004;923O;20;;;Arrendamientos y cánones;850
 2021;27004;923O;209;;;Cánones;850
 2021;27004;923O;21;;;Reparaciones, mantenimiento y conservación;353840
@@ -24574,11 +24634,11 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;27004;923O;213;;;Maquinaria, instalaciones y utillaje;67060
 2021;27004;923O;215;;;Mobiliario y enseres;3730
 2021;27004;923O;216;;;Equipos para procesos de la información;276000
-2021;27004;923O;22;;;Material, suministros y otros;2693890
-2021;27004;923O;220;;;Material de oficina;89880
+2021;27004;923O;22;;;Material, suministros y otros;2684890
+2021;27004;923O;220;;;Material de oficina;80880
 2021;27004;923O;220;;00;Ordinario no inventariable;7580
 2021;27004;923O;220;;01;Prensa, revistas, libros y otras publicaciones;21320
-2021;27004;923O;220;;02;Material informático no inventariable;60980
+2021;27004;923O;220;;02;Material informático no inventariable;51980
 2021;27004;923O;222;;;Comunicaciones;15150
 2021;27004;923O;222;;00;Servicios de telecomunicaciones;100
 2021;27004;923O;222;;01;Postales y mensajería;15050
@@ -24612,13 +24672,13 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;27004;923O;493/27004;;;Contribución de España a los gastos de gestión de su oficina de representación conjunta ante el FMI;145000
 2021;27004;923O;495/27004;;;Contribuciones a organismos de la OCDE;8000
 2021;27004;923O;495/27004;;01;Red Internacional de Educación Financiera;8000
-2021;27004;923O;6;;;INVERSIONES REALES;727360
+2021;27004;923O;6;;;INVERSIONES REALES;686360
 2021;27004;923O;62;;;Inversión nueva asociada al funcionamiento operativo de los servicios;117440
 2021;27004;923O;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios;117440
 2021;27004;923O;63;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;309920
 2021;27004;923O;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios;309920
-2021;27004;923O;64;;;Gastos de inversiones de carácter inmaterial;300000
-2021;27004;923O;640;;;Gastos en inversiones de carácter inmaterial;300000
+2021;27004;923O;64;;;Gastos de inversiones de carácter inmaterial;259000
+2021;27004;923O;640;;;Gastos en inversiones de carácter inmaterial;259000
 2021;27004;923O;8;;;ACTIVOS FINANCIEROS;1000
 2021;27004;923O;89;;;Suscripción de acciones y aportaciones a fondos de organismos internacionales;1000
 2021;27004;923O;891;;;Real Decreto-ley 4/2016. A la Junta Única de Resolución según lo establecido en artículo 1;1000
@@ -24653,12 +24713,12 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;27004;923P;23;;;Indemnizaciones por razón del servicio;265290
 2021;27004;923P;230;;;Dietas;64070
 2021;27004;923P;231;;;Locomoción;201220
-2021;27004;923P;4;;;TRANSFERENCIAS CORRIENTES;326964540
-2021;27004;923P;49;;;Al exterior;326964540
-2021;27004;923P;490/27004;;;Contribuciones a Instituciones Financieras Multilaterales;326964540
+2021;27004;923P;4;;;TRANSFERENCIAS CORRIENTES;325964540
+2021;27004;923P;49;;;Al exterior;325964540
+2021;27004;923P;490/27004;;;Contribuciones a Instituciones Financieras Multilaterales;325964540
 2021;27004;923P;490/27004;;10;A la Asociación Internacional de Fomento (AIF) 18 reposición (BANCO MUNDIAL);65000000
 2021;27004;923P;490/27004;;22;A la Asociación Internacional de Fomento (AIF) 19 reposición (BANCO MUNDIAL);50000000
-2021;27004;923P;490/27004;;23;MDRI del Banco Mundial;120017840
+2021;27004;923P;490/27004;;23;MDRI del Banco Mundial;119017840
 2021;27004;923P;490/27004;;26;Fondo de Asistencia Técnica del BAsD;1500000
 2021;27004;923P;490/27004;;30;15ª Reposición del Fondo Africano de Desarrollo del Banco Africano de Desarrollo (FAfD 15);34946700
 2021;27004;923P;490/27004;;31;Fondos de lucha contra el cambio climático;24000000
@@ -25044,9 +25104,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;35001;929N;5;;;FONDO DE CONTINGENCIA Y OTROS IMPREVISTOS;3889130000
 2021;35001;929N;50;;;Dotación al Fondo de Contingencia de ejecución presupuestaria;3889130000
 2021;35001;929N;500;;;Fondo de Contingencia de Ejecución Presupuestaria, Artículo 50 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria;3889130000
-2021;27003;931M;4;;;TRANSFERENCIAS CORRIENTES;148640000
-2021;27003;931M;48;;;A familias e instituciones sin fines de lucro;200000
+2021;27003;931M;4;;;TRANSFERENCIAS CORRIENTES;148690000
+2021;27003;931M;48;;;A familias e instituciones sin fines de lucro;250000
 2021;27003;931M;483/27003;;;Becas Fulbright de la Secretaría de Estado de Economía y Apoyo a la Empresa;200000
+2021;27003;931M;484/27003;;;Aportación a la Fundación Real Instituto Elcano de Estudios Internacionales y Estratégicos;50000
 2021;27003;931M;49;;;Al exterior;148440000
 2021;27003;931M;490/27003;;;Acuerdo Europeo de Aportación a Grecia;146440000
 2021;27003;931M;492/27003;;;Mecanismo Europeo de Estabilidad (MEDE) intereses negativos;2000000
@@ -25871,10 +25932,13 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;36020;941N;7;;;TRANSFERENCIAS DE CAPITAL;150000000
 2021;36020;941N;75;;;A Comunidades Autónomas;150000000
 2021;36020;941N;759/36020;;;Para financiar la incorporación de remanentes de crédito de los Fondos de Compensación Interterritorial;150000000
-2021;37001;941O;4;;;TRANSFERENCIAS CORRIENTES;13486000000
-2021;37001;941O;45;;;A Comunidades Autónomas;13486000000
-2021;37001;941O;459/37001;;;Otras transferencias a Comunidades Autónomas;13486000000
+2021;37001;941O;4;;;TRANSFERENCIAS CORRIENTES;13520005000
+2021;37001;941O;45;;;A Comunidades Autónomas;13520005000
+2021;37001;941O;459/37001;;;Otras transferencias a Comunidades Autónomas;13520005000
 2021;37001;941O;459/37001;;01;Dotación adicional de recursos para las Comunidades Autónomas y Ciudades Autónomas de Ceuta y Melilla;13486000000
+2021;37001;941O;459/37001;;02;País Vasco por costes de traspaso fuera de cupo ejercicios 2019, 2020 y 2021;3172000
+2021;37001;941O;459/37001;;03;Navarra por costes de traspaso fuera de la aportación ejercicios 2019, 2020 y 2021;833000
+2021;37001;941O;459/37001;;04;A la Comunidad Autónoma de Canarias. Programa para la lucha contra la pobreza y prestaciones básicas de servicios sociales;30000000
 2021;37001;941O;7;;;TRANSFERENCIAS DE CAPITAL;74561660
 2021;37001;941O;75;;;A Comunidades Autónomas;74561660
 2021;37001;941O;755/37001;;;A la Comunidad Autónoma de Cantabria para financiar proyectos de inversión;44000000
@@ -25930,9 +25994,10 @@ EJERCICIO;CENTRO GESTOR;FUNCIONAL;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORT
 2021;38021;942M;461/38021;;;Transferencias a las Diputaciones y Cabildos Insulares;5672940790
 2021;38021;942M;461/38021;;01;Entregas a cuenta a las Diputaciones y Cabildos Insulares por su participación en los ingresos de los capítulos I y II del Presupuesto del Estado por recursos no susceptibles de cesión a las Comunidades Autónomas;5672940790
 2021;38021;942M;468/38021;;;Liquidación definitiva de la participación en los ingresos del Estado de las Corporaciones Locales, correspondiente a ejercicios anteriores y compensaciones derivadas del Nuevo Modelo de Financiación Local;444934230
-2021;37002;942N;4;;;TRANSFERENCIAS CORRIENTES;26862400
-2021;37002;942N;46;;;A Entidades Locales;26862400
+2021;37002;942N;4;;;TRANSFERENCIAS CORRIENTES;46862400
+2021;37002;942N;46;;;A Entidades Locales;46862400
 2021;37002;942N;461/37002;;;Compensaciones que puedan reconocerse a los municipios;5362400
+2021;37002;942N;462/37002;;;Para el desarrollo de nuevas o ampliadas competencias reservadas a las Entidades Locales en el Pacto de Estado contra la Violencia de Género;20000000
 2021;37002;942N;464/37002;;;Financiación de los costes de funcionamiento de las plantas desalinizadoras de las Ciudades de Ceuta y Melilla;8000000
 2021;37002;942N;465/37002;;;Para financiar actuaciones en Melilla;10250000
 2021;37002;942N;466/37002;;;Para financiar actuaciones en Ceuta;3250000

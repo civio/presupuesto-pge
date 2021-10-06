@@ -937,7 +937,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2021;20103;4;;;TRANSFERENCIAS CORRIENTES;3886300
 2021;20104;4;;;TRANSFERENCIAS CORRIENTES;32135770
 2021;21101;4;;;TRANSFERENCIAS CORRIENTES;4896980
-2021;21102;4;;;TRANSFERENCIAS CORRIENTES;255754750
+2021;21102;4;;;TRANSFERENCIAS CORRIENTES;258254750
 2021;21103;4;;;TRANSFERENCIAS CORRIENTES;5910878300
 2021;22101;4;;;TRANSFERENCIAS CORRIENTES;85266360
 2021;22102;4;;;TRANSFERENCIAS CORRIENTES;68670240
@@ -959,7 +959,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2021;24104;4;;;TRANSFERENCIAS CORRIENTES;22880320
 2021;24105;4;;;TRANSFERENCIAS CORRIENTES;9216490
 2021;24106;4;;;TRANSFERENCIAS CORRIENTES;173707720
-2021;24107;4;;;TRANSFERENCIAS CORRIENTES;179563860
+2021;24107;4;;;TRANSFERENCIAS CORRIENTES;179568860
 2021;24301;4;;;TRANSFERENCIAS CORRIENTES;24983810
 2021;24302;4;;;TRANSFERENCIAS CORRIENTES;29710930
 2021;24303;4;;;TRANSFERENCIAS CORRIENTES;8668210
@@ -1008,7 +1008,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2021;20103;40;;;De la Administración del Estado;3587190
 2021;20104;40;;;De la Administración del Estado;32135770
 2021;21101;40;;;De la Administración del Estado;4896980
-2021;21102;40;;;De la Administración del Estado;255754750
+2021;21102;40;;;De la Administración del Estado;258254750
 2021;21103;40;;;De la Administración del Estado;34266890
 2021;22101;40;;;De la Administración del Estado;19777830
 2021;22102;40;;;De la Administración del Estado;68670240
@@ -1030,7 +1030,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2021;24104;40;;;De la Administración del Estado;22880320
 2021;24105;40;;;De la Administración del Estado;9216490
 2021;24106;40;;;De la Administración del Estado;146707720
-2021;24107;40;;;De la Administración del Estado;179413990
+2021;24107;40;;;De la Administración del Estado;179418990
 2021;24301;40;;;De la Administración del Estado;20629330
 2021;24302;40;;;De la Administración del Estado;27062930
 2021;24303;40;;;De la Administración del Estado;8668210
@@ -1074,7 +1074,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2021;20103;400;;;Del departamento al que está adscrito;3587190
 2021;20104;400;;;Del departamento al que está adscrito;32135770
 2021;21101;400;;;Del departamento al que está adscrito;4896980
-2021;21102;400;;;Del departamento al que está adscrito;255754750
+2021;21102;400;;;Del departamento al que está adscrito;258254750
 2021;21103;400;;;Del departamento al que está adscrito;34266890
 2021;22101;400;;;Del departamento al que está adscrito;17581830
 2021;22301;400;;;Del departamento al que está adscrito;1743690
@@ -1095,7 +1095,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2021;24104;400;;;Del departamento al que está adscrito;22880320
 2021;24105;400;;;Del departamento al que está adscrito;6489490
 2021;24106;400;;;Del departamento al que está adscrito;125743720
-2021;24107;400;;;Del departamento al que está adscrito;134753990
+2021;24107;400;;;Del departamento al que está adscrito;134758990
 2021;24301;400;;;Del departamento al que está adscrito;20629330
 2021;24302;400;;;Del departamento al que está adscrito;24026930
 2021;24303;400;;;Del departamento al que está adscrito;8668210
@@ -1147,7 +1147,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2021;33102;400;;00;Para gastos de funcionamiento;2781630
 2021;14101;400;;01;Para gastos de funcionamiento;36065390
 2021;19101;400;;01;Para financiar medidas de reinserción laboral para el colectivo de trabajadores de 50 o más años;37401160
-2021;21102;400;;01;Para el Plan Anual de Seguros Agrarios y liquidación de planes anteriores;251267560
+2021;21102;400;;01;Para el Plan Anual de Seguros Agrarios y liquidación de planes anteriores;253767560
 2021;21103;400;;01;Financiación nacional ayuda desfavorecidos;19271320
 2021;23102;400;;01;Para el pago de IBI de bienes de titularidad estatal;17600
 2021;23103;400;;01;Para el pago del IBI de bienes de titularidad estatal;3000000
@@ -1849,7 +1849,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2021;23101;7;;;TRANSFERENCIAS DE CAPITAL;22694890
 2021;23102;7;;;TRANSFERENCIAS DE CAPITAL;16400000
 2021;23103;7;;;TRANSFERENCIAS DE CAPITAL;11250000
-2021;23104;7;;;TRANSFERENCIAS DE CAPITAL;4000000
+2021;23104;7;;;TRANSFERENCIAS DE CAPITAL;4274000
 2021;23105;7;;;TRANSFERENCIAS DE CAPITAL;27038150
 2021;23106;7;;;TRANSFERENCIAS DE CAPITAL;20850000
 2021;23107;7;;;TRANSFERENCIAS DE CAPITAL;12500000
@@ -1873,13 +1873,13 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2021;26105;7;;;TRANSFERENCIAS DE CAPITAL;542550
 2021;26301;7;;;TRANSFERENCIAS DE CAPITAL;21300000
 2021;27101;7;;;TRANSFERENCIAS DE CAPITAL;24053120
-2021;27302;7;;;TRANSFERENCIAS DE CAPITAL;3601762430
+2021;27302;7;;;TRANSFERENCIAS DE CAPITAL;3600762430
 2021;28103;7;;;TRANSFERENCIAS DE CAPITAL;50341670
 2021;28104;7;;;TRANSFERENCIAS DE CAPITAL;27080350
 2021;28105;7;;;TRANSFERENCIAS DE CAPITAL;31761170
 2021;28106;7;;;TRANSFERENCIAS DE CAPITAL;7058830
-2021;28107;7;;;TRANSFERENCIAS DE CAPITAL;253898900
-2021;28301;7;;;TRANSFERENCIAS DE CAPITAL;420008360
+2021;28107;7;;;TRANSFERENCIAS DE CAPITAL;254098900
+2021;28301;7;;;TRANSFERENCIAS DE CAPITAL;421008360
 2021;28303;7;;;TRANSFERENCIAS DE CAPITAL;764709590
 2021;29101;7;;;TRANSFERENCIAS DE CAPITAL;247220
 2021;29102;7;;;TRANSFERENCIAS DE CAPITAL;12000
@@ -1916,7 +1916,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2021;23101;70;;;De la Administración del Estado;21194890
 2021;23102;70;;;De la Administración del Estado;12000000
 2021;23103;70;;;De la Administración del Estado;8500000
-2021;23104;70;;;De la Administración del Estado;4000000
+2021;23104;70;;;De la Administración del Estado;4274000
 2021;23105;70;;;De la Administración del Estado;11000000
 2021;23106;70;;;De la Administración del Estado;18750000
 2021;23107;70;;;De la Administración del Estado;12500000
@@ -1939,13 +1939,13 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2021;26105;70;;;De la Administración del Estado;542550
 2021;26301;70;;;De la Administración del Estado;21300000
 2021;27101;70;;;De la Administración del Estado;24053120
-2021;27302;70;;;De la Administración del Estado;3601762430
+2021;27302;70;;;De la Administración del Estado;3600762430
 2021;28103;70;;;De la Administración del Estado;41583840
 2021;28104;70;;;De la Administración del Estado;20850000
 2021;28105;70;;;De la Administración del Estado;18641830
 2021;28106;70;;;De la Administración del Estado;5389530
-2021;28107;70;;;De la Administración del Estado;149017940
-2021;28301;70;;;De la Administración del Estado;240812590
+2021;28107;70;;;De la Administración del Estado;149217940
+2021;28301;70;;;De la Administración del Estado;241812590
 2021;28303;70;;;De la Administración del Estado;719709590
 2021;29101;70;;;De la Administración del Estado;247220
 2021;29102;70;;;De la Administración del Estado;12000
@@ -1979,7 +1979,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2021;23101;700;;;Del departamento al que está adscrito;21194890
 2021;23102;700;;;Del departamento al que está adscrito;12000000
 2021;23103;700;;;Del departamento al que está adscrito;8500000
-2021;23104;700;;;Del departamento al que está adscrito;4000000
+2021;23104;700;;;Del departamento al que está adscrito;4274000
 2021;23105;700;;;Del departamento al que está adscrito;11000000
 2021;23106;700;;;Del departamento al que está adscrito;18750000
 2021;23107;700;;;Del departamento al que está adscrito;12500000
@@ -2006,7 +2006,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2021;28104;700;;;Del departamento al que está adscrito;20700000
 2021;28105;700;;;Del departamento al que está adscrito;18641830
 2021;28106;700;;;Del departamento al que está adscrito;5343000
-2021;28107;700;;;Del departamento al que está adscrito;148808440
+2021;28107;700;;;Del departamento al que está adscrito;149008440
 2021;28301;700;;;Del departamento al que está adscrito;239537340
 2021;28303;700;;;Del departamento al que está adscrito;719709590
 2021;29101;700;;;Del departamento al que está adscrito;247220
@@ -2025,7 +2025,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2021;23101;700;;00;Del departamento al que está adscrito;20011080
 2021;23102;700;;00;Del departamento al que está adscrito;12000000
 2021;23103;700;;00;Del departamento al que está adscrito;8500000
-2021;23104;700;;00;Del departamento al que está adscrito;4000000
+2021;23104;700;;00;Del departamento al que está adscrito;4274000
 2021;23105;700;;00;Del departamento al que está adscrito;11000000
 2021;23106;700;;00;Del departamento al que está adscrito;18750000
 2021;23107;700;;00;Del departamento al que está adscrito;12500000
@@ -2039,7 +2039,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2021;28104;700;;00;Para gastos de capital;3500000
 2021;28105;700;;00;Para gastos de capital;18547330
 2021;28106;700;;00;Para gastos de capital;1383000
-2021;28107;700;;00;Para gastos de capital;34808440
+2021;28107;700;;00;Para gastos de capital;35008440
 2021;28301;700;;00;Para gastos de capital;90262340
 2021;28303;700;;00;Para gastos de capital;579209590
 2021;33101;700;;00;Para gastos de capital;387260
@@ -2070,7 +2070,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2021;28104;701;;;De otros departamentos ministeriales;150000
 2021;28106;701;;;De otros departamentos ministeriales;46530
 2021;28107;701;;;De otros departamentos ministeriales;209500
-2021;28301;701;;;De otros departamentos ministeriales;1275250
+2021;28301;701;;;De otros departamentos ministeriales;2275250
 2021;60004;701;;;De otros departamentos ministeriales;49145180
 2021;24105;701;;00;Del Ministerio de Educación y Formación Profesional para inversiones en educación;8119980
 2021;28104;701;;00;Del Ministerio para la Transición Ecológica y el Reto Demográfico para trabajos relacionados con sustancias y mezclas químicas y OMG;150000
@@ -2078,6 +2078,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2021;28107;701;;00;Del Ministerio para la Transición Ecológica y el Reto Demográfico para trabajos relacionados con la calidad del aire;209500
 2021;28301;701;;00;Del Ministerio de Transportes, Movilidad y Agenda Urbana. Estudio base herramientas Código Técnico de la Edificación;900000
 2021;28301;701;;03;Del Ministerio para la Transición Ecológica y el Reto Demográfico. Trabajos relacionados con la contaminación atmosférica y por COPs;375250
+2021;28301;701;;04;Del Ministerio para la Transición Ecológica y el Reto Demográfico para actuaciones del CENIM. Planta piloto hidrometalúrgica de recuperación de materiales críticos;1000000
 2021;12301;702/12301;;;Del departamento al que está adscrito. Mecanismo de Recuperación y Resiliencia;47703340
 2021;12302;702/12302;;;Del departamento al que está adscrito. Mecanismo de Recuperación y Resiliencia;1300000
 2021;19102;702/19102;;;Aportación del Estado. Mecanismo de Recuperación y Resiliencia;1770000
@@ -2091,9 +2092,9 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2021;24302;702/24302;;;Mecanismo de Recuperación y Resiliencia;9555000
 2021;26105;702/26105;;;Del departamento al que está adscrito. Mecanismo de Recuperación y resiliencia.;295000
 2021;26301;702/26301;;;Del departamento al que está adscrito. Mecanismo de Recuperación y resiliencia;21300000
-2021;27302;702/27302;;;Del Ministerio para la Transición Ecológica y el Reto Demográfico para la compensación del sistema eléctrico;3597848720
+2021;27302;702/27302;;;Del Ministerio para la Transición Ecológica y el Reto Demográfico para la compensación del sistema eléctrico;3596848720
 2021;27302;702/27302;;00;Para financiar costes del sector eléctrico de acuerdo con el apartado b) de la disposición adicional segunda de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética;1100000000
-2021;27302;702/27302;;01;Para financiar costes del sector eléctrico de acuerdo con el apartado a) de la disposición adicional segunda de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética;1783000000
+2021;27302;702/27302;;01;Para financiar costes del sector eléctrico de acuerdo con el apartado a) de la disposición adicional segunda de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética;1782000000
 2021;27302;702/27302;;02;Para atender el extracoste de generación al que se refiere la disposición adicional decimoquinta de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico;489806220
 2021;27302;702/27302;;03;Para compensar reducción de ingresos en el sistema eléctrico consecuencia de la eliminación del peaje 6.1.b;22372500
 2021;27302;702/27302;;04;Para compensar la reducción de ingresos en el sistema eléctrico como consecuencia de las medidas del art. 42 del Real Decreto-ley 11/2020;172000000
