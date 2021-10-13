@@ -8,13 +8,13 @@ $(document).ready(function(){
       'en': 'extended',
     };
     var pendingApproval = {
-      'es': 'pendiente aprobación',
-      'ca': 'pendent aprovació',
-      'en': 'pending approval',
+      'es': 'proyecto',
+      'en': 'proposal',
     };
     var yearLabels = {
       '2019': extended,
-      '2020': extended
+      '2020': extended,
+      '2022': pendingApproval
     }
 
     $('.data-controllers .layout-slider .slider .slider-tick-label').each(function(){
