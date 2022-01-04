@@ -189,7 +189,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;4;41;410/17020;;;Centro de Estudios y Experimentación de Obras Públicas (CEDEX)
 2022;G;4;41;410/19101;;;Reserva de gestión directa Servicio Público de Empleo Estatal. Oportunidades de empleo y fomento de la contratación de desempleados en obras y servicios de interés general y social por organismos autónomos de la Administración General del Estado (EJE 3)
 2022;G;4;41;410/23003;;;Al Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas para el seguimiento de las Grandes Instalaciones de Combustión
-2022;G;4;41;410/23004;;;A Parques Nacionales. Financiado según el artículo 30.4 de la Ley 7/2021.
+2022;G;4;41;410/23004;;;A Parques Nacionales
 2022;G;4;41;410/23005;;;Confederaciones Hidrográficas
 2022;G;4;41;410/23109;;;Confederación Hidrográfica del Tajo, gastos de explotación del trasvase Tajo-Segura
 2022;G;4;41;410/24001;;;Al Consejo Superior de Deportes
@@ -197,6 +197,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;4;41;410/29003;;;Al Instituto de la Juventud para el cumplimiento de sus fines
 2022;G;4;41;410/30003;;;Al Centro de Investigaciones Sociológicas- Macroencuesta violencia de género
 2022;G;4;41;410/33003;;;A la Universidad Internacional Menéndez Pelayo (UIMP)
+2022;G;4;41;410/37001;;;A Entidad Estatal de Seguros Agrarios. Plan Estatal de Seguros Agrarios y liquidación de planes anteriores. Actuaciones en Canarias
 2022;G;4;41;411/09001;;;"Aportación del Estado  a la Mutualidad General  de Funcionarios Civiles del Estado,  al Instituto Social de las Fuerzas Armadas y a la Mutualidad General Judicial, al amparo de las siguientes Disposiciones: artículo 30.3 del Real Decreto Legislativo 1/2000,  de 9 de junio;  artículo 24 y Disposición Adicional 3ª.3 del Real Decreto Legislativo 3/2000, de 23 de junio y  artículo 35.3 del Real Decreto Legislativo  4/2000, de 23 de junio, incluidas obligaciones de ejercicios anteriores"
 2022;G;4;41;411/13002;;;Al Centro de Estudios Jurídicos de la Administración de Justicia
 2022;G;4;41;411/13050;;;Al Centro de Estudios Jurídicos de la Administración de Justicia. Mecanismo de Recuperación y Resiliencia
@@ -214,7 +215,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;4;41;411/60003;;;Al Instituto Nacional de Seguridad  y Salud en el Trabajo, O.A.,M.P.
 2022;G;4;41;412/17018;;;Centro Nacional de Información Geográfica (CNIG)
 2022;G;4;41;412/21004;;;Agencia de Información y Control Alimentarios (AICA)
-2022;G;4;41;412/23003;;;Al Instituto para la Transición Justa. Financiado según el artículo 30.4 de la Ley 7/2021
+2022;G;4;41;412/23003;;;Al Instituto para la Transición Justa
 2022;G;4;41;412/24001;;;A la Biblioteca Nacional de España
 2022;G;4;41;412/28301;;;A la Universidad Internacional Menéndez Pelayo (UIMP)
 2022;G;4;41;412/60003;;;Colaboración recíproca entre la Tesorería General de la Seguridad Social y la Inspección de Trabajo y Seguridad Social
@@ -430,6 +431,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;4;45;;;;A Comunidades Autónomas
 2022;G;4;45;450/14001;;;Transferencias a CCAA. Formación Escuelas de Suboficiales
 2022;G;4;45;450/15102;;;Formación para el Empleo en las Administraciones Públicas
+2022;G;4;45;450/18004;;;Plan de Salud Mental en la Educación
 2022;G;4;45;450/18008;;;Actuaciones en primer ciclo de Educación Infantil
 2022;G;4;45;450/18050;;;Actuaciones en Educación Infantil y Primaria. Mecanismo de Recuperación y Resiliencia
 2022;G;4;45;450/19003;;;Transferencias a CC.AA. para ayudas previas a la jubilación ordinaria
@@ -438,6 +440,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;4;45;450/23004;;;Subvención a la C. A. de Canarias para financiar el funcionamiento de plantas potabilizadoras de agua situadas en su territorio
 2022;G;4;45;450/23103;;;Universidades públicas de la cuenca. Convenios sobre restauración de ríos y otras acciones formativas en colaboración
 2022;G;4;45;450/23108;;;Xunta de Galicia para Institutos de Formación Profesional para prácticas en laboratorios de la Confederación Hidrográfica
+2022;G;4;45;450/24004;;;A la Fundación Jordi de Sant Jordi para promoción del valenciano/catalán
 2022;G;4;45;450/24005;;;A la Fundación Real Fábrica de Tapices para el desarrollo de sus actividades
 2022;G;4;45;450/24107;;;Programa de ayudas para la proyección exterior de entidades y formaciones musicales y teatrales de titularidad pública dependientes de comunidades autónomas
 2022;G;4;45;450/25002;;;Para gastos derivados de la aplicación de la Ley 52/2007 de 26 de diciembre por la que se reconocen y amplían derechos y se establecen medidas en favor de quien padecieron persecución o violencia durante la guerra civil y la dictadura. Plan exhumación víctimas
@@ -450,6 +453,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;4;45;450/30003;;;Programas de asistencia social para mujeres víctimas de violencia de género y otras formas de violencia contra las mujeres
 2022;G;4;45;450/32001;;;Subvenciones a universidades públicas para la realización de prácticas
 2022;G;4;45;450/32003;;;A la Comunidad Autónoma de Canarias para Atención a Inmigrantes
+2022;G;4;45;450/37001;;;Actuaciones en Canarias
 2022;G;4;45;451/13002;;;A la Generalitat de Cataluña, financiación de traspasos
 2022;G;4;45;451/15102;;;Formación para el Empleo en las Admisitraciones Públicas de las entidades locales
 2022;G;4;45;451/17039;;;A la Autoridad del Transporte Metropolitano de Barcelona, para la financiación del transporte regular de viajeros
@@ -498,6 +502,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;4;45;452/19101;;;Gestión por las Comunidades Autónomas de iniciativas del Sistema de Formación Profesional para el Empleo (EJE 2)
 2022;G;4;45;452/20102;;;Subvención a la Fundación de la Universidad Autónoma de Madrid para el estudio y difusión de los fondos históricos de la Oficina Española de Patentes y Marcas (OEPM)
 2022;G;4;45;452/23101;;;Cátedra de Parques Nacionales
+2022;G;4;45;452/24004;;;Promoción y difusión de las lenguas protegidas por la Carta Europea de las Lenguas Regionales o Minoritarias, a las Comunidades Autónomas de Galicia, Asturias, Euskadi, Navarra, Aragón, Cataluña, València e Illes Balears
 2022;G;4;45;452/24005;;;Para la actualización del Censo Guía de los Archivos Españoles
 2022;G;4;45;452/24103;;;A la Fundación Privada Sitges Festival Internacional de Cinema de Catalunya para sus actividades
 2022;G;4;45;452/25002;;;Para gastos derivados de la aplicación de la Ley 52/2007, de 26 de diciembre, Subvenciones a Universidades de CC.AA.
@@ -541,6 +546,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;4;45;454/26018;;;Para toda clase de gastos derivados del desarrollo del Observatorio Español de las Drogas y las Adicciones
 2022;G;4;45;454/26301;;;A la Facultad de Veterinaria de la Universidad Complutense de Madrid, para la asistencia en el desarrollo de una guía de prescripción de antibióticos veterinarios en los pequeños animales.
 2022;G;4;45;454/29005;;;Para actividades de competencia autonómica de interés general consideradas de interés social con cargo al 0,7% del Impuesto sobre la Renta de las Personas Físicas y del Impuesto sobre Sociedades
+2022;G;4;45;454/37001;;;Actuaciones en diversas Comunidades Autónomas
 2022;G;4;45;455/13050;;;A Comunidades Autónomas. Mecanismo de Recuperación y Resiliencia
 2022;G;4;45;455/17039;;;Programa de subvenciones para una movilidad territorial innovadora a favor de Comunidades Autónomas
 2022;G;4;45;455/18050;;;Actuaciones en Formación Profesional. Mecanismo de Recuperación y Resiliencia
@@ -599,10 +605,11 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;4;46;460/24103;;;Ayudas a la Cinematografía a través de corporaciones locales
 2022;G;4;46;460/24106;;;A diputaciones provinciales a través de sus respectivas comunidades autónomas en cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991
 2022;G;4;46;460/24107;;;Programa de ayudas para la proyección exterior de entidades y formaciones musicales y teatrales de titularidad pública dependientes de corporaciones locales
-2022;G;4;46;460/28008;;;Apoyo a la contratación de agentes de innovación para las entidades locales
+2022;G;4;46;460/28008;;;Apoyo a la contratación de agentes de innovación para las entidades locales. Red Innpulso
 2022;G;4;46;460/29005;;;Para Medidas de Acompañamiento del Programa Operativo del Fondo de Ayuda Europea para las Personas mas Desfavorecidas (FEAD)
 2022;G;4;46;460/29007;;;Acciones para el impulso de la Agenda 2030 en las Entidades Locales
 2022;G;4;46;460/30002;;;Para el desarrollo de nuevas o ampliadas competencias reservadas a las Entidades Locales en el Pacto de Estado contra la Violencia de Género
+2022;G;4;46;460/37002;;;Actuaciones en Canarias
 2022;G;4;46;460/38021;;;Transferencias a Ayuntamientos
 2022;G;4;46;461/12302;;;Instituto Ferial de Madrid (IFEMA)
 2022;G;4;46;461/15102;;;"Aportación al Ayuntamiento de Valdeavellano de Tera: Centro de formación ""ESPACIO VALDEAVELLANO"" (Plan Soria)"
@@ -666,7 +673,8 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;4;46;468/24103;;;Festival de Málaga. Mecanismo de Recuperación y Resiliencia
 2022;G;4;46;468/29101;;;A entidades de la Administración local. Programa Erasmus + (2021-2027)
 2022;G;4;46;468/38021;;;Liquidación definitiva de la participación en los ingresos del Estado de las Corporaciones Locales, correspondiente a ejercicios anteriores y compensaciones derivadas del Nuevo Modelo de Financiación Local
-2022;G;4;46;469;;;A entidades de la Administración local. Programa Cuerpo Europeo de Solidaridad (2021-2027)
+2022;G;4;46;469/29101;;;A entidades de la Administración local. Programa Cuerpo Europeo de Solidaridad (2021-2027)
+2022;G;4;46;469/37002;;;Actuaciones en diversas Entidades Locales
 2022;G;4;47;;;;A empresas privadas
 2022;G;4;47;470/15026;;;Cuotas Nacionales
 2022;G;4;47;470/17020;;;Para compensar a sociedades concesionarias de autopistas según normativa
@@ -803,6 +811,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;4;48;480/26105;;;A familias e instituciones sin fines de lucro. Becas
 2022;G;4;48;480/27101;;;A la Sociedad Española de Estadística e Investigación Operativa (AECA)
 2022;G;4;48;480/27102;;;A la Asociación Española de Administración y Contabilidad de Empresas
+2022;G;4;48;480/28001;;;Al Institut d´Estudis Aranesi - Acadèmia Aranesa dera Lengua Occitana
 2022;G;4;48;480/28007;;;Transferencias, ayudas nominativas y otros
 2022;G;4;48;480/28008;;;Transferencias, ayudas nominativas y otros
 2022;G;4;48;480/29007;;;Subvenciones a Sociedad Civil. Programas de apoyo a la implementación de iniciativas alineadas con la Agenda 2030.
@@ -852,6 +861,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;4;48;481/19102;;;Pago prestaciones acordadas a trabajadores segun la legislación vigente, incluidas obligaciones de ejercicios anteriores
 2022;G;4;48;481/19104;;;Para la concesión de becas de formación e investigación
 2022;G;4;48;481/20001;;;Para premios a la innovación
+2022;G;4;48;481/20004;;;Terres travel festival Certamen Internacional d'Audiovisual
 2022;G;4;48;481/20007;;;Premios a asociaciones de comerciantes sin fines de lucro para creación y desarrollo de centros comerciales abiertos
 2022;G;4;48;481/20102;;;A los funcionarios de las oficinas iberoamericanas de la Propiedad Industrial designados por las mismas y de conformidad con el acuerdo suscrito por la Oficina Española de Patentes y Marcas (OEPM) con cada una de ellas (Programa CIBIT)
 2022;G;4;48;481/20103;;;Becas a estudiantes en prácticas
@@ -867,6 +877,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;4;48;481/23112;;;Proyectos de desarrollo social (Estrategia de Transición Justa)
 2022;G;4;48;481/24001;;;A fundaciones para actividades culturales y gastos de funcionamiento
 2022;G;4;48;481/24003;;;Ayudas para la acción y la promoción cultural
+2022;G;4;48;481/24004;;;Dinamización Cultura Valls d´Àneu
 2022;G;4;48;481/24005;;;Premios nacionales
 2022;G;4;48;481/24103;;;Ayudas a la organización de festivales y mercados cinematográficos nacionales e internacionales
 2022;G;4;48;481/24104;;;Becas para la formación y especialización
@@ -949,6 +960,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;4;48;482/26105;;;A instituciones y entidades de cualquier titularidad, sin ánimo de lucro, para el fomento de la donación y el trasplante de órganos y tejidos
 2022;G;4;48;482/26301;;;A la Fundación Casa del Corazón para la gestión y mantenimiento de los Registros Nacionales de Marcapasos y Desfribriladores Implantables
 2022;G;4;48;482/27302;;;Indemnización a expresidentes y exconsejeros
+2022;G;4;48;482/28001;;;A la Fundació Dr. Ferran para centro de innovación en simulación clínica realidad virtual y aumentada de Terres de l´Ebre
 2022;G;4;48;482/28006;;;Premio Nacional de Investigación para Jóvenes
 2022;G;4;48;482/28103;;;Cuotas asociaciones
 2022;G;4;48;482/29006;;;Para programas de personas con discapacidad
@@ -1009,7 +1021,9 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;4;48;483/28103;;;Becas de formación de personal investigador
 2022;G;4;48;483/28107;;;Para el Programa de Recursos Humanos y Difusión de la Investigación Biomédica del Fondo de Investigación Sanitaria e Investigación Intramural
 2022;G;4;48;483/28301;;;Aportaciones para el fomento de la investigación
+2022;G;4;48;483/29004;;;Fundació Pere Tarrés, para su sostenimiento económico-financiero
 2022;G;4;48;483/29005;;;Para programas de infancia y familias
+2022;G;4;48;483/29006;;;UNES UNIÓ ESPORTIVA Escola AFA, para su sostenimiento económico-financiero
 2022;G;4;48;483/29007;;;A la FEMP, para actuaciones de fortalecimiento de la Red de Entidades Locales para la Agenda 2030
 2022;G;4;48;483/29101;;;A la asociación Be Wild Be Proud para la Ruta al Exilio
 2022;G;4;48;483/30003;;;Convenio con la Federación  Española de Municipios y Provincias, para  la teleasistencia móvil  a víctimas de violencia de género
@@ -1068,6 +1082,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;4;48;484/28107;;;Para el fomento de la investigación en salud
 2022;G;4;48;484/28301;;;Cuotas y subvenciones a instituciones y sociedades españolas sin fines de lucro para el fomento de la investigación
 2022;G;4;48;484/29005;;;Para actividades de interés general consideradas de interés social con cargo al 0,7% del Impuesto sobre la Renta de las Personas Físicas y del Impuesto sobre Sociedades
+2022;G;4;48;484/29006;;;Fundació Internacional Miquel Valls contra l´Esclerosis Lateral Ammiotrófica, para su sostenimiento económico-financiero
 2022;G;4;48;484/29102;;;Al Comité Paralímpico Español para el Plan de Apoyo al Deporte Paralímpico (Plan ADOP).
 2022;G;4;48;484/30003;;;Atención a mujeres víctimas de trata con fines de explotación sexual
 2022;G;4;48;484/30101;;;Convenio con la Cruz Roja, CEPAIM, FSG y FEUP para el desarrollo del programa Sara
@@ -1115,6 +1130,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;4;48;485/26301;;;A la Sociedad Española de Cirugía Plástica, Reparadora y Estética para el mantenimiento del Registro Nacional de Prótesis Mamarias
 2022;G;4;48;485/27008;;;A la Asociación Española de Normalización (UNE) para soporte a secretaría, actividad normalización y acción internacional en comités tecnologías digitales y digitalización
 2022;G;4;48;485/27012;;;A la Asociación Española de Normalización (UNE) para costes de apoyo al CTN-133, posicionamiento español en ETSI y difusión de normas
+2022;G;4;48;485/28001;;;A Iura Vasconiae (Fundación para el Estudio del Derecho Histórico y Autonómico de Vasconia)
 2022;G;4;48;485/28008;;;Premios Nacionales de Innovación y de Diseño
 2022;G;4;48;485/29005;;;A la Federación Española de Municipios y Provincias
 2022;G;4;48;485/29101;;;A entidades, asociaciones y jóvenes participantes Programa Erasmus+/Juventud
@@ -1123,6 +1139,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;4;48;485/33101;;;Cuota de asociado Conferencia Rectores Universidades Españolas (CRUE)
 2022;G;4;48;485/33102;;;Programa de becas doctorales y postdoctorales en Brasil
 2022;G;4;48;485/60001;;;Proteccion a la familia
+2022;G;4;48;485/60002;;;Fondo de compensación a las víctimas del amianto.
 2022;G;4;48;486/12003;;;A las fundaciones dependientes de partidos políticos con representación parlamentaria de ámbito nacional
 2022;G;4;48;486/12302;;;Para Ayuda Oficial al Desarrollo
 2022;G;4;48;486/13102;;;Prestaciones económicas Mutualidades Integradas
@@ -1446,8 +1463,8 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;6;60;600;;;Inversiones en terrenos
 2022;G;6;60;601;;;Otras
 2022;G;6;60;602/17038;;;Destinado a atender los efectos derivados de la resolución de los contratos de concesión de obra pública
-2022;G;6;60;602/23005;;;Inversiones reales. Financiado según el artículo 30.4 de la Ley 7/2021
-2022;G;6;60;602/23006;;;Inversiones reales. Financiado según el artículo 30.4 de la Ley 7/2021
+2022;G;6;60;602/23005;;;Inversiones reales
+2022;G;6;60;602/23006;;;Inversiones reales
 2022;G;6;60;602/23011;;;Inversiones reales. Financiado según el artículo 30.4 de la Ley 7/2021
 2022;G;6;60;603/17020;;;Liquidación de la inversión realizada en la autopista AP-7, de acuerdo con el Real Decreto 457/2006, de 7 de abril
 2022;G;6;60;603/23101;;;Plan PIMA ADAPTA
@@ -1456,15 +1473,15 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;6;61;;;;Inversión de reposición en infraestructuras y bienes destinados al uso general
 2022;G;6;61;610;;;Inversiones en terrenos
 2022;G;6;61;611;;;Otras
-2022;G;6;61;612/23006;;;Inversiones reales. Financiado según el artículo 30.4 de la Ley 7/2021
-2022;G;6;61;612/23011;;;Otras inversiones del medio natural y política forestal. Financiado según el artículo 30.4 de la Ley 7/2021
-2022;G;6;61;613;;;Inversiones reales. Financiado según el artículo 30.4 de la Ley 7/2021
+2022;G;6;61;612/23006;;;Inversiones reales
+2022;G;6;61;612/23011;;;Otras inversiones del medio natural y política forestal
+2022;G;6;61;613;;;Inversiones reales
 2022;G;6;61;614;;;PIMA ADAPTA Costas. Financiado según el artículo 30.4 de la Ley 7/2021
 2022;G;6;61;619/17038;;;Expropiaciones, modificados adicionales y otras incidencias de ejercicios anteriores
 2022;G;6;61;619/23005;;;Incidencias de inversiones de ejercicios anteriores
 2022;G;6;62;;;;Inversión nueva asociada al funcionamiento operativo de los servicios
 2022;G;6;62;620;;;Inversión nueva asociada al funcionamiento operativo de los servicios
-2022;G;6;62;621/23011;;;Inversiones reales. Financiado según el artículo 30.4 de la Ley 7/2021
+2022;G;6;62;621/23011;;;Inversiones reales
 2022;G;6;62;621/24005;;;Inversiones producto del 1% cultural, artículo 68 Ley 16/85, de 25 de junio,del Patrimonio Histórico Español para adquisición de bienes culturales
 2022;G;6;62;621/31005;;;Inversión nueva asociada al funcionamiento operativo de los servicios financiada con las tasas por la gestión administrativa del juego
 2022;G;6;62;622;;;Pago de indemnizaciones a que se refiere la Ley 36/1994, de 23 de diciembre, de incorporación de la Directiva 93/7 de la CEE relativa a la restitución de bienes culturales que hayan salido del territorio de un estado miembro y pago de los costes derivados de la devolución de bienes culturales previsto en el instrumento de adhesión de España al Convenio UNIDROIT sobre bienes culturales robados o exportados ilegalmente de 24 de junio de 1995
@@ -1474,17 +1491,17 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;6;63;;;;Inversión de reposición asociada al funcionamiento operativo de los servicios
 2022;G;6;63;630;;;Inversión de reposición asociada al funcionamiento operativo de los servicios
 2022;G;6;63;631/14301;;;Inversión de cualquier naturaleza del CNI
-2022;G;6;63;631/23006;;;Inversiones reales. Financiado según el artículo 30.4 de la Ley 7/2021
-2022;G;6;63;631/23011;;;Inversiones reales. Financiado según el artículo 30.4 de la Ley 7/2021
+2022;G;6;63;631/23006;;;Inversiones reales
+2022;G;6;63;631/23011;;;Inversiones reales
 2022;G;6;63;631/24005;;;Inversiones producto del 1% cultural, artículo 68 Ley 16/85, de 25 de Junio, del Patrimonio Histórico Español, para obras de conservación y restauración de bienes culturales
 2022;G;6;63;638;;;Patrimonio Sindical Acumulado
 2022;G;6;64;;;;Gastos de inversiones de carácter inmaterial
 2022;G;6;64;640;;;Gastos en inversiones de carácter inmaterial
 2022;G;6;64;641/21008;;;Inversiones inmateriales relacionadas con las inversiones en infraestructuras rurales
 2022;G;6;64;641/23005;;;Inversiones de carácter inmaterial. Financiado según el artículo 30.4 de la Ley 7/2021
-2022;G;6;64;641/23006;;;Inversiones de carácter inmaterial. Financiado según el artículo 30.4 de la Ley 7/2021
-2022;G;6;64;641/23008;;;Inversiones de carácter inmaterial. Financiado según el artículo 30.4 de la Ley 7/2021
-2022;G;6;64;641/23011;;;Inversiones de carácter inmaterial. Financiado según el artículo 30.4 de la Ley 7/2021
+2022;G;6;64;641/23006;;;Inversiones de carácter inmaterial
+2022;G;6;64;641/23008;;;Inversiones de carácter inmaterial
+2022;G;6;64;641/23011;;;Inversiones de carácter inmaterial
 2022;G;6;64;641/31005;;;Gastos en inversión de carácter inmaterial financiados con las tasas por la gestión administrativa del juego
 2022;G;6;64;649;;;Gastos en inversiones de carácter inmaterial para obligaciones de ejercicios anteriores
 2022;G;6;65;;;;Inversiones militares en infraestructura y otros bienes
@@ -1520,7 +1537,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;7;71;710/17020;;;Centro de Estudios y Experimentación de Obras Públicas (CEDEX)
 2022;G;7;71;710/21050;;;Al FEGA. Mecanismo de Recuperación y Resiliencia
 2022;G;7;71;710/21103;;;Organismo Autónomo FEGA. Ayudas desarrollo rural. FEGA organismo pagador
-2022;G;7;71;710/23004;;;A Parques Nacionales. Financiado según el artículo 30.4 de la Ley 7/2021
+2022;G;7;71;710/23004;;;A Parques Nacionales
 2022;G;7;71;710/23005;;;Confederaciones Hidrográficas
 2022;G;7;71;710/23008;;;A CIEMAT para trabajos relacionados con la calidad ambiental
 2022;G;7;71;710/24001;;;Al Consejo Superior de Deportes
@@ -1643,6 +1660,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;7;74;740/23112;;;C10I01 A CIUDEN para inversiones en Transición Justa
 2022;G;7;74;740/27008;;;España Digital 2025
 2022;G;7;74;740/27050;;;Transferencias a entidades del Sector Público Estatal. Mecanismo de Recuperación y Resiliencia
+2022;G;7;74;740/28008;;;"Al Consorcio de la Zona Franca de Barcelona para construcción de Hub de la Industria 4.0, la ""DFactory"""
 2022;G;7;74;740/28303;;;Fondo para la Investigación Científica y el Desarrollo Tecnológico
 2022;G;7;74;740/33003;;;A la Universidad Nacional de Educación a Distancia (UNED)
 2022;G;7;74;741/17010;;;Acción Cultural Española: Bienal de Venecia
@@ -1651,6 +1669,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;7;74;741/17050;;;Ayudas a entidades del sector público empresarial para el impulso de la digitalización, sostenibilidad e innovación en la cadena logística. Mecanismo de Recuperación y Resiliencia
 2022;G;7;74;741/20004;;;A la Sociedad Mercantil Estatal para la Gestión de la Innovación y las Tecnologías Turísticas, S.A.M.P. (SEGITTUR)
 2022;G;7;74;741/23005;;;A la Fundación Biodiversidad, para actuaciones en el desarrollo de sus funciones
+2022;G;7;74;741/23006;;;A Bilbao Ría 2000. Muelle Abandoibarra
 2022;G;7;74;741/23010;;;Fondo de carbono para una economía sostenible
 2022;G;7;74;741/23011;;;Fondo de compensación de incendios para la cobertura del riesgo de accidentes a las personas que intervienen en la extinción de incendios
 2022;G;7;74;741/23050;;;Para el Plan de Transición Energética en edificios
@@ -1695,6 +1714,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;7;74;745/19101;;;A FUNDAE. Mejora de ciberseguridad, nuevas formas de trabajo y detección de riesgos. Mecanismo de Recuperación y Resiliencia
 2022;G;7;74;745/20050;;;Mantenimiento y rehabilitación sostenible de bienes inmuebles patrimonio histórico. Mecanismo de Recuperación y Resiliencia
 2022;G;7;74;745/23050;;;Aportación al FRER para Economía Circular
+2022;G;7;74;745/27050;;;Para la creación de la Agencia Española de Supervisión de la Inteligencia Artificial
 2022;G;7;74;745/28107;;;A la Fundación Centro de Investigación de Enfermedades Neurológicas
 2022;G;7;74;746/17050;;;A ADIF-Alta Velocidad para el Mecanismo de Recuperación y Resiliencia
 2022;G;7;74;746/19101;;;A FUNDAE. Plataforma para autónomos y de la Economía Social. Mecanismo de Recuperación y Resiliencia
@@ -1724,6 +1744,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;7;75;750/20050;;;Plan de Sostenibilidad Turística en Destinos. Mecanismo de Recuperación y Resiliencia
 2022;G;7;75;750/21001;;;Subvenciones, indemnizaciones y ayudas
 2022;G;7;75;750/21005;;;Fomento de la innovación tecnológica
+2022;G;7;75;750/21007;;;Al Gobierno de Aragón para la creación del Consejo Regulador de la trufa y panel de la cata de la trufa
 2022;G;7;75;750/23005;;;Convenio de Colaboración con el Gobierno de Canarias para desarrollo de actuaciones en materia de agua
 2022;G;7;75;750/23008;;;Programa de mejora de gestión de residuos municipales
 2022;G;7;75;750/23010;;;Transferencia a Comunidades Autónomas para la ejecución de actuaciones enmarcadas en el plan PIMA ADAPTA Eventos Adversos. Financiado según el artículo 30.4 de la Ley 7/2021
@@ -1739,12 +1760,14 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;7;75;750/27008;;;España Digital 2025
 2022;G;7;75;750/27050;;;Refuerzo de conectividad en centros de referencia, motores socioeconómicos y proyectos tractores de digitalización sectorial. Mecanismo de Recuperación y Resiliencia
 2022;G;7;75;750/28006;;;Proyectos de I+D en cooperación con comunidades
+2022;G;7;75;750/28007;;;A la Universidad del País Vasco para proyecto de innovación abierta para la transición sostenible en los sectores marinos
 2022;G;7;75;750/28008;;;Aportación al proyecto de la Ciudad del Envase y el Embalaje de la Comunidad Autónoma de la Rioja
 2022;G;7;75;750/28103;;;Aportación a la Fundación Parque Científico de Madrid
 2022;G;7;75;750/28303;;;Fondo para la Investigación Científica y el Desarrollo Tecnológico
 2022;G;7;75;750/30002;;;Para el desarrollo de nuevas o ampliadas competencias reservadas a CC.AA. en el Pacto de Estado contra la Violencia de Género.
 2022;G;7;75;750/31050;;;España Digital 2025. Mecanismo de Recuperación y Resiliencia.
 2022;G;7;75;750/33003;;;Ayudas Beatriz Galindo a docentes e investigadores para la atracción del talento investigador a las universidades españolas
+2022;G;7;75;750/37001;;;A la Comunidad Autónoma de Canarias
 2022;G;7;75;751/15050;;;Para modernización de CC.AA. Mecanismo de Recuperación y Resiliencia
 2022;G;7;75;751/17010;;;Actuaciones relacionadas con el 1% Cultural
 2022;G;7;75;751/17020;;;Al Consorcio de Valencia 2007 para el pago de los costes de reposición adeudados a la Autoridad Portuaria de Valencia
@@ -1753,6 +1776,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;7;75;751/23006;;;Sendero litoral en Vistalegre y acondicionamiento de la playa de Lastres (T.M. Colunga)
 2022;G;7;75;751/23009;;;Al Laboratorio Oficial Madariaga de la Universidad Politécnica de Madrid para actuaciones en calidad y seguridad
 2022;G;7;75;751/23014;;;A Comunidades Autónomas, para actuaciones en materia de reto demográfico
+2022;G;7;75;751/23050;;;Mejora medioambiental margen del Delta del Ebro
 2022;G;7;75;751/23101;;;Programa de investigación en Parques Nacionales. PIMA ADAPTA
 2022;G;7;75;751/23109;;;C.A. de Castilla-La Mancha, trasvase Tajo-Segura
 2022;G;7;75;751/23112;;;Infraestructuras
@@ -1781,6 +1805,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;7;75;752/24107;;;Al Consorcio de Rehabilitación de Teatros de Barcelona para ayudas a la rehabilitación de teatros privados de Barcelona
 2022;G;7;75;752/33050;;;Ayudas a universidades públicas para la recualificación y la movilidad internacional del Personal Docente Investigador (PDI). Mecanismo de Recuperación y Resiliencia
 2022;G;7;75;753/17009;;;Subvenciones Estatales  Planes de Vivienda
+2022;G;7;75;753/17020;;;A la Comunidad Autónoma del País Vasco para el proyecto y ejecución de una pista ciclable entre Irurtzun y Agurain
 2022;G;7;75;753/20009;;;A la C.A. La Rioja para la Ciudad del envase y el embalaje
 2022;G;7;75;753/20050;;;Convenios con Comunidades Autónomas y Ciudades Autónomas. Mecanismo de Recuperación y Resiliencia
 2022;G;7;75;753/22002;;;A la Comunidad Autónoma de Aragón para financiar proyectos de inversión en la provincia de Teruel, incluyendo compensaciones por regularizaciones de ejercicios anteriores
@@ -1793,6 +1818,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;7;75;753/37001;;;Factor de Insularidad (Título III del Real Decreto-ley 4/2019, de 22 de febrero, del Régimen Especial de las Illes Balears)
 2022;G;7;75;754/13050;;;A Comunidades Autónomas. Mecanismo de Recuperación y Resiliencia
 2022;G;7;75;754/17009;;;Bono alquiler joven
+2022;G;7;75;754/17020;;;A la Comunidad Autónoma de Cataluña para la ruta ciclabe Eurovelo 8
 2022;G;7;75;754/17040;;;A la Comunidad de Castilla y León para potenciación de las infraestructuras industriales en Villadangos del Páramo
 2022;G;7;75;754/17050;;;Programa de construcción de viviendas en alquiler social. Mecanismo de Recuperación y Resiliencia
 2022;G;7;75;754/19101;;;A Comunidades Autónomas, Centros de Orientación y Emprendimiento. Mecanismo de Recuperación y Resliencia
@@ -1807,6 +1833,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;7;75;754/24107;;;A la Fundación del Gran Teatre del Liceu
 2022;G;7;75;754/27050;;;Plan de Conectividad. Mecanismo de Recuperación y Resiliencia
 2022;G;7;75;754/29050;;;Transferencias de capital a comunidades autónomas incluidas en el Mecanismo de Recuperación y Resiliencia
+2022;G;7;75;754/37001;;;Actuaciones en diversas Comunidades Autónomas
 2022;G;7;75;755/17038;;;Convenio con la Comunidad Autónoma de Canarias
 2022;G;7;75;755/17050;;;Convenio con la Generalitat de Catalunya para la cesión de la B-23 e implantación del carril BUS-VAO en el acceso a Barcelona
 2022;G;7;75;755/21005;;;Mejora de la organización de la producción y reordenación de los sectores productivos
@@ -1815,6 +1842,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;7;75;755/23011;;;Para Comunidades Autónomas para paliar daños producidos por el lobo ibérico a la ganadería extensiva
 2022;G;7;75;755/23050;;;Para Estrategia de Economía Circular
 2022;G;7;75;755/24107;;;Al Consorcio del Gran Teatre del Liceu
+2022;G;7;75;755/27008;;;Al Gobierno de Navarra para el proyecto polo de innovación digital Iris Lab
 2022;G;7;75;755/27050;;;A CCAA para el Plan Nacional de Competencias digitales. Ciudadanía digital. Formación competencias Digitales Básicas. Mecanismo de Recuperación y Resiliencia
 2022;G;7;75;755/28007;;;Unidad de Paleontología de Dinosaurios de Teruel
 2022;G;7;75;755/30050;;;Creación de centros de atención integral 24 horas a víctimas de violencia sexual. Mecanismo de Recuperación y Resiliencia
@@ -1855,6 +1883,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;7;75;757/21005;;;Mejora del sector hortofruticola y cultivos industriales
 2022;G;7;75;757/21008;;;Financiación AGE a los PDRs
 2022;G;7;75;757/23005;;;A la Comunidad Autónoma de Andalucía para la reparación de las instalaciones electromecánicas de la Toma del Andévalo
+2022;G;7;75;757/23008;;;Para restauraciones complementarias en Flix
 2022;G;7;75;757/23011;;;Actuaciones de conservación y restauración de la biodiversidad
 2022;G;7;75;757/37001;;;A la Comunidad Autónoma de La Rioja para financiar proyectos de inversión. Rehabilitación y reforma de IES Sagasta de Logroño
 2022;G;7;75;758/17009;;;Organismos públicos de Comunidades Autónomas
@@ -1864,6 +1893,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;7;75;758/23005;;;A la Comunidad Autónoma de La Rioja para reacondicionamiento de la carretera LR-115
 2022;G;7;75;758/27050;;;Bonos de conectividad para PYMES y colectivos vulnerables. Mecanismo de Recuperación y Resiliencia
 2022;G;7;75;758/28107;;;Para proyectos programa de recursos humanos y estructuras estables de investigación cooperativa
+2022;G;7;75;759/17009;;;A Comunidades Autónomas y Ayuntamientos para adquirir vivienda pública destinada a alquiler social. Recuperar 30% viviendas SAREB
 2022;G;7;75;759/17038;;;A la Comunidad Autónoma de la Región de Murcia para actuaciones en la Autovía Alquerías-Santomera
 2022;G;7;75;759/20050;;;Financiación de proyectos de economía circular (reducción, reutilización y reciclado de recursos) en empresas. Mecanismo de Recuperación y Resiliencia
 2022;G;7;75;759/21050;;;Transición ecológica de la agricultura y la ganadería y defensa plagas y enfermedades emergentes. Mecanismo de Recuperación y Resiliencia
@@ -1877,15 +1907,18 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;7;76;;;;A Entidades Locales
 2022;G;7;76;760/17050;;;Programa de rehabilitación sostenible y digital de edificios públicos. Mecanismo de Recuperación y Resiliencia
 2022;G;7;76;760/20050;;;Mantenimiento y rehabilitación sostenible de bienes inmuebles patrimonio históricos. Mecanismo de Recuperación y Resiliencia
+2022;G;7;76;760/21008;;;A ayuntamientos, diputaciones y otros entes locales
 2022;G;7;76;760/21103;;;A Entidades Locales
 2022;G;7;76;760/23106;;;A la Diputación Provincial de Badajoz para financiar un convenio de actuación en carreteras
 2022;G;7;76;760/23112;;;Inversiones EELL
+2022;G;7;76;760/24004;;;A la Fundació ProCat
 2022;G;7;76;760/24005;;;A ayuntamientos, diputaciones y otros entes locales
 2022;G;7;76;760/27008;;;España Digital 2025
 2022;G;7;76;760/27101;;;Para gastos originados por la explotación estadística del Padrón Municipal y la actualización mensual del Censo Electoral
 2022;G;7;76;760/28303;;;Fondo para la Investigación Científica y el Desarrollo Tecnológico
 2022;G;7;76;760/30101;;;Programa Mujer y territorio
 2022;G;7;76;760/31050;;;España Digital 2025. Mecanismo de Recuperación y Resiliencia.
+2022;G;7;76;760/37002;;;Actuaciones en Canarias
 2022;G;7;76;761/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
 2022;G;7;76;761/16102;;;Para financiar obligaciones derivadas de convenios y acuerdos con otras administraciones
 2022;G;7;76;761/17020;;;Estrategia Estatal por la Bicicleta
@@ -1908,6 +1941,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;7;76;764/20050;;;Apoyo a Proyectos Estratégicos para la Transición Industrial. Mecanismo de Recuperación y Resiliencia
 2022;G;7;76;765/17009;;;Al Ayuntamiento de Barcelona para la promoción de viviendas en alquiler asequible o social (Plan 20.000)
 2022;G;7;76;765/17010;;;Al Ayuntamiento de Cabra. Recuperación ladera norte barrio de la Villa
+2022;G;7;76;765/23006;;;Al Ayuntamiento de Lekeitio. Astillero Mendieta
 2022;G;7;76;765/24106;;;A corporaciones locales para otras obras
 2022;G;7;76;765/24107;;;Al Consorcio de Rehabilitación de Teatros de Madrid para ayudas a la rehabilitación de teatros privados de Madrid
 2022;G;7;76;765/37002;;;Para financiar inversiones en municipios del Campo de Gibraltar
@@ -1923,6 +1957,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;7;76;769/17009;;;Las Rehoyas (Las Palmas de Gran Canaria). Renovación urbana
 2022;G;7;76;769/17020;;;A la Institución Ferial de Madrid (IFEMA) para la celebración del Global Mobility Call
 2022;G;7;76;769/28107;;;Para proyectos programa de recursos humanos y estructuras estables de investigación cooperativa. Mecanismo de Recuperación y Resiliencia
+2022;G;7;76;769/37002;;;Actuaciones en diversas Entidades Locales
 2022;G;7;77;;;;A empresas privadas
 2022;G;7;77;770/17010;;;Actuaciones relacionadas con el 1 % Cultural
 2022;G;7;77;770/17050;;;Ayudas a empresas para el impulso de la digitalización, sostenibilidad e innovación en la cadena logística. Mecanismo de Recuperación y Resiliencia
@@ -1930,6 +1965,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;7;77;770/24106;;;A universidades privadas para obras y equipamiento deportivo con motivo de la organización de campeonatos internacionales
 2022;G;7;77;770/27008;;;España Digital 2025
 2022;G;7;77;770/27050;;;A empresas privadas.  Mecanismo de Recuperación y Resiliencia
+2022;G;7;77;770/28008;;;A la Escuela Politécnica Superior de Mondragón Unibertsitatea para el Centro de Innovación y Emprendimiento para una Transición Industrial Sostenible
 2022;G;7;77;770/28303;;;Fondo para la Investigación Científica y el Desarrollo Tecnológico
 2022;G;7;77;771/15014;;;Subvenciones a empresas localizadas en zonas de promoción económica y otras zonas acordadas por el Gobierno
 2022;G;7;77;771/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia.
@@ -1989,8 +2025,10 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;7;78;780/23112;;;Inversiones en instituciones sin fines de lucro
 2022;G;7;78;780/24005;;;Ayudas a entidades privadas sin ánimo de lucro para la mejora de las instalaciones y el equipamiento de sus archivos
 2022;G;7;78;780/24050;;;Transferencias a operadores de gestión de derechos de propiedad intelectual para el desarrollo del Plan Digitalización. Mecanismo de Recuperación y Resiliencia
+2022;G;7;78;780/24106;;;Reconstrucción de la piscina histórica cubierta de saltos del Club Natació Barcelona
 2022;G;7;78;780/27008;;;Convocatorias Programa ECSEL
 2022;G;7;78;780/27101;;;Para proyectos de inversión científica, desarrollo e innovación tecnológica
+2022;G;7;78;780/28007;;;CIC ENERGIGUNE proyecto investigación en materiales y sistemas para almacenamiento de energía térmica y electroquímica
 2022;G;7;78;780/28301;;;Formación de personal investigador
 2022;G;7;78;780/28303;;;Fondo para la Investigación Científica y el Desarrollo Tecnológico
 2022;G;7;78;780/29101;;;Al Consejo de la Juventud de España
@@ -2008,9 +2046,13 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;7;78;781/26018;;;Para proyectos de investigación a desarrollar por entidades  públicas y privadas
 2022;G;7;78;781/26050;;;Para proyectos de investigación a desarrollar por entidades públicas y privadas. Mecanismo de Recuperación y Resiliencia.
 2022;G;7;78;781/28001;;;Ayudas a instituciones adscritas al programa para gastos de inversión
+2022;G;7;78;781/28007;;;A la Universidad de Deusto para proyecto de innovación y transferencia en el ámbito sociosanitario y tecnológico
 2022;G;7;78;782/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
 2022;G;7;78;782/17009;;;Ayudas para renta básica de emancipación de jóvenes, subsidiación de préstamos y otros apoyos a la vivienda
 2022;G;7;78;782/20050;;;Línea de ayudas Fondo Tecnológico. Mecanismo de Recuperación y Resiliencia
+2022;G;7;78;782/24004;;;A la Fundación Agustín Alegre para Complejo Cultural y Redes
+2022;G;7;78;782/24005;;;A la Sociedad Gaztelu para proyecto museológico y museográfico para el Centro de Visitas del Castillo de Amaiur y del Valle de Baztán
+2022;G;7;78;782/24107;;;Centro Internacional de Títeres de Tolosa
 2022;G;7;78;782/27008;;;España Digital 2025
 2022;G;7;78;782/28006;;;Acciones de Política Científica
 2022;G;7;78;783/17010;;;Consejo Superior de Colegios de Arquitectos de España. EUROPAN
@@ -2023,7 +2065,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2022;G;7;78;784/24003;;;Programa de animación a la lectura en mundo rural (PFL)
 2022;G;7;78;784/24106;;;A la Real Federación Española de Fútbol para obras y equipamiento del futbol no profesional, en cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991
 2022;G;7;78;784/28301;;;A fundaciones para gastos derivados de convenios de colaboración
-2022;G;7;78;784/60002;;;A la Fundación Matia para la financiación del proyecto piloto de viviendas para mayores.
+2022;G;7;78;784/60002;;;A la Fundación Instituto Gerontológico Matia-INGEMA: regeneración de un entorno urbano desde la perspectiva inclusiva para la promoción de la autonomía de personas mayores.
 2022;G;7;78;785/17010;;;Consejo Superior de Arquitectos de España. Bienales de Arquitectura (Española e Iberoamericana)
 2022;G;7;78;785/21007;;;Convenios de colaboración con Entidades sin ánimo de lucro.
 2022;G;7;78;785/28103;;;Aportación a la Fundación Energía sin Fronteras

@@ -13,8 +13,7 @@ $(document).ready(function(){
     };
     var yearLabels = {
       '2019': extended,
-      '2020': extended,
-      '2022': pendingApproval
+      '2020': extended
     }
 
     $('.data-controllers .layout-slider .slider .slider-tick-label').each(function(){

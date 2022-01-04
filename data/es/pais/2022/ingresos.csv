@@ -916,7 +916,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2022;20103;4;;;TRANSFERENCIAS CORRIENTES;4286300
 2022;20104;4;;;TRANSFERENCIAS CORRIENTES;32135770
 2022;21101;4;;;TRANSFERENCIAS CORRIENTES;5569650
-2022;21102;4;;;TRANSFERENCIAS CORRIENTES;261255140
+2022;21102;4;;;TRANSFERENCIAS CORRIENTES;262255140
 2022;21103;4;;;TRANSFERENCIAS CORRIENTES;5788901080
 2022;23101;4;;;TRANSFERENCIAS CORRIENTES;9581350
 2022;23102;4;;;TRANSFERENCIAS CORRIENTES;2430140
@@ -934,7 +934,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2022;24103;4;;;TRANSFERENCIAS CORRIENTES;99840690
 2022;24104;4;;;TRANSFERENCIAS CORRIENTES;24134900
 2022;24105;4;;;TRANSFERENCIAS CORRIENTES;9297450
-2022;24106;4;;;TRANSFERENCIAS CORRIENTES;174028060
+2022;24106;4;;;TRANSFERENCIAS CORRIENTES;173928060
 2022;24107;4;;;TRANSFERENCIAS CORRIENTES;148896870
 2022;24301;4;;;TRANSFERENCIAS CORRIENTES;25820730
 2022;24302;4;;;TRANSFERENCIAS CORRIENTES;27043480
@@ -986,7 +986,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2022;20103;40;;;De la Administración del Estado;3987190
 2022;20104;40;;;De la Administración del Estado;32135770
 2022;21101;40;;;De la Administración del Estado;5569650
-2022;21102;40;;;De la Administración del Estado;261255140
+2022;21102;40;;;De la Administración del Estado;262255140
 2022;21103;40;;;De la Administración del Estado;21843980
 2022;23101;40;;;De la Administración del Estado;9581350
 2022;23102;40;;;De la Administración del Estado;2430140
@@ -1004,7 +1004,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2022;24103;40;;;De la Administración del Estado;99690870
 2022;24104;40;;;De la Administración del Estado;24134900
 2022;24105;40;;;De la Administración del Estado;9297450
-2022;24106;40;;;De la Administración del Estado;142028060
+2022;24106;40;;;De la Administración del Estado;141928060
 2022;24107;40;;;De la Administración del Estado;148747000
 2022;24301;40;;;De la Administración del Estado;20948900
 2022;24302;40;;;De la Administración del Estado;24303480
@@ -1068,7 +1068,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2022;24103;400;;;Del departamento al que está adscrito;83302560
 2022;24104;400;;;Del departamento al que está adscrito;24134900
 2022;24105;400;;;Del departamento al que está adscrito;6570450
-2022;24106;400;;;Del departamento al que está adscrito;124911060
+2022;24106;400;;;Del departamento al que está adscrito;124811060
 2022;24107;400;;;Del departamento al que está adscrito;142337000
 2022;24301;400;;;Del departamento al que está adscrito;20948900
 2022;24302;400;;;Del departamento al que está adscrito;24303480
@@ -1107,7 +1107,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2022;23109;400;;00;Para el desarrollo de sus actividades;11695810
 2022;23110;400;;00;Para el desarrollo de sus actividades;9946050
 2022;24103;400;;00;Para gastos de funcionamiento;18302560
-2022;24106;400;;00;Para gastos de funcionamiento;77186060
+2022;24106;400;;00;Para gastos de funcionamiento;77086060
 2022;28103;400;;00;Para gastos corrientes;45394700
 2022;28107;400;;00;Para gastos corrientes;137723480
 2022;28301;400;;00;Para gastos corrientes;429032700
@@ -1144,6 +1144,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2022;15106;401;;;De otros departamentos ministeriales;67640000
 2022;15302;401;;;De otros departamentos ministeriales;107600
 2022;17101;401;;;De otros departamentos ministeriales;3000000
+2022;21102;401;;;De otros departamentos ministeriales;1000000
 2022;23301;401;;;De otros departamentos ministeriales;44000
 2022;24105;401;;;De otros departamentos ministeriales;2727000
 2022;25102;401;;;De otros departamentos ministeriales;40000
@@ -1155,6 +1156,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2022;23301;401;;00;Del Ministerio de Ciencia e Innovación para actividades en la AEMET en las Campañas Antárticas;44000
 2022;24105;401;;00;Del Ministerio de Educación y Formación Profesional para gastos en Servicios Centrales de Educación;1704000
 2022;28103;401;;00;Del Ministerio para la Transición Ecológica y el Reto Demográfico para el seguimiento de grandes instalaciones de combustión;100000
+2022;21102;401;;01;Plan Estatal de Seguros Agrarios y liquidación de planes anteriores. Actuaciones en Canarias;1000000
 2022;24105;401;;01;Del Ministerio de Educación y Formación Profesional para gastos corrientes en educación;1023000
 2022;33101;401;;01;Del Ministerio de Educación y Formación Profesional para la concesión de becas de inmersión en inglés;8223580
 2022;28107;401;;04;Del Ministerio de Sanidad para el desarrollo de las actividades de la Agencia de Evaluación de Tecnologías Sanitarias;824510
@@ -1808,7 +1810,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2022;23101;7;;;TRANSFERENCIAS DE CAPITAL;65694890
 2022;23102;7;;;TRANSFERENCIAS DE CAPITAL;14400000
 2022;23103;7;;;TRANSFERENCIAS DE CAPITAL;8100000
-2022;23104;7;;;TRANSFERENCIAS DE CAPITAL;1200000
+2022;23104;7;;;TRANSFERENCIAS DE CAPITAL;1375000
 2022;23105;7;;;TRANSFERENCIAS DE CAPITAL;60250000
 2022;23106;7;;;TRANSFERENCIAS DE CAPITAL;17250000
 2022;23107;7;;;TRANSFERENCIAS DE CAPITAL;10000000
@@ -1821,8 +1823,8 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2022;24103;7;;;TRANSFERENCIAS DE CAPITAL;5655000
 2022;24104;7;;;TRANSFERENCIAS DE CAPITAL;7544180
 2022;24105;7;;;TRANSFERENCIAS DE CAPITAL;37121050
-2022;24106;7;;;TRANSFERENCIAS DE CAPITAL;114063260
-2022;24107;7;;;TRANSFERENCIAS DE CAPITAL;41776330
+2022;24106;7;;;TRANSFERENCIAS DE CAPITAL;114363260
+2022;24107;7;;;TRANSFERENCIAS DE CAPITAL;41876330
 2022;24301;7;;;TRANSFERENCIAS DE CAPITAL;21650000
 2022;24302;7;;;TRANSFERENCIAS DE CAPITAL;6600000
 2022;24303;7;;;TRANSFERENCIAS DE CAPITAL;424570
@@ -1874,7 +1876,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2022;23101;70;;;De la Administración del Estado;63194890
 2022;23102;70;;;De la Administración del Estado;10000000
 2022;23103;70;;;De la Administración del Estado;5100000
-2022;23104;70;;;De la Administración del Estado;1000000
+2022;23104;70;;;De la Administración del Estado;1175000
 2022;23105;70;;;De la Administración del Estado;4000000
 2022;23106;70;;;De la Administración del Estado;17000000
 2022;23107;70;;;De la Administración del Estado;10000000
@@ -1886,8 +1888,8 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2022;24103;70;;;De la Administración del Estado;5655000
 2022;24104;70;;;De la Administración del Estado;7544180
 2022;24105;70;;;De la Administración del Estado;37121050
-2022;24106;70;;;De la Administración del Estado;114063260
-2022;24107;70;;;De la Administración del Estado;41776330
+2022;24106;70;;;De la Administración del Estado;114363260
+2022;24107;70;;;De la Administración del Estado;41876330
 2022;24301;70;;;De la Administración del Estado;21650000
 2022;24302;70;;;De la Administración del Estado;6600000
 2022;24303;70;;;De la Administración del Estado;424570
@@ -1935,7 +1937,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2022;23101;700;;;Del departamento al que está adscrito;63194890
 2022;23102;700;;;Del departamento al que está adscrito;10000000
 2022;23103;700;;;Del departamento al que está adscrito;5100000
-2022;23104;700;;;Del departamento al que está adscrito;1000000
+2022;23104;700;;;Del departamento al que está adscrito;1175000
 2022;23105;700;;;Del departamento al que está adscrito;4000000
 2022;23106;700;;;Del departamento al que está adscrito;17000000
 2022;23107;700;;;Del departamento al que está adscrito;10000000
@@ -1947,8 +1949,8 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2022;24103;700;;;Del departamento al que está adscrito;585000
 2022;24104;700;;;Del departamento al que está adscrito;5094180
 2022;24105;700;;;Del departamento al que está adscrito;29001070
-2022;24106;700;;;Del departamento al que está adscrito;23183260
-2022;24107;700;;;Del departamento al que está adscrito;8526330
+2022;24106;700;;;Del departamento al que está adscrito;23483260
+2022;24107;700;;;Del departamento al que está adscrito;8626330
 2022;24301;700;;;Del departamento al que está adscrito;13600000
 2022;24302;700;;;Del departamento al que está adscrito;6600000
 2022;24303;700;;;Del departamento al que está adscrito;424570
@@ -1978,7 +1980,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2022;23101;700;;00;Del departamento al que está adscrito;26011080
 2022;23102;700;;00;Del departamento al que está adscrito;10000000
 2022;23103;700;;00;Del departamento al que está adscrito;5100000
-2022;23104;700;;00;Del departamento al que está adscrito;1000000
+2022;23104;700;;00;Del departamento al que está adscrito;1175000
 2022;23105;700;;00;Del departamento al que está adscrito;4000000
 2022;23106;700;;00;Del departamento al que está adscrito;12000000
 2022;23107;700;;00;Del departamento al que está adscrito;10000000
@@ -1987,7 +1989,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2022;23110;700;;00;Del departamento al que está adscrito;12000000
 2022;23112;700;;00;Del departamento al que está adscrito;60821810
 2022;23301;700;;00;Del departamento al que está adscrito;34458660
-2022;24106;700;;00;Para gastos de capital;20908260
+2022;24106;700;;00;Para gastos de capital;21208260
 2022;28103;700;;00;Para gastos de capital;24139270
 2022;28107;700;;00;Para gastos de capital;34808440
 2022;28301;700;;00;Para gastos de capital;113408670
@@ -1997,7 +1999,7 @@ EJERCICIO;CENTRO GESTOR;ECONOMICA;FINANCIACION;ITEM;DESCRIPCION;IMPORTE
 2022;17102;700;;01;Del Instituto Geográfico Nacional;2520000
 2022;19101;700;;01;Del Departamento al que está adscrito. Mecanismo de Recuperación y Resiliencia;52522700
 2022;21103;700;;01;Mecanismo de Recuperación y Resiliencia.;10000000
-2022;23101;700;;01;De la Secretaria de Estado de Medio Ambiente para Plan PIMA ADAPTA. Ingresos procedentes de subastas de derechos de emisión;1183810
+2022;23101;700;;01;De la Secretaria de Estado de Medio Ambiente para Plan PIMA ADAPTA;1183810
 2022;23112;700;;01;Del departamento al que está adscrito para la inversiones en Transición Justa. MRR;110000000
 2022;24106;700;;01;Para el cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991, de 27 de marzo, por el que se regula la distribución de la recaudación y premios de las apuestas deportivas del Estado;2275000
 2022;28103;700;;01;Para el Proyecto PRISMAC;300000
