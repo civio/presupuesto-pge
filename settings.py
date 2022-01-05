@@ -93,13 +93,13 @@ FACEBOOK_ID             = '383807661992851'
 ANALYTICS_ID            = 'GTM-K8SZTVW'
 
 # Setup Data Source Budget link
-DATA_SOURCE_BUDGET      = 'http://www.minhap.gob.es/es-ES/Areas%20Tematicas/Presupuestos%20Generales%20del%20Estado/Paginas/Presupuestos.aspx'
+DATA_SOURCE_BUDGET      = 'https://www.sepg.pap.hacienda.gob.es/sitios/sepg/es-ES/Presupuestos/PGE/Paginas/PresupuestosGE.aspx'
 
 # Setup Data Source Population link
-DATA_SOURCE_POPULATION  = 'http://www.ine.es/jaxi/tabla.do?path=/t20/e245/p08/l0/&file=01001.px&type=pcaxis&L=0'
+DATA_SOURCE_POPULATION  = 'https://www.ine.es/jaxi/tabla.do?path=/t20/e245/p08/l0/&file=01001.px&type=pcaxis&L=0'
 
 # Setup Data Source Inflation link
-DATA_SOURCE_INFLATION   = 'http://www.ine.es/jaxiT3/Tabla.htm?t=22344&L=0'
+DATA_SOURCE_INFLATION   = 'https://www.ine.es/jaxiT3/Tabla.htm?t=22344&L=0'
 
 # Setup Main Entity Web Url
 MAIN_ENTITY_WEB_URL     = 'http://civio.es/'
@@ -130,7 +130,7 @@ EXTRA_URLS = (
 # ----------------------
 
 # Programmes to feature as example in home page.
-FEATURED_PROGRAMMES = ['323M', '143A', '924M']
+FEATURED_PROGRAMMES = ['323M', '221A', '924M']
 
 # Number of programmes to feature in home page. Default: 3
 # NUMBER_OF_FEATURED_PROGRAMMES = 3
