@@ -47,7 +47,7 @@ class PGEBudgetLoader(BudgetLoader):
         if not is_expense:
             line.insert(2, None)
 
-        # Get the amount. For execution data, pick "Obligaciones/Créditos reconocidas/os"
+        # Get the amount. For execution data, pick "Obligaciones/Créditos reconocidas/os"
         if is_actual:
             amount = line[10 if is_expense else 9]
         else:
@@ -71,7 +71,7 @@ class PGEBudgetLoader(BudgetLoader):
             fc_programme = 'XXXX'
 
         # Ignore internal transfers between the central administration and its dependent 
-        # children. We take care of the expense side here, but income is done in 
+        # children. We take care of the expense side here, but income is done in
         # process_data_items, see below.
         if fc_programme == '000X':
             return
