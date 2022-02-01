@@ -21,14 +21,14 @@ PAYMENTS_LOADER = 'BasePaymentsLoader'
 # Show Payments section in menu & home options. Default: False.
 # SHOW_PAYMENTS = True
 
-# Configure 'by area' payment breakdown. Default: ['area', 'payee', 'description']
-# PAYMENTS_BREAKDOWN_BY_AREA = ['area', 'payee', 'description']
+# Configure 'by area' payment breakdown. Default: ['area', 'payee', 'description']
+# PAYMENTS_BREAKDOWN_BY_AREA = ['area', 'payee', 'description']
 
-# Configure 'by payee' payment breakdown. Default: ['payee', 'area', 'description']
-# PAYMENTS_BREAKDOWN_BY_PAYEE = ['payee', 'area', 'description']
+# Configure 'by payee' payment breakdown. Default: ['payee', 'area', 'description']
+# PAYMENTS_BREAKDOWN_BY_PAYEE = ['payee', 'area', 'description']
 
 # Show Tax Receipt section in menu & home options. Default: False.
-# SHOW_TAX_RECEIPT = True
+# SHOW_TAX_RECEIPT = True
 
 # Show Counties & Towns links in Policies section in menu & home options. Default: False.
 # SHOW_COUNTIES_AND_TOWNS = True
@@ -85,11 +85,11 @@ LANGUAGES = (
 )
 
 # Facebook Aplication ID used in social_sharing temaplate. Default: ''
-# In order to get the ID create an app in https://developers.facebook.com/
+# In order to get the ID create an app in https://developers.facebook.com/
 FACEBOOK_ID             = '383807661992851'
 
 # Google Analytics ID. Default: ''
-# In order to get the ID create a Google Analytics Acount in https://analytics.google.com/analytics/web/
+# In order to get the ID create a Google Analytics Acount in https://analytics.google.com/analytics/web/
 ANALYTICS_ID            = 'GTM-K8SZTVW'
 
 # Setup Data Source Budget link
@@ -181,14 +181,14 @@ OVERVIEW_EXPENSE_NODES = ['21', '94', '95', '25', '13', '12', '41', '24', '45']
 # ----------------------
 
 # Treemaps minimum height or width to show labels. Default: 70 (Optional)
-# TREEMAP_LABELS_MIN_SIZE = 70
+# TREEMAP_LABELS_MIN_SIZE = 70
 
 # Treemap minimum font size. Default: 11 (Optional)
 # TREEMAP_LABELS_FONT_SIZE_MIN = 11
 
 # Allow overriding of default treemap color scheme
-# COLOR_SCALE = ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b', '#e377c2', '#e7969c', '#bcbd22', '#17becf']
+# COLOR_SCALE = ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b', '#e377c2', '#e7969c', '#bcbd22', '#17becf']
 
 # How many levels to show in the global institutional treemap? Default: 1.
-# INSTITUTIONAL_MAX_LEVELS = 2
+# INSTITUTIONAL_MAX_LEVELS = 2
 
