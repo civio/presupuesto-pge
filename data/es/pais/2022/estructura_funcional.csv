@@ -165,9 +165,9 @@ EJERCICIO;GRUPO;FUNCION;SUBFUNCION;PROGRAMA;DESCRIPCION CORTA;DESCRIPCION LARGA
 2022;3;32;32T;32TB;;C20.I02 Transformación Digital de la Formación Profesional
 2022;3;32;32T;32TC;;C20.I03 Innovación e internacionalización de la formación profesional
 2022;3;32;32T;32TR;;C20.R01 Plan de modernización de la Formación Profesional
-2022;3;32;32U;32UA;;"C21.I01 Creación de plazas del Primer Ciclo de Educación Infantil de titularidad pública (prioritariamente de 1 y 2 años): Reforma/rehabilitación y equipamiento para nuevas unidades..."
+2022;3;32;32U;32UA;;"C21.I01 Creación de plazas del Primer Ciclo de Educación Infantil de titularidad pública (prioritariamente de 1 y 2 años): Reforma/rehabilitación y equipamiento para nuevas unidades; nueva construcción y equipamiento; y, gastos de personal y otros gastos."
 2022;3;32;32U;32UB;;C21.I02 Programa de Orientación, Avance y Enriquecimiento Educativo en centros de especial complejidad educativa (Programa #PROA+).
-2022;3;32;32U;32UC;;C21.I03 Creación de Unidades de Acompañamiento y Orientación Personal y Familiar del alumnado educativamente vulnerable, en los servicios educativos o psicopedagógicos...
+2022;3;32;32U;32UC;;C21.I03 Creación de Unidades de Acompañamiento y Orientación Personal y Familiar del alumnado educativamente vulnerable, en los servicios educativos o psicopedagógicos situados en zonas y distritos escolares.
 2022;3;32;32U;32US;;C21.R02 Diseño y aplicación de nuevo modelo curricular por competencias clave, priorizando aprendizajes fundamentales, y regulación de una ordenación académica inclusiva
 2022;3;33;;;;Cultura
 2022;3;33;331;331M;;Dirección y Servicios Generales de Cultura y Deporte
@@ -210,7 +210,7 @@ EJERCICIO;GRUPO;FUNCION;SUBFUNCION;PROGRAMA;DESCRIPCION CORTA;DESCRIPCION LARGA
 2022;4;41;41C;41CB;;C03.I02 Plan de Impulso de la sostenibilidad y competitividad de la agricultura y la ganadería (I): Modernizar los laboratorios de sanidad animal y vegetal
 2022;4;41;41C;41CC;;C03.I03 Plan de Impulso de la sostenibilidad y competitividad de la agricultura y la ganadería (II): Reforzar sistemas de capacitación y bioseguridad en viveros y explotaciones ganaderas
 2022;4;41;41C;41CD;;C03.I04 Plan de Impulso de la sostenibilidad y competitividad de la agricultura y la ganadería (III): Inversiones en agricultura de precisión, eficiencia energética y economía circular
-2022;4;41;41C;41CE;;C03.I05 Estrategia de Digitalización del sector Agroalimentario y Forestal y del Medio Rural: Desarrollo de actuaciones para dar apoyo a la digitalización y el emprendimiento del sector...
+2022;4;41;41C;41CE;;C03.I05 Estrategia de Digitalización del sector Agroalimentario y Forestal y del Medio Rural: Desarrollo de actuaciones para dar apoyo a la digitalización y el emprendimiento del sector agroalimentario y forestal y del medio rural
 2022;4;41;41C;41CF;;C03.I06 Plan de impulso a la sostenibilidad, investigación, innovación y digitalización del sector pesquero (I): Modernización de la Red de Reservas Marinas de Interés Pesquero
 2022;4;41;41C;41CG;;C03.I07 Plan de impulso a la sostenibilidad, investigación, innovación y digitalización del sector pesquero (II): Impulso de la investigación pesquera y acuícola y apoyo a la formación
 2022;4;41;41C;41CH;;C03.I08 Plan de impulso a la sostenibilidad, investigación, innovación y digitalización del sector pesquero (III): Desarrollo tecnológico e innovación en el sector pesquero y acuícola
@@ -331,7 +331,7 @@ EJERCICIO;GRUPO;FUNCION;SUBFUNCION;PROGRAMA;DESCRIPCION CORTA;DESCRIPCION LARGA
 2022;4;46;46P;46PR;;C16.R01 Estrategia Nacional de IA
 2022;4;46;46Q;46QA;;C17.I01 Planes Complementarios con CCAA
 2022;4;46;46Q;46QB;;C17.I02 Fortalecimiento de las capacidades, infraestructuras y equipamientos de los agentes del SECTI
-2022;4;46;46Q;46QC;;C17.I03 Nuevos proyectos I+D+I Publico Privados, Interdisciplinares, Pruebas de concepto y concesión de ayudas consecuencia de convocatorias competitivas internacionales.
+2022;4;46;46Q;46QC;;C17.I03 Nuevos proyectos I+D+I Publico Privados, Interdisciplinares, Pruebas de concepto y concesión de ayudas consecuencia de convocatorias competitivas internacionales. I+D de vanguardia orientada a retos de la sociedad. Compra pública pre-comercial.
 2022;4;46;46Q;46QD;;C17.I04 Nueva carrera científica
 2022;4;46;46Q;46QE;;C17.I05 Reforma de capacidades del sistema nacional de ciencia, tecnología e innovación: Transferencia de conocimiento
 2022;4;46;46Q;46QF;;C17.I06 Reforma de capacidades del sistema nacional de ciencia, tecnología e innovación: Salud
@@ -427,3 +427,4 @@ EJERCICIO;GRUPO;FUNCION;SUBFUNCION;PROGRAMA;DESCRIPCION CORTA;DESCRIPCION LARGA
 2022;9;95;;;;Deuda pública
 2022;9;95;951;951M;;Amortización y gastos financieros de la deuda pública en euros
 2022;9;95;951;951N;;Amortización y gastos financieros de la deuda pública en moneda extranjera
+2022;2;29;29S;29SC;;C19.I03 Competencias digitales para el empleo. Gestión y Administración de la Inclusión, de la Seguridad Social y de la Migración
