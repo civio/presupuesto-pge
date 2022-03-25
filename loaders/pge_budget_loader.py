@@ -177,3 +177,6 @@ class PGEBudgetLoader(BudgetLoader):
 
     def _escape_unicode(self, s):
         return s.decode('utf-8')
+
+    def _get_delimiter(self):
+        return ';'
