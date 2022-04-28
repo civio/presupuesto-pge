@@ -384,7 +384,7 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
   /** FUNCIONES DEL INFOBOX **/
   function showCountryInfo() {
     if (_selectedRegion == null) {
-      d3.select("#infoTitle").text("España");
+      d3.select("#infoTitle").text("Comunidades Autónomas");
 
       var value = formatValueShort(currentMode == MODE_PER_PERSON ? calculateAverage() : getTotalCountryAmount());
       d3.select("#infoValue")
