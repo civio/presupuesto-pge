@@ -40,8 +40,21 @@ class PGEBudgetLoader(BudgetLoader):
                     })
         return categories
 
+
     # Get all the relevant bits from an input line, and put them all into a dictionary
     def add_data_item(self, items, line, is_expense, is_actual):
+        # The 2023 budget renamed some codes, God knows why.
+        # We're ignoring their new codes and using <2023 ones.
+        programme_mapping_2023 = {
+            '211A': '211M',   # Pensiones contributivas de la Seguridad Social
+            '211B': '211N',   # Pensiones de Clases Pasivas
+            '211C': '211O',   # Otras pensiones y prestaciones de Clases Pasivas
+            '212A': '212M',   # Pensiones no contributivas y prestaciones asistenciales
+            '212C': '212O',   # Complementos por mínimos de las pensiones contributivas
+            '221B': '221M',   # Subsidios de incapacidad temporal y otras prestaciones económicas de la Seguridad Social
+            '223A': '223M',   # Prestaciones de garantía salarial
+            '224A': '224M',   # Prestaciones económicas por cese de actividad
+        }
 
         # Add a null column for income data, so all the indexes below remain constant
         if not is_expense:
@@ -62,6 +75,10 @@ class PGEBudgetLoader(BudgetLoader):
             fc_policy = line[2][0:2]
             fc_function = line[2][0:3]
             fc_programme = line[2]
+
+            # The 2023 programmes require some minor amendments in their last digit
+            if line[0] == '2023':
+                fc_programme = programme_mapping_2023.get(fc_programme, fc_programme)
         else:
             # Income data is often not classified functionally, so we use the fake category we 
             # created before.

@@ -49,20 +49,20 @@ EJERCICIO;GRUPO;FUNCION;SUBFUNCION;PROGRAMA;DESCRIPCION CORTA;DESCRIPCION LARGA
 2023;1;14;14Y;14YA;;C25.I01 Programa de fomento, modernización y digitalización del sector audiovisual. Política Exterior
 2023;2;;;;;Protección y promoción social
 2023;2;21;;;;Pensiones
-2023;2;21;211;211A;;Pensiones contributivas de la Seguridad Social
-2023;2;21;211;211B;;Pensiones de Clases Pasivas
-2023;2;21;211;211C;;Otras pensiones y prestaciones de Clases Pasivas
-2023;2;21;212;212A;;Pensiones no contributivas y prestaciones asistenciales
+2023;2;21;211;211M;;Pensiones contributivas de la Seguridad Social
+2023;2;21;211;211N;;Pensiones de Clases Pasivas
+2023;2;21;211;211O;;Otras pensiones y prestaciones de Clases Pasivas
+2023;2;21;212;212M;;Pensiones no contributivas y prestaciones asistenciales
 2023;2;21;212;212B;;Pensiones de guerra
-2023;2;21;212;212C;;Complementos por mínimos de las pensiones contributivas
+2023;2;21;212;212O;;Complementos por mínimos de las pensiones contributivas
 2023;2;21;219;219M;;Gestión de las prestaciones económicas de Seguridad Social
 2023;2;21;219;219N;;Gestión de pensiones de Clases Pasivas
 2023;2;22;;;;Otras prestaciones económicas
 2023;2;22;221;221A;;Ingreso mínimo vital y prestaciones familiares
-2023;2;22;221;221B;;Subsidios de incapacidad temporal y otras prestaciones económicas de la Seguridad Social
+2023;2;22;221;221M;;Subsidios de incapacidad temporal y otras prestaciones económicas de la Seguridad Social
 2023;2;22;222;222M;;Prestaciones económicas del Mutualismo Administrativo
-2023;2;22;223;223A;;Prestaciones de garantía salarial
-2023;2;22;224;224A;;Prestaciones económicas por cese de actividad
+2023;2;22;223;223M;;Prestaciones de garantía salarial
+2023;2;22;224;224M;;Prestaciones económicas por cese de actividad
 2023;2;22;22K;22KB;;C11.I02 Proyectos tractores de digitalización de la Administración General del Estado. Otras Prestaciones Económicas.
 2023;2;23;;;;Servicios sociales y promoción social
 2023;2;23;231;231A;;Plan Nacional sobre Drogas
