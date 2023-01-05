@@ -272,7 +272,8 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;4;42;425/26009;;;Al Instituto Nacional de Gestión Sanitaria por la prestación de servicios sanitarios a terceros obligados al pago
 2023;G;4;42;425/29003;;;Al IMSERSO SAAD, para la cobertura de cuotas sociales de cuidadores no profesionales de las personas en situación de dependencia
 2023;G;4;42;425/32002;;;Aportaciones del Estado al presupuesto de la Seguridad Social en cumplimiento de la recomendación primera del Pacto de Toledo 2020
-2023;G;4;42;426;;;Aportación del Estado a la Seguridad Social para financiar los servicios sociales del ISM
+2023;G;4;42;426/29003;;;Al IMSERSO, para ayudas sociales a los afectados por la Talidomida
+2023;G;4;42;426/32002;;;Aportación del Estado a la Seguridad Social para financiar los servicios sociales del ISM
 2023;G;4;42;427/26004;;;Aportación del Estado a la Tesorería General de la Seguridad Social para financiar la asistencia sanitaria del Instituto Social de la Marina
 2023;G;4;42;427/29003;;;Al IMSERSO para mínimo garantizado en dependencia
 2023;G;4;42;428/29003;;;AL IMSERSO, nivel convenido en dependencia (SAAD)
@@ -302,6 +303,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;4;43;431/28006;;;A la Agencia Estatal de Investigación (AEI)
 2023;G;4;43;432/12003;;;A la Agencia Española de Cooperación Internacional para el Desarrollo, para actividades de interés general consideradas de interés social procedentes del Impuesto sobre Sociedades
 2023;G;4;43;432/19101;;;Al Centro Nacional de Inteligencia. Mejora ciberseguridad
+2023;G;4;43;433;;;A la Agencia Española de Cooperación Internacional para programa de protección temporal de defensoras y defensores derechos humanos
 2023;G;4;43;435/14003;;;A AESA para compensar los costes de los vuelos exonerados
 2023;G;4;43;435/15005;;;A la Agencia Estatal de Administración Tributaria (A.E.A.T.)
 2023;G;4;43;435/16001;;;A la Agencia Estatal de Administración Tributaria, por los gastos comunes del edificio de la calle del Plomo en Madrid
@@ -456,6 +458,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;4;45;450/18004;;;Programa de bienestar emocional en el ámbito educativo
 2023;G;4;45;450/18008;;;Actuaciones en primer ciclo de Educación Infantil
 2023;G;4;45;450/18050;;;Actuaciones en Educación Infantil y Primaria. Mecanismo de Recuperación y Resiliencia
+2023;G;4;45;450/20006;;;Convenio para la internacionalización de la economía de Canarias
 2023;G;4;45;450/21102;;;Centro de Estudios e Investigación para la Gestión de Riesgos Agrarios y Medioambientales (CEIGRAM), para atender gastos que aseguren y den continuidad a su funcionamiento
 2023;G;4;45;450/23003;;;Bono social térmico
 2023;G;4;45;450/23004;;;Subvención a la C. A. de Canarias para financiar el funcionamiento de plantas potabilizadoras de agua situadas en su territorio
@@ -491,6 +494,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;4;45;451/24103;;;Ayudas y premios a la Cinematografía a través de las comunidades autónomas
 2023;G;4;45;451/24107;;;Programa de ayudas para actividades musicales de ámbito nacional e internacional
 2023;G;4;45;451/24303;;;A universidades y entidades públicas para programas de apoyo científico para el deporte y actividades afines
+2023;G;4;45;451/25302;;;A la Generalitat de Catalunya. Suplemento catalán del BOE
 2023;G;4;45;451/26018;;;Para toda clase de gastos que origine el desarrollo de la Estrategia Nacional sobre Drogas en los programas autonómicos derivados del Plan Nacional sobre Drogas 
 2023;G;4;45;451/26050;;;A Comunidades Autónomas, para la realización de cribados a la población para la prevención del cáncer. Mecanismo de Recuperación y Resiliencia
 2023;G;4;45;451/26301;;;A la comunidad autónoma del País Vasco, para el cumplimiento del Real Decreto 666/2020, de 14 de julio, de traspaso de funciones y servicios de la Administración del Estado a la comunidad autónoma del País Vasco en materia de ejecución de la legislación del Estado sobre productos farmacéuticos
@@ -517,6 +521,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;4;45;451/38019;;;Fondo de Suficiencia Global
 2023;G;4;45;451/60002;;;Nivel Mínimo de protección.
 2023;G;4;45;452/14001;;;Convenio con comunidades autónomas. Colaboración en materia de acciones formativas y desarrollo profesional
+2023;G;4;45;452/17039;;;Subvenciones para establecer descuentos de abonos de transporte y títulos multiviaje
 2023;G;4;45;452/19101;;;Gestión por las Comunidades Autónomas de iniciativas del Sistema de Formación Profesional para el Empleo (EJE 2)
 2023;G;4;45;452/23101;;;Cátedra de Parques Nacionales
 2023;G;4;45;452/24005;;;Para la actualización del Censo Guía de los Archivos Españoles
@@ -564,6 +569,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;4;45;454/26018;;;Para toda clase de gastos derivados del desarrollo del Observatorio Español de las Drogas y las Adicciones
 2023;G;4;45;454/26301;;;A la Facultad de Veterinaria de la Universidad Complutense de Madrid, para la asistencia en el desarrollo de una guía de prescripción de antibióticos veterinarios en los pequeños animales.
 2023;G;4;45;454/29005;;;Para actividades de competencia autonómica de interés general consideradas de interés social con cargo al 0,7% del Impuesto sobre la Renta de las Personas Físicas y del Impuesto sobre Sociedades
+2023;G;4;45;454/37001;;;Actuaciones en diversas Comunidades Autónomas
 2023;G;4;45;455/17039;;;Programa de subvenciones para una movilidad territorial innovadora a favor de Comunidades Autónomas
 2023;G;4;45;455/18050;;;Actuaciones en Formación Profesional. Mecanismo de Recuperación y Resiliencia
 2023;G;4;45;455/19101;;;Planes integrales de empleo y otras actuaciones en materia de empleo, mediante convenios de colaboración con Comunidades Autónomas
@@ -591,6 +597,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;4;45;456/38001;;;Compensación financiera al País Vasco derivada del Impuesto Especial sobre las Labores de Tabaco, incluso liquidación definitiva del ejercicio anterior
 2023;G;4;45;456/38020;;;Compensaciones a comunidades autónomas, incluidas obligaciones de ejercicios anteriores (Artículo 6.2 de la Ley Orgánica de Financiación de las Comunidades Autónomas)
 2023;G;4;45;457/17020;;;Subvenciones a Comunidades Autónomas
+2023;G;4;45;457/26007;;;A la Comunidad Autónoma de Canarias, convenio específico con la Comunidad Autónoma para la atención a la salud mental en la isla de La Palma derivada del volcán.
 2023;G;4;45;457/26009;;;A Comunidades Autónomas, para el desarrollo del plan anual de trabajo de la Red Española de Agencias de Evaluación de Tecnologías Sanitarias y Prestaciones del Sistema Nacional de Salud
 2023;G;4;45;457/29101;;;A Entidades de las Comunidades Autónomas participantes en el Programa Cuerpo Europeo de Solidaridad
 2023;G;4;45;457/30101;;;Fomento de la Igualdad en la Educación Superior
@@ -612,6 +619,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;4;45;459/17039;;;A Comunidades Autónomas para subvenciones temporales para la asunción de servicios de competencia autonómica derivadas de la tramitación del mapa concesional
 2023;G;4;45;459/24005;;;Transferencias a instituciones culturales
 2023;G;4;45;459/24106;;;Ayudas a comunidades autónomas. Mecanismo de Recuperación y Resiliencia
+2023;G;4;45;459/24107;;;Transferencias a instituciones de música y danza
 2023;G;4;45;459/28007;;;Transferencias, ayudas nominativas y otros
 2023;G;4;45;459/28301;;;A otros organismos y entidades dependientes de comunidades autónomas
 2023;G;4;45;459/29101;;;A entidades de las Comunidades Autónomas participantes en el Programa Cuerpo Europeo de Solidaridad (2021-2027)
@@ -620,8 +628,12 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;4;45;459/60002;;;Otras transferencias corrientes
 2023;G;4;46;;;;A Entidades Locales
 2023;G;4;46;460/19101;;;Gestión de servicios y programas de políticas activas de empleo en territorio no transferido
+2023;G;4;46;460/20004;;;Ajuntament de Tortosa. Terres travel festival Certamen internacional de l'audiovisual turístic
+2023;G;4;46;460/20005;;;Fira de Mollerussa. 150a Fira de Sant Josep
+2023;G;4;46;460/20009;;;A la Fundación Mubil de la Diputación de Guipuzcoa para su laboratorio de investigación de tracción eléctrica e hidrógeno
 2023;G;4;46;460/23011;;;Al Ayuntamiento de Tineo para la organización y celebración de la XIV Feria Internacional ASTUR-FORESTA
 2023;G;4;46;460/24003;;;Ayudas a entidades locales para actividades de Promoción de la Lectura (Plan de Fomento de la Lectura)
+2023;G;4;46;460/24004;;;Al Ayuntamiento de Vitoria-Gasteiz para el Festival de Televisión (FesTVal)
 2023;G;4;46;460/24103;;;Ayudas a la Cinematografía a través de corporaciones locales
 2023;G;4;46;460/24106;;;A diputaciones provinciales a través de sus respectivas comunidades autónomas en cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991
 2023;G;4;46;460/24107;;;Programa de ayudas para la proyección exterior de entidades y formaciones musicales y teatrales de titularidad pública dependientes de corporaciones locales
@@ -644,6 +656,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;4;46;461/24003;;;Al Consell de Mallorca para el apoyo a la producción editorial y fonográfica en lengua catalana
 2023;G;4;46;461/24004;;;Al Consorcio Centro Federico García Lorca para sus actividades
 2023;G;4;46;461/24005;;;Transferencias a instituciones culturales
+2023;G;4;46;461/24106;;;A la Fundació Barcelona Capital Náutica, AC24 para la celebración de la Copa América de Barcelona
 2023;G;4;46;461/24107;;;Programa de ayudas a festivales y otras actividades musicales de ámbito nacional
 2023;G;4;46;461/28008;;;A la Empresa Municipal de Iniciativas y Actividades Empresariales de Málaga, S.A. (PROMALAGA) para la organización del Foro Europeo para la Ciencia, la Tecnología y la Innovación (TRANSFIERE)
 2023;G;4;46;461/29004;;;Proyectos de experimentación social que permitan desarrollar y testar distintas formas de intervención para contribuir a la preservación familiar, prevenir el desamparo y apoyar el retorno de los niños y niñas a sus familias, financiados por el FSE+
@@ -660,6 +673,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;4;46;462/24004;;;Al Consorcio Centro Federico García Lorca para el pago de deudas
 2023;G;4;46;462/24005;;;Al Ayuntamiento de Ibiza para gastos de funcionamiento del Museo Puget
 2023;G;4;46;462/24103;;;Al Teatro Cervantes de Málaga e Iniciativas Audiovisuales, S.A. para la realización del Festival de Cine de Málaga
+2023;G;4;46;462/24106;;;Al Ayuntamiento de Santa Coloma de Gramenet para equipamiento en Cam Zam
 2023;G;4;46;462/26018;;;A CC.LL. en aplicación de la Ley 17/2003
 2023;G;4;46;462/32050;;;Fomento del crecimiento inclusivo mediante la vinculación de las políticas de inclusión social al Ingreso Mínimo Vital. Mecanismo de Recuperación y Resiliencia
 2023;G;4;46;463/13002;;;A Entidades Locales. Para la satisfacción de los fines previstos en la disposición adicional sexta de la Ley de Enjuiciamiento Criminal
@@ -695,12 +709,14 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;4;46;467/29101;;;A Entidades de la Administración Local Programa Cuerpo Europeo de solidaridad
 2023;G;4;46;468/17039;;;Al Ayuntamiento de Burgos para la financiación del servicio de transporte colectivo urbano interior prestado por el Ayuntamiento durante el ejercicio 2021
 2023;G;4;46;468/24004;;;Al Ayuntamiento de Barcelona para la capitalidad cultural de Barcelona
+2023;G;4;46;468/24005;;;A Bilbao Arte para su proyecto de ampliación
 2023;G;4;46;468/24103;;;Festival de Málaga. Mecanismo de Recuperación y Resiliencia
 2023;G;4;46;468/29101;;;A entidades de la Administración local. Programa Erasmus + (2021-2027)
 2023;G;4;46;468/38021;;;Liquidación definitiva de la participación en los ingresos del Estado de las Corporaciones Locales, correspondiente a ejercicios anteriores y compensaciones derivadas del Nuevo Modelo de Financiación Local
 2023;G;4;46;469/17039;;;Al Ayuntamiento de Puertollano para la financiación del servicio de transporte colectivo urbano interior prestado por el Ayuntamiento durante el ejercicio 2021.
 2023;G;4;46;469/24106;;;Ayudas a corporaciones locales. Mecanismo de Recuperación y Resiliencia
 2023;G;4;46;469/29101;;;A entidades de la Administración local. Programa Cuerpo Europeo de Solidaridad (2021-2027)
+2023;G;4;46;469/37002;;;Actuaciones en diversas Entidades Locales
 2023;G;4;47;;;;A empresas privadas
 2023;G;4;47;470/15026;;;Cuotas Nacionales
 2023;G;4;47;470/17020;;;Para compensar a sociedades concesionarias de autopistas según normativa
@@ -808,6 +824,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;4;48;480/20001;;;Para concesión de becas, asistencia a congresos, cursos, seminarios y otras subvenciones
 2023;G;4;48;480/20004;;;A la Fundación Mas Miró
 2023;G;4;48;480/20005;;;Becas Fulbright de comercio
+2023;G;4;48;480/20009;;;Adi-fad
 2023;G;4;48;480/21001;;;Subvención a la Comisión Gestora de la extinta CONCA
 2023;G;4;48;480/21002;;;Becas de formación
 2023;G;4;48;480/21004;;;Becas de formación en general
@@ -818,6 +835,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;4;48;480/21103;;;Pensiones a familias de carácter civil
 2023;G;4;48;480/22002;;;A la Federación Española de Municipios y Provincias
 2023;G;4;48;480/23003;;;Bono social térmico
+2023;G;4;48;480/23004;;;Subvenciones a ONG medioambientales colaboradoras con la AGE para cooperación en actividades en materia de lucha y adaptación al cambio climático y en materia de transición ecológica
 2023;G;4;48;480/23010;;;A la FEMP para promover y facilitar el desarrollo de iniciativas locales en materia de cambio climático
 2023;G;4;48;480/23102;;;Programa de voluntariado en ríos
 2023;G;4;48;480/23109;;;Ayudas y becas aplicación Directiva Marco del Agua
@@ -837,6 +855,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;4;48;480/26105;;;A familias e instituciones sin fines de lucro. Becas
 2023;G;4;48;480/27101;;;A la Sociedad Española de Estadística e Investigación Operativa (AECA)
 2023;G;4;48;480/27102;;;A la Asociación Española de Administración y Contabilidad de Empresas
+2023;G;4;48;480/28001;;;Al Institut d´Estudis Aranesi - Acadèmia Aranesa dera Lengua Occitana
 2023;G;4;48;480/28007;;;Transferencias, ayudas nominativas y otros
 2023;G;4;48;480/28008;;;Transferencias, ayudas nominativas y otros
 2023;G;4;48;480/29007;;;Subvenciones a Sociedad Civil. Programas de apoyo a la implementación de iniciativas alineadas con la Agenda 2030.
@@ -915,6 +934,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;4;48;481/27302;;;Becas de la CNMC
 2023;G;4;48;481/28001;;;Ayudas al Instituto de España, reales academias y otras instituciones adscritas al programa para desarrollo de actividades y gastos de funcionamiento
 2023;G;4;48;481/29004;;;A la Federación Interautonómica de Entidades Colaboradoras en Adopción Internacional (FIDECAI) para apoyar su estructura organizativa e institucional
+2023;G;4;48;481/29005;;;A la Fundació Bona Nit, para su sostenimiento económico-financiero
 2023;G;4;48;481/29006;;;A la Confederación Estatal de Personas Sordas CNSE para la atención a personas sordas en el ejercicio de sus derechos básicos 
 2023;G;4;48;481/29007;;;Reconocimiento de aplicación de la Agenda 2030
 2023;G;4;48;481/29009;;;Subvenciones destinadas a entidades dedicadas a la  protección y defensa de los derechos de los animales
@@ -980,6 +1000,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;4;48;482/28006;;;Premios Nacionales de Investigación y Premios Nacionales de Investigación para Jóvenes
 2023;G;4;48;482/28103;;;Cuotas asociaciones
 2023;G;4;48;482/29004;;;A la Federación de Organismos Acreditados de Adopción Internacional (ECA) para apoyo a la estructura organizativa e institucional
+2023;G;4;48;482/29005;;;A la Fundació Roure, para su sostenimiento económico-financiero
 2023;G;4;48;482/29006;;;Para programas de personas con discapacidad
 2023;G;4;48;482/29009;;;Subvenciones destinadas a Premios Artísticos Amigos de los Animales
 2023;G;4;48;482/29101;;;Convenio con la Federación Española de Municipios y Provincias
@@ -991,6 +1012,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;4;48;482/60001;;;Incapacidad temporal
 2023;G;4;48;483/08001;;;A Asociaciones Judiciales
 2023;G;4;48;483/12001;;;Becas formativas
+2023;G;4;48;483/12302;;;Programa de protección temporal de defensoras y defensores derechos humanos
 2023;G;4;48;483/13002;;;Al Consejo General de la Abogacía Española como aportación del Estado para indemnizar a los abogados en los asuntos de asistencia jurídica gratuita
 2023;G;4;48;483/13101;;;Becas para la preparación de oposiciones al Cuerpo de Letrados de la Administración de Justicia
 2023;G;4;48;483/13102;;;Asistencia Social
@@ -1069,6 +1091,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;4;48;484/16003;;;Compensación económica por participación de Centrales Sindicales en el Consejo de la Policía, comisiones de trabajo y órganos consultivos
 2023;G;4;48;484/16005;;;A la Federación Española de Municipios y Provincias, para trabajo en favor de la comunidad y arresto de fin de semana
 2023;G;4;48;484/17001;;;Asociación de Padres de la Guardería Jardín de Infancia del MITMA, para las actividades propias del Centro
+2023;G;4;48;484/17010;;;COAC Para la organización Congreso de la Unión Internacional de Arquitectos y actos vinculados a la Capitalidad Mundial de la Arquitectura 2026
 2023;G;4;48;484/17018;;;Becas y ayudas en áreas de astronomía, geofísica, geodesia, teledetección y documentación geográfica
 2023;G;4;48;484/17020;;;A la Real Federación Española de Ciclismo (RFEC)
 2023;G;4;48;484/17032;;;Para satisfacer bonificaciones en billetes de transporte marítimo expedidos a familias numerosas
@@ -1146,6 +1169,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;4;48;485/21008;;;Promoción de actuaciones de la mujer rural
 2023;G;4;48;485/21010;;;Becas de formación técnica y práctica en el área de pesca marítima
 2023;G;4;48;485/21102;;;Cooperativas Agro-alimentarias de España, U. de Coop. (CAE), para atender gastos derivados de su participación en la Comisión General de ENESA y de la realización de actuaciones de apoyo al seguro agrario
+2023;G;4;48;485/23011;;;Grup Balear d'Ornitologia i Defensa de la Naturalesa (GOB)
 2023;G;4;48;485/23012;;;Actividades de interés general consideradas de interés social reguladas por el artículo 2 del Real Decreto-ley 7/2013, de 28 de junio
 2023;G;4;48;485/23302;;;Indemnizaciones a ex-altos cargos del Consejo de Seguridad Nuclear al cesar en sus puestos
 2023;G;4;48;485/24003;;;A la Fundación María Zambrano para actividades de promoción del libro y la lectura (Plan de Fomento de la Lectura)
@@ -1158,6 +1182,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;4;48;485/26301;;;A la Sociedad Española de Cirugía Plástica, Reparadora y Estética para el mantenimiento del Registro Nacional de Prótesis Mamarias
 2023;G;4;48;485/27008;;;A la Asociación Española de Normalización (UNE) para soporte a secretaría, actividad normalización y acción internacional en comités tecnologías digitales y digitalización
 2023;G;4;48;485/27012;;;A la Asociación Española de Normalización (UNE) para costes de apoyo al CTN-133, posicionamiento español en ETSI y difusión de normas
+2023;G;4;48;485/28001;;;A Iura Vasconiae (Fundación para el Estudio del Derecho Histórico y Autonómico de Vasconia)
 2023;G;4;48;485/28008;;;Premios Nacionales de Innovación y de Diseño
 2023;G;4;48;485/29004;;;Proyectos de creación de recursos residenciales de base familiar para los niños, niñas y adolescentes tutelados por las administraciones públicas, financiados por el FSE+
 2023;G;4;48;485/29005;;;A la Federación Española de Municipios y Provincias
@@ -1205,6 +1230,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;4;48;486/26301;;;A Asociaciones y Sociedades Científicas
 2023;G;4;48;486/27004;;;Indemnizaciones a los afectados por el síndrome tóxico, según Sentencia de la Sala Segunda del Tribunal Supremo de 26 de septiembre de 1997
 2023;G;4;48;486/27008;;;A la Federación Española de Municipios y Provincias para la Oficina Técnica de apoyo a la Red Española de Ciudades Inteligentes (RECI)
+2023;G;4;48;486/28001;;;A la Fundació Universitat Rovira i Virgili. Centre de Innovació i Simulació Territorial
 2023;G;4;48;486/29004;;;Proyectos de experimentación social, dirigidos a niños y niñas de distintos perfiles, sobre modelos de intervención para la respuesta a trastornos de apego y traumas por adversidad temprana, financiados por el FSE+
 2023;G;4;48;486/29005;;;Para actuaciones de acción social
 2023;G;4;48;486/29009;;;Subvención a proyectos audiovisuales para la protección animal
@@ -1238,6 +1264,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;4;48;487/24106;;;A la Fundación Deporte Joven
 2023;G;4;48;487/24107;;;Premios nacionales de música y danza
 2023;G;4;48;487/28107;;;A la Asociación para el Registro y Estudio de Malformaciones Congénitas
+2023;G;4;48;487/29004;;;Para actuaciones en el ámbito de la infancia y la adolescencia
 2023;G;4;48;487/29005;;;"A la ""Fundación Másfamilia"", para el cumplimiento de sus fines y  desarrollo y promoción del ""Certificado de empresa familiarmente responsable"""
 2023;G;4;48;487/29101;;;A entidades, asociaciones y jóvenes participantes Programa Cuerpo Europeo de Solidaridad
 2023;G;4;48;487/29102;;;Para el desarrollo del Programa para la mejora de condiciones educativas de las personas con discapacidad
@@ -1274,6 +1301,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;4;48;488/27008;;;A la asociación Gaia para la creación de un ecosistema español de compartición de datos
 2023;G;4;48;488/27101;;;Premio Nacional de Estadística
 2023;G;4;48;488/29101;;;A entidades, asociaciones y jóvenes participantes en el Programa Erasmus + (2021-2027)
+2023;G;4;48;488/29102;;;A la Confederación Plena Inclusión España para el Centro Español de Accesibilidad Cognitiva
 2023;G;4;48;488/30003;;;Subvenciones públicas en régimen de concurrencia competitiva destinadas a programas y proyectos de concienciación, prevención e investigación de las distintas formas de violencia contra las mujeres
 2023;G;4;48;488/30050;;;A la entidad Adoratrices. Mecanismo de Recuperación y Resiliencia
 2023;G;4;48;488/30101;;;Programa salud sexual y reproductiva
@@ -1308,6 +1336,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;4;48;489/27101;;;A la Sociedad Hispanoamericana de Análisis Input-Output (SHAIO)
 2023;G;4;48;489/29005;;;Para Medidas de Acompañamiento del Programa Operativo del Fondo de Ayuda Europea para las Personas mas Desfavorecidas (FEAD)
 2023;G;4;48;489/29101;;;A entidades, asociaciones y jóvenes participantes en el Programa Cuerpo Europeo de Solidaridad (2021-2027)
+2023;G;4;48;489/29102;;;A la Confederación Autismo España para el Centro español sobre trastornos del espectro del autismo.
 2023;G;4;48;489/30003;;;Otros programas de lucha contra la violencia de género
 2023;G;4;48;489/30101;;;"Becas IM ""María Telo"""
 2023;G;4;48;489/31005;;;Subvenciones nominativas para el desarrollo del mecanismo de detección de comportamientos de riesgo a través del estudio de los casos de las personas en tratamiento, financiadas con las tasas por la gestión administrativa del juego
@@ -1361,6 +1390,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;4;49;490/33003;;;Cuota por la participación en el Instituto Universitario Europeo con sede en Florencia (Italia)
 2023;G;4;49;490/60001;;;Al Exterior
 2023;G;4;49;491/12001;;;A la Basílica de Santa María la Mayor de Roma (Óbolo Regio)
+2023;G;4;49;491/12302;;;A ACNUR (Alto Comisionado Naciones Unidas para el Refugiado) para el mantenimiento de la infraestructura de los Campamentos de Refugiados Tinduf.
 2023;G;4;49;491/13001;;;Conferencia de Ministros de Justicia de Países Iberoamericanos
 2023;G;4;49;491/13101;;;Cuotas y aportaciones Organismos Internacionales
 2023;G;4;49;491/15026;;;Contribución a Open Government Partnership (OGP)
@@ -1733,6 +1763,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;7;74;742/17050;;;A ADIF para el Mecanismo de Recuperación y Resiliencia
 2023;G;7;74;742/20050;;;Al ICEX para la ejecución de los Programas del Mecanismo de Recuperación y Resiliencia
 2023;G;7;74;742/21011;;;Planes Nacionales de cultivos
+2023;G;7;74;742/23005;;;Sociedad Estatal Aguas de las Cuencas de España, S.A. (ACUAES) para obras de ampliación, remodelación de la EDAR Loiola (Guipuzkoa)
 2023;G;7;74;742/23050;;;Aportaciones a ACUAES y ACUAMED para actuaciones de saneamiento y depuración. Mecanismo de Recuperación y Resiliencia
 2023;G;7;74;742/23101;;;Programa de investigación de Parques Nacionales
 2023;G;7;74;742/23112;;;A la Fundación Ciudad de la Energía - CIUDEN
@@ -1745,12 +1776,14 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;7;74;743/20050;;;A COFIDES para el Programa de impulso de proyectos de inversión de impacto. Mecanismo de Recuperación y Resiliencia
 2023;G;7;74;743/21050;;;Ayudas al Desarrollo Tecnológico e innovación del sector. Mecanismo de Recuperación y Resiliencia
 2023;G;7;74;743/23003;;;Al IDAE para actuaciones de generación de conocimiento, innovación y dinamización de la Transición energética
+2023;G;7;74;743/23005;;;Sociedad Estatal Aguas de las Cuencas de España, S.A. (ACUAES) para proyecto defensa contra inundaciones del río Zadorra, adecuación hidráulica y restauración ambiental a su paso por Vitoria Gasteiz, tramo puente Abetxuko Yurre
 2023;G;7;74;743/23050;;;Aportación al FRER para conservación y restauración de ecosistemas marinos y terrestres y de su biodiversidad. Mecanismo de Recuperación y Resiliencia
 2023;G;7;74;743/23101;;;Programa de investigación en Parques Nacionales. PIMA ADAPTA. Financiado según el artículo 30.4 de la Ley 7/2021
 2023;G;7;74;743/23105;;;Sociedad Estatal Aguas de las Cuencas de España, S.A. (ACUAES), para Presas Arenoso y La Breña II
 2023;G;7;74;743/23112;;;A la Federación Española de Municipios (FEMP) para apoyo en la definición, gestión y evaluación de ayudas del ITJ  destinadas a municipios de Transición Justa
 2023;G;7;74;743/26002;;;"A la ""Fundación Estatal, Salud, Infancia y Bienestar Social, F.S.P.”"
 2023;G;7;74;743/27008;;;A Red.es
+2023;G;7;74;743/33003;;;Al Consorci Universitari a la UNED de Tortosa para obras de accesibilidad del edificio
 2023;G;7;74;744/17050;;;A RENFE Viajeros, S.A. para el Mecanismo de Recuperación y Resiliencia
 2023;G;7;74;744/20050;;;Apoyo a Proyectos Estratégicos para la Transición Industrial. Mecanismo de Recuperación y Resiliencia
 2023;G;7;74;744/21050;;;Ayudas a proyectos de Economía Azul. Mecanismo de Recuperación y Resiliencia
@@ -1784,6 +1817,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;7;74;749/28050;;;Transferencias, ayudas nominativas y otros
 2023;G;7;75;;;;A Comunidades Autónomas
 2023;G;7;75;750/17020;;;A la Comunidad Autónoma de Cataluña en cumplimiento de la Sentencia nº 1668/2017 de la Sala 3ª del Tribunal Supremo
+2023;G;7;75;750/17038;;;A la Comunidad Foral de Navarra
 2023;G;7;75;750/17050;;;Programas de rehabilitación para la recuperación económica y social. Mecanismo de Recuperación y Resiliencia
 2023;G;7;75;750/18004;;;Programa Código Escuela 4.0
 2023;G;7;75;750/20050;;;Plan de Sostenibilidad Turística en Destinos. Mecanismo de Recuperación y Resiliencia
@@ -1809,8 +1843,13 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;7;75;751/15050;;;Para modernización de CC.AA. Mecanismo de Recuperación y Resiliencia
 2023;G;7;75;751/17009;;;C.A. de Madrid. Realojos Cañada Real
 2023;G;7;75;751/17010;;;Actuaciones relacionadas con el 1% Cultural
+2023;G;7;75;751/18004;;;Plan Especial de Empleo de Canarias (Infraestructuras educativas)
 2023;G;7;75;751/19050;;;Desarrollo del Plan Integral de impulso a la Economía Social para la generación de un tejido económico inclusivo y sostenible mediante inversiones a través de Comunidades Autónomas. MRR.
+2023;G;7;75;751/21007;;;Subvención nominativa al Gobierno Vasco para apoyo a la Fundación Basque Culinary Center
 2023;G;7;75;751/21103;;;Financiación a Comunidades Autónomas
+2023;G;7;75;751/23001;;;A la Universidad Pública de Navarra. Culminación de Proyecto sostenible
+2023;G;7;75;751/23005;;;A la Comunidad Autónoma del País Vasco para regeneración de terrenos en embalse de Ibiur en Baliarrain
+2023;G;7;75;751/23008;;;A la Comunidad Autónoma de Canarias para subvencionar el transporte de residuos entre islas
 2023;G;7;75;751/23009;;;Al Laboratorio Oficial Madariaga de la Universidad Politécnica de Madrid para actuaciones en calidad y seguridad
 2023;G;7;75;751/23010;;;Transferencia a CCAA para la ejecución de actuaciones enmarcadas en el Plan PIMA Refugios Climáticos. Financiado según el artículo 30.4 de la Ley 7/2021
 2023;G;7;75;751/23014;;;A Comunidades Autónomas, para actuaciones en materia de reto demográfico
@@ -1822,6 +1861,9 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;7;75;751/25002;;;A la Comunidad Autónoma de La Rioja para el Centro de Memoria La Rioja
 2023;G;7;75;751/26007;;;A Comunidades Autónomas, para equipamiento del Plan de Acción de Salud Mental y COVID-19
 2023;G;7;75;751/26018;;;A Comunidades Autónomas, para proyectos de investigación
+2023;G;7;75;751/27050;;;A la Comunidad Autónoma de Canarias para reforzar la actual red óptica submarina que da servicio al Gobierno de Canarias en el marco del PRTR. Mecanismo de Recuperación y Resiliencia
+2023;G;7;75;751/28008;;;A la Universidad del País Vasco (UPV) Proyecto Mobility Lab
+2023;G;7;75;751/28103;;;A la Universidad del País Vasco para infraestructura offshore para el ensayo y el desarrollo energético de energías renovables e hidrógeno verde
 2023;G;7;75;751/28301;;;Para gastos derivados de convenios de colaboración para actividades de investigación científica y técnica
 2023;G;7;75;751/28303;;;Fondo para la Investigación Científica y el Desarrollo Tecnológico
 2023;G;7;75;751/29050;;;A Comunidades Autónomas, para la formación de niñas, niños y adolescentes en competencias digitales. Mecanismo de Recuperación y Resiliencia
@@ -1830,22 +1872,29 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;7;75;752/17018;;;Apoyo al funcionamiento del Sistema Cartográfico Nacional (S.C.N.)
 2023;G;7;75;752/17040;;;A la comunidad Autónoma de Euskadi por la disposición adicional cuarta de la Ley 12/2002 y disposiciones concordantes
 2023;G;7;75;752/20009;;;A la Comunidad Autónoma de Castilla y León para la potenciación de infraestructuras industriales en Villadangos del Páramo
+2023;G;7;75;752/21001;;;Al gobierno de Aragón para financiar el Consejo Regulador de la Trufa y del Panel de Cata de la Trufa en Sarrión
 2023;G;7;75;752/21006;;;Sanidad de la producción agraria
 2023;G;7;75;752/21050;;;Ayudas al Desarrollo Tecnológico e innovación del sector. Mecanismo de Recuperación y Resiliencia
 2023;G;7;75;752/23005;;;Convenio con la Junta de Andalucía para el aprovechamiento hidráulico del litoral mediterráneo
 2023;G;7;75;752/23008;;;Política de residuos
 2023;G;7;75;752/23009;;;Al Instituto Nacional de Silicosis del Servicio de Salud del Principado de Asturias para actuaciones en salud y seguridad
+2023;G;7;75;752/23050;;;A la Comunidad Valenciana para la ampliación del Barranco de La Casella para evitar las inundaciones en el casco urbano. Mecanismo de Recuperación y Resiliencia
 2023;G;7;75;752/23101;;;Programa de investigación en Parques Nacionales
 2023;G;7;75;752/23109;;;C.A. de Madrid, trasvase Tajo-Segura
+2023;G;7;75;752/24106;;;A la Comunidad Foral de Navarra para la pista de atletismo de Larrabide (Pamplona)
 2023;G;7;75;752/24107;;;Al Consorcio de Rehabilitación de Teatros de Barcelona para ayudas a la rehabilitación de teatros privados de Barcelona
+2023;G;7;75;752/25002;;;Al Gobierno Vasco para las obras en la Iglesia de San Francisco de Asís en Zaramaga para su conversión en centro memorial a las víctimas del 3 de marzo
 2023;G;7;75;752/26007;;;A Comunidades Autónomas, para infraestructuras y equipamientos en Atención Primaria y Comunitaria
 2023;G;7;75;752/26050;;;A Comunidades Autónomas, para el Plan de Atención Digital Personalizada. Mecanismo de Recuperación y Resiliencia
+2023;G;7;75;752/28008;;;A la Generalitat de Catalunya para fomento de la investigación
 2023;G;7;75;752/32050;;;Fomento del crecimiento inclusivo mediante la vinculación de las políticas de inclusión social al Ingreso Mínimo Vital. Mecanismo de Recuperación y Resiliencia.
+2023;G;7;75;752/33003;;;Promoción de la investigación universidades públicas Canarias
 2023;G;7;75;752/33050;;;Ayudas a universidades públicas para la recualificación y la movilidad internacional del Personal Docente Investigador (PDI). Mecanismo de Recuperación y Resiliencia
 2023;G;7;75;753/17009;;;Subvenciones Estatales  Planes de Vivienda
 2023;G;7;75;753/17050;;;Plan de choque de movilidad sostenible, segura y conectada en entornos urbanos y metropolitanos. Programa para la transformación de flotas de transporte público urbano, metropolitano e interurbano. Mecanismo de Recuperación y Resiliencia
 2023;G;7;75;753/20050;;;A Comunidades Autónomas (Turismo). Mecanismo de Recuperación y Resiliencia
 2023;G;7;75;753/22002;;;A la Comunidad Autónoma de Aragón para financiar proyectos de inversión en la provincia de Teruel, incluyendo compensaciones por regularizaciones de ejercicios anteriores
+2023;G;7;75;753/23005;;;A la Comunidad Autónoma de Canarias, para financiar inversiones en actuaciones relativas al ciclo integral del agua
 2023;G;7;75;753/23008;;;A la Comunidad Autónoma de La Rioja para la Ciudad del envase y embalaje
 2023;G;7;75;753/23050;;;A Comunidades Autónomas para competencias digitales transversales. Mecanismo de Recuperación y Resiliencia
 2023;G;7;75;753/23109;;;C.A. de Extremadura, trasvase Tajo-Segura
@@ -1853,10 +1902,12 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;7;75;753/26007;;;A Comunidades Autónomas, para infraestructuras y equipamiento en Salud Mental Comunitaria
 2023;G;7;75;753/26050;;;A Comunidades Autónomas, para la mejora de la atención sanitaria a pacientes con enfermedades raras y ELA. Mecanismo de Recuperación y Resiliencia
 2023;G;7;75;753/27050;;;Apoyo a la creación y consolidación del ecosistema emergente de innovación del Sector Público. Mecanismo de Recuperación y Resiliencia
+2023;G;7;75;753/33003;;;Becas y ayudas para formación, perfeccionamiento y movilidad del profesorado de las universidades públicas Canarias
 2023;G;7;75;753/37001;;;Factor de Insularidad (Título III del Real Decreto-ley 4/2019, de 22 de febrero, del Régimen Especial de las Illes Balears)
 2023;G;7;75;753/60002;;;Proyectos de inversión e innovación en autonomía personal y dependencia (CEGADI)
 2023;G;7;75;754/13050;;;A Comunidades Autónomas. Mecanismo de Recuperación y Resiliencia
 2023;G;7;75;754/17009;;;Bono alquiler joven
+2023;G;7;75;754/17038;;;A la Generalitat de Catalunya
 2023;G;7;75;754/17050;;;Programa de construcción de viviendas en alquiler social. Mecanismo de Recuperación y Resiliencia
 2023;G;7;75;754/19101;;;A Comunidades Autónomas, Centros de Orientación y Emprendimiento. Mecanismo de Recuperación y Resliencia
 2023;G;7;75;754/20050;;;Apoyo a Proyectos Estratégicos para la Transición Industrial. Mecanismo de Recuperación y Resiliencia
@@ -1869,6 +1920,8 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;7;75;754/26050;;;A Comunidades Autónomas, para la implantación de la cartera de genómica en el Sistema Nacional de Salud. Mecanismo de Recuperación y Resiliencia
 2023;G;7;75;754/27050;;;Plan de Conectividad. Mecanismo de Recuperación y Resiliencia
 2023;G;7;75;754/29050;;;Transferencias de capital a comunidades autónomas incluidas en el Mecanismo de Recuperación y Resiliencia
+2023;G;7;75;754/33003;;;Programa de investigación y cooperación para las universidades establecidas en Canarias
+2023;G;7;75;754/37001;;;Actuaciones en diversas Comunidades Autónomas
 2023;G;7;75;755/17009;;;C.A. Canarias. Chumberas
 2023;G;7;75;755/17038;;;Convenio con la Comunidad Autónoma de Canarias
 2023;G;7;75;755/17040;;;A la Junta de Andalucía para financiar la Línea 3 del Metro de Sevilla – Tramo Norte
@@ -1876,6 +1929,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;7;75;755/20050;;;A Comunidades Autónomas (Comercio). Mecanismo de Recuperación y Resiliencia
 2023;G;7;75;755/21005;;;Mejora de la organización de la producción y reordenación de los sectores productivos
 2023;G;7;75;755/21011;;;Programa Operativo FEMP (Fondo Europeo Marítimo y de la Pesca) a CC.AA.
+2023;G;7;75;755/23005;;;A la Comunidad Autónoma de Baleares, para financiar inversiones en actuaciones relativas al ciclo integral del agua
 2023;G;7;75;755/23011;;;Para Comunidades Autónomas para paliar daños producidos por el lobo ibérico a la ganadería extensiva
 2023;G;7;75;755/23050;;;Para Estrategia de Economía Circular. Mecanismo de Recuperación y Resiliencia
 2023;G;7;75;755/24004;;;A comunidades autónomas para apoyo a la cultura
@@ -1884,6 +1938,7 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;7;75;755/27050;;;A CCAA para el Plan Nacional de Competencias Digitales. Ciudadanía digital. Formación competencias Digitales Básicas. Mecanismo de Recuperación y Resiliencia
 2023;G;7;75;755/29050;;;Transformación de política de cuidados. Mecanismo de Recuperación y Resiliencia
 2023;G;7;75;755/30050;;;Creación de centros de atención integral 24 horas a víctimas de violencia sexual. Mecanismo de Recuperación y Resiliencia
+2023;G;7;75;755/33003;;;A la Universitat Rovira i Virgili para proyecto de mejora de eficiencia energética de los edificios universitarios
 2023;G;7;75;755/36003;;;Fondo de Compensación
 2023;G;7;75;755/36004;;;Fondo de Compensación
 2023;G;7;75;755/36005;;;Fondo de Compensación
@@ -1918,11 +1973,9 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;7;75;756/36017;;;Fondo Complementario
 2023;G;7;75;756/36018;;;Fondo Complementario
 2023;G;7;75;756/36019;;;Fondo Complementario
-2023;G;7;75;756/37001;;;Para reconstrucción de infraestructuras como consecuencia de siniestros, catástrofes u otras situaciones de reconocida urgencia
 2023;G;7;75;757/17009;;;C.A. Región de Murcia. Lorca
 2023;G;7;75;757/18050;;;Extensión del primer ciclo de Educación Infantil. Mecanismo de Recuperación y Resiliencia
 2023;G;7;75;757/23011;;;Actuaciones de conservación y restauración de la biodiversidad
-2023;G;7;75;757/24106;;;A comunidades autónomas para apoyo de la actividad deportiva
 2023;G;7;75;757/27050;;;Proyecto Estratégico para la Recuperación y Transformación Económica de Microelectrónica y Semiconductores (PERTE Chip). Mecanismo de Recuperación y Resiliencia
 2023;G;7;75;757/28007;;;Convenio para la creación de un Centro de Vulcanología
 2023;G;7;75;757/37001;;;A la Comunidad Autónoma de La Rioja para financiar proyectos de inversión. Rehabilitación y reforma de IES Sagasta de Logroño
@@ -1940,49 +1993,78 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;7;75;759/24106;;;Ayudas a comunidades autónomas. Mecanismo de Recuperación y Resiliencia
 2023;G;7;75;759/27008;;;España Digital 2025
 2023;G;7;75;759/27050;;;Despliegue del 5G: redes, cambio tecnológico e innovación. Mecanismo de Recuperación y Resiliencia
+2023;G;7;75;759/28007;;;A la Fundación Centro Nacional de Energías Renovables (Fundación CENER)
 2023;G;7;75;759/28050;;;Transferencias, ayudas nominativas y otros
 2023;G;7;75;759/28107;;;Para proyectos programa de recursos humanos y estructuras estables de investigación cooperativa. Mecanismo de Recuperación y Resiliencia
 2023;G;7;75;759/36020;;;Para financiar la incorporación de remanentes de crédito de los Fondos de Compensación Interterritorial
 2023;G;7;76;;;;A Entidades Locales
 2023;G;7;76;760/17001;;;A la Fira de Barcelona para la celebración del Salón del Automóvil
+2023;G;7;76;760/17020;;;Al Ayuntamiento de Passaia. Actuaciones en Casa Ciriza. Mejora accesibilidad y ahorro consumo energético
+2023;G;7;76;760/20009;;;Ajuntament de Mollerussa. Creación del Institut d´Emprenedoria i Innovació de Mollerussa
+2023;G;7;76;760/21008;;;A ayuntamientos, diputaciones y otros entes locales
 2023;G;7;76;760/22002;;;A las Diputaciones, Cabildos, Consejos Insulares y Ayuntamientos de Ceuta y Melilla, como aportación a la financiación de las inversiones de EE.LL por Cooperación Económica Local
 2023;G;7;76;760/23003;;;Al Cabildo Insular de la Gomera. Plan Gomera
 2023;G;7;76;760/23012;;;A la Diputación Foral de Bizkaia, para impulsar actuaciones singulares de desarrollo sostenible en el entorno del Estuario de Urdaibai
 2023;G;7;76;760/23106;;;A la Diputación Provincial de Badajoz para financiar un convenio de actuación en carreteras
 2023;G;7;76;760/23112;;;Inversiones EELL. Mecanismo de Recuperación y Resiliencia
 2023;G;7;76;760/24005;;;A ayuntamientos, diputaciones y otros entes locales
+2023;G;7;76;760/24107;;;Al Ayuntamiento de Laudio para Proyecto Leku (Laudioko Ekintza Eta Kultur Unea). Espacio de Cultura y Artes Escénicas de Laudio
 2023;G;7;76;760/27008;;;España Digital 2025
 2023;G;7;76;760/27101;;;Para gastos originados por la explotación estadística del Padrón Municipal y la actualización mensual del Censo Electoral
+2023;G;7;76;760/28007;;;Al Ayuntamiento de Manresa para la creación de un polo de formación e innovación tecnológica en el recinto de la Fábrica Nova Manresa
 2023;G;7;76;760/28303;;;Fondo para la Investigación Científica y el Desarrollo Tecnológico
+2023;G;7;76;760/29003;;;Para actuaciones de acción social
+2023;G;7;76;760/29004;;;Para actuaciones de atención a la infancia y a las familias
 2023;G;7;76;760/30101;;;Programa Mujer y territorio
 2023;G;7;76;760/31050;;;España Digital 2025. Mecanismo de Recuperación y Resiliencia.
 2023;G;7;76;761/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
 2023;G;7;76;761/16102;;;Para financiar obligaciones derivadas de convenios y acuerdos con otras administraciones
+2023;G;7;76;761/17009;;;Al Ayuntamiento de Sant Quintí de Mediona para equipamiento público
 2023;G;7;76;761/19050;;;Desarrollo del Plan Integral de impulso a la Economía Social para la generación de un tejido económico inclusivo y sostenible mediante inversiones a través de Entidades Locales. MRR.
 2023;G;7;76;761/22050;;;Para modernización de EE.LL. Mecanismo de Recuperación y Resiliencia
+2023;G;7;76;761/23005;;;Al Ayuntamiento de Arrigorriaga (Bizkaia), para la ejecución de actuación en la presa de Mendikosolo
+2023;G;7;76;761/23006;;;Al Ayuntamiento de Donostia para restauración muro protección y barandilla del paseo de la Concha
+2023;G;7;76;761/23008;;;A la Diputación Foral de Bizkaia para adecuación Ribera BI 711 y construcción puente ciclable
+2023;G;7;76;761/23011;;;Ajuntament de Fondarella. Adecuación del espacio natural y lúdico de la Serra de Fondarella
 2023;G;7;76;761/23014;;;A Entidades Locales, para actuaciones en materia de reto demográfico
+2023;G;7;76;761/23050;;;Al Ayuntamiento de Sant Feliu de Llobregat para la construcción de un eje para ciclistas y peatones, renaturalizado en el vial adyacente a la Calle del Pla, entre la rotonda de la Calle del Sol a la Calle Ramon y Cajal. Mecanismo de Recuperación y Resiliencia
+2023;G;7;76;761/23104;;;Ajuntament de Rialp. Paseo fluvial. Fase II
+2023;G;7;76;761/23112;;;Al Ayuntamiento de Cardona para la reconversión industrial y social de Cardona después del cierre de la actividad minera
 2023;G;7;76;761/24004;;;A la Diputación de Soria para inversiones en el Castillo de Serón de Nágima
 2023;G;7;76;761/24005;;;Ayudas a proyectos de conservación, protección y difusión de bienes declarados Patrimonio Mundial
 2023;G;7;76;761/24103;;;A la Fundación Centro Buñuel de Calanda para sus actividades
+2023;G;7;76;761/28007;;;Al Ayuntamiento de Badalona para Proyecto Implantación Fundación CIM-UPC en el edificio CACI
+2023;G;7;76;761/29005;;;Al Ayuntamiento de la Seu D’Urgell para construcción de un edificio de pisos de servicios para la gente mayor
 2023;G;7;76;761/29050;;;A entidades locales para la formación de niñas, niños y adolescentes en competencias digitales. Mecanismo de Recuperación y Resiliencia
 2023;G;7;76;762/16001;;;A Corporaciones Locales para equipamiento e infraestructuras derivadas de la aplicación de Planes de Emergencia Nuclear
+2023;G;7;76;762/17009;;;Al Ayuntamiento de Sant Sadurní D´Anoia para equipamiento público
 2023;G;7;76;762/17020;;;A la Diputación provincial de Pontevedra para la construcción de una pasarela transfronteriza con Portugal
 2023;G;7;76;762/17050;;;Plan de choque de movilidad sostenible, segura y conectada en entornos urbanos y metropolitanos. Programa para la implantación de Zonas de bajas emisiones y transformación del transporte urbano y metropolitano dirigido a EE.LL Mecanismo de Recuperación y Resiliencia
 2023;G;7;76;762/20050;;;Fortalecimiento de la actividad comercial en zonas de gran afluencia. Mecanismo de Recuperación y Resiliencia
+2023;G;7;76;762/23006;;;Al Ayuntamiento de Castell-Platja d'Aro para la redacción del proyecto de reforma del Passeig Marítim de Platja d'Aro
+2023;G;7;76;762/23008;;;Al Ayuntamiento de Asparrena para la ejecución de las obras de construcción de la Planta de Tratamiento de Biorresiduo proyectado para el futuro tratamiento de los biorresiduos generados en los 8 municipios de la Llanada Alavesa
+2023;G;7;76;762/24004;;;A Ayuntamientos, Diputaciones y otras entidades locales
 2023;G;7;76;762/24105;;;Al Ayuntamiento de Alcalá de los Gazules para la redacción del proyecto del museo municipal
+2023;G;7;76;762/24107;;;Al Ajuntament de Tortosa para ampliación auditorio municipal y centro convenciones
+2023;G;7;76;762/29005;;;Al Ayuntamiento de Baztán, para financiar proyectos de inversión. Reforma, mejora y adecuación de la residencia de ancianos Francisco Javier Iriarte en Elizondo
 2023;G;7;76;762/32050;;;Fomento del crecimiento inclusivo mediante la vinculación de las políticas de inclusión social al Ingreso Mínimo Vital. Mecanismo de Recuperación y Resiliencia.
+2023;G;7;76;763/17009;;;Al Ayuntamiento de Vilafranca del Penedés para equipamiento público
+2023;G;7;76;763/17020;;;Ajuntament de Castellar del Vallés. Construcción de una área de servicio e higiene en el polígono industrial
 2023;G;7;76;763/17038;;;CC.LL. por asunción de competencias derivadas del cambio de titularidad de determinados tramos de carreteras estatales a vías urbanas
 2023;G;7;76;763/20004;;;A entidades locales
 2023;G;7;76;763/20007;;;Al Ayuntamiento de Burgos para mercado provisional
 2023;G;7;76;763/20050;;;A entidades locales. Mecanismo de Recuperación y Resiliencia
+2023;G;7;76;763/23006;;;Ajuntament de Deltebre. Entubamiento, bombeo y posterior urbanización del Passeig del Carrilet sobre el actual desagüe del “Préstamo” del municipio de Deltebre
 2023;G;7;76;763/23050;;;A Entidades Locales para competencias digitales transversales. Mecanismo de Recuperación y Resiliencia
 2023;G;7;76;763/24003;;;"Campaña de animación a la lectura ""María Moliner"" para proyectos de animación lectora en municipios de menos de 50.000 habitantes (Plan de Fomento de la Lectura)"
 2023;G;7;76;763/27050;;;Apoyo a la creación y consolidación del ecosistema emergente de innovación del Sector Público. Mecanismo de Recuperación y Resiliencia
+2023;G;7;76;764/17009;;;Al Ayuntamiento de Elantxobe para redacción de proyecto y ejecución de un itinerario accesible mediante elementos mecánicos
 2023;G;7;76;764/17010;;;Actuaciones relacionadas con el 1 % Cultural
+2023;G;7;76;764/17050;;;A la Mancomunidad Don Benito-Villanueva de la Serena, para la ejecución de actuaciones integradas en el Programa para la implantación de Zonas de bajas emisiones y la transformación del transporte urbano y metropolitano. Mecanismo de Recuperación y Resiliencia
+2023;G;7;76;764/20007;;;Al Ayuntamiento de Ondarroa, Redacción Proyecto para renovación de la Berdura Plaza
 2023;G;7;76;764/20050;;;Apoyo a Proyectos Estratégicos para la Transición Industrial. Mecanismo de Recuperación y Resiliencia
 2023;G;7;76;764/23005;;;Al Ayuntamiento de Arnedillo, para la ejecución de actuaciones de restitución territorial por la construcción del embalse de Enciso
 2023;G;7;76;765/17009;;;Al Ayuntamiento de Barcelona para la promoción de viviendas en alquiler asequible o social (Plan de viviendas para alquiler asequible)
-2023;G;7;76;765/17050;;;Al Ayuntamiento de Don Benito, para la ejecución de actuaciones integradas en el Programa para la implantación de Zonas de bajas emisiones y la transformación del transporte urbano y metropolitano. Mecanismo de Recuperación y Resiliencia
 2023;G;7;76;765/23005;;;Al Ayuntamiento de Enciso, para la ejecución de actuaciones de restitución territorial por la construcción del embalse de Enciso
 2023;G;7;76;765/24004;;;A entidades locales para apoyo a la cultura
 2023;G;7;76;765/24106;;;A corporaciones locales para obras
@@ -1990,28 +2072,35 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;7;76;765/37002;;;Para financiar inversiones en municipios del Campo de Gibraltar
 2023;G;7;76;766/17009;;;A entidades locales para la promoción de viviendas en alquiler asequible o social (Plan 20.000)
 2023;G;7;76;766/17010;;;Fundación Mies Van der Rohe
-2023;G;7;76;766/17050;;;Al Ayuntamiento de Villanueva de la Serena, para la ejecución de actuaciones integradas en el Programa para la implantación de Zonas de bajas emisiones y la transformación del transporte urbano y metropolitano. Mecanismo de Recuperación y Resiliencia
 2023;G;7;76;766/24005;;;Ayudas en concurrencia competitiva a proyectos de salvaguardia del patrimonio cultural inmaterial
+2023;G;7;76;766/24106;;;A entidades locales para instalaciones deportivas
 2023;G;7;76;766/37002;;;Para reconstrucción de infraestructuras como consecuencia de siniestros, catástrofes u otras situaciones de reconocida urgencia
 2023;G;7;76;767/17009;;;Ayuntamiento de Barcelona. International Social Housing Festival
+2023;G;7;76;767/17010;;;Ajuntament de Serós. Renovación de la Plaça de les Escoles
 2023;G;7;76;767/17038;;;Al Cabildo Insular de La Palma para la mejora de la carretera de acceso al Instituto Astrofísico de Canarias
 2023;G;7;76;767/17050;;;Al Ayuntamiento de A Coruña, para la ejecución de actuaciones integradas en el Programa para la implantación de Zonas de bajas emisiones y la transformación del transporte urbano y metropolitano. Mecanismo de Recuperación y Resiliencia
 2023;G;7;76;767/24106;;;A entidades locales para apoyo de la actividad deportiva
+2023;G;7;76;767/24107;;;Al Teatro Principal Antzokia para ayudas a la rehabilitación
+2023;G;7;76;768/17009;;;Ajuntament d´Artesa de Lleida. Rehabilitación integral sector Germans Pujol Reñé
 2023;G;7;76;768/17038;;;Resto de Transferencias a Entidades Locales
 2023;G;7;76;768/24004;;;Al Ayuntamiento de Barcelona para la capitalidad cultural de Barcelona
 2023;G;7;76;768/27008;;;A la Fundación Barcelona Mobile World Capital
 2023;G;7;76;768/27012;;;"A Fundación Barcelona Mobile World Capital Foundation para la realización de actuaciones en el ámbito de la tecnología 5G ""Observatorio Nacional 5G"""
 2023;G;7;76;768/28107;;;Para proyectos programa de recursos humanos y estructuras estables de investigación cooperativa
+2023;G;7;76;768/37002;;;Plan de recuperación de La Palma
 2023;G;7;76;769/17009;;;Las Rehoyas (Las Palmas de Gran Canaria). Renovación urbana
 2023;G;7;76;769/17020;;;A la Institución Ferial de Madrid (IFEMA) para la celebración del Global Mobility Call
 2023;G;7;76;769/24106;;;Ayudas a corporaciones locales. Mecanismo de Recuperación y Resiliencia
+2023;G;7;76;769/37002;;;Actuaciones en diversas Entidades Locales
 2023;G;7;77;;;;A empresas privadas
 2023;G;7;77;770/17010;;;Actuaciones relacionadas con el 1 % Cultural
 2023;G;7;77;770/17050;;;Ayudas a empresas para el impulso de la digitalización, sostenibilidad e innovación en la cadena logística. Mecanismo de Recuperación y Resiliencia
 2023;G;7;77;770/21001;;;Apoyo financiero por daños ocasionados por la sequía y otras causas extraordinarias
 2023;G;7;77;770/24106;;;A universidades privadas para obras y equipamiento deportivo con motivo de la organización de campeonatos internacionales.
+2023;G;7;77;770/24107;;;Programa de ayudas a empresas privadas para actividades circenses en euskera
 2023;G;7;77;770/27008;;;España Digital 2025
 2023;G;7;77;770/27050;;;A empresas privadas.  Mecanismo de Recuperación y Resiliencia
+2023;G;7;77;770/28008;;;A la Escuela Politécnica Superior de Mondragón Unibertsitatea para el Centro de Innovación y Emprendimiento Industrial Sostenible
 2023;G;7;77;770/28303;;;Fondo para la Investigación Científica y el Desarrollo Tecnológico
 2023;G;7;77;771/15014;;;Subvenciones a empresas localizadas en zonas de promoción económica y otras zonas acordadas por el Gobierno
 2023;G;7;77;771/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia.
@@ -2028,15 +2117,18 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;7;77;771/24107;;;Programa de ayudas a empresas privadas para infraestructuras de circo itinerante
 2023;G;7;77;771/27012;;;A la Sociedad de Garantía Recíproca Audiovisual Fianzas SGR para la dotación de su fondo de provisiones técnicas
 2023;G;7;77;771/27302;;;Para actuaciones de almacenamiento subterráneo
+2023;G;7;77;771/28008;;;A Mondragón Unibertsitatea para desarrollo de plataforma digital de innovación educativa y servicios al estudiante
 2023;G;7;77;772/17039;;;Programa de medidas para la mejora del sector del transporte por carretera
 2023;G;7;77;772/21011;;;Ayudas desarrollo nueva OCM, productos pesqueros
 2023;G;7;77;772/23112;;;Pequeños proyectos empresariales generadores de empleo
 2023;G;7;77;772/24003;;;Actividades en desarrollo del Plan de Fomento de la Lectura
 2023;G;7;77;772/24004;;;Ayudas a la inversión en capital para incrementar la oferta legal de contenidos digitales culturales en Internet y para promover la modernización, innovación y adaptación tecnológica de las industrias culturales y creativas
 2023;G;7;77;772/27008;;;Key Digital Technologies (KDT)
+2023;G;7;77;772/27012;;;A Donostialdea Ikusentzunezkoak S.A. para proyectos de digitalización y gestión inteligente de los Medios y Audiovisuales en Euskera
 2023;G;7;77;773/20009;;;Estatuto Electrointensivo: Programa de compensación a los consumidores electrointensivos
 2023;G;7;77;773/20050;;;A Empresas privadas. Industria. Mecanismo de Recuperación y Resiliencia
 2023;G;7;77;773/27008;;;Key Digital Technologies (KDT)
+2023;G;7;77;773/27012;;;A Euskal Irrati Zerbitzuak S.L. para proyecto de digitalización y gestión inteligente de los medios audiovisuales en euskera
 2023;G;7;77;774/20050;;;Apoyo a Proyectos Estratégicos para la Transición Industrial. Mecanismo de Recuperación y Resiliencia
 2023;G;7;77;774/21011;;;Ayudas a programas operativos de la Unión Europea
 2023;G;7;77;774/21050;;;Ayudas a proyectos de Economía Azul. Mecanismo de Recuperación y Resiliencia
@@ -2058,13 +2150,17 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;7;77;779/27302;;;Para atender el extracoste de generación al que se refiere la disposición adicional decimoquinta de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico
 2023;G;7;78;;;;A familias e instituciones sin fines de lucro
 2023;G;7;78;780/17010;;;A fundaciones, instituciones y asociaciones sin ánimo de lucro
+2023;G;7;78;780/17020;;;Fundación para la preservación del Patrimonio Ferroviario e Industrial (FPPFI) Museu del Ferrocarril de Móra la Nova. Ampliación de  las instalaciones
 2023;G;7;78;780/20004;;;Convocatorias ayudas para desarrollo de Experiencias turísticas
 2023;G;7;78;780/20050;;;Desarrollo de entidades asociativas en el ámbito de las Experiencias turísticas. Mecanismo de Recuperación y Resiliencia
 2023;G;7;78;780/21103;;;A familias e instituciones sin fines de lucro
+2023;G;7;78;780/22002;;;A la Asociación Cultural Veins de Camps, para nuevas instalaciones en el local social y cultural
 2023;G;7;78;780/23108;;;Fundación Aquis Querquennis
 2023;G;7;78;780/23109;;;Familias e instituciones
+2023;G;7;78;780/24004;;;Al Casal Catòlic de Sant Andreu de Palomar para reformas
 2023;G;7;78;780/24005;;;Ayudas a entidades privadas sin ánimo de lucro para la mejora de las instalaciones y el equipamiento de sus archivos
 2023;G;7;78;780/27101;;;Para proyectos de inversión científica, desarrollo e innovación tecnológica
+2023;G;7;78;780/28008;;;Al CIC Energigune para el Laboratorio Testeo de Electrolizadores Avanzados
 2023;G;7;78;780/28301;;;Formación de personal investigador
 2023;G;7;78;780/28303;;;Fondo para la Investigación Científica y el Desarrollo Tecnológico
 2023;G;7;78;780/29101;;;Al Consejo de la Juventud de España
@@ -2084,11 +2180,14 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;7;78;781/24106;;;A federaciones deportivas españolas para instalaciones deportivas y equipamiento
 2023;G;7;78;781/26018;;;Para proyectos de investigación
 2023;G;7;78;781/28001;;;Ayudas a instituciones adscritas al programa para gastos de inversión
+2023;G;7;78;781/28008;;;A la Universidad de Deusto proyecto transferencia e innovación tecnológica en los ámbitos industrial y sociosanitario
 2023;G;7;78;781/29050;;;A instituciones sin fines de lucro para la formación de niñas, niños y adolescentes en competencias digitales. Mecanismo de Recuperación y Resiliencia
 2023;G;7;78;782/16001;;;Para atenciones de todo orden motivadas por siniestros, catástrofes u otros de reconocida urgencia
 2023;G;7;78;782/17009;;;Ayudas para renta básica de emancipación de jóvenes, subsidiación de préstamos y otros apoyos a la vivienda
 2023;G;7;78;782/24003;;;Al Centre de Lectura de Reus, para las obras de rehabilitación de su sede
+2023;G;7;78;782/24106;;;Al Futbol Sala Castellar del Vallès para el apoyo al deporte inclusivo
 2023;G;7;78;782/27008;;;España Digital 2025
+2023;G;7;78;782/28001;;;A la Fundació Universitat Rovira i Virgili. Centre de Innovació i Simulació Territorial
 2023;G;7;78;782/28006;;;Acciones de Política Científica
 2023;G;7;78;783/17010;;;Consejo Superior de Colegios de Arquitectos de España. EUROPAN
 2023;G;7;78;783/20007;;;Actuaciones de apoyo a la competitividad del comercio minorista
@@ -2096,17 +2195,22 @@ EJERCICIO;GASTO/INGRESO;CAPITULO;ARTICULO;CONCEPTO;SUBCONCEPTO;DESCRIPCION CORTA
 2023;G;7;78;783/21008;;;Programas de formación y asesoramiento
 2023;G;7;78;783/23050;;;A entidades sin animo de lucro para competencias digitales transversales. Mecanismo de Recuperación y Resiliencia
 2023;G;7;78;783/24003;;;Concurso de promoción de la lectura en los jóvenes (Plan de Fomento de la Lectura)
+2023;G;7;78;783/24005;;;A la Fundación Amaiurko Gaztelua para su rehabilitación
 2023;G;7;78;783/24106;;;A familias e instituciones sin ánimo de lucro, procedente de los ingresos obtenidos en la comercialización conjunta de derechos audiovisuales, en aplicación del Real Decreto-ley 5/2015
 2023;G;7;78;783/27008;;;Key Digital Technologies (KDT)
 2023;G;7;78;783/27050;;;Apoyo a la creación y consolidación del ecosistema emergente de innovación del Sector Público. Mecanismo de Recuperación y Resiliencia
+2023;G;7;78;783/28001;;;A la Institució CERCA. Centres de Recerca de Catalunya para la infraestructura científico-tecnológica
 2023;G;7;78;784/17009;;;Asociación Española de Gestores Públicos de Vivienda y Suelo
 2023;G;7;78;784/20050;;;Apoyo a Proyectos Estratégicos para la Transición Industrial. Mecanismo de Recuperación y Resiliencia
 2023;G;7;78;784/24003;;;Programa de animación a la lectura en mundo rural (Plan de Fomento de la Lectura)
+2023;G;7;78;784/24005;;;A otras instituciones sin fines de lucro
 2023;G;7;78;784/24106;;;A la Real Federación Española de Fútbol para obras y equipamiento del futbol no profesional, en cumplimiento de las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de regulación del juego en relación con el Real Decreto 419/1991
+2023;G;7;78;784/28001;;;A la Fundació Doctor Ferran
 2023;G;7;78;784/60002;;;A la Fundación Instituto Gerontológico Matia-INGEMA: regeneración de un entorno urbano desde la perspectiva inclusiva para la promoción de la autonomía de personas mayores.
 2023;G;7;78;785/17010;;;Consejo Superior de Arquitectos de España. Bienales de Arquitectura (Española e Iberoamericana)
 2023;G;7;78;785/20050;;;A familias e instituciones sin fines de lucro. Mecanismo de Recuperación y Resiliencia
 2023;G;7;78;785/21007;;;Convenios de colaboración con Entidades sin ánimo de lucro.
+2023;G;7;78;785/28001;;;Barcelona Institute of Science and Technology para el desarrollo de un hub en medicina de precisión
 2023;G;7;78;785/28103;;;Aportación a la Fundación Energía sin Fronteras
 2023;G;7;78;786/20004;;;Programas de Colaboración con Actores Sociales de Turismo
 2023;G;7;78;786/24005;;;Ayudas en concurrencia competitiva a proyectos de salvaguardia del patrimonio cultural inmaterial
