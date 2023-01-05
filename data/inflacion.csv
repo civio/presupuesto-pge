@@ -1,5 +1,5 @@
 # Datos de IPC del INE. Medias anuales de IPC para España, Índice general: 
-#   http://www.ine.es/jaxiT3/Tabla.htm?t=22344&L=0
+#   https://www.ine.es/jaxiT3/Tabla.htm?t=50902&L=0
 # Las tasas de inflación se refieren a la media de las tasas interanuales durante los 12
 # meses del año. Esta media es calculada por el INE y publicada en la dirección indicada.
 # La aplicación calcula internamente un índice de inflación a partir de estas tasas, tal que:
@@ -25,5 +25,5 @@
 2019,0.7
 2020,-0.3
 2021,3.1
-2022,0
+2022,8.4
 2023,0
