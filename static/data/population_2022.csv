@@ -1,23 +1,42 @@
 year,region_id,region_name,total
-2021,1,Andalucía,8464411
-2021,2,Aragón,1329391
-2021,3,"Asturias, Principado de",1018784
-2021,4,"Balears, Illes",1171543
-2021,5,Canarias,2175952
-2021,6,Cantabria,582905
-2021,7,Castilla y León,2394918
-2021,8,Castilla - La Mancha,2045221
-2021,9,Cataluña,7780479
-2021,10,Comunitat Valenciana,5057353
-2021,11,Extremadura,1063987
-2021,12,Galicia,2701819
-2021,13,"Madrid, Comunidad de",6779888
-2021,14,"Murcia, Región de",1511251
-2021,15,"Navarra, Comunidad Foral de",661197
-2021,16,País Vasco,2220504
-2021,17,"Rioja, La",319914
-2021,18,Ceuta,84202
-2021,19,Melilla,87076
+2022,1,Andalucía,8472407
+2022,2,Aragón,1326261
+2022,3,"Asturias, Principado de",1011792
+2022,4,"Balears, Illes",1173008
+2022,5,Canarias,2172944
+2022,6,Cantabria,584507
+2022,7,Castilla y León,2383139
+2022,8,Castilla - La Mancha,2049562
+2022,9,Cataluña,7763362
+2022,10,Comunitat Valenciana,5058138
+2022,11,Extremadura,1059501
+2022,12,Galicia,2695645
+2022,13,"Madrid, Comunidad de",6751251
+2022,14,"Murcia, Región de",1518486
+2022,15,"Navarra, Comunidad Foral de",661537
+2022,16,País Vasco,2213993
+2022,17,"Rioja, La",319796
+2022,18,Ceuta,83517
+2022,19,Melilla,86261
+2021,1,Andalucía,8472407
+2021,2,Aragón,1326261
+2021,3,"Asturias, Principado de",1011792
+2021,4,"Balears, Illes",1173008
+2021,5,Canarias,2172944
+2021,6,Cantabria,584507
+2021,7,Castilla y León,2383139
+2021,8,Castilla - La Mancha,2049562
+2021,9,Cataluña,7763362
+2021,10,Comunitat Valenciana,5058138
+2021,11,Extremadura,1059501
+2021,12,Galicia,2695645
+2021,13,"Madrid, Comunidad de",6751251
+2021,14,"Murcia, Región de",1518486
+2021,15,"Navarra, Comunidad Foral de",661537
+2021,16,País Vasco,2213993
+2021,17,"Rioja, La",319796
+2021,18,Ceuta,83517
+2021,19,Melilla,86261
 2020,1,Andalucía,8464411
 2020,2,Aragón,1329391
 2020,3,"Asturias, Principado de",1018784

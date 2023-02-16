@@ -9,7 +9,7 @@
 
     <div class="container">
       <h2 class="page-title">{{ _('Los presupuestos de las Comunidades Autónomas') }}</h2>
-      <p class="lead">Te mostramos la distribución del presupuesto regional durante los años 2006 al 2021. Puedes observar tanto <a id="selectTotalAmountLink" class="actionableLink">el gasto presupuestado total</a>, como el <a id="selectPerPersonAmountLink" class="actionableLink">presupuesto por habitante</a>. También puedes ver las cantidades por área funcional, como por ejemplo <a id="selectHealthLink" class="actionableLink">Sanidad</a>, referidas a cada región o a todo el territorio nacional.</p>
+      <p class="lead">Te mostramos la distribución del presupuesto regional durante los años 2006 al 2022. Puedes observar tanto <a id="selectTotalAmountLink" class="actionableLink">el gasto presupuestado total</a>, como el <a id="selectPerPersonAmountLink" class="actionableLink">presupuesto por habitante</a>. También puedes ver las cantidades por área funcional, como por ejemplo <a id="selectHealthLink" class="actionableLink">Sanidad</a>, referidas a cada región o a todo el territorio nacional.</p>
       <p class="lead">Ten en cuenta que algunas comunidades autónomas tienen competencias que otras no tienen -pasa, por ejemplo, en Justicia, que en ocasiones está transferida y en otras no-, por lo que el gasto total no es comparable sin tener en cuenta esas diferencias.</p>
       <p class="lead">
         <small>Esta visualización es una adaptación de la realizada por <a href="http://visup.it/" target="_blank">VISup</a> para Italia.</small>
@@ -78,8 +78,8 @@
 <script src="{{ STATIC_URL }}javascripts/ccaa.js"></script>
 <script>
   $(function() {
-    var map = new RegionComparisonMap("{{ STATIC_URL }}data/budget_data_2021.csv", 
-                                      "{{ STATIC_URL }}data/population_2021.csv",
+    var map = new RegionComparisonMap("{{ STATIC_URL }}data/budget_data_2022.csv", 
+                                      "{{ STATIC_URL }}data/population_2022.csv",
                                       "{{ STATIC_URL }}data/map/ccaa_5km.json");
 
     /** INTRO TEXT CONTROLS **/
@@ -102,7 +102,7 @@
       map.changeCurrentMode(getUIState().format);
     };
 
-    initSlider('#year-selection', [2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021], 2021);
+    initSlider('#year-selection', [2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022], 2022);
     
     $('#select-format').change(onModeChange);
 
