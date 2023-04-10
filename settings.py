@@ -84,10 +84,6 @@ LANGUAGES = (
   # ('gl', 'Galego'),
 )
 
-# Facebook Aplication ID used in social_sharing temaplate. Default: ''
-# In order to get the ID create an app in https://developers.facebook.com/
-FACEBOOK_ID             = '383807661992851'
-
 # Google Analytics ID. Default: ''
 # In order to get the ID create a Google Analytics Acount in https://analytics.google.com/analytics/web/
 ANALYTICS_ID            = 'GTM-K8SZTVW'
