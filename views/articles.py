@@ -1,8 +1,6 @@
 # -*- coding: UTF-8 -*-
 
-from coffin.shortcuts import render_to_response
 from budget_app.views.helpers import *
-
 
 def visita_guiada(request):
     c = get_context(request, css_class='body-articles', title=u'Visita Guiada')
