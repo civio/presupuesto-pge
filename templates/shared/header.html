@@ -31,7 +31,7 @@
 
     <!-- DVMI Title & Home Link -->
     <h1 class="navbar-brand">
-      <a href="{{ url('budget_app.views.welcome') }}" title="{{ _('Ir a la home de Presupuestos') }}">
+      <a href="{{ url('welcome') }}" title="{{ _('Ir a la home de Presupuestos') }}">
         {{ _('Presupuestos') | safe }}
       </a>
     </h1>
@@ -46,51 +46,51 @@
       </div>
       <div id="navbar" class="collapse navbar-collapse">
         <ul class="nav navbar-nav">
-          <li class="page-budgets {{ 'active' if active_tab == "general"}}">
-            <a href="{{ url('budget_app.views.budgets') }}" class="icon-budget">{{ _('Visión global') }}</a>
+          <li class="page-budgets {{ 'active' if active_tab == 'general'}}">
+            <a href="{{ url('budgets') }}" class="icon-budget">{{ _('Visión global') }}</a>
           </li>
           
           {% if show_counties_and_towns %}
           <li class="page-policies dropdown">
-            <a href="{{ url('budget_app.views.policies') }}" class="icon-policy dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ _('Políticas') }} <span class="caret"></span></a>
+            <a href="{{ url('policies') }}" class="icon-policy dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ _('Políticas') }} <span class="caret"></span></a>
             <ul class="dropdown-menu">
-              <li><a href="{{ url('budget_app.views.policies') }}">{{ _('Gobierno de Aragón') }}</a></li>
-              <li><a href="{{ url('budget_app.views.counties') }}">{{ _('Comarcas') }}</a></li>
-              <li><a href="{{ url('budget_app.views.towns') }}">{{ _('Municipios') }}</a></li>
+              <li><a href="{{ url('policies') }}">{{ _('Gobierno de Aragón') }}</a></li>
+              <li><a href="{{ url('counties') }}">{{ _('Comarcas') }}</a></li>
+              <li><a href="{{ url('towns') }}">{{ _('Municipios') }}</a></li>
             </ul>
           </li>
           {% else %}
-          <li class="page-policies {{ 'active' if active_tab == "policies"}}">
-            <a href="{{ url('budget_app.views.policies') }}" class="icon-policy">{{ _('Políticas') }}</a>
+          <li class="page-policies {{ 'active' if active_tab == 'policies'}}">
+            <a href="{{ url('policies') }}" class="icon-policy">{{ _('Políticas') }}</a>
           </li>
           {% endif %}
 
           <li class="page-regions">
-            <a href="{{ url('presupuesto-pge.views.ccaa') }}" class="icon-tree">{{ _('Comunidades Autónomas') }}</a>
+            <a href="{{ url('ccaa') }}" class="icon-tree">{{ _('Comunidades Autónomas') }}</a>
           </li>
           
           {% if show_payments %}
-          <li class="page-payments {{ 'active' if active_tab == "payments"}}">
-            <a href="{{ url('budget_app.views.payments') }}" class="icon-payments">{{ _('Pagos e inversiones') }}</a>
+          <li class="page-payments {{ 'active' if active_tab == 'payments'}}">
+            <a href="{{ url('payments') }}" class="icon-payments">{{ _('Pagos e inversiones') }}</a>
           </li>
           {% endif %}
 
           {% if show_tax_receipt %}
-          <li class="page-tax-receipt {{ 'active' if active_tab == "calculator"}}">
-            <a href="{{ url('budget_app.views.tax_receipt') }}" class="icon-aportacion">{{ _('Lo que tú aportas') }}</a>
+          <li class="page-tax-receipt {{ 'active' if active_tab == 'calculator'}}">
+            <a href="{{ url('tax_receipt') }}" class="icon-aportacion">{{ _('Lo que tú aportas') }}</a>
           </li>
           {% endif %}
           
-          <li class="page-glossary {{ 'active' if active_tab == "glossary"}}">
+          <li class="page-glossary {{ 'active' if active_tab == 'glossary'}}">
             <div class="dropdown">
-              <a href="{{ url('presupuesto-pge.views.visita_guiada') }}" class="dropdown-toggle icon-glossary" id="glossary-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+              <a href="{{ url('visita_guiada') }}" class="dropdown-toggle icon-glossary" id="glossary-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
                 {{ _('Te lo explicamos') }}<span class="caret"></span>
               </a>
               <ul class="dropdown-menu" aria-labelledby="glossary-dropdown">
-                <li><a href="{{ url('presupuesto-pge.views.visita_guiada') }}">{{ _('Visita guiada') }}</a></li>
-                <li><a href="{{ url('presupuesto-pge.views.ojo_con_esto') }}">{{ _('Ojo con esto') }}</a></li>
-                <li><a href="{{ url('presupuesto-pge.views.metodologia') }}">{{ _('Metodología') }}</a></li>
-                <li><a href="{{ url('budget_app.views.terms') }}">{{ _('¿Qué significa...?') }}</a></li>
+                <li><a href="{{ url('visita_guiada') }}">{{ _('Visita guiada') }}</a></li>
+                <li><a href="{{ url('ojo_con_esto') }}">{{ _('Ojo con esto') }}</a></li>
+                <li><a href="{{ url('metodologia') }}">{{ _('Metodología') }}</a></li>
+                <li><a href="{{ url('glossary') }}">{{ _('¿Qué significa...?') }}</a></li>
               </ul>
           </li>
         </ul>
