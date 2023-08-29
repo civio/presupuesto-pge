@@ -46,7 +46,7 @@
       </div>
       <div id="navbar" class="collapse navbar-collapse">
         <ul class="nav navbar-nav">
-          <li class="page-budgets {{ 'active' if active_tab == 'general'}}">
+          <li class="page-budgets {{ 'active' if active_tab == 'general' else '' }}">
             <a href="{{ url('budgets') }}" class="icon-budget">{{ _('Visión global') }}</a>
           </li>
           
@@ -60,7 +60,7 @@
             </ul>
           </li>
           {% else %}
-          <li class="page-policies {{ 'active' if active_tab == 'policies'}}">
+          <li class="page-policies {{ 'active' if active_tab == 'policies' else '' }}">
             <a href="{{ url('policies') }}" class="icon-policy">{{ _('Políticas') }}</a>
           </li>
           {% endif %}
@@ -70,18 +70,18 @@
           </li>
           
           {% if show_payments %}
-          <li class="page-payments {{ 'active' if active_tab == 'payments'}}">
+          <li class="page-payments {{ 'active' if active_tab == 'payments' else '' }}">
             <a href="{{ url('payments') }}" class="icon-payments">{{ _('Pagos e inversiones') }}</a>
           </li>
           {% endif %}
 
           {% if show_tax_receipt %}
-          <li class="page-tax-receipt {{ 'active' if active_tab == 'calculator'}}">
+          <li class="page-tax-receipt {{ 'active' if active_tab == 'calculator' else '' }}">
             <a href="{{ url('tax_receipt') }}" class="icon-aportacion">{{ _('Lo que tú aportas') }}</a>
           </li>
           {% endif %}
           
-          <li class="page-glossary {{ 'active' if active_tab == 'glossary'}}">
+          <li class="page-glossary {{ 'active' if active_tab == 'glossary' else '' }}">
             <div class="dropdown">
               <a href="{{ url('visita_guiada') }}" class="dropdown-toggle icon-glossary" id="glossary-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
                 {{ _('Te lo explicamos') }}<span class="caret"></span>
