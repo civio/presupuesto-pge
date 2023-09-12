@@ -94,7 +94,7 @@ DATA_SOURCE_POPULATION  = 'https://www.ine.es/jaxi/tabla.do?path=/t20/e245/p08/l
 DATA_SOURCE_INFLATION   = 'https://www.ine.es/jaxiT3/Tabla.htm?t=22344&L=0'
 
 # Setup Main Entity Web Url
-MAIN_ENTITY_WEB_URL     = 'http://civio.es/'
+MAIN_ENTITY_WEB_URL     = 'https://civio.es/'
 
 # Setup Main Entity Legal Url (if empty we hide the link)
 MAIN_ENTITY_LEGAL_URL   = ''
