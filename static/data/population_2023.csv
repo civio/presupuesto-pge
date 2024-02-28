@@ -1,4 +1,23 @@
 year,region_id,region_name,total
+2023,1,Andalucía,8472407
+2023,2,Aragón,1326261
+2023,3,"Asturias, Principado de",1011792
+2023,4,"Balears, Illes",1173008
+2023,5,Canarias,2172944
+2023,6,Cantabria,584507
+2023,7,Castilla y León,2383139
+2023,8,Castilla - La Mancha,2049562
+2023,9,Cataluña,7763362
+2023,10,Comunitat Valenciana,5058138
+2023,11,Extremadura,1059501
+2023,12,Galicia,2695645
+2023,13,"Madrid, Comunidad de",6751251
+2023,14,"Murcia, Región de",1518486
+2023,15,"Navarra, Comunidad Foral de",661537
+2023,16,País Vasco,2213993
+2023,17,"Rioja, La",319796
+2023,18,Ceuta,83517
+2023,19,Melilla,86261
 2022,1,Andalucía,8472407
 2022,2,Aragón,1326261
 2022,3,"Asturias, Principado de",1011792
