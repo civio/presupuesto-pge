@@ -1,0 +1,362 @@
+year,region_id,region_name,total
+2024,1,Andalucía,8584147
+2024,2,Aragón,1341289
+2024,3,"Asturias, Principado de",1006060
+2024,4,"Balears, Illes",1209906
+2024,5,Canarias,2213016
+2024,6,Cantabria,588387
+2024,7,Castilla y León,2383703
+2024,8,Castilla - La Mancha,2084086
+2024,9,Cataluña,7901963
+2024,10,Comunitat Valenciana,5216195
+2024,11,Extremadura,1054306
+2024,12,Galicia,2699424
+2024,13,"Madrid, Comunidad de",6871903
+2024,14,"Murcia, Región de",1551692
+2024,15,"Navarra, Comunidad Foral de",672155
+2024,16,País Vasco,2216302
+2024,17,"Rioja, La",322282
+2024,18,Ceuta,83052
+2024,19,Melilla,85493
+2023,1,Andalucía,8584147
+2023,2,Aragón,1341289
+2023,3,"Asturias, Principado de",1006060
+2023,4,"Balears, Illes",1209906
+2023,5,Canarias,2213016
+2023,6,Cantabria,588387
+2023,7,Castilla y León,2383703
+2023,8,Castilla - La Mancha,2084086
+2023,9,Cataluña,7901963
+2023,10,Comunitat Valenciana,5216195
+2023,11,Extremadura,1054306
+2023,12,Galicia,2699424
+2023,13,"Madrid, Comunidad de",6871903
+2023,14,"Murcia, Región de",1551692
+2023,15,"Navarra, Comunidad Foral de",672155
+2023,16,País Vasco,2216302
+2023,17,"Rioja, La",322282
+2023,18,Ceuta,83052
+2023,19,Melilla,85493
+2022,1,Andalucía,8511167
+2022,2,Aragón,1328215
+2022,3,"Asturias, Principado de",1004960
+2022,4,"Balears, Illes",1187043
+2022,5,Canarias,2185607
+2022,6,Cantabria,585450
+2022,7,Castilla y León,2375583
+2022,8,Castilla - La Mancha,2058278
+2022,9,Cataluña,7761823
+2022,10,Comunitat Valenciana,5108116
+2022,11,Extremadura,1056808
+2022,12,Galicia,2692825
+2022,13,"Madrid, Comunidad de",6743254
+2022,14,"Murcia, Región de",1529658
+2022,15,"Navarra, Comunidad Foral de",664514
+2022,16,País Vasco,2205826
+2022,17,"Rioja, La",319617
+2022,18,Ceuta,83051
+2022,19,Melilla,84932
+2021,1,Andalucía,8484804
+2021,2,Aragón,1331938
+2021,3,"Asturias, Principado de",1012117
+2021,4,"Balears, Illes",1183415
+2021,5,Canarias,2178924
+2021,6,Cantabria,584708
+2021,7,Castilla y León,2385223
+2021,8,Castilla - La Mancha,2052505
+2021,9,Cataluña,7749896
+2021,10,Comunitat Valenciana,5067911
+2021,11,Extremadura,1061636
+2021,12,Galicia,2698177
+2021,13,"Madrid, Comunidad de",6726640
+2021,14,"Murcia, Región de",1518279
+2021,15,"Navarra, Comunidad Foral de",662032
+2021,16,País Vasco,2212628
+2021,17,"Rioja, La",319444
+2021,18,Ceuta,84071
+2021,19,Melilla,8645
+2020,1,Andalucía,8461039
+2020,2,Aragón,1330592
+2020,3,"Asturias, Principado de",1018053
+2020,4,"Balears, Illes",1176816
+2020,5,Canarias,2176240
+2020,6,Cantabria,583011
+2020,7,Castilla y León,2398976
+2020,8,Castilla - La Mancha,2047969
+2020,9,Cataluña,7720323
+2020,10,Comunitat Valenciana,5046482
+2020,11,Extremadura,1064970
+2020,12,Galicia,2702605
+2020,13,"Madrid, Comunidad de",6720310
+2020,14,"Murcia, Región de",1509077
+2020,15,"Navarra, Comunidad Foral de",659907
+2020,16,País Vasco,2211917
+2020,17,"Rioja, La",318703
+2020,18,Ceuta,84502
+2020,19,Melilla,86558
+2019,1,Andalucía,8412222
+2019,2,Aragón,1320694
+2019,3,"Asturias, Principado de",1021469
+2019,4,"Balears, Illes",1157928
+2019,5,Canarias,2153316
+2019,6,Cantabria,581989
+2019,7,Castilla y León,2405568
+2019,8,Castilla - La Mancha,2036777
+2019,9,Cataluña,7624625
+2019,10,Comunitat Valenciana,4989308
+2019,11,Extremadura,1067925
+2019,12,Galicia,2700210
+2019,13,"Madrid, Comunidad de",6618078
+2019,14,"Murcia, Región de",1491312
+2019,15,"Navarra, Comunidad Foral de",652797
+2019,16,País Vasco,2197306
+2019,17,"Rioja, La",315967
+2019,18,Ceuta,85087
+2019,19,Melilla,86373
+2018,1,Andalucía,8396464
+2018,2,Aragón,1313493
+2018,3,"Asturias, Principado de",1027091
+2018,4,"Balears, Illes",1141233
+2018,5,Canarias,2131581
+2018,6,Cantabria,581533
+2018,7,Castilla y León,2417013
+2018,8,Castilla - La Mancha,2034409
+2018,9,Cataluña,7539364
+2018,10,Comunitat Valenciana,4958584
+2018,11,Extremadura,1072721
+2018,12,Galicia,2703048
+2018,13,"Madrid, Comunidad de",6529923
+2018,14,"Murcia, Región de",1478718
+2018,15,"Navarra, Comunidad Foral de",646340
+2018,16,País Vasco,2187254
+2018,17,"Rioja, La",314890
+2018,18,Ceuta,85327
+2018,19,Melilla,86084
+2017,1,Andalucía,8394017
+2017,2,Aragón,1315411
+2017,3,"Asturias, Principado de",1033550
+2017,4,"Balears, Illes",1128492
+2017,5,Canarias,2115233
+2017,6,Cantabria,581421
+2017,7,Castilla y León,2433535
+2017,8,Castilla - La Mancha,2041422
+2017,9,Cataluña,7480778
+2017,10,Comunitat Valenciana,4943821
+2017,11,Extremadura,1079108
+2017,12,Galicia,2708955
+2017,13,"Madrid, Comunidad de",6459297
+2017,14,"Murcia, Región de",1475275
+2017,15,"Navarra, Comunidad Foral de",642075
+2017,16,País Vasco,2179944
+2017,17,"Rioja, La",314136
+2017,18,Ceuta,85005
+2017,19,Melilla,85918
+2016,1,Andalucía,8392046
+2016,2,Aragón,1318042
+2016,3,"Asturias, Principado de",1040407
+2016,4,"Balears, Illes",1117353
+2016,5,Canarias,2103436
+2016,6,Cantabria,582494
+2016,7,Castilla y León,2452721
+2016,8,Castilla - La Mancha,2049336
+2016,9,Cataluña,7440692
+2016,10,Comunitat Valenciana,4939888
+2016,11,Extremadura,1086153
+2016,12,Galicia,2719095
+2016,13,"Madrid, Comunidad de",6411466
+2016,14,"Murcia, Región de",1468367
+2016,15,"Navarra, Comunidad Foral de",638922
+2016,16,País Vasco,2174426
+2016,17,"Rioja, La",314025
+2016,18,Ceuta,84558
+2016,19,Melilla,85457
+2015,1,Andalucía,8388994
+2015,2,Aragón,1325600
+2015,3,"Asturias, Principado de",1049328
+2015,4,"Balears, Illes",1111002
+2015,5,Canarias,2101319
+2015,6,Cantabria,585184
+2015,7,Castilla y León,2475697
+2015,8,Castilla - La Mancha,2062615
+2015,9,Cataluña,7420890
+2015,10,Comunitat Valenciana,4945092
+2015,11,Extremadura,1092217
+2015,12,Galicia,2732801
+2015,13,"Madrid, Comunidad de",6375737
+2015,14,"Murcia, Región de",1465195
+2015,15,"Navarra, Comunidad Foral de",637317
+2015,16,País Vasco,2172707
+2015,17,"Rioja, La",314457
+2015,18,Ceuta,84561
+2015,19,Melilla,85009
+2014,1,Andalucía,8381239
+2014,2,Aragón,1330713
+2014,3,"Asturias, Principado de",1058560
+2014,4,"Balears, Illes",1106617
+2014,5,Canarias,2098155
+2014,6,Cantabria,587491
+2014,7,Castilla y León,2493604
+2014,8,Castilla - La Mancha,2074760
+2014,9,Cataluña,7432833
+2014,10,Comunitat Valenciana,4960213
+2014,11,Extremadura,1096708
+2014,12,Galicia,2745817
+2014,13,"Madrid, Comunidad de",6372553
+2014,14,"Murcia, Región de",1462734
+2014,15,"Navarra, Comunidad Foral de",637099
+2014,16,País Vasco,2172247
+2014,17,"Rioja, La",315736
+2014,18,Ceuta,84562
+2014,19,Melilla,84103
+2013,1,Andalucía,8387986
+2013,2,Aragón,1337675
+2013,3,"Asturias, Principado de",1067425
+2013,4,"Balears, Illes",1105131
+2013,5,Canarias,2096336
+2013,6,Cantabria,589789
+2013,7,Castilla y León,2516927
+2013,8,Castilla - La Mancha,2093474
+2013,9,Cataluña,7488664
+2013,10,Comunitat Valenciana,4988365
+2013,11,Extremadura,1101024
+2013,12,Galicia,2760720
+2013,13,"Madrid, Comunidad de",6411525
+2013,14,"Murcia, Región de",1462271
+2013,15,"Navarra, Comunidad Foral de",639089
+2013,16,País Vasco,2179274
+2013,17,"Rioja, La",318819
+2013,18,Ceuta,84487
+2013,19,Melilla,83669
+2012,1,Andalucía,8377809
+2012,2,Aragón,1343790
+2012,3,"Asturias, Principado de",1074304
+2012,4,"Balears, Illes",1100715
+2012,5,Canarias,2085928
+2012,6,Cantabria,592387
+2012,7,Castilla y León,2537654
+2012,8,Castilla - La Mancha,2105936
+2012,9,Cataluña,7514992
+2012,10,Comunitat Valenciana,5009647
+2012,11,Extremadura,1104343
+2012,12,Galicia,2771916
+2012,13,"Madrid, Comunidad de",6425573
+2012,14,"Murcia, Región de",1461928
+2012,15,"Navarra, Comunidad Foral de",640023
+2012,16,País Vasco,2184696
+2012,17,"Rioja, La",320951
+2012,18,Ceuta,83837
+2012,19,Melilla,81786
+2011,1,Andalucía,8332087
+2011,2,Aragón,1344396
+2011,3,"Asturias, Principado de",1075877
+2011,4,"Balears, Illes",1091656
+2011,5,Canarias,2064876
+2011,6,Cantabria,590874
+2011,7,Castilla y León,2545286
+2011,8,Castilla - La Mancha,2099057
+2011,9,Cataluña,7493252
+2011,10,Comunitat Valenciana,4999211
+2011,11,Extremadura,1102300
+2011,12,Galicia,2773415
+2011,13,"Madrid, Comunidad de",6394239
+2011,14,"Murcia, Región de",1459076
+2011,15,"Navarra, Comunidad Foral de",637099
+2011,16,País Vasco,2183134
+2011,17,"Rioja, La",320850
+2011,18,Ceuta,81627
+2011,19,Melilla,78863
+2010,1,Andalucía,8276017
+2010,2,Aragón,1344184
+2010,3,"Asturias, Principado de",1077103
+2010,4,"Balears, Illes",1083683
+2010,5,Canarias,2045168
+2010,6,Cantabria,588518
+2010,7,Castilla y León,2547408
+2010,8,Castilla - La Mancha,2084470
+2010,9,Cataluña,7463471
+2010,10,Comunitat Valenciana,4989631
+2010,11,Extremadura,1099605
+2010,12,Galicia,2772457
+2010,13,"Madrid, Comunidad de",6373532
+2010,14,"Murcia, Región de",1453545
+2010,15,"Navarra, Comunidad Foral de",633017
+2010,16,País Vasco,2179532
+2010,17,"Rioja, La",319939
+2010,18,Ceuta,79294
+2010,19,Melilla,76047
+2009,1,Andalucía,8212986
+2009,2,Aragón,1342778
+2009,3,"Asturias, Principado de",1076280
+2009,4,"Balears, Illes",1070164
+2009,5,Canarias,2025486
+2009,6,Cantabria,584655
+2009,7,Castilla y León,2549174
+2009,8,Castilla - La Mancha,2066417
+2009,9,Cataluña,7427089
+2009,10,Comunitat Valenciana,4981276
+2009,11,Extremadura,1094691
+2009,12,Galicia,2767474
+2009,13,"Madrid, Comunidad de",6327594
+2009,14,"Murcia, Región de",1441783
+2009,15,"Navarra, Comunidad Foral de",627276
+2009,16,País Vasco,2174080
+2009,17,"Rioja, La",319786
+2009,18,Ceuta,76922
+2009,19,Melilla,73361
+2008,1,Andalucía,8118575
+2008,2,Aragón,1325426
+2008,3,"Asturias, Principado de",1071081
+2008,4,"Balears, Illes",1042855
+2008,5,Canarias,1991945
+2008,6,Cantabria,577266
+2008,7,Castilla y León,2541717
+2008,8,Castilla - La Mancha,2031828
+2008,9,Cataluña,7311146
+2008,10,Comunitat Valenciana,4928093
+2008,11,Extremadura,1089650
+2008,12,Galicia,2754768
+2008,13,"Madrid, Comunidad de",6226195
+2008,14,"Murcia, Región de",1419567
+2008,15,"Navarra, Comunidad Foral de",616711
+2008,16,País Vasco,2159427
+2008,17,"Rioja, La",316192
+2008,18,Ceuta,75252
+2008,19,Melilla,71244
+2007,1,Andalucía,7986597
+2007,2,Aragón,1294246
+2007,3,"Asturias, Principado de",1065291
+2007,4,"Balears, Illes",1005184
+2007,5,Canarias,1946071
+2007,6,Cantabria,568190
+2007,7,Castilla y León,2514202
+2007,8,Castilla - La Mancha,1971222
+2007,9,Cataluña,7151693
+2007,10,Comunitat Valenciana,4801628
+2007,11,Extremadura,1081875
+2007,12,Galicia,2741087
+2007,13,"Madrid, Comunidad de",6074984
+2007,14,"Murcia, Región de",1385715
+2007,15,"Navarra, Comunidad Foral de",602831
+2007,16,País Vasco,2142601
+2007,17,"Rioja, La",308118
+2007,18,Ceuta,74155
+2007,19,Melilla,68968
+2006,1,Andalucía,7865775
+2006,2,Aragón,1273568
+2006,3,"Asturias, Principado de",1063488
+2006,4,"Balears, Illes",970288
+2006,5,Canarias,1899609
+2006,6,Cantabria,561042
+2006,7,Castilla y León,2494676
+2006,8,Castilla - La Mancha,1917447
+2006,9,Cataluña,7010868
+2006,10,Comunitat Valenciana,4681039
+2006,11,Extremadura,1074930
+2006,12,Galicia,2730097
+2006,13,"Madrid, Comunidad de",5953604
+2006,14,"Murcia, Región de",1351109
+2006,15,"Navarra, Comunidad Foral de",592146
+2006,16,País Vasco,2127670
+2006,17,"Rioja, La",302697
+2006,18,Ceuta,72806
+2006,19,Melilla,6711

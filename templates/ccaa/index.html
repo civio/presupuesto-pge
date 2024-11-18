@@ -9,7 +9,7 @@
 
     <div class="container">
       <h2 class="page-title">{{ _('Los presupuestos de las Comunidades Autónomas') }}</h2>
-      <p class="lead">Te mostramos la distribución del presupuesto regional durante los años 2006 al 2023. Puedes observar tanto <a id="selectTotalAmountLink" class="actionableLink">el gasto presupuestado total</a>, como el <a id="selectPerPersonAmountLink" class="actionableLink">presupuesto por habitante</a>. También puedes ver las cantidades por área funcional, como por ejemplo <a id="selectHealthLink" class="actionableLink">Sanidad</a>, referidas a cada región o a todo el territorio nacional.</p>
+      <p class="lead">Te mostramos la distribución del presupuesto regional durante los años 2006 al 2024. Puedes observar tanto <a id="selectTotalAmountLink" class="actionableLink">el gasto presupuestado total</a>, como el <a id="selectPerPersonAmountLink" class="actionableLink">presupuesto por habitante</a>. También puedes ver las cantidades por área funcional, como por ejemplo <a id="selectHealthLink" class="actionableLink">Sanidad</a>, referidas a cada región o a todo el territorio nacional.</p>
       <p class="lead">Ten en cuenta que algunas comunidades autónomas tienen competencias que otras no tienen -pasa, por ejemplo, en Justicia, que en ocasiones está transferida y en otras no-, por lo que el gasto total no es comparable sin tener en cuenta esas diferencias.</p>
       <p class="lead">
         <small>Esta visualización es una adaptación de la realizada por <a href="https://visup.it/" target="_blank">VISup</a> para Italia.</small>
@@ -21,7 +21,7 @@
     <div class="container">
 
       <!-- CONTROLS -->
-      <div class="data-controllers"> 
+      <div class="data-controllers">
         <div class="quantity-selection">
           <label for="select-format" class="title">{{ _('Cantidades') }}</label>
           <select id="select-format" class="form-control">
@@ -33,7 +33,7 @@
           <p class="title">{{ _('Año') }}</p>
           <label for="year-selection">{{ _('Año') }}</label>
           <input id="year-selection" type="text" value="{{ starting_year }}" />
-        </div> 
+        </div>
       </div>
 
       <div id="vis" class="row ccaa-map">
@@ -45,7 +45,7 @@
             <span class="pull-left">min</span>
             <span class="pull-right">max</span>
           </div>
-        </div> 
+        </div>
 
         <div class="col-sm-6">
           <div id="infobox">
@@ -60,7 +60,7 @@
             </div>
           </div>
           <div id="functionsKey"></div>
-        </div> 
+        </div>
       </div>
 
       {% include 'shared/social_sharing.html' %}
@@ -78,8 +78,8 @@
 <script src="{{ static('javascripts/ccaa.js') }}"></script>
 <script>
   $(function() {
-    var map = new RegionComparisonMap("{{ static('data/budget_data_2023.csv') }}",
-                                      "{{ static('data/population_2023.csv') }}",
+    var map = new RegionComparisonMap("{{ static('data/budget_data_2024.csv') }}",
+                                      "{{ static('data/population_2024.csv') }}",
                                       "{{ static('data/map/ccaa_5km.json') }}");
 
     /** INTRO TEXT CONTROLS **/
@@ -102,13 +102,13 @@
       map.changeCurrentMode(getUIState().format);
     };
 
-    initSlider('#year-selection', [2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023], 2023);
-    
+    initSlider('#year-selection', [2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024], 2024);
+
     $('#select-format').change(onModeChange);
 
     map.start(getUIState());
 
-    setRedrawOnSliderChange('#year-selection', 2023, onYearChange);
+    setRedrawOnSliderChange('#year-selection', 2024, onYearChange);
   });
 </script>
 {% endblock %}

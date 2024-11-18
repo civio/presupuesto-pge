@@ -5,8 +5,8 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
   var ccaaLabels = ["Todas","Andalucía", "Aragón", "Asturias", "Illes Balears",
         "Canarias","Cantabria","Castilla y León","Castilla La Mancha","Cataluña","Comunitat Valenciana",
         "Extremadura","Galicia","Madrid","Murcia","Navarra","País Vasco","La Rioja","Ceuta","Melilla"];
-        
-  var availableYears = [2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+
+  var availableYears = [2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024],
       balanceByYearAndByRegion,
       balanceByYearByType,
       balanceByYearByRegionByType,
@@ -82,7 +82,7 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
                                       .key(function(d) { return d.region_id; })
                                       .key(function(d) { return d.policy_id; })
                                       .rollup(function(d) { return formatBudgetData(d); })
-                                      .object(csv); 
+                                      .object(csv);
       calculateDataPerPerson();
 
       self.loadMap();
@@ -120,10 +120,10 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
       .append("svg:svg")
       .attr("id", "svg")
       .style('overflow', 'visible')
-      
+
     self.svg.append("svg:g")
       .attr("id", "states");
-            
+
     d3.json(geo_data_URL, function(_geoData) {
 
       d3.select("#states")
@@ -184,10 +184,10 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
         c = d3.select("#yearnavbar");
     var self = this;
     d = 0;
-      
+
     c.text("");
     b.forEach(function(b) {
-      if (currentYear == b.value) 
+      if (currentYear == b.value)
         c.append("span")
          .attr("class", "yearselect")
          .style("float", "left")
@@ -227,7 +227,7 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
         .style('stroke-width', '1.5px')
         .style('stroke', '#111');
       // move over region on top
-      this.svg.selectAll("path").sort(function (a, b){ return (a.properties.ID != regSelected) ? -1 : 1; }) 
+      this.svg.selectAll("path").sort(function (a, b){ return (a.properties.ID != regSelected) ? -1 : 1; })
       this.update();
     }
   };
@@ -250,14 +250,14 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
       this.mouseOutMap();
     } else {
       _selectedRegion = null;
-      this.mouseOutMap();  
+      this.mouseOutMap();
       _selectedRegion = region;
       regSelected = _selectedRegion.properties.ID;
       d3.select('.region_'+regSelected)
         .style('stroke-width', '1.5px')
         .style('stroke', '#111');
       // move over region on top
-      this.svg.selectAll("path").sort(function (a, b){ return (a.properties.ID != regSelected) ? -1 : 1; }) 
+      this.svg.selectAll("path").sort(function (a, b){ return (a.properties.ID != regSelected) ? -1 : 1; })
       this.update();
     }
   };
@@ -275,7 +275,7 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
       var interp = d3.interpolateRgb(d3.rgb(254, 217, 118), d3.rgb(227, 26, 28));
       return interp((k - min) / (max - min));
     };
-      
+
     var states = d3.selectAll("#states path");
     if (_overRegion != null || prevItemRegion || _selectedRegion) {
         var region_id = _selectedRegion == null ?
@@ -285,7 +285,7 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
     }
     _overRegion != null && _selectedRegion == null && (regOverColor = getRegionColor(_overRegion, maxmin.curMin, maxmin.curMax));
     _selectedRegion != null && (regOverColor = getRegionColor(_selectedRegion, maxmin.curMin, maxmin.curMax));
-    
+
     states.transition(300).style("fill", function(region, d) {
       return getRegionColor(region, maxmin.curMin, maxmin.curMax)
     });
@@ -315,7 +315,7 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
         g.byYear[b.key] = g.data.length - 1
       }
     });
-      
+
     var i = d3.max(f.data, function(a) {return a});
     j = d3.min(g.data, function(a) {return a});
     m = c.sort(function(a, b) {
@@ -326,11 +326,11 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
       if (c > d) return 1;
       return 0
     });
-          
+
     var n = d3.selectAll("#functionsKey")
               .selectAll("div.functionalArea")
               .data(m);
-          
+
     var o = n.enter().append("div");
     var self = this;
     o.attr("id", function(a, b) {return "barchart_" + a.value.policy_id + "_text"})
@@ -343,13 +343,13 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
       .attr("class", "bar");
     o.append("div")
       .attr("class", "functional_label");
-      
+
     d3.selectAll("#functionsKey div.functional_label")
       .data(m)
       .style("font-weight", function(a) {return a.value.policy_id == _selectedPolicyID ? "600" : "400"})
       .style("color", function(a) {return a.value.policy_id == _selectedPolicyID ? "#111" : "#666"})
       .text(function(a) {return a.value.policy_label != null ? a.value.policy_label : ""});
-    
+
     d3.selectAll("#functionsKey div.bar")
       .data(m)
       .style("background-color", function(a) {return a.value.policy_id == _selectedPolicyID ? "#111" : "#cccccc"})
@@ -359,7 +359,7 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
         a.style("width", function(a) {return b(a) + "px"});
         a.style("left", function(a) {return -5 - b(a) + "px"})
       });
-      
+
     n.exit().remove();
   };
 
@@ -376,7 +376,7 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
   };
 
   this.selectPolicy = function(a) {
-    _selectedPolicyID = a; 
+    _selectedPolicyID = a;
     this.update();
   };
 
@@ -391,7 +391,7 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
         .html(value);
 
       d3.select("#infoAvgBox")
-        .style("display", "none"); 
+        .style("display", "none");
 
       d3.select("#infoBar")
         .style("background-color", "");
@@ -415,7 +415,7 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
 
       d3.select("#infoAvgBox")
         .style("display", currentMode == MODE_PER_PERSON ? "block" : "none");
-      
+
       if ( currentMode == MODE_PER_PERSON ) {
         var nationalAverageScale = d3.scaleLinear()
                                     .domain([0, calculateAverage()])
@@ -429,7 +429,7 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
       } else {
         d3.select("#infoAvgText").text("");
       }
-      
+
       updateInfoDesc();
     }
 
@@ -455,7 +455,7 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
   function getTotalAmount(items) {
     var total = 0.0;
     items.forEach(function(item) {
-      total += parseFloat(item.total); 
+      total += parseFloat(item.total);
     });
     return total;
   }
@@ -483,8 +483,8 @@ function RegionComparisonMap(budget_data_URL, population_data_URL, geo_data_URL)
   function getTotalCountryAmount() {
     var total = 0;
     d3.entries(currentYearData).forEach(function(region_id) {
-      total += _selectedPolicyID ? 
-                  region_id.value[_selectedPolicyID].amount || 0 : 
+      total += _selectedPolicyID ?
+                  region_id.value[_selectedPolicyID].amount || 0 :
                   region_id.value.amount || 0
     });
     return total;
