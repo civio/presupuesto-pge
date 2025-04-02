@@ -7,15 +7,14 @@
     "url": "https://github.com/civio/presupuesto-pge"
   },
   "scripts": {
-    "css-build": "node-sass --output-style compressed --source-map true static/stylesheets/scss/main.scss static/stylesheets/main.css",
-    "css-watch": "nodemon --watch static/stylesheets/scss --ext scss -x \"npm run css-build\"",
+    "css-build": "sass --style=compressed --source-map static/stylesheets/scss/main.scss:static/stylesheets/main.css",
+    "css-watch": "sass --style=compressed --source-map static/stylesheets/scss/main.scss:static/stylesheets/main.css --watch",
     "browser-sync": "browser-sync start --files \"static/stylesheets/scss/*.scss, static/stylesheets/scss/*.js\" --proxy 127.0.0.1:8000 --reload-delay=500 --reload-debounce=500",
     "start": "concurrently --kill-others \"npm run css-watch\" \"npm run browser-sync\""
   },
   "devDependencies": {
-    "browser-sync": "^2.27.9",
-    "concurrently": "^5.3.0",
-    "node-sass": "^7.0.1",
-    "nodemon": "^2.0.15"
+    "browser-sync": "^3.0.3",
+    "concurrently": "^8.2.2",
+    "sass": "^1.86.1"
   }
 }
