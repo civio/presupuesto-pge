@@ -2,7 +2,7 @@ from django.conf.urls import url
 
 # We can't import the theme module directly because it has a hyphen in its name. This works well.
 import importlib
-theme_views = importlib.import_module('presupuesto-pge.views')
+theme_views = importlib.import_module('presupuesto_pge.views')
 
 # We can define additional URLs applicable only to the theme. These will get added
 # to the project URL patterns list.
