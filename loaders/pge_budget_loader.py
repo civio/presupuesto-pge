@@ -6,7 +6,8 @@ from collections import namedtuple
 
 
 class PGEBudgetLoader(SimpleBudgetLoader):
-    ItemId = namedtuple('ItemId', 'ec_code fc_code ic_code item_number')
+    # Identifies a line, or the subtotal it belongs to, within the data files
+    ItemId = namedtuple('ItemId', 'is_expense is_actual ec_code fc_code ic_code item_number')
 
     # The 2023 budget renamed some programmes, God knows why. We keep their old codes,
     # both in the data and in the classification, so the time series stays intact.
@@ -29,47 +30,33 @@ class PGEBudgetLoader(SimpleBudgetLoader):
     # The classifications change every year, so there's one in each year's folder, in the
     # format scraper-pge writes, with a header and the year in the first column
     def parse_institutional_category(self, line):
-        if line[0] == 'EJERCICIO':
-            return None
-
-        # Prefer the long description if it exists, otherwise the short one
+        _, code, short_description, long_description = line
         return {
-            'institution': line[1][0:2],
-            'section': (line[1][0:4] if len(line[1]) > 2 else None),
-            'department': (line[1] if len(line[1]) > 4 else None),
-            'description': line[2] if len(line)<=3 or line[3] == "" else line[3]
+            'institution': code[0:2],
+            'section': code[0:4] if len(code) > 2 else None,
+            'department': code if len(code) > 4 else None,
+            'description': long_description or short_description
         }
 
     # Unlike in other sites, each column has the whole code, not just its last digits
     def parse_economic_category(self, line):
-        if line[0] == 'EJERCICIO':
-            return None
-
+        _, income_or_expense, chapter, article, heading, subheading, _, description = line
         return {
-            'expense': (line[1].upper() == 'G'),
-            'chapter': (line[2] if line[2] != "" else None),
-            'article': (line[3] if line[3] != "" else None),
-            'heading': (line[4] if line[4] != "" else None),
-            'subheading': (line[5] if line[5] != "" else None),
-            'description': line[7]
+            'expense': income_or_expense.upper() == 'G',
+            'chapter': chapter or None,
+            'article': article or None,
+            'heading': heading or None,
+            'subheading': subheading or None,
+            'description': description
         }
 
     def parse_functional_category(self, line):
-        if line[0] == 'EJERCICIO':
-            return None
-
-        description = line[6]
-
-        # If we're not using subprogrammes, insert an empty column where they would go.
-        if not self._use_subprogrammes():
-            line.insert(5, "")
-
+        year, area, policy, function, programme, _, description = line
         return {
-            'area': line[1],
-            'policy': (line[2] if line[2] != "" else None),
-            'function': (line[3] if line[3] != "" else None),
-            'programme': (self._map_programme(line[0], line[4]) if line[4] != "" else None),
-            'subprogramme': (line[5] if line[5] != "" else None),
+            'area': area,
+            'policy': policy or None,
+            'function': function or None,
+            'programme': self._map_programme(year, programme) if programme else None,
             'description': description
         }
 
@@ -92,9 +79,6 @@ class PGEBudgetLoader(SimpleBudgetLoader):
         return chapter, article, (ec_code if len(ec_code) >= 3 else None), None
 
     def parse_item(self, filename, line):
-        if line[0] == 'EJERCICIO':
-            return None
-
         is_expense = (filename.find('gastos.csv') != -1)
         is_actual = (filename.find('/ejecucion_') != -1)
 
@@ -136,26 +120,22 @@ class PGEBudgetLoader(SimpleBudgetLoader):
         }
 
     # The data files include subtotals for each level of the economic classification, so we
-    # need to do a couple of hacks before the lines are saved, one file at a time
+    # need to do a couple of hacks before the lines are saved
     def load_budget_items(self, budget, budget_items):
-        items = [item for item in budget_items if item]
-        processed_items = []
-        for is_expense in [True, False]:
-            for is_actual in [False, True]:
-                processed_items.extend(self._remove_subtotals(
-                    [item for item in items if item['is_expense'] == is_expense and item['is_actual'] == is_actual],
-                    is_expense))
-        super().load_budget_items(budget, processed_items)
+        super().load_budget_items(budget, self._remove_subtotals([item for item in budget_items if item]))
 
-    def _remove_subtotals(self, items, is_expense):
+    def _remove_subtotals(self, items):
         def _substract_from_parent(items_dictionary, parent_id, amount):
             parent_amount = items_dictionary[parent_id]['amount']
             items_dictionary[parent_id]['amount'] = parent_amount - amount
 
-        # First, convert the incoming list into a dictionary
+        # First, convert the incoming list into a dictionary. The keys include whether each line
+        # is income or expense, budget or execution, so a line only finds its parent in its own file.
         items_dictionary = {}
         for item in items:
-            uid = PGEBudgetLoader.ItemId(item['ec_code'],
+            uid = PGEBudgetLoader.ItemId(item['is_expense'],
+                                         item['is_actual'],
+                                         item['ec_code'],
                                          item['fc_code'],
                                          item['ic_code'],
                                          item['item_number'])
@@ -167,20 +147,14 @@ class PGEBudgetLoader(SimpleBudgetLoader):
         for uid in sorted(items_dictionary.keys(), key=lambda x: [x.ec_code, x.item_number]):
             item = items_dictionary[uid]
             if item['item_number']:     # We have an item, substract from its category
-                parent_id = PGEBudgetLoader.ItemId(item['ec_code'],
-                                                   item['fc_code'],
-                                                   item['ic_code'],
-                                                   '')
+                parent_id = uid._replace(item_number='')
                 _substract_from_parent(items_dictionary, parent_id, item['amount'])
 
             else:                       # We have a category, substract from its parent
                 code_length = len(item['ec_code'])
                 if code_length > 1:
                     parent_code_length = min(2, code_length-1)
-                    parent_id = PGEBudgetLoader.ItemId(item['ec_code'][0:parent_code_length],
-                                                       item['fc_code'],
-                                                       item['ic_code'],
-                                                       '')
+                    parent_id = uid._replace(ec_code=item['ec_code'][0:parent_code_length], item_number='')
                     _substract_from_parent(items_dictionary, parent_id, item['amount'])
 
         # Remove items with zero amount, i.e. subtotals, they have no use
@@ -196,14 +170,14 @@ class PGEBudgetLoader(SimpleBudgetLoader):
             # to work around that, i.e. making sure all expense is broken down at least to
             # the article level, for consistency and to make my life easier. (I don't want
             # to be forced to break the budget starting at chapter level just because of this.)
-            if is_expense and item['ec_code'] == '6':
+            if item['is_expense'] and item['ec_code'] == '6':
                 item['ec_code'] = '69'
 
             # We want to get rid of internal transfers. We did the expense side above,
             # in parse_item, but we couldn't remove the income side there, because we
             # would then have an invalid subtotal at the chapter level, and the final sum
             # would still include the internal transfers. So we remove them here. :/
-            if not is_expense:
+            if not item['is_expense']:
                 if len(item['ec_code']) >= 2 and item['ec_code'][0:2] in ['40', '41', '42', '43', '70', '71', '72', '73']:
                     items_dictionary.pop(uid)
 
