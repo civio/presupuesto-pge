@@ -85,19 +85,11 @@ class PGEBudgetLoader(SimpleBudgetLoader):
         super().load_economic_classification(path, budget)
 
     # Because of the way headings work in the PGE (their descriptions are not consistent),
-    # some are tagged with the managing centre, like '420/07001'. So we match the whole code
-    # as the heading, instead of its first three digits.
-    def fetch_economic_category(self, budget, is_expense, ec_code):
-        key = (budget, is_expense, ec_code)
-        if key not in self.economic_category_cache:
-            ec = EconomicCategory.objects.filter(expense=is_expense,
-                                                chapter=ec_code[0],
-                                                article=ec_code[0:2] if len(ec_code) >= 2 else None,
-                                                heading=ec_code if len(ec_code) >= 3 else None,
-                                                subheading=None,
-                                                budget=budget)
-            self.economic_category_cache[key] = ec.first() if ec else None
-        return self.economic_category_cache[key]
+    # some are tagged with the managing centre, like '420/07001'. So the heading is the
+    # whole code, not its first three digits.
+    def _split_economic_code(self, ec_code):
+        chapter, article, _, _ = super()._split_economic_code(ec_code)
+        return chapter, article, (ec_code if len(ec_code) >= 3 else None), None
 
     def parse_item(self, filename, line):
         if line[0] == 'EJERCICIO':
