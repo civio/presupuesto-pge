@@ -8,26 +8,7 @@ import os.path
 
 
 class PGEBudgetLoader(BudgetLoader):
-    ItemId = namedtuple('ItemId', 'ec_code fc_code ic_code fdc_code item_number')
-
-    # We don't have funding categories, so create a dummy one and assign everything to it
-    def get_default_funding_categories(self):
-        categories = BudgetLoader.get_default_funding_categories(self)
-        categories.append({ 
-                        'expense': True, 
-                        'source': 'X',
-                        'fund_class': 'XX',
-                        'fund': 'XXX',
-                        'description': 'Gastos'
-                    })
-        categories.append({ 
-                        'expense': False, 
-                        'source': 'X',
-                        'fund_class': 'XX',
-                        'fund': 'XXX',
-                        'description': 'Ingresos'
-                    })
-        return categories
+    ItemId = namedtuple('ItemId', 'ec_code fc_code ic_code item_number')
 
     # Add a dummy chapter 6 article for some odd Social Security expenses (see note below)
     def get_default_economic_categories(self):
@@ -117,7 +98,6 @@ class PGEBudgetLoader(BudgetLoader):
                 'ec_heading': ec_heading,
                 'ec_subheading': ec_subheading,
                 'ec_code': line[3], # Redundant, but convenient
-                'fdc_code': 'XXX',  # Not used for these budgets
                 'item_number': line[5],
                 'description': self._escape_unicode(line[6]),
                 'amount': self._read_spanish_number(amount)
@@ -136,20 +116,18 @@ class PGEBudgetLoader(BudgetLoader):
             uid = PGEBudgetLoader.ItemId( item['ec_code'], 
                                         item['fc_programme'], 
                                         item['ic_code'], 
-                                        item['fdc_code'],
                                         item['item_number'])
             items_dictionary[uid] = item
 
         # Avoid double counting the subtotals: for each item we substract its amount from
         # its parent category. Note this relies on moving through the tree downwards, hence
-        # the need to sort the list (by x[0] -the economic code- and x[4] -the item number-)
-        for uid in sorted(items_dictionary.keys(), key=lambda x: [x[0],x[4]]):
+        # the need to sort the list (by economic code and item number)
+        for uid in sorted(items_dictionary.keys(), key=lambda x: [x.ec_code, x.item_number]):
             item = items_dictionary[uid]
             if item['item_number']:     # We have an item, substract from its category
                 parent_id = PGEBudgetLoader.ItemId( item['ec_code'],
                                                     item['fc_programme'], 
                                                     item['ic_code'], 
-                                                    item['fdc_code'],
                                                     '')
                 _substract_from_parent(items_dictionary, parent_id, item['amount'])
 
@@ -160,7 +138,6 @@ class PGEBudgetLoader(BudgetLoader):
                     parent_id = PGEBudgetLoader.ItemId( item['ec_code'][0:parent_code_length],
                                                         item['fc_programme'], 
                                                         item['ic_code'], 
-                                                        item['fdc_code'],
                                                         '')
                     _substract_from_parent(items_dictionary, parent_id, item['amount'])
 
