@@ -142,7 +142,7 @@ class PGEBudgetLoader(BudgetLoader):
                     _substract_from_parent(items_dictionary, parent_id, item['amount'])
 
         # Remove items with zero amount, i.e. subtotals, they have no use
-        for uid in items_dictionary.keys():
+        for uid in list(items_dictionary.keys()):
             item = items_dictionary[uid]
             if item['amount'] == 0:
                 items_dictionary.pop(uid)
@@ -170,7 +170,7 @@ class PGEBudgetLoader(BudgetLoader):
         BudgetLoader.process_data_items(self, budget, items_dictionary.values(), is_expense, is_actual)
 
     def _escape_unicode(self, s):
-        return s.decode('utf-8')
+        return s
 
     def _get_delimiter(self):
         return ';'
